@@ -1,0 +1,602 @@
+[
+  {
+    "id": "Q0001",
+    "question": "Which approach best de-escalates aggressive behaviour during a conflict?",
+    "options": {
+      "A": "Use direct commands and raise your voice",
+      "B": "Maintain calm tone, active listening, personal space",
+      "C": "Immediately call for backup and restrain the individual",
+      "D": "Ignore the behaviour and wait for it to subside"
+    },
+    "correct_answer": "B",
+    "explanation": "De-escalation uses calm voice, listening, and respecting boundaries."
+  },
+  {
+    "id": "Q0002",
+    "question": "Why is accurate incident documentation essential after a conflict event?",
+    "options": {
+      "A": "It prevents any future conflicts from occurring",
+      "B": "It satisfies insurance requirements only",
+      "C": "It provides legal protection and supports investigation",
+      "D": "It increases supervisor bonuses"
+    },
+    "correct_answer": "C",
+    "explanation": "Records support legal defence and ensure clarity during investigations."
+  },
+  {
+    "id": "Q0003",
+    "question": "Which non-verbal behaviour best supports peaceful conflict resolution?",
+    "options": {
+      "A": "Invading personal space",
+      "B": "Maintaining open posture and steady eye contact",
+      "C": "Folding arms and looking away",
+      "D": "Standing over the individual"
+    },
+    "correct_answer": "B",
+    "explanation": "Open posture and eye contact encourage trust and reduce tension."
+  },
+  {
+    "id": "Q0004",
+    "question": "When might physical intervention be legally justified by private security?",
+    "options": {
+      "A": "To protect property only",
+      "B": "When all verbal options have failed and risk persists",
+      "C": "Whenever the supervisor is disrespected",
+      "D": "To enforce venue policy at all costs"
+    },
+    "correct_answer": "B",
+    "explanation": "Physical force is last resort, only when threat remains after de-escalation."
+  },
+  {
+    "id": "Q0005",
+    "question": "What is the primary aim of conflict management in private security?",
+    "options": {
+      "A": "To assert authority over clients",
+      "B": "To ensure safety and minimise harm to all parties",
+      "C": "To demonstrate security's power",
+      "D": "To quickly end incidents by any means"
+    },
+    "correct_answer": "B",
+    "explanation": "Conflict management focuses on safety, prevention, and reducing escalation."
+  },
+  {
+    "id": "Q0006",
+    "question": "What is a key sign of rising aggression in a client?",
+    "options": {
+      "A": "Soft speech and relaxed body language",
+      "B": "Clenched fists and raised voice",
+      "C": "Smiling and nodding",
+      "D": "Standing at a distance"
+    },
+    "correct_answer": "B",
+    "explanation": "Clenched fists and raised voice are indicators of escalating aggression."
+  },
+  {
+    "id": "Q0007",
+    "question": "Why should security staff avoid using jargon when communicating in conflict?",
+    "options": {
+      "A": "It makes them seem more authoritative",
+      "B": "It ensures clarity and avoids misunderstandings",
+      "C": "It impresses the public",
+      "D": "It speeds up the conversation"
+    },
+    "correct_answer": "B",
+    "explanation": "Clear language prevents misunderstandings during tense interactions."
+  },
+  {
+    "id": "Q0008",
+    "question": "Which option best describes a proactive conflict management strategy?",
+    "options": {
+      "A": "Waiting for incidents before acting",
+      "B": "Monitoring crowd behaviour and intervening early",
+      "C": "Reacting only after escalation",
+      "D": "Ignoring minor disputes"
+    },
+    "correct_answer": "B",
+    "explanation": "Proactive monitoring and early intervention prevent escalation."
+  },
+  {
+    "id": "Q0009",
+    "question": "What is the recommended response to racial abuse witnessed by security staff?",
+    "options": {
+      "A": "Ignore and walk away",
+      "B": "Challenge the behaviour and support the victim",
+      "C": "Laugh along to blend in",
+      "D": "Only act if someone complains"
+    },
+    "correct_answer": "B",
+    "explanation": "Challenging abuse and supporting victims uphold venue policy and law."
+  },
+  {
+    "id": "Q0010",
+    "question": "What is the role of body language in defusing tense situations?",
+    "options": {
+      "A": "It usually increases aggression",
+      "B": "Positive body language calms and reassures",
+      "C": "It is irrelevant in conflict",
+      "D": "Aggressive posture works best"
+    },
+    "correct_answer": "B",
+    "explanation": "Positive body language supports calm and trust in conflicts."
+  },
+  {
+    "id": "Q0011",
+    "question": "How should security respond to a client refusing to leave when asked?",
+    "options": {
+      "A": "Immediately use physical force",
+      "B": "Persist calmly, explain consequences, seek support if needed",
+      "C": "Threaten loudly in public",
+      "D": "Ignore and hope they leave"
+    },
+    "correct_answer": "B",
+    "explanation": "Calm persistence and clear explanation may resolve refusals peacefully."
+  },
+  {
+    "id": "Q0012",
+    "question": "Why is empathy important in handling customer complaints?",
+    "options": {
+      "A": "It encourages open violence",
+      "B": "It diffuses tension and builds rapport",
+      "C": "It wastes time in a busy venue",
+      "D": "It shows weakness"
+    },
+    "correct_answer": "B",
+    "explanation": "Empathy builds rapport and reduces anger during complaints."
+  },
+  {
+    "id": "Q0013",
+    "question": "What is the main legal risk of excessive force by security personnel?",
+    "options": {
+      "A": "Reduced tip earnings",
+      "B": "Potential criminal or civil liability",
+      "C": "Promotion delays",
+      "D": "Shorter working hours"
+    },
+    "correct_answer": "B",
+    "explanation": "Excessive force can result in criminal charges or lawsuits."
+  },
+  {
+    "id": "Q0014",
+    "question": "Which of the following is a key principle of effective negotiation?",
+    "options": {
+      "A": "Always demand compliance",
+      "B": "Seek mutual agreement where possible",
+      "C": "Show no flexibility",
+      "D": "Focus on winning only"
+    },
+    "correct_answer": "B",
+    "explanation": "Negotiation aims for outcomes acceptable to all parties."
+  },
+  {
+    "id": "Q0015",
+    "question": "What is the best way to record a conflict incident?",
+    "options": {
+      "A": "Write only personal opinions",
+      "B": "State facts, time, actions, and outcomes clearly",
+      "C": "Leave out key details",
+      "D": "Record after several days"
+    },
+    "correct_answer": "B",
+    "explanation": "Factual, timely records support investigations and protect staff."
+  },
+  {
+    "id": "Q0016",
+    "question": "Why should private security be aware of cultural differences?",
+    "options": {
+      "A": "To ensure communication is respectful and effective",
+      "B": "To ignore them in conflict",
+      "C": "To enforce only one cultural norm",
+      "D": "To avoid all cultural interactions"
+    },
+    "correct_answer": "A",
+    "explanation": "Awareness prevents misunderstandings and respects diverse backgrounds."
+  },
+  {
+    "id": "Q0017",
+    "question": "Which communication technique is most likely to calm an angry person?",
+    "options": {
+      "A": "Interrupt and talk over them",
+      "B": "Active listening and calm reassurance",
+      "C": "Shout to show authority",
+      "D": "Avoid all eye contact"
+    },
+    "correct_answer": "B",
+    "explanation": "Active listening helps the person feel heard and reduces anger."
+  },
+  {
+    "id": "Q0018",
+    "question": "What should security staff do if they feel threatened?",
+    "options": {
+      "A": "Retaliate immediately",
+      "B": "Withdraw, seek support, and follow procedure",
+      "C": "Ignore the threat",
+      "D": "Raise their voice"
+    },
+    "correct_answer": "B",
+    "explanation": "Withdrawing and seeking support reduces risk and follows best practice."
+  },
+  {
+    "id": "Q0019",
+    "question": "What action should be taken if an intoxicated person becomes abusive?",
+    "options": {
+      "A": "Escalate quickly to force",
+      "B": "Calmly request cooperation and monitor closely",
+      "C": "Join in the abuse",
+      "D": "Leave them unattended"
+    },
+    "correct_answer": "B",
+    "explanation": "Calm, watchful approach often prevents escalation with intoxicated persons."
+  },
+  {
+    "id": "Q0020",
+    "question": "What is the purpose of risk assessment in conflict management?",
+    "options": {
+      "A": "To identify hazards and prepare appropriate responses",
+      "B": "To impress management",
+      "C": "To reduce paperwork",
+      "D": "To avoid responsibility"
+    },
+    "correct_answer": "A",
+    "explanation": "Risk assessment identifies dangers and guides preventive action."
+  },
+  {
+    "id": "Q0021",
+    "question": "Which statement best defines proportionality in use of force?",
+    "options": {
+      "A": "Using whatever force necessary to win",
+      "B": "Matching response to level of threat faced",
+      "C": "Force should be maximum always",
+      "D": "No force under any circumstances"
+    },
+    "correct_answer": "B",
+    "explanation": "Proportionality ensures force matches the threat, not exceeding necessity."
+  },
+  {
+    "id": "Q0022",
+    "question": "How can security staff demonstrate impartiality in conflict?",
+    "options": {
+      "A": "Take sides openly",
+      "B": "Treat all parties fairly and avoid bias",
+      "C": "Listen only to regular customers",
+      "D": "Ignore all complaints"
+    },
+    "correct_answer": "B",
+    "explanation": "Impartial conduct earns trust and ensures fairness in conflicts."
+  },
+  {
+    "id": "Q0023",
+    "question": "What is a typical trigger for conflict in crowded venues?",
+    "options": {
+      "A": "Clear exits and low noise",
+      "B": "Overcrowding and long waits",
+      "C": "Polite service",
+      "D": "Efficient organisation"
+    },
+    "correct_answer": "B",
+    "explanation": "Crowding and delays increase frustration and risk of disputes."
+  },
+  {
+    "id": "Q0024",
+    "question": "Which factor contributes most to successful team conflict resolution?",
+    "options": {
+      "A": "Competition among staff",
+      "B": "Clear communication and cooperation",
+      "C": "Isolation of team members",
+      "D": "Ignoring each other's advice"
+    },
+    "correct_answer": "B",
+    "explanation": "Communication and teamwork are crucial for resolving incidents."
+  },
+  {
+    "id": "Q0025",
+    "question": "Why is aftercare important following a conflict?",
+    "options": {
+      "A": "It increases conflict",
+      "B": "It supports recovery and reduces long-term impact",
+      "C": "It delays normal operations",
+      "D": "It makes little difference"
+    },
+    "correct_answer": "B",
+    "explanation": "Aftercare aids recovery for all involved, lessening negative effects."
+  },
+  {
+    "id": "Q0026",
+    "question": "What should be avoided when giving evidence after an incident?",
+    "options": {
+      "A": "Sticking to the facts",
+      "B": "Speculation or personal opinions",
+      "C": "Clear statements",
+      "D": "Describing what was observed"
+    },
+    "correct_answer": "B",
+    "explanation": "Speculation undermines reliability; evidence must be factual."
+  },
+  {
+    "id": "Q0027",
+    "question": "What is the effect of positive reinforcement in conflict management?",
+    "options": {
+      "A": "It encourages good behaviour",
+      "B": "It increases defiance",
+      "C": "It leads to confusion",
+      "D": "It is not effective"
+    },
+    "correct_answer": "A",
+    "explanation": "Positive reinforcement rewards compliance and reduces further conflict."
+  },
+  {
+    "id": "Q0028",
+    "question": "What is the significance of personal safety in conflict response?",
+    "options": {
+      "A": "It is less important than detaining suspects",
+      "B": "It is a primary concern in every situation",
+      "C": "It can be ignored if conflict is brief",
+      "D": "It is only relevant outdoors"
+    },
+    "correct_answer": "B",
+    "explanation": "Safety of all, including staff, takes priority over detentions."
+  },
+  {
+    "id": "Q0029",
+    "question": "Which action can reduce misunderstandings in stressful encounters?",
+    "options": {
+      "A": "Using ambiguous language",
+      "B": "Clarifying intentions and confirming understanding",
+      "C": "Talking rapidly",
+      "D": "Ignoring questions"
+    },
+    "correct_answer": "B",
+    "explanation": "Clarifying intentions prevents confusion and reduces escalation."
+  },
+  {
+    "id": "Q0030",
+    "question": "Why is it important to monitor own emotions in conflict?",
+    "options": {
+      "A": "Emotional control helps maintain professionalism and calm",
+      "B": "Anger is useful for authority",
+      "C": "Emotion has no effect",
+      "D": "Emotional outbursts show strength"
+    },
+    "correct_answer": "A",
+    "explanation": "Emotional control supports calm, measured responses in conflict."
+  },
+  {
+    "id": "Q0031",
+    "question": "What should you do if a colleague escalates a situation?",
+    "options": {
+      "A": "Support escalation without question",
+      "B": "Intervene diplomatically to calm things down",
+      "C": "Ignore and leave",
+      "D": "Report immediately only"
+    },
+    "correct_answer": "B",
+    "explanation": "Diplomatic intervention helps de-escalate and support colleagues."
+  },
+  {
+    "id": "Q0032",
+    "question": "Which of these is most likely to aggravate a conflict?",
+    "options": {
+      "A": "Shouting or insulting the other party",
+      "B": "Listening and using calm words",
+      "C": "Smiling and staying relaxed",
+      "D": "Giving clear explanations"
+    },
+    "correct_answer": "A",
+    "explanation": "Aggressive language increases hostility and worsens the situation."
+  },
+  {
+    "id": "Q0033",
+    "question": "How can security show respect while enforcing rules?",
+    "options": {
+      "A": "Polite, firm communication and explanation of reasons",
+      "B": "Ignore all questions",
+      "C": "Demand instant obedience",
+      "D": "Make fun of customers"
+    },
+    "correct_answer": "A",
+    "explanation": "Respectful explanation encourages compliance and reduces resentment."
+  },
+  {
+    "id": "Q0034",
+    "question": "Why must security log all interventions, even minor ones?",
+    "options": {
+      "A": "To justify all actions if later questioned",
+      "B": "For entertainment",
+      "C": "To fill time",
+      "D": "It is optional"
+    },
+    "correct_answer": "A",
+    "explanation": "Accurate records justify actions and protect against complaints."
+  },
+  {
+    "id": "Q0035",
+    "question": "Which skill is crucial for handling customer complaints effectively?",
+    "options": {
+      "A": "Active listening",
+      "B": "Interrupting often",
+      "C": "Ignoring emotions",
+      "D": "Using technical language"
+    },
+    "correct_answer": "A",
+    "explanation": "Active listening ensures complaints are properly understood."
+  },
+  {
+    "id": "Q0036",
+    "question": "What is a key objective when separating parties in a dispute?",
+    "options": {
+      "A": "To increase tension",
+      "B": "To prevent further escalation and ensure safety",
+      "C": "To assign blame",
+      "D": "To speed up ejection"
+    },
+    "correct_answer": "B",
+    "explanation": "Separation limits escalation and protects everyone involved."
+  },
+  {
+    "id": "Q0037",
+    "question": "What should be considered before using restraint techniques?",
+    "options": {
+      "A": "Potential harm and legal limits",
+      "B": "Personal preference",
+      "C": "Speed only",
+      "D": "Venue popularity"
+    },
+    "correct_answer": "A",
+    "explanation": "Legal limits and risks must be weighed before physical restraint."
+  },
+  {
+    "id": "Q0038",
+    "question": "Why are post-incident reviews valuable for security teams?",
+    "options": {
+      "A": "They offer learning opportunities and improve practice",
+      "B": "They delay paperwork",
+      "C": "They punish staff",
+      "D": "They are optional extras"
+    },
+    "correct_answer": "A",
+    "explanation": "Reviews identify improvements for future conflict responses."
+  },
+  {
+    "id": "Q0039",
+    "question": "Which of the following best supports conflict prevention?",
+    "options": {
+      "A": "Ignoring early warning signs",
+      "B": "Proactive engagement and monitoring behaviour",
+      "C": "Waiting for escalation",
+      "D": "Passive observation"
+    },
+    "correct_answer": "B",
+    "explanation": "Early engagement can prevent issues from developing."
+  },
+  {
+    "id": "Q0040",
+    "question": "What is the legal duty of care during conflict situations?",
+    "options": {
+      "A": "To safeguard everyone’s welfare",
+      "B": "To act only in self-interest",
+      "C": "To ignore all bystanders",
+      "D": "To focus on paperwork"
+    },
+    "correct_answer": "A",
+    "explanation": "Duty of care requires protecting all parties during incidents."
+  },
+  {
+    "id": "Q0041",
+    "question": "How can security avoid escalation when delivering bad news?",
+    "options": {
+      "A": "Deliver news rudely",
+      "B": "Be honest, calm, and empathetic",
+      "C": "Use sarcasm",
+      "D": "Blame the recipient"
+    },
+    "correct_answer": "B",
+    "explanation": "Honest, empathetic delivery reduces negative reactions."
+  },
+  {
+    "id": "Q0042",
+    "question": "Why is ongoing training important for conflict management?",
+    "options": {
+      "A": "It keeps skills current and improves effectiveness",
+      "B": "It is just for compliance",
+      "C": "It delays promotions",
+      "D": "It is not required"
+    },
+    "correct_answer": "A",
+    "explanation": "Regular training updates skills and maintains best practice."
+  },
+  {
+    "id": "Q0043",
+    "question": "How can the risk of bias in security operations be reduced?",
+    "options": {
+      "A": "Self-reflection and adherence to policy",
+      "B": "Following personal preferences",
+      "C": "Ignoring guidelines",
+      "D": "Making assumptions"
+    },
+    "correct_answer": "A",
+    "explanation": "Self-check and policy ensure fair, unbiased actions."
+  },
+  {
+    "id": "Q0044",
+    "question": "What is a recommended first step when conflict appears likely?",
+    "options": {
+      "A": "Observe and assess before intervening",
+      "B": "Rush in immediately",
+      "C": "Call for backup only",
+      "D": "Raise your voice"
+    },
+    "correct_answer": "A",
+    "explanation": "Assessment informs safe, effective response choices."
+  },
+  {
+    "id": "Q0045",
+    "question": "Why is it important for security to work closely with venue management?",
+    "options": {
+      "A": "Ensures unified response and policy adherence",
+      "B": "Creates rivalry",
+      "C": "Increases conflict",
+      "D": "Leads to confusion"
+    },
+    "correct_answer": "A",
+    "explanation": "Coordination with management supports consistent, safe action."
+  },
+  {
+    "id": "Q0046",
+    "question": "How should complaints about staff conduct be handled?",
+    "options": {
+      "A": "Investigate impartially and follow procedures",
+      "B": "Dismiss automatically",
+      "C": "Punish without inquiry",
+      "D": "Ignore for efficiency"
+    },
+    "correct_answer": "A",
+    "explanation": "Impartial inquiry upholds fairness and legal standards."
+  },
+  {
+    "id": "Q0047",
+    "question": "What is the main reason to avoid stereotyping in conflict?",
+    "options": {
+      "A": "It risks unfair treatment and damages trust",
+      "B": "It saves time",
+      "C": "It is required by law",
+      "D": "It improves efficiency"
+    },
+    "correct_answer": "A",
+    "explanation": "Stereotyping causes bias and undermines confidence in security."
+  },
+  {
+    "id": "Q0048",
+    "question": "Why should private security review incidents involving physical intervention?",
+    "options": {
+      "A": "To ensure compliance with law and policy",
+      "B": "To increase use of force",
+      "C": "To entertain staff",
+      "D": "To skip training"
+    },
+    "correct_answer": "A",
+    "explanation": "Reviewing use of force ensures policy and legal standards are met."
+  },
+  {
+    "id": "Q0049",
+    "question": "What is the benefit of a reflective approach after handling conflict?",
+    "options": {
+      "A": "Promotes continuous learning and better outcomes",
+      "B": "Delays normal work",
+      "C": "Is unnecessary paperwork",
+      "D": "Encourages complacency"
+    },
+    "correct_answer": "A",
+    "explanation": "Reflection drives improvement and increases future effectiveness."
+  },
+  {
+    "id": "Q0050",
+    "question": "How does regular feedback improve conflict management skills?",
+    "options": {
+      "A": "Identifies strengths and development areas",
+      "B": "Reduces staff morale",
+      "C": "Leads to more conflict",
+      "D": "Has no effect"
+    },
+    "correct_answer": "A",
+    "explanation": "Feedback highlights skills to keep and areas to improve."
+  }
+]

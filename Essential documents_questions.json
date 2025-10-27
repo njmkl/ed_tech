@@ -1,0 +1,3302 @@
+[
+  {
+    "id": "VOM7BZ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن میں فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police at the roadside, you must provide it at a police station within 7 days.",
+      "ur": "اگر آپ سے پولیس نے سڑک پر بیمہ سرٹیفکیٹ طلب کیا اور آپ پیش نہ کر سکے، تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں فراہم کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "B1XOQR",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving, which of the following documents are you legally required to produce at the roadside or within 7 days if not immediately available?",
+      "ur": "اگر آپ کو گاڑی چلاتے ہوئے پولیس نے روکا، تو درج ذیل میں سے کون سے دستاویزات آپ قانونی طور پر سڑک کے کنارے فوراً یا اگر فوری دستیاب نہ ہوں تو سات دن کے اندر پیش کرنے کے پابند ہیں؟"
+    },
+    "options": {
+      "a": {
+        "en": "Valid driving licence, valid insurance certificate, and valid MOT certificate (if applicable)",
+        "ur": "درست ڈرائیونگ لائسنس، درست انشورنس سرٹیفکیٹ، اور درست MOT سرٹیفکیٹ (اگر قابل اطلاق ہو)"
+      },
+      "c": {
+        "en": "Valid insurance certificate and proof of vehicle tax payment",
+        "ur": "درست انشورنس سرٹیفیکیٹ اور گاڑی کے ٹیکس کی ادائیگی کا ثبوت"
+      },
+      "d": {
+        "en": "Valid MOT certificate and proof of SORN declaration",
+        "ur": "درست MOT سرٹیفکیٹ اور SORN اعلان کا ثبوت"
+      },
+      "b": {
+        "en": "Valid driving licence and vehicle registration certificate (V5C)",
+        "ur": "درست ڈرائیونگ لائسنس اور گاڑی کی رجسٹریشن سرٹیفکیٹ (V5C)"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must be able to produce a valid driving licence, insurance certificate, and MOT certificate (if the vehicle requires one) when requested by the police, either at the roadside or within 7 days; the V5C and proof of tax or SORN are not required to be produced on demand.",
+      "ur": "آپ کو پولیس کی درخواست پر، چاہے راستے پر ہو یا سات دن کے اندر، قابلِ قبول ڈرائیونگ لائسنس، انشورنس سرٹیفکیٹ، اور اگر گاڑی کے لیے ضروری ہو تو MOT سرٹیفکیٹ پیش کرنا ہوگا؛ V5C اور ٹیکس یا SORN کا ثبوت فوری طور پر پیش کرنا ضروری نہیں ہے۔"
+    }
+  },
+  {
+    "id": "YHCGPL",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time allowed to present it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفیکیٹ پیش نہیں کر سکتے، تو اسے پولیس اسٹیشن پر پیش کرنے کے لیے زیادہ سے زیادہ کتنی مدت دی جاتی ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must provide it at a police station within 7 days to avoid penalties.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو آپ کو جرمانے سے بچنے کے لیے اسے سات دن کے اندر پولیس اسٹیشن میں جمع کروانا ہوگا۔"
+    }
+  },
+  {
+    "id": "0FID7L",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving, but do not have your insurance certificate with you, what is the maximum time allowed to produce it at a police station?",
+      "ur": "اگر آپ گاڑی چلاتے ہوئے پولیس کے رکنے پر اپنے ساتھ انشورنس سرٹیفکیٹ نہیں رکھتے، تو اسے پولیس اسٹیشن پر پیش کرنے کے لیے زیادہ سے زیادہ کتنی مدت دی جاتی ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Within 28 days",
+        "ur": "28 دن کے اندر"
+      },
+      "c": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must produce your insurance certificate within 7 days at a police station if you cannot provide it at the roadside when requested.",
+      "ur": "اگر آپ سڑک پر درخواست کیے جانے پر اپنا انشورنس سرٹیفکیٹ فراہم نہیں کر سکتے تو آپ کو اسے 7 دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "P1B2OK",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving and cannot produce your valid insurance certificate at the roadside, what is the correct legal procedure you must follow?",
+      "ur": "اگر آپ ڈرائیونگ کے دوران پولیس کی طرف سے روکے جائیں اور سڑک کنارے اپنا درست انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو آپ کو قانونی طور پر کون سا درست طریقہ کار اختیار کرنا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must pay a fixed penalty notice within 14 days",
+        "ur": "آپ کو مقررہ جرمانے کی اطلاع 14 دن کے اندر ادا کرنی ہوگی۔"
+      },
+      "a": {
+        "en": "You must produce the insurance certificate at a police station within 7 days",
+        "ur": "آپ کو بیمہ کا سرٹیفکیٹ سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+      },
+      "d": {
+        "en": "You must provide a written explanation to the DVLA within 7 days",
+        "ur": "آپ کو DVLA کو 7 دن کے اندر تحریری وضاحت فراہم کرنا ہوگی۔"
+      },
+      "b": {
+        "en": "You will be fined immediately and your vehicle will be seized on the spot",
+        "ur": "آپ کو فوری طور پر جرمانہ کیا جائے گا اور آپ کی گاڑی موقع پر ضبط کر لی جائے گی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police, you are legally required to produce it at a police station within 7 days.",
+      "ur": "اگر آپ پولیس کی درخواست پر اپنا انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو قانونی طور پر آپ پر لازم ہے کہ اسے سات دن کے اندر پولیس اسٹیشن میں پیش کریں۔"
+    }
+  },
+  {
+    "id": "96QE5Y",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time allowed to present it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو اسے پولیس اسٹیشن پر پیش کرنے کے لیے زیادہ سے زیادہ وقت کتنا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "d": {
+        "en": "Within 28 days",
+        "ur": "28 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "b": {
+        "en": "Within 14 days",
+        "ur": "چودہ دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must produce it at a police station within 7 days as required by law.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو قانون کے مطابق آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "DDO16Z",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن میں فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "چودہ دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police at the roadside, you must provide it at a police station within 7 days.",
+      "ur": "اگر آپ پولیس کی جانب سے روڈ پر بیمہ سرٹیفکیٹ طلب کیے جانے پر اسے فراہم نہیں کر سکتے، تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "D70MIX",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the correct procedure you must follow?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک کے کنارے اپنا درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کو کون سا درست طریقہ کار اختیار کرنا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must pay a fixed penalty notice and produce the certificate within 14 days",
+        "ur": "آپ کو مقررہ جرمانے کی اطلاع کی ادائیگی کرنی ہوگی اور 14 دن کے اندر سرٹیفیکیٹ پیش کرنا ہوگا۔"
+      },
+      "d": {
+        "en": "You can provide the insurance details verbally and no further action is required",
+        "ur": "آپ انشورنس کی تفصیلات زبانی فراہم کر سکتے ہیں اور مزید کوئی کارروائی درکار نہیں ہے۔"
+      },
+      "b": {
+        "en": "You will be fined immediately and your vehicle will be seized on the spot",
+        "ur": "آپ کو فوری طور پر جرمانہ کیا جائے گا اور آپ کی گاڑی موقع پر ضبط کر لی جائے گی۔"
+      },
+      "a": {
+        "en": "You must produce the insurance certificate at a police station within 7 days",
+        "ur": "آپ کو 7 دن کے اندر پولیس اسٹیشن پر انشورنس سرٹیفکیٹ پیش کرنا ہوگا۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police, you are required to produce it at a police station within 7 days, rather than facing immediate fines or vehicle seizure.",
+      "ur": "اگر آپ پولیس کی درخواست پر اپنا انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کو اسے سات دن کے اندر قریبی پولیس اسٹیشن میں پیش کرنا ہوگا، تاکہ فوری جرمانے یا گاڑی کی ضبطی سے بچا جا سکے۔"
+    }
+  },
+  {
+    "id": "R74GJ4",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving and cannot produce your valid insurance certificate at the roadside, what must you do?",
+      "ur": "اگر آپ کو پولیس نے گاڑی چلانے کے دوران روکا اور آپ سڑک کنارے اپنا درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Immediately surrender your vehicle until the certificate is shown",
+        "ur": "اپنا گاڑی فوراً روکیں جب تک کہ سرٹیفکیٹ نہ دکھایا جائے۔"
+      },
+      "a": {
+        "en": "Produce the insurance certificate at a police station within 7 days",
+        "ur": "انشورنس سرٹیفکیٹ پولیس اسٹیشن میں 7 دن کے اندر پیش کریں۔"
+      },
+      "b": {
+        "en": "Pay an on-the-spot fine and continue driving",
+        "ur": "فوری جرمانہ ادا کریں اور گاڑی چلانا جاری رکھیں۔"
+      },
+      "d": {
+        "en": "Provide a written explanation and wait for a court summons",
+        "ur": "تحریری وضاحت فراہم کریں اور عدالت کے طلبی نوٹس کا انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police, you must produce it at a police station within 7 days; failure to do so can lead to penalties.",
+      "ur": "اگر پولیس کی درخواست پر آپ اپنا انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کو اسے سات دن کے اندر قریبی پولیس اسٹیشن میں پیش کرنا ہوگا؛ ایسا نہ کرنے پر جرمانہ عائد کیا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "55WNKF",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن میں فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police at the roadside, you must provide it at a police station within 7 days.",
+      "ur": "اگر آپ سے سڑک پر پولیس کی درخواست پر آپ کا انشورنس سرٹیفکیٹ طلب کیا جائے اور آپ اسے فراہم نہ کر سکیں، تو آپ کو اسے 7 دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "LQE8RG",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the legal requirement regarding producing this document?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک کنارے اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو اس دستاویز کو پیش کرنے کے حوالے سے قانونی تقاضہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "You are allowed to produce the insurance certificate within 14 days by post",
+        "ur": "آپ کو انشورنس سرٹیفکیٹ ڈاک کے ذریعے 14 دن کے اندر فراہم کرنے کی اجازت ہے۔"
+      },
+      "a": {
+        "en": "You must produce the insurance certificate at a police station within 7 days",
+        "ur": "آپ کو 7 دن کے اندر پولیس اسٹیشن پر انشورنس سرٹیفکیٹ پیش کرنا ہوگا۔"
+      },
+      "c": {
+        "en": "You must produce the insurance certificate within 24 hours at any police station",
+        "ur": "آپ کو 24 گھنٹوں کے اندر کسی بھی پولیس اسٹیشن پر انشورنس سرٹیفکیٹ پیش کرنا ہوگا۔"
+      },
+      "b": {
+        "en": "You will be fined immediately and your vehicle seized on the spot",
+        "ur": "آپ کو فوری طور پر جرمانہ کیا جائے گا اور آپ کی گاڑی موقع پر ضبط کر لی جائے گی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must produce it at a police station within 7 days, not immediately or by post.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو آپ کو اسے فوراً یا ڈاک کے ذریعے نہیں بلکہ سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "1Y6SKF",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن پر فراہم کرنے کے لیے زیادہ سے زیادہ کتنے وقت کی اجازت ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must provide it at a police station within 7 days as required by law.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو قانون کے مطابق آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں فراہم کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "IM8WB6",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot immediately produce your valid insurance certificate, what is the maximum time allowed to present it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ فوری طور پر اپنی درست انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو اسے پولیس اسٹیشن میں پیش کرنے کے لیے زیادہ سے زیادہ کتنے وقت کی اجازت ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate at the roadside, you must provide it at a police station within 7 days of the request.",
+      "ur": "اگر آپ سڑک پر اپنا انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کو پولیس اسٹیشن میں درخواست کے 7 دن کے اندر اسے فراہم کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "1B68N3",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot immediately produce your valid insurance certificate, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ فوری طور پر اپنی درست انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو آپ کے پاس اسے پولیس اسٹیشن میں فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "b": {
+        "en": "Within 14 days",
+        "ur": "چودہ دن کے اندر"
+      },
+      "d": {
+        "en": "Within 28 days",
+        "ur": "28 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate at the roadside, you must provide it at a police station within 7 days, as required by law.",
+      "ur": "اگر آپ سڑک پر اپنا انشورنس سرٹیفکیٹ پیش نہیں کر سکتے تو قانون کے مطابق آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں فراہم کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "9Q5KAI",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving, but do not have your insurance certificate with you, what is the legal requirement regarding producing this document?",
+      "ur": "اگر آپ گاڑی چلاتے ہوئے پولیس کے روک لیں، لیکن آپ کے پاس انشورنس سرٹیفکیٹ موجود نہ ہو، تو اس دستاویز کو پیش کرنے کے حوالے سے قانونی تقاضہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must provide a digital copy of the insurance certificate on your phone at the roadside",
+        "ur": "آپ کو سڑک کے کنارے اپنے موبائل فون پر انشورنس سرٹیفکیٹ کی ڈیجیٹل کاپی فراہم کرنا لازمی ہے۔"
+      },
+      "b": {
+        "en": "You must immediately pay a fine and cannot continue driving until you show the certificate",
+        "ur": "آپ کو فوری طور پر جرمانہ ادا کرنا ہوگا اور سرٹیفیکیٹ دکھائے بغیر گاڑی چلانا جاری نہیں رکھ سکتے۔"
+      },
+      "a": {
+        "en": "You must produce the insurance certificate at a police station within 7 days if requested",
+        "ur": "اگر درخواست کی جائے تو آپ کو سات دن کے اندر پولیس اسٹیشن پر انشورنس سرٹیفکیٹ پیش کرنا ہوگا۔"
+      },
+      "d": {
+        "en": "You are allowed to produce the insurance certificate within 14 days at any police station",
+        "ur": "آپ کو بیمہ سرٹیفکیٹ کسی بھی پولیس اسٹیشن پر 14 دن کے اندر فراہم کرنے کی اجازت ہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you may be required to produce it at a police station within 7 days, but you are not required to pay a fine immediately or provide a digital copy at the roadside.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو آپ سے کہا جا سکتا ہے کہ اسے سات دن کے اندر پولیس اسٹیشن میں پیش کریں، لیکن آپ سے فوراً جرمانہ ادا کرنے یا سڑک کے کنارے ڈیجیٹل کاپی فراہم کرنے کا تقاضا نہیں کیا جائے گا۔"
+    }
+  },
+  {
+    "id": "H1FT8X",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن میں فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police at the roadside, you must provide it at a police station within 7 days.",
+      "ur": "اگر آپ پولیس کی جانب سے سڑک پر بیمہ سرٹیفکیٹ دکھانے کا کہا جائے اور آپ اسے فراہم نہ کر سکیں، تو آپ کو اسے سات دن کے اندر قریبی تھانے میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "139JUZ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving, which of the following documents are you legally required to produce at the roadside or within 7 days if not immediately available?",
+      "ur": "اگر آپ کو ڈرائیونگ کے دوران پولیس نے روکا، تو درج ذیل میں سے کون سے دستاویزات آپ قانونی طور پر سڑک کنارے فوراً یا اگر فوراً دستیاب نہ ہوں تو سات دن کے اندر پیش کرنے کے پابند ہیں؟"
+    },
+    "options": {
+      "a": {
+        "en": "Valid driving licence, valid insurance certificate, and valid MOT certificate (if applicable)",
+        "ur": "درست ڈرائیونگ لائسنس، درست انشورنس سرٹیفکیٹ، اور درست MOT سرٹیفکیٹ (اگر قابلِ اطلاق ہو)"
+      },
+      "b": {
+        "en": "Valid driving licence and vehicle registration certificate (V5C log book)",
+        "ur": "درست ڈرائیونگ لائسنس اور گاڑی کا رجسٹریشن سرٹیفکیٹ (V5C لاگ بک)"
+      },
+      "d": {
+        "en": "Valid driving licence, proof of vehicle tax payment, and MOT certificate",
+        "ur": "درست ڈرائیونگ لائسنس، گاڑی کے ٹیکس کی ادائیگی کا ثبوت، اور MOT سرٹیفیکیٹ"
+      },
+      "c": {
+        "en": "Valid insurance certificate and proof of vehicle tax payment",
+        "ur": "درست انشورنس سرٹیفیکیٹ اور گاڑی کے ٹیکس کی ادائیگی کا ثبوت"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must be able to produce your valid driving licence, insurance certificate, and MOT certificate (if required) when requested by the police; the V5C and proof of vehicle tax are not required to be produced at the roadside.",
+      "ur": "آپ کو پولیس کی درخواست پر اپنی درست ڈرائیونگ لائسنس، انشورنس سرٹیفکیٹ، اور اگر ضروری ہو تو MOT سرٹیفکیٹ پیش کرنا ہوگا؛ V5C اور گاڑی کے ٹیکس کا ثبوت سڑک پر پیش کرنا ضروری نہیں ہے۔"
+    }
+  },
+  {
+    "id": "DUTEBY",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس پولیس اسٹیشن پر اسے فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must provide it at a police station within 7 days, as required by law.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو قانون کے مطابق آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں جمع کروانا ہوگا۔"
+    }
+  },
+  {
+    "id": "QXUS4V",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving, but do not have your insurance certificate with you, what is the maximum time allowed to produce it at a police station?",
+      "ur": "اگر آپ گاڑی چلاتے ہوئے پولیس کے رکنے پر اپنے ساتھ انشورنس سرٹیفکیٹ نہیں رکھتے، تو اسے پولیس اسٹیشن پر پیش کرنے کے لیے زیادہ سے زیادہ کتنی مدت دی جاتی ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must produce your insurance certificate within 7 days at a police station if you cannot provide it immediately when requested by an officer.",
+      "ur": "اگر آپ افسر کی درخواست پر فوری طور پر انشورنس سرٹیفکیٹ فراہم نہیں کر سکتے تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "C9391U",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot immediately produce your valid insurance certificate, what is the maximum time allowed to present it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ فوری طور پر اپنی درست انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو اسے پولیس اسٹیشن میں پیش کرنے کے لیے زیادہ سے زیادہ کتنے وقت کی اجازت ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must produce your insurance certificate within 7 days at a police station if you cannot show it immediately when requested by an officer.",
+      "ur": "اگر آپ فوری طور پر افسر کی درخواست پر اپنا انشورنس سرٹیفکیٹ پیش نہیں کر سکتے تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں جمع کروانا ہوگا۔"
+    }
+  },
+  {
+    "id": "6BTBZB",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن میں فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police at the roadside, you must provide it at a police station within 7 days.",
+      "ur": "اگر آپ پولیس کی جانب سے روڈ پر بیمہ سرٹیفکیٹ طلب کرنے پر اسے پیش نہیں کر سکتے، تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں فراہم کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "BQGGZQ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving and cannot produce your valid insurance certificate at the roadside, what must you do?",
+      "ur": "اگر آپ کو ڈرائیونگ کے دوران پولیس نے روکا اور آپ سڑک کنارے اپنا درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Pay an on-the-spot fine and continue driving",
+        "ur": "فوری جرمانہ ادا کریں اور گاڑی چلانا جاری رکھیں۔"
+      },
+      "d": {
+        "en": "Provide your vehicle registration certificate (V5C) as proof instead",
+        "ur": "اپنی گاڑی کا رجسٹریشن سرٹیفکیٹ (V5C) بطور ثبوت فراہم کریں۔"
+      },
+      "c": {
+        "en": "Show a digital copy of the insurance certificate on your phone immediately",
+        "ur": "اپنے موبائل پر انشورنس سرٹیفکیٹ کی ڈیجیٹل کاپی فوری دکھائیں۔"
+      },
+      "a": {
+        "en": "Produce the insurance certificate at a police station within 7 days",
+        "ur": "انشورنس کا سرٹیفکیٹ سات دن کے اندر پولیس اسٹیشن میں پیش کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must produce it at a police station within 7 days; failure to do so can lead to penalties.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا؛ ایسا نہ کرنے کی صورت میں جرمانہ عائد کیا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "SAWFCK",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving, but do not have your insurance certificate with you, what is the maximum time allowed to produce it at a police station?",
+      "ur": "اگر آپ گاڑی چلاتے ہوئے پولیس کے رکنے پر اپنے پاس انشورنس سرٹیفکیٹ نہیں رکھتے، تو اسے پولیس اسٹیشن پر پیش کرنے کے لیے زیادہ سے زیادہ کتنی مدت دی جاتی ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must produce your insurance certificate within 7 days at a police station if you cannot show it at the roadside when requested.",
+      "ur": "اگر آپ سڑک پر درخواست کیے جانے پر اپنا انشورنس سرٹیفکیٹ دکھانے سے قاصر ہوں تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "24JUT8",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the legal requirement regarding producing this document?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک کنارے اپنا درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو اس دستاویز کو پیش کرنے کے حوالے سے قانونی تقاضہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "You are allowed to produce it within 14 days by post",
+        "ur": "آپ کو اسے ڈاک کے ذریعے 14 دن کے اندر فراہم کرنے کی اجازت ہے۔"
+      },
+      "b": {
+        "en": "You must pay an on-the-spot fine and cannot produce it later",
+        "ur": "آپ کو موقع پر جرمانہ ادا کرنا ہوگا اور بعد میں پیش نہیں کر سکتے۔"
+      },
+      "a": {
+        "en": "You must produce it at a police station within 7 days",
+        "ur": "آپ کو اسے 7 دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+      },
+      "c": {
+        "en": "You must produce it within 24 hours at any police station",
+        "ur": "آپ کو اسے کسی بھی پولیس اسٹیشن پر 24 گھنٹوں کے اندر پیش کرنا ہوگا۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police at the roadside, you are legally required to produce it at a police station within 7 days.",
+      "ur": "اگر آپ پولیس کی جانب سے روڈ پر بیمہ سرٹیفکیٹ طلب کرنے پر اسے پیش نہیں کر سکتے، تو قانونی طور پر آپ پر لازم ہے کہ اسے سات دن کے اندر پولیس اسٹیشن میں پیش کریں۔"
+    }
+  },
+  {
+    "id": "BZ9UY1",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving and cannot produce your valid insurance certificate at the roadside, what is the legal requirement regarding producing this document?",
+      "ur": "اگر آپ گاڑی چلاتے ہوئے پولیس کے رکنے پر اپنی درست انشورنس سرٹیفکیٹ موقع پر پیش نہیں کر سکتے، تو اس دستاویز کو پیش کرنے کے حوالے سے قانونی تقاضہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must produce the insurance certificate within 24 hours at any police station",
+        "ur": "آپ کو 24 گھنٹوں کے اندر کسی بھی پولیس اسٹیشن پر انشورنس سرٹیفکیٹ پیش کرنا ہوگا۔"
+      },
+      "d": {
+        "en": "You are allowed to produce the insurance certificate at your convenience within 30 days",
+        "ur": "آپ کو اجازت ہے کہ آپ انشورنس سرٹیفکیٹ اپنی سہولت کے مطابق 30 دن کے اندر پیش کریں۔"
+      },
+      "b": {
+        "en": "You will be fined immediately and your vehicle will be seized on the spot",
+        "ur": "آپ کو فوری طور پر جرمانہ کیا جائے گا اور آپ کی گاڑی موقع پر ضبط کر لی جائے گی۔"
+      },
+      "a": {
+        "en": "You must produce the insurance certificate at a police station within 7 days",
+        "ur": "آپ کو بیمہ کا سرٹیفکیٹ سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police, you must produce it at a police station within 7 days, otherwise you may face penalties.",
+      "ur": "اگر آپ پولیس کی درخواست پر اپنا انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کو اسے سات دن کے اندر قریبی پولیس اسٹیشن میں پیش کرنا ہوگا، ورنہ آپ کو جرمانے کا سامنا کرنا پڑ سکتا ہے۔"
+    }
+  },
+  {
+    "id": "G8EGFT",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن میں فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must provide it at a police station within 7 days, as required by UK law.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو آپ کو اسے برطانیہ کے قانون کے مطابق سات دن کے اندر پولیس اسٹیشن میں فراہم کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "Q8Q0VP",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving, but do not have your insurance certificate with you, what is the maximum time allowed to produce it at a police station?",
+      "ur": "اگر آپ ڈرائیونگ کے دوران پولیس کے ذریعے روکے جائیں اور آپ کے پاس انشورنس سرٹیفکیٹ موجود نہ ہو، تو اسے پولیس اسٹیشن پر پیش کرنے کے لیے زیادہ سے زیادہ کتنا وقت دیا جاتا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "d": {
+        "en": "Within 28 days",
+        "ur": "28 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "c": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate at the roadside, you must produce it at a police station within 7 days of the request.",
+      "ur": "اگر آپ سڑک پر اپنا انشورنس سرٹیفکیٹ پیش نہیں کر سکتے تو آپ کو درخواست کے 7 دن کے اندر پولیس اسٹیشن میں اسے پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "CV3GDJ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس پولیس اسٹیشن میں اسے فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police at the roadside, you must provide it at a police station within 7 days.",
+      "ur": "اگر آپ پولیس کی جانب سے روڈ پر بیمہ سرٹیفکیٹ دکھانے کا کہا جائے اور آپ اسے فراہم نہ کر سکیں، تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "IWPX37",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving and cannot immediately produce your valid insurance certificate, what is the legal requirement regarding producing this document?",
+      "ur": "اگر آپ ڈرائیونگ کے دوران پولیس کے ذریعہ روکے جائیں اور فوری طور پر اپنا درست انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو اس دستاویز کو پیش کرنے کے حوالے سے قانونی تقاضہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You will be fined on the spot and your vehicle will be seized immediately",
+        "ur": "آپ کو موقع پر جرمانہ کیا جائے گا اور آپ کی گاڑی فوراً ضبط کر لی جائے گی۔"
+      },
+      "c": {
+        "en": "You must produce the insurance certificate within 24 hours at any police station",
+        "ur": "آپ کو 24 گھنٹوں کے اندر کسی بھی پولیس اسٹیشن پر انشورنس سرٹیفکیٹ پیش کرنا ہوگا۔"
+      },
+      "a": {
+        "en": "You must produce the insurance certificate at a police station within 7 days",
+        "ur": "آپ کو بیمہ کا سرٹیفکیٹ سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+      },
+      "d": {
+        "en": "You are allowed to send a copy of the certificate by post within 14 days",
+        "ur": "آپ کو اجازت ہے کہ سرٹیفکیٹ کی ایک کاپی 14 دن کے اندر ڈاک کے ذریعے بھیجیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you are legally required to produce it at a police station within 7 days, not immediately or within shorter or longer timeframes.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو آپ قانونی طور پر پابند ہیں کہ اسے سات دن کے اندر پولیس اسٹیشن میں پیش کریں، فوری طور پر یا کم یا زیادہ مدت میں نہیں۔"
+    }
+  },
+  {
+    "id": "5YY3BC",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر آپ گاڑی چلاتے ہوئے پولیس کے رکنے پر اپنی درست انشورنس سرٹیفکیٹ موقع پر پیش نہیں کر سکتے، تو آپ کے پاس پولیس اسٹیشن پر اسے فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must provide it at a police station within 7 days as required by law.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو قانون کے مطابق آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں فراہم کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "EEEU2A",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving and cannot produce your valid insurance certificate at the roadside, what is the correct procedure you must follow?",
+      "ur": "اگر آپ ڈرائیونگ کے دوران پولیس کے ذریعے روکے جائیں اور سڑک کنارے اپنی درست انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو آپ کو کون سا درست طریقہ کار اختیار کرنا چاہیے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must produce the insurance certificate at a police station within 7 days",
+        "ur": "آپ کو بیمہ کا سرٹیفیکیٹ سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+      },
+      "b": {
+        "en": "You will be immediately fined and your vehicle seized",
+        "ur": "آپ کو فوری طور پر جرمانہ کیا جائے گا اور آپ کی گاڑی ضبط کر لی جائے گی۔"
+      },
+      "d": {
+        "en": "You are allowed to continue driving without producing the certificate",
+        "ur": "آپ سرٹیفکیٹ پیش کیے بغیر گاڑی چلانا جاری رکھ سکتے ہیں۔"
+      },
+      "c": {
+        "en": "You must pay a fine on the spot and show the certificate within 14 days",
+        "ur": "آپ کو موقع پر جرمانہ ادا کرنا ہوگا اور 14 دن کے اندر سرٹیفیکیٹ پیش کرنا ہوگا۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police, you must produce it at a police station within 7 days; failure to do so can lead to further penalties.",
+      "ur": "اگر آپ پولیس کی درخواست پر اپنا انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کو اسے سات دن کے اندر قریبی پولیس اسٹیشن میں پیش کرنا ہوگا؛ ایسا نہ کرنے کی صورت میں مزید جرمانے عائد کیے جا سکتے ہیں۔"
+    }
+  },
+  {
+    "id": "TC250N",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر آپ کو ڈرائیونگ کے دوران پولیس نے روکا اور آپ سڑک کنارے اپنا درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن پر فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must provide it at a police station within 7 days, as required by UK law.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو آپ کو اسے برطانیہ کے قانون کے مطابق سات دن کے اندر پولیس اسٹیشن میں فراہم کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "IFEE0U",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن میں فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "c": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "b": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police at the roadside, you must provide it at a police station within 7 days.",
+      "ur": "اگر آپ پولیس کی جانب سے سڑک پر بیمہ سرٹیفکیٹ دکھانے کا کہا جائے اور آپ اسے فراہم نہ کر سکیں، تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "4LDLCM",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving and cannot produce your valid insurance certificate at the roadside, what is the correct legal procedure you must follow?",
+      "ur": "اگر آپ کو ڈرائیونگ کے دوران پولیس نے روکا اور آپ سڑک کنارے اپنا درست انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو آپ کو قانونی طور پر کون سا درست طریقہ کار اپنانا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must pay a fixed penalty fine and your licence will be suspended immediately",
+        "ur": "آپ کو ایک مقررہ جرمانہ ادا کرنا ہوگا اور آپ کا لائسنس فوری طور پر معطل کر دیا جائے گا۔"
+      },
+      "a": {
+        "en": "You must produce the insurance certificate at a police station within 7 days",
+        "ur": "آپ کو بیمہ کا سرٹیفیکیٹ سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+      },
+      "d": {
+        "en": "You must provide a written explanation and produce the certificate within 14 days",
+        "ur": "آپ کو 14 دن کے اندر تحریری وضاحت فراہم کرنی ہوگی اور سرٹیفکیٹ پیش کرنا ہوگا۔"
+      },
+      "b": {
+        "en": "You will be fined immediately and your vehicle will be seized on the spot",
+        "ur": "آپ کو فوری طور پر جرمانہ کیا جائے گا اور آپ کی گاڑی موقع پر ضبط کر لی جائے گی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police, you are required to produce it at a police station within 7 days, rather than facing immediate fines or seizure.",
+      "ur": "اگر آپ پولیس کی درخواست پر اپنا انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کو اسے سات دن کے اندر قریبی پولیس اسٹیشن میں پیش کرنا ہوگا، تاکہ فوری جرمانے یا گاڑی کی ضبطی سے بچا جا سکے۔"
+    }
+  },
+  {
+    "id": "O8CUZ1",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the legal requirement regarding producing this document?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک کنارے اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو اس دستاویز کو پیش کرنے کے حوالے سے قانونی تقاضہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must produce the insurance certificate within 24 hours at any police station",
+        "ur": "آپ کو 24 گھنٹوں کے اندر کسی بھی پولیس اسٹیشن پر انشورنس سرٹیفیکیٹ پیش کرنا ہوگا۔"
+      },
+      "b": {
+        "en": "You will be fined immediately and your vehicle will be seized on the spot",
+        "ur": "آپ کو فوری طور پر جرمانہ کیا جائے گا اور آپ کی گاڑی موقع پر ضبط کر لی جائے گی۔"
+      },
+      "a": {
+        "en": "You must produce the insurance certificate at a police station within 7 days",
+        "ur": "آپ کو بیمہ کا سرٹیفکیٹ سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+      },
+      "d": {
+        "en": "You are allowed to send a copy of the insurance certificate by post within 14 days",
+        "ur": "آپ کو بیمہ سرٹیفکیٹ کی ایک کاپی 14 دن کے اندر ڈاک کے ذریعے بھیجنے کی اجازت ہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you are legally required to produce it at a police station within 7 days, not immediately or within shorter or longer timeframes.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو قانوناً آپ پر لازم ہے کہ اسے سات دن کے اندر پولیس اسٹیشن میں پیش کریں، فوری طور پر یا کم یا زیادہ مدت میں نہیں۔"
+    }
+  },
+  {
+    "id": "QS4WKO",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving, which of the following documents are you legally required to produce at the roadside or within 7 days if not immediately available?",
+      "ur": "اگر آپ کو ڈرائیونگ کے دوران پولیس نے روکا، تو درج ذیل میں سے کون سے دستاویزات آپ قانونی طور پر سڑک کے کنارے فوراً یا اگر فوراً دستیاب نہ ہوں تو سات دن کے اندر پیش کرنے کے پابند ہیں؟"
+    },
+    "options": {
+      "c": {
+        "en": "Valid insurance certificate and vehicle tax (VED) receipt",
+        "ur": "درست انشورنس سرٹیفکیٹ اور گاڑی کے ٹیکس (وی ای ڈی) کی رسید"
+      },
+      "b": {
+        "en": "Valid driving licence and vehicle registration certificate (V5C)",
+        "ur": "درست ڈرائیونگ لائسنس اور گاڑی کی رجسٹریشن سرٹیفکیٹ (V5C)"
+      },
+      "a": {
+        "en": "Valid driving licence, insurance certificate, and MOT certificate (if applicable)",
+        "ur": "درست ڈرائیونگ لائسنس، انشورنس سرٹیفکیٹ، اور MOT سرٹیفکیٹ (اگر قابلِ اطلاق ہو)"
+      },
+      "d": {
+        "en": "Valid MOT certificate and proof of vehicle tax payment",
+        "ur": "درست MOT سرٹیفکیٹ اور گاڑی کے ٹیکس کی ادائیگی کا ثبوت"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must be able to produce a valid driving licence, insurance certificate, and MOT certificate (if the vehicle requires one) when requested by the police, either at the roadside or within 7 days; vehicle registration and tax documents are not required to be produced on demand.",
+      "ur": "آپ کو پولیس کی درخواست پر، چاہے راستے پر ہو یا سات دن کے اندر، درست ڈرائیونگ لائسنس، انشورنس سرٹیفکیٹ، اور MOT سرٹیفکیٹ (اگر گاڑی کے لیے ضروری ہو) پیش کرنے کے قابل ہونا چاہیے؛ گاڑی کی رجسٹریشن اور ٹیکس کے دستاویزات طلب کرنے پر پیش کرنا ضروری نہیں ہیں۔"
+    }
+  },
+  {
+    "id": "WLUDOE",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر آپ کو ڈرائیونگ کے دوران پولیس نے روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس پولیس اسٹیشن پر اسے فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police at the roadside, you must provide it at a police station within 7 days.",
+      "ur": "اگر آپ پولیس کی جانب سے سڑک پر بیمہ سرٹیفکیٹ طلب کرنے پر اسے پیش نہیں کر سکتے، تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں فراہم کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "TNZLCA",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنا درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس پولیس اسٹیشن میں اسے فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Within 28 days",
+        "ur": "28 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "c": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police at the roadside, you must provide it at a police station within 7 days.",
+      "ur": "اگر آپ پولیس کی جانب سے سڑک پر بیمہ سرٹیفکیٹ دکھانے کا مطالبہ کیا جائے اور آپ اسے فراہم نہ کر سکیں، تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "20AX3H",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving, but you do not have your insurance certificate with you, what is the correct legal requirement regarding producing this document?",
+      "ur": "اگر آپ گاڑی چلاتے ہوئے پولیس کے رکنے پر آپ کے پاس انشورنس سرٹیفکیٹ موجود نہ ہو، تو اس دستاویز کو پیش کرنے کے حوالے سے قانونی تقاضہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "You must provide a written explanation within 14 days to the DVLA",
+        "ur": "آپ کو DVLA کو 14 دن کے اندر تحریری وضاحت فراہم کرنا ہوگی۔"
+      },
+      "b": {
+        "en": "You must pay a fine immediately and cannot continue driving until you show the certificate",
+        "ur": "آپ کو فوراً جرمانہ ادا کرنا ہوگا اور سرٹیفیکیٹ دکھائے بغیر گاڑی چلانا جاری نہیں رکھ سکتے۔"
+      },
+      "a": {
+        "en": "You must produce the insurance certificate at a police station within 7 days",
+        "ur": "آپ کو بیمہ کا سرٹیفکیٹ سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+      },
+      "c": {
+        "en": "You must produce the insurance certificate at the roadside or face immediate vehicle seizure",
+        "ur": "آپ کو روڈ سائیڈ پر انشورنس سرٹیفکیٹ پیش کرنا ہوگا ورنہ گاڑی فوری طور پر ضبط کر لی جائے گی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you are legally required to produce it at a police station within 7 days, not necessarily at the roadside.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفیکیٹ پیش نہ کر سکیں، تو قانوناً آپ پر لازم ہے کہ اسے سات دن کے اندر پولیس اسٹیشن میں پیش کریں، ضروری نہیں کہ وہ موقع پر ہی پیش کیا جائے۔"
+    }
+  },
+  {
+    "id": "UBUHZR",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving, which of the following documents are you legally required to produce at the roadside or within 7 days if not immediately available?",
+      "ur": "اگر آپ کو ڈرائیونگ کے دوران پولیس نے روکا، تو درج ذیل میں سے کون سا دستاویز آپ قانونی طور پر سڑک کے کنارے فوراً یا اگر فوراً دستیاب نہ ہو تو سات دن کے اندر پیش کرنے کے پابند ہیں؟"
+    },
+    "options": {
+      "b": {
+        "en": "Valid driving licence and vehicle registration certificate (V5C)",
+        "ur": "درست ڈرائیونگ لائسنس اور گاڑی کی رجسٹریشن سرٹیفکیٹ (V5C)"
+      },
+      "d": {
+        "en": "Valid MOT certificate and proof of vehicle tax payment",
+        "ur": "درست MOT سرٹیفکیٹ اور گاڑی کے ٹیکس کی ادائیگی کا ثبوت"
+      },
+      "c": {
+        "en": "Valid insurance certificate and proof of vehicle tax payment",
+        "ur": "درست انشورنس سرٹیفیکیٹ اور گاڑی کے ٹیکس کی ادائیگی کا ثبوت"
+      },
+      "a": {
+        "en": "Valid driving licence, valid insurance certificate, and valid MOT certificate (if applicable)",
+        "ur": "درست ڈرائیونگ لائسنس، درست انشورنس سرٹیفکیٹ، اور درست MOT سرٹیفکیٹ (اگر قابلِ اطلاق ہو)"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must be able to produce a valid driving licence, insurance certificate, and MOT certificate (if the vehicle requires one) when requested by the police; the V5C and proof of vehicle tax are not required to be produced at the roadside.",
+      "ur": "آپ کو پولیس کی درخواست پر درست ڈرائیونگ لائسنس، انشورنس سرٹیفکیٹ، اور MOT سرٹیفکیٹ (اگر گاڑی کے لیے ضروری ہو) پیش کرنا ہوگا؛ V5C اور گاڑی کے ٹیکس کا ثبوت سڑک پر پیش کرنا ضروری نہیں ہے۔"
+    }
+  },
+  {
+    "id": "YWELDZ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving, but do not have your insurance certificate with you, what is the maximum time allowed to produce it at a police station?",
+      "ur": "اگر آپ گاڑی چلاتے ہوئے پولیس کے رکنے پر اپنے ساتھ انشورنس سرٹیفکیٹ نہیں رکھتے، تو اسے پولیس اسٹیشن پر پیش کرنے کے لیے زیادہ سے زیادہ کتنا وقت دیا جاتا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "c": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "d": {
+        "en": "Within 28 days",
+        "ur": "28 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must produce your insurance certificate within 7 days at a police station if you cannot provide it at the roadside when requested by a police officer.",
+      "ur": "اگر آپ پولیس افسر کی درخواست پر سڑک کنارے اپنا انشورنس سرٹیفکیٹ فراہم نہیں کر سکتے تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "AZT6FU",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفیکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن میں فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Within 14 days",
+        "ur": "چودہ دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must provide it at a police station within 7 days, as required by law.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو قانون کے مطابق آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں جمع کروانا ہوگا۔"
+    }
+  },
+  {
+    "id": "WRB94J",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot immediately produce your valid insurance certificate, what is the maximum time allowed to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ فوری طور پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو پولیس اسٹیشن میں اسے فراہم کرنے کے لیے زیادہ سے زیادہ وقت کتنا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must produce your insurance certificate within 7 days at a police station if you cannot show it immediately when requested by an officer.",
+      "ur": "اگر آپ افسر کی درخواست پر فوری طور پر اپنا انشورنس سرٹیفکیٹ دکھانے سے قاصر ہوں تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "3CN7TG",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن میں فراہم کرنے کے لیے زیادہ سے زیادہ کتنے وقت ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police at the roadside, you must provide it at a police station within 7 days.",
+      "ur": "اگر آپ پولیس کی جانب سے روڈ پر درخواست کرنے پر اپنا انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں فراہم کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "D7G7IF",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving, which of the following documents are you legally required to produce at the roadside or within 7 days if not immediately available?",
+      "ur": "اگر آپ کو ڈرائیونگ کے دوران پولیس نے روکا، تو مندرجہ ذیل میں سے کون سا دستاویز آپ قانونی طور پر سڑک کے کنارے فوراً یا اگر فوری دستیاب نہ ہو تو سات دن کے اندر پیش کرنا ضروری ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Valid MOT certificate and proof of Statutory Off-Road Notification (SORN)",
+        "ur": "درست MOT سرٹیفکیٹ اور قانونی آف-روڈ نوٹیفیکیشن (SORN) کا ثبوت"
+      },
+      "a": {
+        "en": "Valid driving licence, valid insurance certificate, and valid MOT certificate (if applicable)",
+        "ur": "درست ڈرائیونگ لائسنس، درست انشورنس سرٹیفکیٹ، اور درست MOT سرٹیفکیٹ (اگر قابلِ اطلاق ہو)"
+      },
+      "c": {
+        "en": "Valid insurance certificate and proof of Vehicle Excise Duty payment",
+        "ur": "درست انشورنس سرٹیفیکیٹ اور گاڑی کے ایکسائز ڈیوٹی کی ادائیگی کا ثبوت"
+      },
+      "b": {
+        "en": "Valid driving licence and vehicle registration certificate (V5C log book)",
+        "ur": "درست ڈرائیونگ لائسنس اور گاڑی کا رجسٹریشن سرٹیفکیٹ (V5C لاگ بک)"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must be able to produce your valid driving licence, insurance certificate, and MOT certificate (if the vehicle requires one) when requested by the police, either at the roadside or within 7 days.",
+      "ur": "آپ کو پولیس کی درخواست پر، چاہے راستے پر ہو یا سات دن کے اندر، اپنا درست ڈرائیونگ لائسنس، انشورنس سرٹیفکیٹ، اور MOT سرٹیفکیٹ (اگر گاڑی کے لیے ضروری ہو) پیش کرنے کے قابل ہونا چاہیے۔"
+    }
+  },
+  {
+    "id": "DKXUD3",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن میں فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must provide it at a police station within 7 days to avoid penalties.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو آپ کو جرمانے سے بچنے کے لیے اسے سات دن کے اندر پولیس اسٹیشن میں جمع کروانا ہوگا۔"
+    }
+  },
+  {
+    "id": "OC6LWJ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving, but do not have your insurance certificate with you, what is the maximum time allowed to produce it at a police station?",
+      "ur": "اگر آپ ڈرائیونگ کے دوران پولیس کے رکنے پر اپنے ساتھ انشورنس سرٹیفکیٹ نہیں رکھتے، تو اسے پولیس اسٹیشن پر پیش کرنے کے لیے زیادہ سے زیادہ کتنی مدت دی جاتی ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Within 28 days",
+        "ur": "28 دن کے اندر"
+      },
+      "c": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "b": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate at the roadside, you must produce it at a police station within 7 days of the request.",
+      "ur": "اگر آپ سڑک پر اپنا انشورنس سرٹیفکیٹ پیش نہیں کر سکتے تو آپ کو درخواست کے 7 دن کے اندر پولیس اسٹیشن میں اسے پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "3JFPHZ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن میں فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "d": {
+        "en": "Within 28 days",
+        "ur": "28 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 14 days",
+        "ur": "چودہ دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police at the roadside, you must provide it at a police station within 7 days.",
+      "ur": "اگر آپ پولیس کی جانب سے سڑک پر بیمہ سرٹیفکیٹ طلب کرنے پر اسے پیش نہیں کر سکتے، تو آپ کو اسے 7 دن کے اندر قریبی پولیس اسٹیشن میں فراہم کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "161PBA",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن پر فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "چودہ دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must produce it at a police station within 7 days, as per legal requirements.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو قانونی تقاضوں کے مطابق آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "HWPH39",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving, which of the following documents are you legally required to produce at the roadside or within 7 days if not immediately available?",
+      "ur": "اگر آپ کو ڈرائیونگ کے دوران پولیس نے روکا تو درج ذیل میں سے کون سے دستاویزات آپ قانونی طور پر سڑک کے کنارے فوراً یا اگر فوری دستیاب نہ ہوں تو سات دن کے اندر فراہم کرنے کے پابند ہیں؟"
+    },
+    "options": {
+      "a": {
+        "en": "Valid driving licence, valid insurance certificate, and valid MOT certificate (if applicable)",
+        "ur": "درست ڈرائیونگ لائسنس، درست انشورنس سرٹیفکیٹ، اور درست MOT سرٹیفکیٹ (اگر قابلِ اطلاق ہو)"
+      },
+      "b": {
+        "en": "Valid driving licence and vehicle registration certificate (V5C log book)",
+        "ur": "درست ڈرائیونگ لائسنس اور گاڑی کا رجسٹریشن سرٹیفکیٹ (V5C لاگ بک)"
+      },
+      "c": {
+        "en": "Valid insurance certificate and proof of Vehicle Excise Duty (road tax)",
+        "ur": "درست انشورنس سرٹیفکیٹ اور گاڑی کے ایکسائز ڈیوٹی (روڈ ٹیکس) کا ثبوت"
+      },
+      "d": {
+        "en": "Valid MOT certificate and proof of Statutory Off-Road Notification (SORN)",
+        "ur": "درست MOT سرٹیفکیٹ اور قانونی آف-روڈ نوٹیفیکیشن (SORN) کا ثبوت"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must be able to produce a valid driving licence, insurance certificate, and MOT certificate (if required) when requested by the police, either at the roadside or within 7 days; the V5C and proof of road tax or SORN are not required to be produced on demand.",
+      "ur": "آپ کو پولیس کی درخواست پر، چاہے راستے پر ہو یا سات دن کے اندر، درست ڈرائیونگ لائسنس، انشورنس سرٹیفکیٹ، اور اگر ضرورت ہو تو MOT سرٹیفکیٹ پیش کرنا لازمی ہے؛ V5C اور روڈ ٹیکس یا SORN کا ثبوت فوری طور پر پیش کرنا ضروری نہیں ہے۔"
+    }
+  },
+  {
+    "id": "PONQOJ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving and cannot produce your valid insurance certificate at the roadside, what is the correct legal procedure you must follow?",
+      "ur": "اگر آپ گاڑی چلاتے ہوئے پولیس کے رکنے پر اپنی درست انشورنس سرٹیفکیٹ سڑک کے کنارے پیش نہیں کر سکتے، تو آپ کو کون سا قانونی طریقہ کار اختیار کرنا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You will be immediately fined and your vehicle seized",
+        "ur": "آپ کو فوری طور پر جرمانہ کیا جائے گا اور آپ کی گاڑی ضبط کر لی جائے گی۔"
+      },
+      "a": {
+        "en": "You must produce the insurance certificate at a police station within 7 days",
+        "ur": "آپ کو انشورنس سرٹیفکیٹ سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+      },
+      "c": {
+        "en": "You must pay a fixed penalty notice on the spot",
+        "ur": "آپ کو موقع پر ہی مقررہ جرمانہ ادا کرنا ہوگا۔"
+      },
+      "d": {
+        "en": "You are allowed to continue driving without producing the certificate",
+        "ur": "آپ بغیر سرٹیفکیٹ دکھائے گاڑی چلانا جاری رکھ سکتے ہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police, you are required to produce it at a police station within 7 days, rather than being fined or having your vehicle seized immediately.",
+      "ur": "اگر آپ پولیس کی درخواست پر اپنا انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کو اسے فوراً جرمانہ ہونے یا گاڑی ضبط کیے جانے کی بجائے سات دن کے اندر قریبی پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "I6VH1S",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving, but do not have your insurance certificate with you, what is the legal requirement regarding producing this document?",
+      "ur": "اگر آپ گاڑی چلاتے ہوئے پولیس کے ذریعے روکے جائیں اور آپ کے پاس انشورنس سرٹیفکیٹ موجود نہ ہو، تو اس دستاویز کو پیش کرنے کے حوالے سے قانونی تقاضہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must immediately pay a fine and cannot continue driving until you show the certificate",
+        "ur": "آپ کو فوراً جرمانہ ادا کرنا ہوگا اور سرٹیفیکیٹ دکھائے بغیر ڈرائیونگ جاری نہیں رکھ سکتے۔"
+      },
+      "a": {
+        "en": "You must produce the insurance certificate at a police station within 7 days if requested",
+        "ur": "اگر درخواست کی جائے تو آپ کو 7 دن کے اندر پولیس اسٹیشن پر انشورنس سرٹیفکیٹ پیش کرنا ہوگا۔"
+      },
+      "d": {
+        "en": "You must provide a verbal confirmation of insurance details to the officer at the roadside",
+        "ur": "آپ کو سڑک کنارے افسر کو انشورنس کی تفصیلات زبانی طور پر بتانا ہوں گی۔"
+      },
+      "c": {
+        "en": "You must produce the insurance certificate within 24 hours at any police station",
+        "ur": "آپ کو 24 گھنٹوں کے اندر کسی بھی پولیس اسٹیشن پر انشورنس سرٹیفکیٹ پیش کرنا ہوگا۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you may be required to produce it at a police station within 7 days, but you are not required to pay a fine immediately or produce it within 24 hours.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو آپ سے کہا جا سکتا ہے کہ اسے سات دن کے اندر پولیس اسٹیشن میں پیش کریں، لیکن آپ پر فوری طور پر جرمانہ عائد نہیں کیا جائے گا اور نہ ہی اسے چوبیس گھنٹوں کے اندر پیش کرنا لازمی ہے۔"
+    }
+  },
+  {
+    "id": "R0PVU7",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving and cannot immediately produce your valid insurance certificate, what is the maximum time allowed to present it at a police station?",
+      "ur": "اگر پولیس آپ کو ڈرائیونگ کے دوران روک لے اور آپ فوراً اپنی درست انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو اسے پولیس اسٹیشن میں پیش کرنے کے لیے زیادہ سے زیادہ کتنا وقت دیا جاتا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "چودہ دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate at the roadside, you must produce it at a police station within 7 days of the request.",
+      "ur": "اگر آپ سڑک پر اپنا انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کو درخواست کے 7 دن کے اندر پولیس اسٹیشن میں اسے پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "ZRXDZB",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot immediately produce your valid insurance certificate, what is the legal time frame within which you must provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ فوری طور پر اپنی درست انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو قانونی طور پر آپ کو کتنے دنوں کے اندر متعلقہ پولیس اسٹیشن میں یہ سرٹیفکیٹ فراہم کرنا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police, you must provide it at a police station within 7 days.",
+      "ur": "اگر آپ پولیس کی درخواست پر اپنا انشورنس سرٹیفکیٹ پیش نہیں کر سکتے تو آپ کو اسے سات دن کے اندر قریبی پولیس اسٹیشن میں فراہم کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "6V32DT",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving, but do not have your insurance certificate with you, what is the maximum time you have to produce it at a police station?",
+      "ur": "اگر آپ گاڑی چلاتے ہوئے پولیس کے رکنے پر اپنے ساتھ انشورنس سرٹیفکیٹ نہیں رکھتے، تو آپ کے پاس اسے پولیس اسٹیشن میں پیش کرنے کے لیے زیادہ سے زیادہ کتنی مدت ہوتی ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate at the roadside when requested by the police, you must produce it at a police station within 7 days.",
+      "ur": "اگر پولیس کی درخواست پر آپ سڑک پر اپنا انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "G6M1ST",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving and cannot produce your valid insurance certificate at the roadside, what is the correct legal procedure?",
+      "ur": "اگر آپ ڈرائیونگ کے دوران پولیس کے ذریعے روکے جائیں اور سڑک کنارے اپنا درست انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو قانونی طور پر صحیح طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You will be fined immediately and your vehicle will be seized on the spot",
+        "ur": "آپ کو فوری طور پر جرمانہ کیا جائے گا اور آپ کی گاڑی موقع پر ضبط کر لی جائے گی۔"
+      },
+      "a": {
+        "en": "You must produce the insurance certificate at a police station within 7 days",
+        "ur": "آپ کو بیمہ کا سرٹیفکیٹ سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+      },
+      "d": {
+        "en": "You will be allowed to continue driving without penalty if you have a valid driving licence",
+        "ur": "اگر آپ کے پاس درست ڈرائیونگ لائسنس ہو تو آپ بغیر کسی سزا کے ڈرائیونگ جاری رکھ سکتے ہیں۔"
+      },
+      "c": {
+        "en": "You must pay a fixed penalty fine and provide the certificate within 14 days",
+        "ur": "آپ کو مقررہ جرمانہ ادا کرنا ہوگا اور 14 دن کے اندر سرٹیفکیٹ فراہم کرنا ہوگا۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police, you must produce it at a police station within 7 days; immediate seizure or fines are not automatic unless further offences are committed.",
+      "ur": "اگر آپ پولیس کی درخواست پر اپنا انشورنس سرٹیفکیٹ پیش نہیں کر سکتے تو آپ کو اسے سات دن کے اندر قریبی پولیس اسٹیشن میں پیش کرنا ہوگا؛ فوری ضبطی یا جرمانے خود بخود عائد نہیں ہوں گے جب تک کہ مزید خلاف ورزیاں نہ کی جائیں۔"
+    }
+  },
+  {
+    "id": "NU8BVZ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving and cannot produce your valid insurance certificate at the roadside, what is the correct procedure you must follow?",
+      "ur": "اگر آپ کو ڈرائیونگ کے دوران پولیس نے روکا اور آپ سڑک کنارے اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کو کون سا درست طریقہ کار اپنانا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You will be fined immediately and your vehicle will be seized on the spot",
+        "ur": "آپ کو فوری طور پر جرمانہ کیا جائے گا اور آپ کی گاڑی موقع پر ضبط کر لی جائے گی۔"
+      },
+      "d": {
+        "en": "You will be allowed to continue driving without any further action",
+        "ur": "آپ کو بغیر کسی اضافی کارروائی کے ڈرائیونگ جاری رکھنے کی اجازت دی جائے گی۔"
+      },
+      "c": {
+        "en": "You must pay a fixed penalty notice within 14 days",
+        "ur": "آپ کو مقررہ جرمانے کی اطلاع 14 دن کے اندر ادا کرنی ہوگی۔"
+      },
+      "a": {
+        "en": "You must produce the insurance certificate at a police station within 7 days",
+        "ur": "آپ کو 7 دن کے اندر پولیس اسٹیشن پر انشورنس سرٹیفکیٹ پیش کرنا ہوگا۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police, you must produce it at a police station within 7 days; immediate seizure or fines are not automatic in this case.",
+      "ur": "اگر آپ پولیس کی درخواست پر اپنا انشورنس سرٹیفکیٹ پیش نہیں کر سکتے تو آپ کو اسے سات دن کے اندر قریبی پولیس اسٹیشن میں پیش کرنا ہوگا؛ اس صورت میں فوری ضبط یا جرمانہ خود بخود لاگو نہیں ہوتا۔"
+    }
+  },
+  {
+    "id": "81NAQ1",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس پولیس اسٹیشن پر اسے فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police at the roadside, you must provide it at a police station within 7 days.",
+      "ur": "اگر آپ پولیس کی جانب سے سڑک پر بیمہ سرٹیفکیٹ دکھانے کا مطالبہ کیا جائے اور آپ اسے فراہم نہ کر سکیں، تو آپ کو اسے سات دن کے اندر قریبی پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "04MAQW",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving and cannot produce your valid insurance certificate at the roadside, what is the legal time frame within which you must provide it to avoid further penalties?",
+      "ur": "اگر آپ ڈرائیونگ کے دوران پولیس کے ذریعے روکے جائیں اور سڑک کنارے اپنا درست انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو مزید جرمانے سے بچنے کے لیے آپ کو قانونی طور پر کتنے دنوں کے اندر یہ سرٹیفکیٹ فراہم کرنا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Within 24 hours at any police station",
+        "ur": "کسی بھی پولیس اسٹیشن میں 24 گھنٹوں کے اندر"
+      },
+      "d": {
+        "en": "Immediately at the roadside or face an automatic fine",
+        "ur": "فوری طور پر سڑک کے کنارے رکیں ورنہ خودکار جرمانہ ہوگا۔"
+      },
+      "c": {
+        "en": "Within 14 days by post to the DVLA",
+        "ur": "چودہ دن کے اندر ڈاک کے ذریعے ڈی وی ایل اے کو ارسال کریں۔"
+      },
+      "a": {
+        "en": "Within 7 days at a police station",
+        "ur": "سات دن کے اندر پولیس اسٹیشن میں"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must provide it within 7 days at a police station to avoid further penalties.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو آپ کو مزید جرمانے سے بچنے کے لیے اسے سات دن کے اندر پولیس اسٹیشن میں جمع کروانا ہوگا۔"
+    }
+  },
+  {
+    "id": "99G2XD",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot immediately produce your valid insurance certificate, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ فوری طور پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن میں فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police, you must provide it at a police station within 7 days.",
+      "ur": "اگر آپ پولیس کی درخواست پر اپنا انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کو اسے 7 دن کے اندر قریبی پولیس اسٹیشن میں فراہم کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "DZIKJR",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن میں فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police at the roadside, you must provide it at a police station within 7 days.",
+      "ur": "اگر آپ پولیس کی جانب سے سڑک پر بیمہ سرٹیفکیٹ طلب کیے جانے پر اسے فراہم نہیں کر سکتے، تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "071ZXC",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot immediately produce your valid insurance certificate, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ فوری طور پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن میں فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Within 28 days",
+        "ur": "28 دن کے اندر"
+      },
+      "c": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "b": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must produce your insurance certificate within 7 days at a police station if you cannot show it immediately when requested by an officer.",
+      "ur": "اگر آپ فوری طور پر آفیسر کی درخواست پر انشورنس سرٹیفکیٹ دکھانے سے قاصر ہوں تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "JKP3UR",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن میں فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "b": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "d": {
+        "en": "Within 28 days",
+        "ur": "28 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police at the roadside, you must provide it at a police station within 7 days.",
+      "ur": "اگر آپ پولیس کی جانب سے سڑک پر بیمہ سرٹیفکیٹ دکھانے کا مطالبہ کیا جائے اور آپ اسے فراہم نہ کر سکیں، تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "Y9UFVP",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس زیادہ سے زیادہ کتنے وقت تک پولیس اسٹیشن پر اسے فراہم کرنے کا موقع ہوتا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police at the roadside, you must provide it at a police station within 7 days.",
+      "ur": "اگر آپ پولیس کی جانب سے روڈ پر بیمہ سرٹیفکیٹ طلب کرنے پر اسے پیش نہیں کر سکتے، تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں فراہم کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "8CWOSW",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس پولیس اسٹیشن پر اسے فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must provide it at a police station within 7 days as required by law.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو قانون کے مطابق آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں جمع کرانا ہوگا۔"
+    }
+  },
+  {
+    "id": "617XJS",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس پولیس اسٹیشن پر اسے فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "c": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "b": {
+        "en": "Within 14 days",
+        "ur": "چودہ دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must provide it at a police station within 7 days, as per legal requirements.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو قانونی تقاضوں کے مطابق آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں فراہم کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "U8UQCB",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن میں فراہم کرنے کے لیے زیادہ سے زیادہ کتنی مدت ہوتی ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "b": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "d": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police at the roadside, you must provide it at a police station within 7 days.",
+      "ur": "اگر آپ پولیس کی جانب سے سڑک پر بیمہ سرٹیفکیٹ دکھانے کا کہا جائے اور آپ اسے فراہم نہ کر سکیں، تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "7PVNA6",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving and cannot immediately produce your valid insurance certificate, what is the legal requirement regarding producing this document?",
+      "ur": "اگر آپ ڈرائیونگ کے دوران پولیس کے رکنے پر فوری طور پر اپنی درست انشورنس سرٹیفکیٹ پیش کرنے سے قاصر ہوں، تو اس دستاویز کو پیش کرنے کے حوالے سے قانونی تقاضہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must pay an on-the-spot fine and cannot produce it later",
+        "ur": "آپ کو فوری جرمانہ ادا کرنا ہوگا اور بعد میں اسے پیش نہیں کیا جا سکتا۔"
+      },
+      "a": {
+        "en": "You must produce it at a police station within 7 days if requested",
+        "ur": "اگر درخواست کی جائے تو آپ کو اسے 7 دن کے اندر پولیس اسٹیشن پر پیش کرنا ہوگا۔"
+      },
+      "d": {
+        "en": "You must produce it immediately or face automatic licence suspension",
+        "ur": "آپ کو اسے فوراً پیش کرنا ہوگا ورنہ آپ کا لائسنس خود بخود معطل کر دیا جائے گا۔"
+      },
+      "c": {
+        "en": "You must surrender your vehicle until you can show the certificate",
+        "ur": "آپ کو اپنی گاڑی حوالے کرنی ہوگی جب تک کہ آپ سرٹیفیکیٹ دکھانے کے قابل نہ ہوں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you may be required to produce it at a police station within 7 days, rather than immediately at the roadside.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو آپ سے کہا جا سکتا ہے کہ اسے فوراً روڈ پر پیش کرنے کی بجائے سات دن کے اندر پولیس اسٹیشن میں پیش کریں۔"
+    }
+  },
+  {
+    "id": "S5ILQ7",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving, which of the following documents are you legally required to produce at the roadside or within 7 days if you do not have them with you?",
+      "ur": "اگر آپ کو پولیس نے گاڑی چلانے کے دوران روکا تو آپ قانونی طور پر کون سے دستاویزات سڑک کے کنارے یا اگر آپ کے پاس وہ دستاویزات موجود نہ ہوں تو سات دن کے اندر پیش کرنا لازمی ہیں؟"
+    },
+    "options": {
+      "a": {
+        "en": "Valid driving licence, valid insurance certificate, and valid MOT certificate (if applicable)",
+        "ur": "درست ڈرائیونگ لائسنس، درست انشورنس سرٹیفکیٹ، اور درست MOT سرٹیفکیٹ (اگر قابل اطلاق ہو)"
+      },
+      "b": {
+        "en": "Valid driving licence and vehicle registration certificate (V5C log book)",
+        "ur": "درست ڈرائیونگ لائسنس اور گاڑی کا رجسٹریشن سرٹیفکیٹ (V5C لاگ بک)"
+      },
+      "c": {
+        "en": "Valid insurance certificate and proof of vehicle tax payment",
+        "ur": "درست انشورنس سرٹیفکیٹ اور گاڑی کے ٹیکس کی ادائیگی کا ثبوت"
+      },
+      "d": {
+        "en": "Valid MOT certificate and vehicle registration certificate (V5C log book)",
+        "ur": "درست MOT سرٹیفکیٹ اور گاڑی کا رجسٹریشن سرٹیفکیٹ (V5C لاگ بک)"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must be able to produce a valid driving licence, insurance certificate, and MOT certificate (if the vehicle requires one) when requested by the police, either at the roadside or within 7 days at a police station.",
+      "ur": "آپ کو پولیس کی درخواست پر، چاہے راستے پر ہو یا سات دن کے اندر پولیس اسٹیشن پر، درست ڈرائیونگ لائسنس، انشورنس سرٹیفکیٹ، اور اگر گاڑی کے لیے ضروری ہو تو MOT سرٹیفکیٹ پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "T37S2T",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving and cannot produce your valid insurance certificate at the roadside, what is the legal requirement regarding producing this document?",
+      "ur": "اگر آپ گاڑی چلاتے ہوئے پولیس کے رکنے پر اپنی درست انشورنس سرٹیفکیٹ سڑک کے کنارے پیش کرنے سے قاصر ہوں، تو اس دستاویز کو پیش کرنے کے حوالے سے قانونی تقاضہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You will be fined immediately and your vehicle will be seized on the spot",
+        "ur": "آپ کو فوری طور پر جرمانہ کیا جائے گا اور آپ کی گاڑی موقع پر ضبط کر لی جائے گی۔"
+      },
+      "a": {
+        "en": "You must produce the insurance certificate at a police station within 7 days",
+        "ur": "آپ کو بیمہ کا سرٹیفیکیٹ سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+      },
+      "d": {
+        "en": "You are allowed to produce the insurance certificate at your convenience within 30 days",
+        "ur": "آپ کو اجازت ہے کہ آپ انشورنس سرٹیفکیٹ اپنی سہولت کے مطابق 30 دن کے اندر فراہم کریں۔"
+      },
+      "c": {
+        "en": "You must produce the insurance certificate within 24 hours at any police station",
+        "ur": "آپ کو 24 گھنٹوں کے اندر کسی بھی پولیس اسٹیشن پر انشورنس سرٹیفکیٹ پیش کرنا ہوگا۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must produce it at a police station within 7 days, otherwise you may face penalties.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا، ورنہ آپ کو جرمانے کا سامنا کرنا پڑ سکتا ہے۔"
+    }
+  },
+  {
+    "id": "4JIKSF",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن میں فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "چودہ دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police at the roadside, you must provide it at a police station within 7 days.",
+      "ur": "اگر آپ پولیس کی جانب سے سڑک پر بیمہ سرٹیفکیٹ طلب کرنے پر اسے فراہم نہیں کر سکتے، تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "0MG0I9",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot immediately produce your valid insurance certificate, what is the maximum time allowed to present it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ فوری طور پر اپنی درست انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو اسے پولیس اسٹیشن میں پیش کرنے کے لیے زیادہ سے زیادہ کتنے وقت کی اجازت ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "d": {
+        "en": "Within 28 days",
+        "ur": "28 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "c": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must produce your insurance certificate within 7 days at a police station if you cannot show it immediately when requested by a police officer.",
+      "ur": "اگر آپ پولیس افسر کی درخواست پر فوری طور پر اپنا انشورنس سرٹیفکیٹ دکھانے سے قاصر ہوں تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "TW7YYB",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر آپ کو ڈرائیونگ کے دوران پولیس نے روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس پولیس اسٹیشن پر اسے فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must provide it at a police station within 7 days to avoid penalties.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو آپ کو جرمانے سے بچنے کے لیے اسے سات دن کے اندر پولیس اسٹیشن میں جمع کروانا ہوگا۔"
+    }
+  },
+  {
+    "id": "OU3TUP",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving, which of the following documents are you legally required to produce at the roadside or within 7 days if not immediately available?",
+      "ur": "اگر آپ کو گاڑی چلانے کے دوران پولیس نے روکا، تو درج ذیل میں سے کون سے دستاویزات آپ قانونی طور پر سڑک کے کنارے فوراً یا اگر فوری دستیاب نہ ہوں تو سات دن کے اندر پیش کرنے کے پابند ہیں؟"
+    },
+    "options": {
+      "d": {
+        "en": "Valid MOT certificate and proof of SORN declaration",
+        "ur": "درست MOT سرٹیفکیٹ اور SORN اعلامیہ کا ثبوت"
+      },
+      "c": {
+        "en": "Valid insurance certificate and proof of vehicle tax payment",
+        "ur": "درست بیمہ سرٹیفکیٹ اور گاڑی کے ٹیکس کی ادائیگی کا ثبوت"
+      },
+      "b": {
+        "en": "Valid driving licence and vehicle registration certificate (V5C log book)",
+        "ur": "درست ڈرائیونگ لائسنس اور گاڑی کی رجسٹریشن سرٹیفکیٹ (V5C لاگ بک)"
+      },
+      "a": {
+        "en": "Valid driving licence, valid insurance certificate, and valid MOT certificate (if applicable)",
+        "ur": "درست ڈرائیونگ لائسنس، درست انشورنس سرٹیفکیٹ، اور درست MOT سرٹیفکیٹ (اگر قابل اطلاق ہو)"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must be able to produce your valid driving licence, insurance certificate, and MOT certificate (if the vehicle requires one) when requested by the police, either at the roadside or within 7 days; the V5C and proof of tax or SORN are not required to be produced on demand.",
+      "ur": "آپ کو پولیس کی درخواست پر، چاہے راستے پر ہو یا سات دن کے اندر، اپنی درست ڈرائیونگ لائسنس، انشورنس سرٹیفکیٹ، اور MOT سرٹیفکیٹ (اگر گاڑی کے لیے ضروری ہو) پیش کرنا ہوگا؛ V5C اور ٹیکس یا SORN کا ثبوت فوری طور پر پیش کرنا ضروری نہیں ہے۔"
+    }
+  },
+  {
+    "id": "5T0ARX",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن میں فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police at the roadside, you must provide it at a police station within 7 days.",
+      "ur": "اگر آپ سڑک پر پولیس کی درخواست پر اپنا انشورنس سرٹیفکیٹ پیش نہیں کر سکتے تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں فراہم کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "E2M46T",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving and cannot produce your valid insurance certificate at the roadside, what is the correct procedure you must follow?",
+      "ur": "اگر آپ ڈرائیونگ کے دوران پولیس کے رکنے پر اپنی درست انشورنس سرٹیفکیٹ سڑک کے کنارے پیش نہیں کر سکتے، تو آپ کو کون سا درست طریقہ کار اپنانا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You will be fined immediately and your vehicle will be seized on the spot",
+        "ur": "آپ کو فوری طور پر جرمانہ کیا جائے گا اور آپ کی گاڑی موقع پر ضبط کر لی جائے گی۔"
+      },
+      "a": {
+        "en": "You must produce the insurance certificate at a police station within 7 days",
+        "ur": "آپ کو بیمہ کا سرٹیفکیٹ سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+      },
+      "d": {
+        "en": "You must surrender your driving licence until the certificate is shown",
+        "ur": "آپ کو اپنی ڈرائیونگ لائسنس جمع کروانی ہوگی جب تک کہ سرٹیفکیٹ پیش نہ کیا جائے۔"
+      },
+      "c": {
+        "en": "You must pay a fixed penalty notice and provide the certificate within 14 days",
+        "ur": "آپ کو 14 دن کے اندر مقررہ جرمانے کی ادائیگی کرنی ہوگی اور سرٹیفیکیٹ فراہم کرنا ہوگا۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police, you are required to produce it at a police station within 7 days, rather than facing immediate penalties or licence surrender.",
+      "ur": "اگر آپ پولیس کی درخواست پر اپنی انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا، تاکہ فوری جرمانے یا لائسنس ضبط کرنے سے بچا جا سکے۔"
+    }
+  },
+  {
+    "id": "8Q4U13",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the legal requirement regarding producing this document?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک کنارے اپنا درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو اس دستاویز کو پیش کرنے کے حوالے سے قانونی تقاضہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must produce it within 24 hours at any police station",
+        "ur": "آپ کو اسے کسی بھی پولیس اسٹیشن پر 24 گھنٹوں کے اندر پیش کرنا ہوگا۔"
+      },
+      "a": {
+        "en": "You must produce it at a police station within 7 days",
+        "ur": "آپ اسے پولیس اسٹیشن میں 7 دن کے اندر پیش کریں۔"
+      },
+      "b": {
+        "en": "You will be fined immediately and your vehicle will be seized",
+        "ur": "آپ کو فوری طور پر جرمانہ کیا جائے گا اور آپ کی گاڑی ضبط کر لی جائے گی۔"
+      },
+      "d": {
+        "en": "You can send a copy by post within 14 days",
+        "ur": "آپ 14 دن کے اندر ڈاک کے ذریعے ایک نقل بھیج سکتے ہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you are legally required to produce it at a police station within 7 days, not immediately or by post.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو قانوناً آپ پر لازم ہے کہ اسے فوراً یا ڈاک کے ذریعے نہیں بلکہ سات دن کے اندر پولیس اسٹیشن میں پیش کریں۔"
+    }
+  },
+  {
+    "id": "X1TGVW",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفیکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن میں فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must provide it at a police station within 7 days to avoid penalties.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو آپ کو جرمانے سے بچنے کے لیے اسے سات دن کے اندر پولیس اسٹیشن میں جمع کروانا ہوگا۔"
+    }
+  },
+  {
+    "id": "2BUW22",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنا درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن میں فراہم کرنے کے لیے زیادہ سے زیادہ کتنی مدت ہوتی ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must provide it at a police station within 7 days to avoid penalties.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو آپ کو جرمانے سے بچنے کے لیے اسے سات دن کے اندر پولیس اسٹیشن میں جمع کروانا ہوگا۔"
+    }
+  },
+  {
+    "id": "D0XGFX",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر آپ کو پولیس نے گاڑی چلانے کے دوران روکا اور آپ موقع پر اپنی درست انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو پولیس اسٹیشن پر اسے فراہم کرنے کے لیے آپ کے پاس زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police at the roadside, you must provide it at a police station within 7 days.",
+      "ur": "اگر آپ پولیس کی جانب سے سڑک پر بیمہ سرٹیفکیٹ دکھانے کی درخواست کی جائے اور آپ اسے فراہم نہ کر سکیں، تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "PMLY30",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving and cannot produce your valid insurance certificate at the roadside, what is the correct legal requirement?",
+      "ur": "اگر آپ ڈرائیونگ کے دوران پولیس کے ذریعے روکے جائیں اور سڑک کنارے اپنا درست انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو قانونی طور پر آپ پر کیا درست تقاضہ عائد ہوتا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You will be fined immediately and your vehicle will be seized on the spot",
+        "ur": "آپ کو فوری طور پر جرمانہ کیا جائے گا اور آپ کی گاڑی موقع پر ضبط کر لی جائے گی۔"
+      },
+      "d": {
+        "en": "You will be allowed to continue driving without penalty if you show your driving licence",
+        "ur": "اگر آپ اپنا ڈرائیونگ لائسنس دکھائیں تو آپ کو بغیر کسی سزا کے ڈرائیونگ جاری رکھنے کی اجازت دی جائے گی۔"
+      },
+      "c": {
+        "en": "You must pay a fixed penalty notice and provide the certificate within 14 days",
+        "ur": "آپ کو 14 دن کے اندر فکسڈ پینلٹی نوٹس کی ادائیگی کرنی ہوگی اور سرٹیفیکیٹ فراہم کرنا ہوگا۔"
+      },
+      "a": {
+        "en": "You must produce the insurance certificate at a police station within 7 days",
+        "ur": "آپ کو 7 دن کے اندر پولیس اسٹیشن پر انشورنس سرٹیفکیٹ پیش کرنا ہوگا۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police, you must produce it at a police station within 7 days; immediate fines or seizure do not automatically apply at the roadside.",
+      "ur": "اگر آپ پولیس کی درخواست پر اپنا انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا؛ فوری جرمانے یا گاڑی کی ضبطی خود بخود سڑک پر لاگو نہیں ہوتے۔"
+    }
+  },
+  {
+    "id": "BSD8EN",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک کنارے اپنا درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن میں فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must provide it at a police station within 7 days to avoid penalties.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو آپ کو جرمانے سے بچنے کے لیے اسے سات دن کے اندر پولیس اسٹیشن میں جمع کرانا ہوگا۔"
+    }
+  },
+  {
+    "id": "KUXV92",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving, which of the following documents are you legally required to produce at the roadside or within 7 days if requested?",
+      "ur": "اگر آپ کو ڈرائیونگ کے دوران پولیس نے روکا تو درج ذیل میں سے کون سے دستاویزات آپ قانونی طور پر سڑک کے کنارے یا درخواست پر سات دن کے اندر پیش کرنے کے پابند ہیں؟"
+    },
+    "options": {
+      "b": {
+        "en": "Valid driving licence and vehicle registration certificate (V5C log book)",
+        "ur": "درست ڈرائیونگ لائسنس اور گاڑی کا رجسٹریشن سرٹیفکیٹ (V5C لاگ بک)"
+      },
+      "a": {
+        "en": "Valid driving licence, valid insurance certificate, and valid MOT certificate (if applicable)",
+        "ur": "درست ڈرائیونگ لائسنس، درست انشورنس سرٹیفکیٹ، اور درست MOT سرٹیفکیٹ (اگر قابل اطلاق ہو)"
+      },
+      "d": {
+        "en": "Valid MOT certificate and proof of SORN declaration",
+        "ur": "درست MOT سرٹیفکیٹ اور SORN اعلان کا ثبوت"
+      },
+      "c": {
+        "en": "Valid insurance certificate and proof of vehicle tax payment",
+        "ur": "درست انشورنس سرٹیفیکیٹ اور گاڑی کے ٹیکس کی ادائیگی کا ثبوت"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must be able to produce a valid driving licence, insurance certificate, and MOT certificate (if the vehicle requires one) when requested by the police, either at the roadside or within 7 days at a police station.",
+      "ur": "آپ کو پولیس کی درخواست پر، چاہے راستے پر ہو یا سات دن کے اندر پولیس اسٹیشن پر، درست ڈرائیونگ لائسنس، انشورنس سرٹیفکیٹ، اور اگر گاڑی کے لیے ضروری ہو تو MOT سرٹیفکیٹ پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "11E4UB",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن میں فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Within 28 days",
+        "ur": "28 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "c": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must provide it at a police station within 7 days to avoid penalties.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو آپ کو جرمانے سے بچنے کے لیے اسے سات دن کے اندر پولیس اسٹیشن میں جمع کروانا ہوگا۔"
+    }
+  },
+  {
+    "id": "ADR5MB",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot immediately produce your valid insurance certificate, what is the maximum time allowed to present it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ فوراً اپنی درست انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو اسے پولیس اسٹیشن میں پیش کرنے کے لیے زیادہ سے زیادہ کتنے وقت کی اجازت ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate at the roadside, you must provide it at a police station within 7 days to avoid penalties.",
+      "ur": "اگر آپ سڑک پر اپنا انشورنس سرٹیفکیٹ پیش نہیں کر سکتے تو جرمانے سے بچنے کے لیے اسے سات دن کے اندر پولیس اسٹیشن میں جمع کروانا ضروری ہے۔"
+    }
+  },
+  {
+    "id": "GUIEL4",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن میں فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must provide it at a police station within 7 days, otherwise you may face penalties.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں فراہم کرنا ہوگا، ورنہ آپ کو جرمانے کا سامنا کرنا پڑ سکتا ہے۔"
+    }
+  },
+  {
+    "id": "Y1JU1C",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the legal requirement regarding producing this document?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک کنارے اپنا درست انشورنس سرٹیفیکیٹ پیش نہیں کر سکتے، تو اس دستاویز کو پیش کرنے کے حوالے سے قانونی تقاضہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must produce the insurance certificate at a police station within 7 days",
+        "ur": "آپ کو 7 دن کے اندر پولیس اسٹیشن پر انشورنس سرٹیفکیٹ پیش کرنا ہوگا۔"
+      },
+      "d": {
+        "en": "You are allowed to produce the insurance certificate within 14 days at a police station",
+        "ur": "آپ کو انشورنس سرٹیفکیٹ پولیس اسٹیشن میں 14 دن کے اندر فراہم کرنے کی اجازت ہے۔"
+      },
+      "b": {
+        "en": "You must pay a fine immediately and cannot produce the document later",
+        "ur": "آپ کو جرمانہ فوراً ادا کرنا ہوگا اور بعد میں دستاویز پیش نہیں کی جا سکتی۔"
+      },
+      "c": {
+        "en": "You must produce the insurance certificate within 24 hours at any police station",
+        "ur": "آپ کو 24 گھنٹوں کے اندر کسی بھی پولیس اسٹیشن پر انشورنس سرٹیفکیٹ پیش کرنا ہوگا۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you are legally required to produce it at a police station within 7 days, not immediately or within 24 hours.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو قانونی طور پر آپ پر لازم ہے کہ اسے فوراً یا 24 گھنٹوں کے اندر نہیں بلکہ 7 دن کے اندر پولیس اسٹیشن میں پیش کریں۔"
+    }
+  },
+  {
+    "id": "09W8XH",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the legal requirement regarding producing this document?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک کنارے اپنا درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو اس دستاویز کو پیش کرنے کے حوالے سے قانونی تقاضہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must produce it within 24 hours at any police station",
+        "ur": "آپ کو اسے کسی بھی پولیس اسٹیشن پر 24 گھنٹوں کے اندر پیش کرنا ہوگا۔"
+      },
+      "d": {
+        "en": "You are allowed to send a copy by post within 14 days",
+        "ur": "آپ کو 14 دن کے اندر ڈاک کے ذریعے ایک کاپی بھیجنے کی اجازت ہے۔"
+      },
+      "b": {
+        "en": "You will be fined immediately and your vehicle will be seized",
+        "ur": "آپ کو فوری طور پر جرمانہ کیا جائے گا اور آپ کی گاڑی ضبط کر لی جائے گی۔"
+      },
+      "a": {
+        "en": "You must produce it at a police station within 7 days",
+        "ur": "آپ اسے پولیس اسٹیشن میں سات دن کے اندر پیش کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must produce it at a police station within 7 days, not immediately or by post.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفیکیٹ پیش نہ کر سکیں، تو آپ کو اسے فوراً یا ڈاک کے ذریعے نہیں بلکہ سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "SQL09C",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving, but do not have your insurance certificate with you, what is the maximum time allowed to produce it at a police station?",
+      "ur": "اگر آپ گاڑی چلاتے ہوئے پولیس کے رکنے پر اپنے پاس انشورنس سرٹیفکیٹ نہیں رکھتے، تو اسے پولیس اسٹیشن پر پیش کرنے کے لیے زیادہ سے زیادہ کتنی مدت دی جاتی ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate at the roadside, you must produce it at a police station within 7 days of the request.",
+      "ur": "اگر آپ سڑک پر اپنا انشورنس سرٹیفکیٹ پیش نہیں کر سکتے تو آپ کو اسے درخواست کے 7 دنوں کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "ILALU6",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving, which of the following documents are you legally required to produce at the roadside or within 7 days if not immediately available?",
+      "ur": "اگر آپ کو ڈرائیونگ کے دوران پولیس نے روکا، تو درج ذیل میں سے کون سے دستاویزات آپ قانونی طور پر سڑک پر یا اگر فوراً دستیاب نہ ہوں تو سات دن کے اندر پیش کرنے کے پابند ہیں؟"
+    },
+    "options": {
+      "c": {
+        "en": "Valid insurance certificate and proof of vehicle tax payment",
+        "ur": "درست انشورنس سرٹیفکیٹ اور گاڑی کے ٹیکس کی ادائیگی کا ثبوت"
+      },
+      "a": {
+        "en": "Valid driving licence, insurance certificate, and MOT certificate (if applicable)",
+        "ur": "درست ڈرائیونگ لائسنس، انشورنس سرٹیفکیٹ، اور ایم او ٹی سرٹیفکیٹ (اگر قابلِ اطلاق ہو)"
+      },
+      "d": {
+        "en": "Valid MOT certificate and vehicle registration certificate (V5C)",
+        "ur": "درست MOT سرٹیفکیٹ اور گاڑی کا رجسٹریشن سرٹیفکیٹ (V5C)"
+      },
+      "b": {
+        "en": "Valid driving licence and vehicle registration certificate (V5C)",
+        "ur": "درست ڈرائیونگ لائسنس اور گاڑی کی رجسٹریشن سرٹیفکیٹ (V5C)"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must be able to produce a valid driving licence, insurance certificate, and MOT certificate (if the vehicle requires one) when requested by the police; the V5C and proof of vehicle tax are not required to be produced at the roadside.",
+      "ur": "آپ کو پولیس کی درخواست پر درست ڈرائیونگ لائسنس، انشورنس سرٹیفکیٹ، اور MOT سرٹیفکیٹ (اگر گاڑی کے لیے ضروری ہو) پیش کرنا ہوگا؛ V5C اور گاڑی کے ٹیکس کا ثبوت سڑک پر پیش کرنا ضروری نہیں ہے۔"
+    }
+  },
+  {
+    "id": "EEWGCG",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot immediately produce your valid insurance certificate, what is the maximum time allowed to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ فوری طور پر اپنی درست انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو پولیس اسٹیشن پر اسے فراہم کرنے کے لیے زیادہ سے زیادہ کتنی مدت دی جاتی ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police, you must provide it at a police station within 7 days.",
+      "ur": "اگر پولیس کی درخواست پر آپ اپنا انشورنس سرٹیفکیٹ پیش نہیں کر سکتے تو آپ کو اسے سات دن کے اندر قریبی تھانے میں جمع کروانا ہوگا۔"
+    }
+  },
+  {
+    "id": "JGHRWR",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن پر فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      },
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must provide it at a police station within 7 days, as per legal requirements.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو قانونی تقاضوں کے مطابق آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں جمع کروانا ہوگا۔"
+    }
+  },
+  {
+    "id": "LUSKB3",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving, but do not have your insurance certificate with you, what is the legal requirement regarding producing this document?",
+      "ur": "اگر آپ گاڑی چلاتے ہوئے پولیس کے رکنے پر اپنے پاس انشورنس سرٹیفکیٹ نہیں رکھتے، تو اس دستاویز کو پیش کرنے کے حوالے سے قانونی تقاضہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must produce the insurance certificate at a police station within 7 days",
+        "ur": "آپ کو بیمہ کا سرٹیفکیٹ سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+      },
+      "d": {
+        "en": "You are allowed to produce the insurance certificate within 30 days at any police station",
+        "ur": "آپ کو انشورنس سرٹیفکیٹ کسی بھی پولیس اسٹیشن پر 30 دن کے اندر فراہم کرنے کی اجازت ہے۔"
+      },
+      "b": {
+        "en": "You must produce the insurance certificate immediately at the roadside",
+        "ur": "آپ کو فوری طور پر سڑک کے کنارے انشورنس سرٹیفکیٹ پیش کرنا ہوگا۔"
+      },
+      "c": {
+        "en": "You must pay a fine on the spot and produce the certificate within 14 days",
+        "ur": "آپ کو موقع پر جرمانہ ادا کرنا ہوگا اور 14 دن کے اندر سرٹیفکیٹ پیش کرنا ہوگا۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police at the roadside, you are legally required to produce it at a police station within 7 days.",
+      "ur": "اگر آپ پولیس کی جانب سے سڑک پر بیمہ سرٹیفکیٹ دکھانے کا مطالبہ کرنے پر اسے فراہم نہیں کر سکتے، تو قانونی طور پر آپ پر لازم ہے کہ اسے سات دن کے اندر پولیس اسٹیشن میں پیش کریں۔"
+    }
+  },
+  {
+    "id": "0X6TC8",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time you have to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کے پاس اسے پولیس اسٹیشن پر فراہم کرنے کے لیے زیادہ سے زیادہ کتنا وقت ہوتا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days",
+        "ur": "چودہ دن کے اندر"
+      },
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "b": {
+        "en": "Within 24 hours",
+        "ur": "24 گھنٹوں کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must provide it at a police station within 7 days, as per legal requirements.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو قانونی تقاضوں کے مطابق آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں جمع کروانا ہوگا۔"
+    }
+  },
+  {
+    "id": "M6C776",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time allowed to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو اسے پولیس اسٹیشن پر فراہم کرنے کے لیے زیادہ سے زیادہ وقت کتنا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "d": {
+        "en": "Within 28 days",
+        "ur": "28 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 14 days",
+        "ur": "چودہ دن کے اندر"
+      },
+      "c": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must produce your insurance certificate within 7 days at a police station if you cannot show it when requested at the roadside.",
+      "ur": "اگر آپ سڑک پر درخواست کیے جانے پر اپنا انشورنس سرٹیفکیٹ دکھانے سے قاصر ہوں تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "4ARQ6P",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving and cannot immediately produce your valid insurance certificate, what is the correct procedure you must follow?",
+      "ur": "اگر آپ کو ڈرائیونگ کے دوران پولیس نے روکا اور آپ فوراً اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کو کون سا درست طریقہ کار اپنانا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You will be fined on the spot and your vehicle will be seized immediately",
+        "ur": "آپ کو موقع پر جرمانہ کیا جائے گا اور آپ کی گاڑی فوری طور پر ضبط کر لی جائے گی۔"
+      },
+      "d": {
+        "en": "You will be allowed to continue driving without penalty if you have a valid driving licence",
+        "ur": "اگر آپ کے پاس درست ڈرائیونگ لائسنس ہے تو آپ بغیر کسی سزا کے ڈرائیونگ جاری رکھ سکتے ہیں۔"
+      },
+      "c": {
+        "en": "You must pay a fixed penalty notice and provide the certificate within 14 days",
+        "ur": "آپ کو مقررہ جرمانے کی اطلاع وصول ہونے کے بعد 14 دن کے اندر جرمانہ ادا کرنا ہوگا اور سرٹیفیکیٹ فراہم کرنا ہوگا۔"
+      },
+      "a": {
+        "en": "You must produce the insurance certificate at a police station within 7 days",
+        "ur": "آپ کو بیمہ کا سرٹیفیکیٹ سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police, you must produce it at a police station within 7 days; immediate seizure or fines are not automatic in this case.",
+      "ur": "اگر آپ پولیس کی درخواست پر اپنا انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا؛ اس صورت میں فوری ضبط یا جرمانہ خود بخود نہیں ہوتا۔"
+    }
+  },
+  {
+    "id": "3IKUAC",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving, how long do you have to produce your valid insurance certificate if you cannot provide it at the roadside?",
+      "ur": "اگر پولیس نے آپ کو گاڑی چلانے کے دوران روکا اور آپ موقع پر اپنی درست انشورنس سرٹیفکیٹ فراہم نہ کر سکیں، تو آپ کے پاس اسے پیش کرنے کے لیے کتنی مدت ہوتی ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Within 24 hours at any police station",
+        "ur": "کسی بھی پولیس اسٹیشن پر 24 گھنٹوں کے اندر"
+      },
+      "c": {
+        "en": "Within 14 days by post to the DVLA",
+        "ur": "چودہ دن کے اندر ڈاک کے ذریعے ڈی وی ایل اے کو بھیجیں۔"
+      },
+      "a": {
+        "en": "Within 7 days at a police station",
+        "ur": "سات دن کے اندر پولیس اسٹیشن میں"
+      },
+      "d": {
+        "en": "Immediately at the roadside or face a fine",
+        "ur": "فوری طور پر سڑک کے کنارے رکیں ورنہ جرمانہ ہوگا۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must provide it within 7 days at a police station; failure to do so can lead to penalties.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو آپ کو اسے سات دن کے اندر قریبی پولیس اسٹیشن میں فراہم کرنا ہوگا؛ ایسا نہ کرنے کی صورت میں جرمانہ عائد کیا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "GIHK2L",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police and cannot produce your valid insurance certificate at the roadside, what is the maximum time allowed to provide it at a police station?",
+      "ur": "اگر پولیس نے آپ کو روکا اور آپ سڑک پر اپنی درست انشورنس سرٹیفکیٹ پیش نہیں کر سکتے، تو اسے پولیس اسٹیشن پر فراہم کرنے کے لیے زیادہ سے زیادہ وقت کتنا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Within 7 days",
+        "ur": "سات دن کے اندر"
+      },
+      "c": {
+        "en": "Within 3 days",
+        "ur": "3 دن کے اندر"
+      },
+      "d": {
+        "en": "Within 28 days",
+        "ur": "28 دن کے اندر"
+      },
+      "b": {
+        "en": "Within 14 days",
+        "ur": "14 دن کے اندر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when requested by the police at the roadside, you must provide it at a police station within 7 days.",
+      "ur": "اگر آپ پولیس کی جانب سے سڑک پر بیمہ سرٹیفکیٹ دکھانے کی درخواست پر اسے فراہم نہیں کر سکتے، تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "KU251V",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving, but do not have your insurance certificate with you, what is the legal requirement regarding producing this document?",
+      "ur": "اگر آپ ڈرائیونگ کے دوران پولیس کے ذریعے روکے جائیں اور آپ کے پاس اپنا انشورنس سرٹیفیکیٹ موجود نہ ہو، تو اس دستاویز کو پیش کرنے کے حوالے سے قانونی تقاضہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must produce the insurance certificate immediately at the roadside",
+        "ur": "آپ کو فوری طور پر سڑک کنارے انشورنس سرٹیفکیٹ پیش کرنا ہوگا۔"
+      },
+      "a": {
+        "en": "You must produce the insurance certificate at a police station within 7 days",
+        "ur": "آپ کو بیمہ کا سرٹیفکیٹ سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+      },
+      "d": {
+        "en": "You are not required to produce the insurance certificate if you have a valid driving licence",
+        "ur": "اگر آپ کے پاس درست ڈرائیونگ لائسنس ہے تو آپ کو انشورنس سرٹیفکیٹ پیش کرنے کی ضرورت نہیں ہے۔"
+      },
+      "c": {
+        "en": "You must produce the insurance certificate within 14 days at any police station",
+        "ur": "آپ کو 14 دن کے اندر کسی بھی پولیس اسٹیشن پر انشورنس سرٹیفکیٹ پیش کرنا ہوگا۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must produce it at a police station within 7 days as required by law.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو قانون کے مطابق آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+    }
+  },
+  {
+    "id": "TBH2GZ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Essential documents",
+    "question": {
+      "en": "If you are stopped by the police while driving, but do not have your insurance certificate with you, what is the legal requirement regarding producing this document?",
+      "ur": "اگر آپ گاڑی چلاتے ہوئے پولیس کے رکنے پر اپنے ساتھ انشورنس سرٹیفکیٹ نہیں رکھتے، تو اس دستاویز کو پیش کرنے کے حوالے سے قانونی تقاضہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must produce the insurance certificate at a police station within 7 days",
+        "ur": "آپ کو انشورنس سرٹیفکیٹ سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا۔"
+      },
+      "d": {
+        "en": "You are allowed to produce the insurance certificate within 30 days at any police station",
+        "ur": "آپ کو انشورنس سرٹیفکیٹ کسی بھی پولیس اسٹیشن پر 30 دن کے اندر پیش کرنے کی اجازت ہے۔"
+      },
+      "b": {
+        "en": "You must produce the insurance certificate immediately at the roadside",
+        "ur": "آپ کو فوراً سڑک کے کنارے انشورنس سرٹیفکیٹ پیش کرنا ہوگا۔"
+      },
+      "c": {
+        "en": "You must pay a fine on the spot and produce the certificate within 14 days",
+        "ur": "آپ کو موقع پر جرمانہ ادا کرنا ہوگا اور 14 دن کے اندر سرٹیفکیٹ پیش کرنا ہوگا۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you cannot produce your insurance certificate when stopped, you must produce it at a police station within 7 days, not necessarily immediately at the roadside.",
+      "ur": "اگر آپ کو روکا جائے اور آپ اپنا انشورنس سرٹیفکیٹ پیش نہ کر سکیں، تو آپ کو اسے سات دن کے اندر پولیس اسٹیشن میں پیش کرنا ہوگا، ضروری نہیں کہ فوراً سڑک کنارے پیش کیا جائے۔"
+    }
+  }
+]

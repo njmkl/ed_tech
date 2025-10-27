@@ -1,0 +1,336 @@
+[
+  {
+    "id": "QHB6FB",
+    "question": "¿Qué indica esta señal?",
+    "options": {
+      "a": "La prohibición de entrada a todos los automóviles.",
+      "b": "El fin de una vía reservada para automóviles.",
+      "c": "Una vía reservada a turismos."
+    },
+    "correct_answer": "b",
+    "explanation": "Esta señal indica el fin de una vía reservada para automóviles, lo que significa que a partir de este punto la vía deja de estar restringida exclusivamente para automóviles. En ruso: Этот знак указывает на конец дороги, предназначенной только для автомобилей, что означает, что с этого момента дорога перестает быть ограниченной только для автомобилей.",
+    "file_id": "tema4_015",
+    "topic": "Señales de indicación"
+  },
+  {
+    "id": "QH4ABO",
+    "question": {
+      "es": "¿Qué indica esta señal sobre los carriles en los que están situadas las señales de velocidad mínima?",
+      "ru": "Что означает этот знак относительно полос, на которых установлены знаки минимальной скорости?"
+    },
+    "options": {
+      "a": {
+        "es": "Sólo para vehículos rápidos y el carril situado más a la derecha es para vehículos lentos.",
+        "ru": "Только для быстрых транспортных средств, а полоса, расположенная справа, предназначена для медленных транспортных средств."
+      },
+      "b": {
+        "es": "Sólo puede utilizarlos si circula a una velocidad inferior a la indicada.",
+        "ru": "Можно использовать их только если вы движетесь со скоростью ниже указанной."
+      },
+      "c": {
+        "es": "Sólo puede utilizarlos si circula a una velocidad igual o superior a la indicada.",
+        "ru": "Можно использовать их только если вы движетесь со скоростью, равной или превышающей указанную."
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "es": "Esta señal indica que los carriles señalizados con velocidad mínima sólo pueden ser utilizados por vehículos que circulen a una velocidad igual o superior a la indicada. Esto garantiza la fluidez y seguridad del tráfico, evitando que vehículos lentos obstaculicen el paso en carriles rápidos.",
+      "ru": "Этот знак указывает, что полосы с минимальной скоростью могут использоваться только транспортными средствами, движущимися с указанной или большей скоростью. Это обеспечивает плавность и безопасность движения, предотвращая помехи со стороны медленных транспортных средств на быстрых полосах."
+    },
+    "file_id": "tema4_014",
+    "topic": "Señales de indicación"
+  },
+  {
+    "id": "QJDS5D",
+    "question": {
+      "es": "¿Qué indica esta señal?",
+      "ru": "Что означает этот дорожный знак?"
+    },
+    "options": {
+      "a": {
+        "es": "Un cambio de dirección.",
+        "ru": "Изменение направления."
+      },
+      "b": {
+        "es": "Un apartadero en un túnel.",
+        "ru": "Обочина в туннеле."
+      },
+      "c": {
+        "es": "Un lugar reservado para ambulancias.",
+        "ru": "Место, зарезервированное для скорых помощи."
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "es": "Esta señal indica la presencia de un apartadero en un túnel, un lugar donde los vehículos pueden detenerse en caso de emergencia. Es importante conocer esta señal para saber dónde parar si surge una situación peligrosa dentro del túnel.",
+      "ru": "Этот знак указывает на наличие обочины в туннеле — место, где транспортные средства могут остановиться в случае чрезвычайной ситуации. Важно знать этот знак, чтобы понимать, где можно остановиться при возникновении опасной ситуации в туннеле."
+    },
+    "file_id": "tema4_017",
+    "topic": "Señales de indicación"
+  },
+  {
+    "id": "QCYDR7",
+    "question": {
+      "es": "Circula a 70 km/h, ¿Qué carril debe utilizar?",
+      "ru": "Вы движетесь со скоростью 70 км/ч, какую полосу должны использовать?"
+    },
+    "options": {
+      "a": {
+        "es": "El de la izquierda.",
+        "ru": "Левую полосу."
+      },
+      "b": {
+        "es": "El central.",
+        "ru": "Центральную полосу."
+      },
+      "c": {
+        "es": "El de la derecha.",
+        "ru": "Правую полосу."
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "es": "Cuando se circula a 70 km/h en una vía con varias carriles, debe utilizarse el carril de la derecha para no obstaculizar el tráfico más rápido. El carril izquierdo está reservado para adelantar o para vehículos que circulan a mayor velocidad.",
+      "ru": "При движении со скоростью 70 км/ч по дороге с несколькими полосами следует использовать правую полосу, чтобы не мешать более быстрому движению. Левая полоса предназначена для обгона или для транспортных средств, движущихся с большей скоростью."
+    },
+    "file_id": "tema4_013",
+    "topic": "Señales de indicación"
+  },
+  {
+    "id": "QG2JXN",
+    "question": {
+      "es": "¿Alguna de estas señales indica que finaliza un carril destinado a la circulación?",
+      "ru": "Указывает ли какой-либо из этих знаков на окончание полосы движения?"
+    },
+    "options": {
+      "a": {
+        "es": "Sí, la señal A.",
+        "ru": "Да, знак A."
+      },
+      "b": {
+        "es": "Sí, la señal B.",
+        "ru": "Да, знак B."
+      },
+      "c": {
+        "es": "No, ninguna de las dos.",
+        "ru": "Нет, ни один из этих знаков."
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "es": "La señal A indica el fin de un carril destinado a la circulación, generalmente señalizando que la vía se estrecha o que la vía destinada a un tipo de vehículo termina. La señal B no indica el fin de un carril, sino otra advertencia o información. Por eso, la respuesta correcta es la señal A.",
+      "ru": "Знак A указывает на окончание полосы движения, обычно сигнализируя о сужении дороги или окончании полосы, предназначенной для определённого типа транспорта. Знак B не указывает на окончание полосы, а несёт другую информацию или предупреждение. Поэтому правильный ответ — знак A."
+    },
+    "file_id": "tema4_012",
+    "topic": "Señales de indicación"
+  },
+  {
+    "id": "QLFI9L",
+    "question": {
+      "es": "El día 2 de cada mes, delante de esta señal, ¿Está permitido parar?",
+      "ru": "2-го числа каждого месяца, перед этим знаком, разрешена ли остановка?"
+    },
+    "options": {
+      "a": {
+        "es": "No, ni parar ni estacionar.",
+        "ru": "Нет, ни остановка, ни стоянка не разрешены."
+      },
+      "b": {
+        "es": "No.",
+        "ru": "Нет."
+      },
+      "c": {
+        "es": "Sí.",
+        "ru": "Да."
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "es": "Esta señal indica prohibición de parar y estacionar el día 2 de cada mes para facilitar la limpieza o mantenimiento. Por lo tanto, no está permitido ni parar ni estacionar delante de esta señal en esa fecha.",
+      "ru": "Этот знак запрещает остановку и стоянку 2-го числа каждого месяца для облегчения уборки или технического обслуживания. Поэтому перед этим знаком в указанную дату нельзя ни останавливаться, ни парковаться."
+    },
+    "file_id": "tema3_050",
+    "topic": "Señales verticales"
+  },
+  {
+    "id": "QM4PV5",
+    "question": {
+      "es": "Circula a 90 km/h, ¿Por cuál carril debe hacerlo con esta señal?",
+      "ru": "Вы движетесь со скоростью 90 км/ч, по какой полосе вы должны ехать согласно этому знаку?"
+    },
+    "options": {
+      "a": {
+        "es": "Por el carril central porque circula a más de 70 km/h.",
+        "ru": "По средней полосе, потому что скорость превышает 70 км/ч."
+      },
+      "b": {
+        "es": "Por carril derecho, siempre que sea posible.",
+        "ru": "По правой полосе, если это возможно."
+      },
+      "c": {
+        "es": "Por el carril izquierdo.",
+        "ru": "По левой полосе."
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "es": "Según las normas de circulación en España, los vehículos deben circular por el carril derecho siempre que sea posible, especialmente en vías con varios carriles. La señal indica que la velocidad máxima permitida es 90 km/h, pero esto no cambia la obligación de usar el carril derecho para facilitar el flujo del tráfico y evitar obstrucciones.",
+      "ru": "Согласно правилам дорожного движения Испании, транспортные средства должны двигаться по правой полосе, если это возможно, особенно на дорогах с несколькими полосами. Знак указывает максимальную разрешённую скорость 90 км/ч, но это не отменяет обязанность использовать правую полосу для обеспечения плавного движения и предотвращения заторов."
+    },
+    "file_id": "tema4_005",
+    "topic": "Señales de indicación"
+  },
+  {
+    "id": "QRLA9G",
+    "question": "¿Qué significa esta señal de tráfico?",
+    "options": {
+      "a": "Prohíbe a los camiones adelantar salvo a motocicletas de dos ruedas.",
+      "b": "Prohíbe a los camiones de más de 3.500 kg de MMA adelantar, salvo a motocicletas de dos ruedas si no invaden el sentido contrario.",
+      "c": "Prohíbe a los camiones adelantar a todos los vehículos."
+    },
+    "correct_answer": "b",
+    "explanation": "Esta señal indica que los camiones con un peso máximo autorizado (MMA) superior a 3.500 kg tienen prohibido adelantar, excepto a motocicletas de dos ruedas siempre que no invadan el sentido contrario. Это означает, что грузовикам с максимальной разрешённой массой более 3,5 тонн запрещено обгонять, за исключением двухколёсных мотоциклов, если они не выезжают на встречную полосу. Такая мера направлена на повышение безопасности на дорогах, учитывая особенности манёвров грузовых автомобилей.",
+    "file_id": "tema3_021",
+    "topic": "Señales verticales"
+  },
+  {
+    "id": "Q1JHVJ",
+    "question": {
+      "es": "Esta señal de peligro, ¿Qué indica?",
+      "ru": "Этот предупреждающий знак, что он обозначает?"
+    },
+    "options": {
+      "a": {
+        "es": "Paso a nivel con barreras.",
+        "ru": "Железнодорожный переезд с шлагбаумами."
+      },
+      "b": {
+        "es": "Paso a nivel sin barreras.",
+        "ru": "Железнодорожный переезд без шлагбаумов."
+      },
+      "c": {
+        "es": "Paso a nivel sin barreras con más de una vía férrea.",
+        "ru": "Железнодорожный переезд без шлагбаумов с более чем одной железнодорожной колеей."
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "es": "La señal indica un paso a nivel sin barreras, lo que significa que hay un cruce ferroviario sin barreras automáticas. Es importante extremar la precaución y detenerse si se aproxima un tren. Esta señal advierte al conductor para que reduzca la velocidad y esté atento.",
+      "ru": "Знак указывает на железнодорожный переезд без шлагбаумов, что означает наличие пересечения с железной дорогой без автоматических преград. Важно проявлять повышенную осторожность и остановиться, если приближается поезд. Этот знак предупреждает водителя снизить скорость и быть внимательным."
+    },
+    "file_id": "tema3_018",
+    "topic": "Señales verticales"
+  },
+  {
+    "id": "QROOTW",
+    "question": {
+      "es": "Si estando en posesión del permiso B conduce un camión que tiene la MMA para dicho permiso, ¿Le afecta esta señal?",
+      "ru": "Если, имея водительское удостоверение категории B, вы управляете грузовиком с максимально допустимой массой (MMA), разрешённой для этой категории, влияет ли на вас этот дорожный знак?"
+    },
+    "options": {
+      "a": {
+        "es": "No.",
+        "ru": "Нет."
+      },
+      "b": {
+        "es": "Sí.",
+        "ru": "Да."
+      },
+      "c": {
+        "es": "Sí, pero únicamente cuando la MMA sea el doble de la tara.",
+        "ru": "Да, но только если максимально допустимая масса вдвое превышает массу без нагрузки (тару)."
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "es": "La señal afecta a todos los vehículos que superen la MMA permitida para el permiso con el que se conduce. Aunque se tenga el permiso B, si el camión tiene la MMA correspondiente a este permiso, la señal es aplicable y debe respetarse. Por lo tanto, la respuesta correcta es 'Sí'.",
+      "ru": "Дорожный знак влияет на все транспортные средства, масса которых превышает максимально допустимую для категории водительского удостоверения. Если у вас есть категория B и вы управляете грузовиком с MMA, разрешённой для этой категории, знак действует и его нужно соблюдать. Поэтому правильный ответ — «Да»."
+    },
+    "file_id": "tema3_027",
+    "topic": "Señales verticales"
+  },
+  {
+    "id": "QFMA48",
+    "question": {
+      "es": "¿Qué indican estas señales?",
+      "ru": "Что означают эти знаки?"
+    },
+    "options": {
+      "a": {
+        "es": "Obligan a circular a 30 km/h en las curvas.",
+        "ru": "Обязывают двигаться со скоростью 30 км/ч на поворотах."
+      },
+      "b": {
+        "es": "Prohíben circular a más de 30 km/h en las curvas.",
+        "ru": "Запрещают двигаться со скоростью более 30 км/ч на поворотах."
+      },
+      "c": {
+        "es": "Aconsejan no circular a más de 30 km/h en las curvas.",
+        "ru": "Рекомендуют не двигаться со скоростью более 30 км/ч на поворотах."
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "es": "Estas señales son señales de recomendación que aconsejan no superar la velocidad indicada en las curvas para garantizar la seguridad. No imponen una obligación ni una prohibición, sino una recomendación para evitar accidentes.",
+      "ru": "Эти знаки являются рекомендательными и советуют не превышать указанную скорость на поворотах для обеспечения безопасности. Они не налагают обязательств или запретов, а дают рекомендацию во избежание аварий."
+    },
+    "file_id": "tema3_039",
+    "topic": "Señales verticales"
+  },
+  {
+    "id": "QOQFHX",
+    "question": {
+      "es": "Conduciendo su turismo, esta señal le indica que para circular es obligatorio el uso de cadenas o neumáticos especiales a una velocidad máxima de...",
+      "ru": "Управляя своим легковым автомобилем, этот знак указывает, что для движения обязательно использование цепей или специальных шин с максимальной скоростью..."
+    },
+    "options": {
+      "a": {
+        "es": "80 km/h.",
+        "ru": "80 км/ч."
+      },
+      "b": {
+        "es": "60 km/h.",
+        "ru": "60 км/ч."
+      },
+      "c": {
+        "es": "30 km/h.",
+        "ru": "30 км/ч."
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "es": "Esta señal indica que es obligatorio el uso de cadenas o neumáticos especiales para circular y que la velocidad máxima permitida en estas condiciones es de 30 km/h. Esto se debe a que en condiciones de nieve o hielo, la adherencia es limitada y se debe reducir la velocidad para garantizar la seguridad vial.",
+      "ru": "Этот знак указывает, что обязательно использование цепей или специальных шин для движения, а максимальная разрешённая скорость в таких условиях — 30 км/ч. Это связано с тем, что на снегу или льду сцепление ограничено, и скорость нужно снижать для обеспечения безопасности дорожного движения."
+    },
+    "file_id": "tema4_037",
+    "topic": "Señales de indicación"
+  },
+  {
+    "id": "QT85EU",
+    "question": {
+      "es": "¿Esta señal obliga a detenerse?",
+      "ru": "Обязывает ли этот знак остановиться?"
+    },
+    "options": {
+      "a": {
+        "es": "No.",
+        "ru": "Нет."
+      },
+      "b": {
+        "es": "Sí, siempre.",
+        "ru": "Да, всегда."
+      },
+      "c": {
+        "es": "Sí, cuando un vehículo que circule en sentido contrario dificulte el paso a ambos vehículos.",
+        "ru": "Да, когда транспортное средство, движущееся в противоположном направлении, затрудняет проезд обоим транспортным средствам."
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "es": "Esta señal indica que no es obligatorio detenerse siempre, sino solo cuando un vehículo que circula en sentido contrario dificulte el paso a ambos vehículos. Por lo tanto, la detención es condicional y depende de la situación del tráfico.",
+      "ru": "Этот знак означает, что остановка обязательна не всегда, а только тогда, когда транспортное средство, движущееся в противоположном направлении, затрудняет проезд обоим транспортным средствам. Таким образом, остановка является условной и зависит от ситуации на дороге."
+    },
+    "file_id": "tema3_058",
+    "topic": "Señales verticales"
+  }
+]

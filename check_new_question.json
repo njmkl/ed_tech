@@ -1,0 +1,142 @@
+[
+  {
+    "id": "001",
+    "file_id": "A1B2C3",
+    "topic": "ruido y contaminación",
+    "question": {
+      "es": "¿Está permitido conducir un vehículo que produce un nivel de ruido superior al permitido por la ley?",
+      "ru": "Разрешено ли управлять транспортным средством, если уровень шума, который оно издаёт, превышает установленные нормы?"
+    },
+    "options": {
+      "a": {
+        "es": "No, está prohibido circular con vehículos que superen los límites de ruido establecidos.",
+        "ru": "Нет, запрещено ездить на транспортных средствах, которые превышают установленные нормы шума."
+      },
+      "b": {
+        "es": "Sí, siempre que el ruido no moleste a los peatones.",
+        "ru": "Да, если шум не мешает пешеходам."
+      },
+      "c": {
+        "es": "Sí, pero solo en zonas rurales donde no hay restricciones de ruido.",
+        "ru": "Да, но только в сельской местности, где нет ограничений по шуму."
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "es": "Conducir un vehículo que emite un ruido superior a los límites legales está prohibido para evitar la contaminación acústica y proteger la salud pública. Las normativas establecen límites claros que deben respetarse en todo momento.",
+      "ru": "Управление транспортным средством, издающим шум выше установленных законом норм, запрещено для предотвращения шумового загрязнения и защиты здоровья населения. Правила чётко устанавливают допустимые пределы, которые необходимо соблюдать всегда."
+    }
+  },
+  {
+    "id": "12345",
+    "file_id": "abcde",
+    "topic": "comportamiento_vial",
+    "question": {
+      "es": "¿En qué situaciones los jóvenes tienden a hacer maniobras más peligrosas al conducir?",
+      "ru": "В каких ситуациях молодые водители чаще выполняют более рискованные манёвры?"
+    },
+    "options": {
+      "a": {
+        "es": "Cuando están con amigos o en grupo.",
+        "ru": "Когда они находятся в компании друзей или в группе."
+      },
+      "b": {
+        "es": "Cuando conducen solos y con precaución.",
+        "ru": "Когда они едут одни и осторожно."
+      },
+      "c": {
+        "es": "Cuando conducen en carreteras poco transitadas y tranquilas.",
+        "ru": "Когда они едут по малозагруженным и спокойным дорогам."
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "es": "Los jóvenes suelen realizar maniobras de riesgo con mayor frecuencia cuando están en compañía de amigos o en grupo, debido a la influencia social y el deseo de impresionar. Esta presión social puede llevar a comportamientos imprudentes al volante.",
+      "ru": "Молодые люди чаще совершают рискованные манёвры, когда находятся в компании друзей или в группе, из-за социального давления и желания произвести впечатление. Такое влияние может привести к неосторожному поведению за рулём."
+    }
+  },
+  {
+    "id": "001",
+    "file_id": "abc123",
+    "topic": "Distracciones al volante",
+    "question": {
+      "es": "¿Cuál es el tipo de accidente más común relacionado con el uso del teléfono móvil mientras se conduce?",
+      "ru": "Какой вид ДТП чаще всего происходит из-за использования мобильного телефона за рулём?"
+    },
+    "options": {
+      "a": {
+        "es": "Colisiones traseras por distracción",
+        "ru": "Наезд сзади из-за отвлечения внимания"
+      },
+      "b": {
+        "es": "Accidentes por exceso de velocidad",
+        "ru": "Аварии из-за превышения скорости"
+      },
+      "c": {
+        "es": "Choques laterales por cambio de carril incorrecto",
+        "ru": "Боковые столкновения из-за неправильной смены полосы"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "es": "El uso del teléfono móvil distrae al conductor, reduciendo su atención y tiempo de reacción, lo que con frecuencia provoca colisiones traseras. Estas ocurren cuando el conductor no detecta a tiempo que el vehículo delante ha frenado o disminuido la velocidad.",
+      "ru": "Использование мобильного телефона отвлекает водителя, снижая его внимание и время реакции, что часто приводит к наездам сзади. Такие ДТП происходят, когда водитель не успевает вовремя заметить, что впереди идущее транспортное средство затормозило или снизило скорость."
+    }
+  },
+  {
+    "id": "12345",
+    "file_id": "67890",
+    "topic": "Seguridad y mantenimiento del vehículo",
+    "question": {
+      "es": "¿Qué riesgo existe si no se enciende el testigo de presión de aceite en el tablero?",
+      "ru": "Какая опасность возникает, если на приборной панели не загорается индикатор давления масла?"
+    },
+    "options": {
+      "a": {
+        "es": "El motor puede sufrir daños graves por falta de lubricación.",
+        "ru": "Двигатель может получить серьёзные повреждения из-за недостатка смазки."
+      },
+      "b": {
+        "es": "El sistema de frenos dejará de funcionar correctamente.",
+        "ru": "Тормозная система перестанет работать правильно."
+      },
+      "c": {
+        "es": "La batería se descargará rápidamente.",
+        "ru": "Аккумулятор быстро разрядится."
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "es": "El testigo de presión de aceite indica si el motor está recibiendo la lubricación necesaria. Si no se enciende, puede significar que hay un fallo en el sistema de aceite, lo que puede causar daños graves al motor por falta de lubricación.",
+      "ru": "Индикатор давления масла показывает, получает ли двигатель необходимую смазку. Если он не загорается, это может означать неисправность системы масла, что приведёт к серьёзным повреждениям двигателя из-за недостатка смазки."
+    }
+  },
+  {
+    "id": "12345",
+    "file_id": "67890",
+    "topic": "navegación",
+    "question": {
+      "es": "Si el conductor no está seguro de las instrucciones del GPS, ¿qué acción debe tomar?",
+      "ru": "Если водитель сомневается в указаниях навигатора GPS, что ему следует предпринять?"
+    },
+    "options": {
+      "a": {
+        "es": "Seguir las señales de tráfico y no confiar únicamente en el GPS.",
+        "ru": "Следовать дорожным знакам и не полагаться только на навигатор."
+      },
+      "b": {
+        "es": "Ignorar las señales y continuar estrictamente las indicaciones del GPS.",
+        "ru": "Игнорировать дорожные знаки и строго следовать указаниям навигатора."
+      },
+      "c": {
+        "es": "Detener el vehículo y apagar el GPS inmediatamente.",
+        "ru": "Остановить автомобиль и сразу выключить навигатор."
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "es": "En caso de duda sobre las indicaciones del GPS, el conductor debe priorizar las señales de tráfico, ya que estas reflejan la normativa vigente y las condiciones reales de la vía. El GPS es una herramienta auxiliar y puede contener errores o desactualizaciones.",
+      "ru": "При сомнениях в указаниях навигатора водитель должен ориентироваться на дорожные знаки, так как они отражают действующие правила и реальную ситуацию на дороге. Навигатор служит вспомогательным средством и может содержать ошибки или устаревшую информацию."
+    }
+  }
+]

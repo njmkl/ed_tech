@@ -1,0 +1,3302 @@
+[
+  {
+    "id": "9OHXLW",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on your nearside. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن آپ کے قریب والے جانب ایک سائیکل سوار سیدھا جا رہا ہے۔ سب سے محفوظ اور سب سے زیادہ خیال رکھنے والا عمل کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Edge forward past the cyclist to claim the junction first",
+        "ur": "سائیکل سوار کو آہستہ آہستہ پیچھے چھوڑ کر چوراہے پر سب سے پہلے پہنچیں۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد دائیں مڑیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to move faster",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو تیز چلنے کی اطلاع دی جا سکے۔"
+      },
+      "b": {
+        "en": "Signal early and overtake the cyclist quickly before turning",
+        "ur": "جلدی سگنل دیں اور موڑنے سے پہلے سائیکل سوار کو تیزی سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Waiting behind the cyclist until they have passed ensures you do not cut across their path, maintaining safety and showing consideration for vulnerable road users.",
+      "ur": "سائیکل سوار کے پیچھے انتظار کرنا جب تک وہ گزر نہ جائیں، اس بات کو یقینی بناتا ہے کہ آپ ان کے راستے کو عبور نہ کریں، جس سے حفاظت برقرار رہتی ہے اور کمزور سڑک استعمال کرنے والوں کے لیے خیال ظاہر ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "52LF34",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on your right. What is the best course of action to demonstrate a safe and courteous attitude?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن آپ کے دائیں طرف ایک سائیکل سوار سیدھا جا رہا ہے۔ محفوظ اور شائستہ رویہ ظاہر کرنے کے لیے بہترین عمل کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Turn right immediately to avoid holding up traffic behind you.",
+        "ur": "فوری طور پر دائیں مڑیں تاکہ آپ کے پیچھے آنے والی ٹریفک کو روکنا نہ پڑے۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to move faster.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو تیز چلنے کی اطلاع دی جا سکے۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right.",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، پھر دائیں مڑیں۔"
+      },
+      "b": {
+        "en": "Signal early and overtake the cyclist quickly before turning.",
+        "ur": "جلدی سگنل دیں اور موڑنے سے پہلے سائیکل سوار کو تیزی سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Waiting behind the cyclist until they have passed ensures you do not cut across their path, showing patience and consideration for vulnerable road users.",
+      "ur": "سائیکل سوار کے پیچھے انتظار کرنا جب تک وہ گزر نہ جائیں، اس بات کو یقینی بناتا ہے کہ آپ ان کے راستے کو کاٹ کر نہ جائیں، جو کہ کمزور سڑک استعمال کرنے والوں کے لیے صبر اور خیال کا مظاہرہ ہے۔"
+    }
+  },
+  {
+    "id": "61PICR",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں طرف سیدھا جا رہا ہے۔ سب سے محفوظ اور سب سے زیادہ خیال رکھنے والا عمل کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      },
+      "d": {
+        "en": "Edge forward slowly into the junction to encourage the cyclist to stop.",
+        "ur": "چالاکی سے چوراہے میں آگے بڑھیں تاکہ سائیکل سوار کو رکنے کی ترغیب ملے۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your presence and proceed.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو اپنی موجودگی سے آگاہ کریں اور آگے بڑھیں۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly to avoid holding up traffic behind you.",
+        "ur": "جلدی سگنل دیں اور فوری موڑ لیں تاکہ آپ کے پیچھے آنے والی ٹریفک رکی نہ رہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists going straight ahead before turning right to avoid cutting across their path, ensuring their safety and demonstrating courteous driving.",
+      "ur": "آپ کو ہمیشہ دائیں مڑنے سے پہلے سیدھے جانے والے سائیکل سواروں کا انتظار کرنا چاہیے تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے، ان کی حفاظت کو یقینی بنایا جا سکے اور شائستہ ڈرائیونگ کا مظاہرہ کیا جا سکے۔"
+    }
+  },
+  {
+    "id": "5E3UTM",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right across a cycle lane. A cyclist is approaching from behind in the cycle lane. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو سائیکل لین کو پار کرتے ہوئے دائیں مڑنا ہے۔ ایک سائیکل سوار سائیکل لین میں آپ کے پیچھے سے آ رہا ہے۔ سب سے محفوظ اور مہذب عمل کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Edge forward slowly into the cycle lane to show your intention to turn.",
+        "ur": "دائیں یا بائیں موڑنے کا ارادہ ظاہر کرنے کے لیے آہستہ آہستہ سائیکل لین میں داخل ہوں۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them plenty of space.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں کافی جگہ دیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to stop before you turn.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو موڑنے سے پہلے رکنے کی اطلاع دی جا سکے۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly to avoid holding up traffic behind you.",
+        "ur": "جلدی سگنل دیں اور فوری موڑ لیں تاکہ آپ کے پیچھے آنے والی گاڑیوں کو انتظار نہ کرنا پڑے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Waiting for the cyclist to pass before turning ensures their safety and shows consideration, as cutting across a cyclist’s path is dangerous and against the rules.",
+      "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کرنا ان کی حفاظت کو یقینی بناتا ہے اور شائستگی کا مظاہرہ کرتا ہے، کیونکہ سائیکل سوار کے راستے کو کاٹنا خطرناک ہے اور قواعد کے خلاف ہے۔"
+    }
+  },
+  {
+    "id": "REVSXD",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the best course of action to demonstrate a safe and considerate attitude?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن آپ کے دائیں طرف ایک سائیکل سوار سیدھا جا رہا ہے۔ محفوظ اور مہذب رویہ ظاہر کرنے کے لیے بہترین عمل کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right.",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد دائیں مڑیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your intention to turn.",
+        "ur": "اپنی گاڑی کا ہارن بجائیں تاکہ سائیکل سوار کو آپ کے موڑنے کے ارادے سے آگاہ کیا جا سکے۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly before the cyclist reaches the junction.",
+        "ur": "جلدی سگنل دیں اور سائیکل سوار کے چوراہے تک پہنچنے سے پہلے فوری طور پر مڑ جائیں۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning right.",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist until they have passed to avoid cutting across their path, demonstrating patience and consideration for vulnerable road users.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے انتظار کرنا چاہیے جب تک کہ وہ گزر نہ جائیں تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے، اور اس طرح کمزور سڑک استعمال کرنے والوں کے لیے صبر اور خیال کا مظاہرہ کیا جا سکے۔"
+    }
+  },
+  {
+    "id": "YSH34R",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right across a cycle lane. A cyclist is approaching from behind in the cycle lane. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو سائیکل لین کو پار کرتے ہوئے دائیں مڑنا ہے۔ ایک سائیکل سوار سائیکل لین میں آپ کے پیچھے سے آ رہا ہے۔ سب سے محفوظ اور سب سے زیادہ خیال رکھنے والا عمل کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Edge forward slowly into the cycle lane to warn the cyclist of your intention.",
+        "ur": "اپنی نیت سے سائیکل سوار کو آگاہ کرنے کے لیے آہستہ آہستہ سائیکل لین میں آگے بڑھیں۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning across the cycle lane.",
+        "ur": "سائیکل سوار کے گزرنے کا انتظار کریں اس سے پہلے کہ آپ سائیکل لین کو عبور کرتے ہوئے مڑیں۔"
+      },
+      "c": {
+        "en": "Wave the cyclist to go ahead before you turn.",
+        "ur": "موڑ لینے سے پہلے سائیکل سوار کو آگے جانے کا اشارہ دیں۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly to avoid holding up the cyclist.",
+        "ur": "جلدی سگنل دیں اور تیزی سے مڑیں تاکہ سائیکل سوار کو روکنا نہ پڑے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists to pass before turning across their path to avoid cutting them off and ensure their safety.",
+      "ur": "آپ کو ہمیشہ سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے اس سے پہلے کہ آپ ان کے راستے کو کاٹ کر مڑیں، تاکہ ان کا راستہ نہ روکا جائے اور ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "YV22AL",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right across a cycle lane. A cyclist is approaching from behind in the cycle lane. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو سائیکل لین کو کراس کرتے ہوئے دائیں مڑنا ہے۔ ایک سائیکل سوار سائیکل لین میں آپ کے پیچھے سے آ رہا ہے۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      },
+      "d": {
+        "en": "Edge forward slowly into the cycle lane to show your intention to turn.",
+        "ur": "آہستہ آہستہ سائیکل لین میں داخل ہوں تاکہ اپنا موڑنے کا ارادہ ظاہر کر سکیں۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly to avoid holding up traffic behind you.",
+        "ur": "جلدی سگنل دیں اور تیزی سے مڑیں تاکہ آپ کے پیچھے ٹریفک رک نہ جائے۔"
+      },
+      "c": {
+        "en": "Wave the cyclist through to cross before you turn.",
+        "ur": "سائیکل سوار کو آپ کے مڑنے سے پہلے کراس کرنے کے لیے راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists to pass before turning across their path to avoid cutting them off and to ensure their safety.",
+      "ur": "آپ کو ہمیشہ سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے اس سے پہلے کہ آپ ان کے راستے کو کراس کرتے ہوئے مڑیں، تاکہ ان کا راستہ نہ کاٹا جائے اور ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "UVI8JB",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں جانب سیدھا جا رہا ہے۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait for the cyclist to pass before making your turn",
+        "ur": "موڑ لینے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your presence and proceed",
+        "ur": "ہارن بجائیں تاکہ سائیکل سوار کو اپنی موجودگی کا پتہ چل جائے اور آگے بڑھیں۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning right",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Signal early and complete your turn quickly to avoid holding up traffic",
+        "ur": "جلدی سگنل دیں اور اپنا موڑ تیزی سے مکمل کریں تاکہ ٹریفک کو روکنے سے بچا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists to pass before turning across their path to avoid cutting them off and to ensure their safety.",
+      "ur": "آپ کو ہمیشہ سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے قبل اس کے کہ آپ ان کے راستے کو کاٹ کر مڑیں، تاکہ ان کا راستہ نہ روکا جائے اور ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "XGB2ZP",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the best course of action to demonstrate a safe and courteous attitude?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں طرف سیدھا جا رہا ہے۔ محفوظ اور شائستہ رویہ ظاہر کرنے کے لیے بہترین عمل کیا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Signal early and complete your turn quickly to avoid holding up traffic.",
+        "ur": "جلدی اشارہ دیں اور اپنا موڑ جلدی مکمل کریں تاکہ ٹریفک کو روکنے سے بچا جا سکے۔"
+      },
+      "d": {
+        "en": "Edge forward slowly to encourage the cyclist to stop and let you turn.",
+        "ur": "آہستہ آہستہ آگے بڑھیں تاکہ سائیکل سوار کو رکنے اور آپ کو مڑنے کی اجازت دینے کی ترغیب ملے۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your presence and proceed when safe.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو اپنی موجودگی کا پتہ چل جائے اور جب محفوظ ہو تو آگے بڑھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists to pass before turning across their path to avoid cutting them off and to show patience and consideration.",
+      "ur": "آپ کو ہمیشہ سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے اس سے پہلے کہ آپ ان کے راستے کو کاٹ کر مڑیں، تاکہ ان کا راستہ نہ روکا جائے اور صبر و تحمل اور خیال مندی کا مظاہرہ کیا جا سکے۔"
+    }
+  },
+  {
+    "id": "OFY7Z0",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the best course of action to demonstrate a safe and courteous attitude?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں جانب سیدھا جا رہا ہے۔ محفوظ اور شائستہ رویہ دکھانے کے لیے بہترین عمل کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Edge forward slowly to encourage the cyclist to stop and let you turn.",
+        "ur": "آہستہ آہستہ آگے بڑھیں تاکہ سائیکل سوار کو رکنے اور آپ کو مڑنے کی اجازت دینے کی ترغیب ملے۔"
+      },
+      "b": {
+        "en": "Signal early and complete your turn quickly to avoid holding up traffic.",
+        "ur": "جلدی سگنل دیں اور اپنا موڑ تیزی سے مکمل کریں تاکہ ٹریفک کو روکنے سے بچا جا سکے۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your presence and proceed when safe.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو اپنی موجودگی کا پتہ چل سکے اور جب محفوظ ہو تو آگے بڑھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Waiting for the cyclist to pass before turning shows patience and consideration, avoiding cutting across their path and ensuring their safety.",
+      "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کرنا صبر اور خیال مندی ظاہر کرتا ہے، ان کے راستے کو کاٹنے سے بچاتا ہے اور ان کی حفاظت کو یقینی بناتا ہے۔"
+    }
+  },
+  {
+    "id": "FIOJD3",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but there is a cyclist travelling straight ahead on your right. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن آپ کے دائیں طرف ایک سائیکل سوار سیدھا جا رہا ہے۔ سب سے محفوظ اور سب سے زیادہ خیال رکھنے والا عمل کیا ہوگا؟"
+    },
+    "options": {
+      "c": {
+        "en": "Overtake the cyclist on the left before turning right",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "d": {
+        "en": "Sound your horn to alert the cyclist to speed up",
+        "ur": "اپنے ہارن بجائیں تاکہ سائیکل سوار کو تیز چلنے کی اطلاع دی جا سکے۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly before the cyclist reaches the junction",
+        "ur": "جلدی سگنل دیں اور سائیکل سوار کے چوراہے تک پہنچنے سے پہلے فوری موڑ لیں۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد دائیں مڑیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist until they have passed to avoid cutting across their path, ensuring their safety and demonstrating patience and courtesy.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے انتظار کرنا چاہیے جب تک کہ وہ گزر نہ جائیں تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے، اس طرح ان کی حفاظت یقینی بنتی ہے اور صبر و شائستگی کا مظاہرہ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "S7QDHK",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "When approaching a junction where you intend to turn left but see a cyclist travelling straight ahead on your left, what is the best course of action to demonstrate a safe and considerate attitude?",
+      "ur": "جب آپ ایسے چوراہے کے قریب پہنچ رہے ہوں جہاں آپ بائیں مڑنے کا ارادہ رکھتے ہیں لیکن آپ کے بائیں طرف سیدھے جانے والا ایک سائیکل سوار نظر آ رہا ہو، تو محفوظ اور مہذب رویہ دکھانے کے لیے بہترین عمل کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning left",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد بائیں مڑیں۔"
+      },
+      "b": {
+        "en": "Signal early and turn left quickly to avoid holding up traffic",
+        "ur": "جلدی سگنل دیں اور بائیں طرف فوری موڑ لیں تاکہ ٹریفک کو روکنے سے بچا جا سکے۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your presence before turning",
+        "ur": "موڑ لینے سے پہلے سائیکل سوار کو اپنی موجودگی سے آگاہ کرنے کے لیے ہارن بجائیں۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning left",
+        "ur": "بائیں طرف مڑنے سے پہلے سائیکل سوار کو بائیں جانب سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist until they have passed to avoid cutting across their path, showing patience and consideration for vulnerable road users.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے انتظار کرنا چاہیے جب تک کہ وہ گزر نہ جائیں تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے، اور کمزور سڑک استعمال کرنے والوں کے لیے صبر اور خیال کا مظاہرہ کیا جا سکے۔"
+    }
+  },
+  {
+    "id": "Y0ZERZ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right. A cyclist is travelling straight ahead on your right. What is the best course of action to demonstrate a safe and courteous attitude?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں۔ آپ کے دائیں طرف ایک سائیکل سوار سیدھا جا رہا ہے۔ محفوظ اور شائستہ رویہ ظاہر کرنے کے لیے بہترین عمل کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Turn right immediately, assuming the cyclist will stop or slow down.",
+        "ur": "فوراً دائیں مڑیں، یہ فرض کرتے ہوئے کہ سائیکل سوار رکے گا یا رفتار کم کرے گا۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to move faster and then turn.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو تیز چلنے اور پھر موڑ لینے کی اطلاع دی جا سکے۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist and only turn right once they have passed safely.",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں اور صرف اس وقت دائیں مڑیں جب وہ محفوظ طریقے سے گزر چکا ہو۔"
+      },
+      "b": {
+        "en": "Signal early and overtake the cyclist quickly before turning right.",
+        "ur": "جلدی سگنل دیں اور دائیں مڑنے سے پہلے سائیکل سوار کو تیزی سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist and only turn right once they have passed safely to avoid cutting across their path, showing patience and consideration for vulnerable road users.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے رکنا چاہیے اور صرف اس وقت دائیں مڑنا چاہیے جب وہ محفوظ طریقے سے گزر چکے ہوں تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے، اور کمزور سڑک استعمال کرنے والوں کے لیے صبر اور خیال کا مظاہرہ کیا جا سکے۔"
+    }
+  },
+  {
+    "id": "Z0271Q",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on your right. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن آپ کے دائیں طرف ایک سائیکل سوار سیدھا جا رہا ہے۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Signal early and turn quickly before the cyclist reaches the junction",
+        "ur": "جلدی سگنل دیں اور سائیکل سوار کے چوراہے تک پہنچنے سے پہلے فوری موڑ لیں۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning right",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them plenty of space",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں کافی جگہ دیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your intention to turn",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو آپ کے موڑ لینے کے ارادے سے آگاہ کیا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Waiting for the cyclist to pass before turning and giving them plenty of space ensures their safety and follows the correct priority and courteous driving behaviour.",
+      "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کرنا اور انہیں کافی جگہ دینا ان کی حفاظت کو یقینی بناتا ہے اور درست ترجیحی اصولوں اور شائستہ ڈرائیونگ کے رویے کی پیروی کرتا ہے۔"
+    }
+  },
+  {
+    "id": "JQB7ST",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the best course of action to demonstrate a safe and courteous attitude?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن آپ کے دائیں طرف ایک سائیکل سوار سیدھا جا رہا ہے۔ محفوظ اور مہذب رویہ ظاہر کرنے کے لیے بہترین عمل کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Turn right immediately to avoid holding up traffic behind you.",
+        "ur": "فوری طور پر دائیں مڑیں تاکہ آپ کے پیچھے ٹریفک رک نہ جائے۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right.",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد دائیں مڑیں۔"
+      },
+      "b": {
+        "en": "Signal early and overtake the cyclist quickly before turning.",
+        "ur": "جلدی سگنل دیں اور موڑنے سے پہلے سائیکل سوار کو تیزی سے اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your presence and proceed.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو اپنی موجودگی کا پتہ چل جائے اور پھر آگے بڑھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Waiting behind the cyclist until they have passed ensures their safety and shows patience and courtesy, avoiding cutting across their path which could cause danger.",
+      "ur": "سائیکل سوار کے پیچھے انتظار کرنا جب تک وہ گزر نہ جائیں، ان کی حفاظت کو یقینی بناتا ہے اور صبر و شائستگی کا مظاہرہ کرتا ہے، ان کے راستے کو کاٹنے سے گریز کرتا ہے جو خطرہ پیدا کر سکتا ہے۔"
+    }
+  },
+  {
+    "id": "FZ1ND9",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the best course of action to demonstrate a safe and considerate attitude?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں جانب سیدھا جا رہا ہے۔ محفوظ اور مہذب رویہ ظاہر کرنے کے لیے بہترین عمل کیا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Signal early and turn quickly before the cyclist reaches the junction",
+        "ur": "جلدی سگنل دیں اور سائیکل سوار کے چوراہے تک پہنچنے سے پہلے تیزی سے مڑ جائیں۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، پھر دائیں مڑیں۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning right",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your presence and proceed",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو اپنی موجودگی سے آگاہ کریں اور آگے بڑھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Waiting behind the cyclist until they have passed ensures you do not cut across their path, showing patience and consideration for vulnerable road users as required by safe driving attitudes.",
+      "ur": "سائیکل سوار کے پیچھے انتظار کرنا جب تک وہ گزر نہ جائیں، اس بات کو یقینی بناتا ہے کہ آپ ان کے راستے میں مداخلت نہ کریں، جو محفوظ ڈرائیونگ کے رویے کے تحت صبر اور کمزور سڑک استعمال کرنے والوں کے لیے خیال رکھنے کی علامت ہے۔"
+    }
+  },
+  {
+    "id": "4TIB27",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the best course of action to demonstrate a safe and considerate attitude?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں جانب سیدھا جا رہا ہے۔ محفوظ اور مہذب رویہ ظاہر کرنے کے لیے بہترین عمل کیا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Signal early and overtake the cyclist quickly before turning",
+        "ur": "جلدی سگنل دیں اور موڑنے سے پہلے سائیکل سوار کو تیزی سے اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد دائیں مڑیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to move faster",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو تیز چلنے کی اطلاع دی جا سکے۔"
+      },
+      "d": {
+        "en": "Turn right immediately to avoid delaying other vehicles behind you",
+        "ur": "فوری طور پر دائیں مڑیں تاکہ آپ کے پیچھے آنے والی گاڑیوں کو تاخیر نہ ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist until they have passed before turning right to avoid cutting across their path, ensuring their safety and demonstrating patience and consideration.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے انتظار کرنا چاہیے جب تک کہ وہ گزر نہ جائیں، اس کے بعد ہی دائیں مڑیں تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے، ان کی حفاظت کو یقینی بنایا جا سکے اور صبر و تحمل اور خیال مندی کا مظاہرہ کیا جا سکے۔"
+    }
+  },
+  {
+    "id": "9ELSBV",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on the road you want to turn into. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار اس سڑک پر سیدھا جا رہا ہے جس پر آپ مڑنا چاہتے ہیں۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "c": {
+        "en": "Wave the cyclist to go ahead so you can turn without delay",
+        "ur": "سائیکل سوار کو آگے جانے کے لیے ہاتھ ہلا کر اشارہ دیں تاکہ آپ بلا تاخیر موڑ سکیں۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly to avoid holding up traffic behind you",
+        "ur": "جلدی سگنل دیں اور فوری موڑ لیں تاکہ آپ کے پیچھے ٹریفک رکے نہ۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning right",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists going straight ahead before turning across their path, giving them priority to ensure their safety and avoid cutting them off.",
+      "ur": "آپ کو ہمیشہ سائیکل سواروں کا انتظار کرنا چاہیے جو سیدھے جا رہے ہوں، اس سے پہلے کہ آپ ان کے راستے کو کراس کریں، انہیں ترجیح دیں تاکہ ان کی حفاظت یقینی بنائی جا سکے اور ان کا راستہ نہ روکا جائے۔"
+    }
+  },
+  {
+    "id": "9QHB4Y",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right across a cycle lane. A cyclist is approaching from behind in the cycle lane. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو سائیکل لین کے پار دائیں مڑنا ہے۔ ایک سائیکل سوار سائیکل لین میں آپ کے پیچھے سے آ رہا ہے۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait for the cyclist to pass before turning right",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں۔"
+      },
+      "c": {
+        "en": "Wave the cyclist to go ahead before you turn",
+        "ur": "موڑنے سے پہلے سائیکل سوار کو آگے جانے کا اشارہ دیں۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly to avoid holding up traffic",
+        "ur": "جلدی سگنل دیں اور فوری موڑ لیں تاکہ ٹریفک میں رکاوٹ نہ ہو۔"
+      },
+      "d": {
+        "en": "Edge forward slowly into the cycle lane to show your intention",
+        "ur": "دھیرے دھیرے سائیکل لین میں داخل ہوں تاکہ اپنی نیت ظاہر کر سکیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists to pass before turning right across a cycle lane to avoid cutting them off and ensure their safety.",
+      "ur": "آپ کو ہمیشہ سائیکل لین کے پار دائیں مڑنے سے پہلے سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے تاکہ ان کا راستہ نہ روکا جائے اور ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "KK902A",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the best course of action to demonstrate a responsible attitude?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں جانب سیدھا جا رہا ہے۔ ذمہ دار رویہ ظاہر کرنے کے لیے بہترین اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist of your intention to turn.",
+        "ur": "اپنی گاڑی کا ہارن بجائیں تاکہ سائیکل سوار کو آپ کے موڑنے کے ارادے سے آگاہ کیا جا سکے۔"
+      },
+      "b": {
+        "en": "Signal early and complete your turn quickly to avoid holding up traffic.",
+        "ur": "جلدی سگنل دیں اور اپنا موڑ تیزی سے مکمل کریں تاکہ ٹریفک کو روکنے سے بچا جا سکے۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning to save time.",
+        "ur": "ٹائم بچانے کے لیے موڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Waiting for the cyclist to pass before turning shows patience and consideration, preventing cutting across their path and ensuring their safety.",
+      "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کرنا صبر اور خیال مندی کی علامت ہے، جو ان کے راستے میں مداخلت سے بچاتا ہے اور ان کی حفاظت کو یقینی بناتا ہے۔"
+    }
+  },
+  {
+    "id": "IO8D1U",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "When approaching a junction where you intend to turn left but see a cyclist travelling straight ahead on your left, what is the best course of action to demonstrate a safe and considerate attitude?",
+      "ur": "جب آپ کسی چوراہے کے قریب پہنچ رہے ہوں جہاں آپ بائیں مڑنے کا ارادہ رکھتے ہیں لیکن آپ کے بائیں جانب سیدھے جانے والا ایک سائیکل سوار نظر آ رہا ہو، تو محفوظ اور مہذب رویہ دکھانے کے لیے بہترین عمل کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Edge forward slowly and turn left once the cyclist is close enough",
+        "ur": "آہستہ آہستہ آگے بڑھیں اور جب سائیکل سوار کافی قریب ہو جائے تو بائیں مڑیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist and proceed when they move aside",
+        "ur": "ہارن بجائیں تاکہ سائیکل سوار کو خبردار کیا جا سکے اور جب وہ راستہ دے تو آگے بڑھیں۔"
+      },
+      "b": {
+        "en": "Wait for the cyclist to pass before turning, even if it means a short delay",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں، چاہے اس سے تھوڑی دیر ہو جائے۔"
+      },
+      "a": {
+        "en": "Signal left early and turn ahead of the cyclist to avoid delay",
+        "ur": "جلدی بائیں اشارہ دیں اور سائیکل سوار سے پہلے موڑ لیں تاکہ تاخیر سے بچا جا سکے۔"
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "en": "Waiting for the cyclist to pass before turning shows patience and consideration, preventing cutting across their path and ensuring their safety.",
+      "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کرنا صبر اور خیال مندی کی علامت ہے، جو ان کے راستے میں مداخلت سے بچاتا ہے اور ان کی حفاظت کو یقینی بناتا ہے۔"
+    }
+  },
+  {
+    "id": "OBGYHE",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on the road you want to turn into. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن ایک سائیکل سوار اس سڑک پر سیدھا جا رہا ہے جس پر آپ مڑنا چاہتے ہیں۔ سب سے محفوظ اور سب سے زیادہ خیال رکھنے والا عمل کیا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Signal early and turn quickly in front of the cyclist to avoid delaying other traffic",
+        "ur": "جلدی سگنل دیں اور سائیکل سوار کے سامنے جلدی موڑ لیں تاکہ دیگر ٹریفک کو تاخیر نہ ہو۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to speed up so you can turn sooner",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو تیز چلنے کی اطلاع دی جا سکے تاکہ آپ جلدی مڑ سکیں۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد دائیں مڑیں۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning right",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Waiting behind the cyclist until they have passed ensures their safety and avoids cutting across their path, demonstrating patience and courtesy as required by safe driving attitudes.",
+      "ur": "سائیکل سوار کے پیچھے انتظار کرنا جب تک وہ گزر نہ جائیں، ان کی حفاظت کو یقینی بناتا ہے اور ان کے راستے کو کاٹنے سے بچاتا ہے، جو محفوظ ڈرائیونگ کے رویے کے تحت صبر اور شائستگی کا مظاہرہ ہے۔"
+    }
+  },
+  {
+    "id": "ZR4FAF",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on the road you are turning into. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن ایک سائیکل سوار اس سڑک پر سیدھا جا رہا ہے جس پر آپ مڑنے والے ہیں۔ سب سے محفوظ اور سب سے زیادہ خیال رکھنے والا عمل کیا ہوگا؟"
+    },
+    "options": {
+      "c": {
+        "en": "Overtake the cyclist on the left before turning right",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کو بائیں جانب سے اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد دائیں مڑیں۔"
+      },
+      "d": {
+        "en": "Sound your horn to alert the cyclist to move faster",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو تیز چلنے کی اطلاع دی جا سکے۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly to avoid holding up traffic behind you",
+        "ur": "جلدی سگنل دیں اور فوری موڑ لیں تاکہ آپ کے پیچھے آنے والی گاڑیوں کو انتظار نہ کرنا پڑے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist until they have passed before turning right to avoid cutting across their path, ensuring their safety and demonstrating patience and courtesy.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے انتظار کرنا چاہیے جب تک کہ وہ گزر نہ جائیں، پھر دائیں مڑیں تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے، اس طرح ان کی حفاظت یقینی بنائیں اور صبر و شائستگی کا مظاہرہ کریں۔"
+    }
+  },
+  {
+    "id": "BWP6V1",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right across a cycle lane. A cyclist is approaching from behind in the cycle lane. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو سائیکل لین کو پار کرتے ہوئے دائیں مڑنا ہے۔ ایک سائیکل سوار سائیکل لین میں آپ کے پیچھے سے آ رہا ہے۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Signal early and complete your turn quickly to avoid holding up traffic.",
+        "ur": "جلدی سگنل دیں اور اپنا موڑ تیزی سے مکمل کریں تاکہ ٹریفک کو روکنے سے بچا جا سکے۔"
+      },
+      "c": {
+        "en": "Sound your horn to warn the cyclist to slow down before you turn.",
+        "ur": "موڑ لینے سے پہلے سائیکل سوار کو خبردار کرنے کے لیے ہارن بجائیں تاکہ وہ رفتار کم کرے۔"
+      },
+      "d": {
+        "en": "Edge forward into the cycle lane to show your intention to turn.",
+        "ur": "سائیکل لین میں داخل ہو کر اپنی موڑنے کی نیت ظاہر کریں۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists to pass before turning across their path to avoid cutting them off and to ensure their safety.",
+      "ur": "آپ کو ہمیشہ سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے اس سے پہلے کہ آپ ان کے راستے کو کاٹ کر مڑیں، تاکہ ان کا راستہ بند نہ ہو اور ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "O8P2WX",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں طرف سیدھا جا رہا ہے۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Sound your horn to alert the cyclist to speed up and clear the junction",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو خبردار کیا جا سکے کہ وہ اپنی رفتار بڑھا کر چوراہا خالی کرے۔"
+      },
+      "d": {
+        "en": "Wave the cyclist across to encourage them to go ahead first",
+        "ur": "سائیکل سوار کو آگے بڑھنے کی ترغیب دینے کے لیے ہاتھ ہلا کر انہیں راستہ دیں۔"
+      },
+      "c": {
+        "en": "Overtake the cyclist quickly on the left before turning right",
+        "ur": "سائیکل سوار کو دائیں مڑنے سے پہلے بائیں طرف سے جلدی اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد دائیں مڑیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist until they have passed before turning right to avoid cutting across their path, ensuring safety and showing courtesy to a vulnerable road user.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے انتظار کرنا چاہیے جب تک کہ وہ گزر نہ جائیں، اس سے پہلے کہ آپ دائیں مڑیں، تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے، حفاظت کو یقینی بنایا جا سکے اور ایک کمزور سڑک استعمال کنندہ کے ساتھ شائستگی کا مظاہرہ کیا جا سکے۔"
+    }
+  },
+  {
+    "id": "M923A2",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on the road you want to turn into. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن ایک سائیکل سوار اس سڑک پر سیدھا جا رہا ہے جس پر آپ مڑنا چاہتے ہیں۔ سب سے محفوظ اور مہذب عمل کیا ہوگا؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn to alert the cyclist and proceed when safe",
+        "ur": "ہارن بجائیں تاکہ سائیکل سوار کو خبردار کیا جا سکے اور جب محفوظ ہو تو آگے بڑھیں۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning right",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning",
+        "ur": "موڑ لینے سے پہلے سائیکل سوار کو بائیں جانب سے اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly to avoid delaying the cyclist",
+        "ur": "جلدی سگنل دیں اور تیزی سے مڑیں تاکہ سائیکل سوار کو دیر نہ ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists to pass before turning across their path to avoid cutting them off and to ensure their safety.",
+      "ur": "آپ کو ہمیشہ سائیکل سواروں کو گزرنے دینا چاہیے اس سے پہلے کہ آپ ان کے راستے کو کراس کرتے ہوئے مڑیں، تاکہ ان کا راستہ نہ کاٹا جائے اور ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "OLB06L",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on a cycle lane to your left. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن آپ کے بائیں جانب سائیکل لین پر ایک سائیکل سوار سیدھا جا رہا ہے۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, ensuring you do not cut across their path.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں، اور اس بات کو یقینی بنائیں کہ آپ ان کے راستے کو عبور نہ کریں۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning to maintain traffic flow.",
+        "ur": "ٹریفک کے بہاؤ کو برقرار رکھنے کے لیے موڑنے سے پہلے سائیکل سوار کو بائیں جانب سے اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist of your intention to turn right.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو آپ کے دائیں مڑنے کے ارادے سے آگاہ کیا جا سکے۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly to avoid holding up traffic behind you.",
+        "ur": "جلدی سگنل دیں اور فوری موڑ لیں تاکہ آپ کے پیچھے آنے والی گاڑیوں کو انتظار نہ کرنا پڑے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must wait for cyclists to pass before turning and never cut across their path, as this ensures their safety and follows the rules of priority and courteous driving.",
+      "ur": "آپ کو موڑنے سے پہلے سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے اور کبھی بھی ان کے راستے کو عبور نہیں کرنا چاہیے، کیونکہ یہ ان کی حفاظت کو یقینی بناتا ہے اور ترجیحی حقوق اور شائستہ ڈرائیونگ کے اصولوں کی پیروی کرتا ہے۔"
+    }
+  },
+  {
+    "id": "XP62ZP",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on the road you want to turn into. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں طرف مڑنا چاہتے ہیں، لیکن ایک سائیکل سوار اس سڑک پر سیدھا جا رہا ہے جس پر آپ مڑنا چاہتے ہیں۔ سب سے محفوظ اور مہذب عمل کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Overtake the cyclist on the left before turning right",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں، انہیں ترجیح دیں۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly before the cyclist reaches the junction",
+        "ur": "جلدی سگنل دیں اور سائیکل سوار کے چوراہے تک پہنچنے سے پہلے جلدی موڑ لیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to stop and wait",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو روکنے اور انتظار کرنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists going straight ahead to pass before turning across their path, ensuring their safety and showing consideration.",
+      "ur": "آپ کو ہمیشہ سیدھے جانے والے سائیکل سواروں کو اپنی راہ عبور کرنے سے پہلے گزرنے دینا چاہیے تاکہ ان کی حفاظت یقینی بنائی جا سکے اور ان کے لیے احترام کا مظاہرہ ہو۔"
+    }
+  },
+  {
+    "id": "RLP5IP",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on your right. What is the best course of action to demonstrate a safe and considerate attitude?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن آپ کے دائیں طرف ایک سائیکل سوار سیدھا جا رہا ہے۔ محفوظ اور مہذب رویہ دکھانے کے لیے بہترین عمل کیا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Sound your horn to alert the cyclist to move faster and then turn quickly.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو تیز چلنے کی اطلاع دی جا سکے اور پھر جلدی موڑ لیں۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right.",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، پھر دائیں مڑیں۔"
+      },
+      "c": {
+        "en": "Overtake the cyclist on the left before turning right to save time.",
+        "ur": "دائیں مڑنے سے پہلے وقت بچانے کے لیے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "d": {
+        "en": "Signal early and proceed to turn right, expecting the cyclist to give way.",
+        "ur": "جلدی سگنل دیں اور دائیں مڑنے کے لیے آگے بڑھیں، اس توقع کے ساتھ کہ سائیکل سوار راستہ دے گا۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist until they have passed before turning right to avoid cutting across their path, ensuring their safety and demonstrating patience and courtesy.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے انتظار کرنا چاہیے جب تک کہ وہ گزر نہ جائیں، اس سے پہلے کہ آپ دائیں مڑیں، تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے، ان کی حفاظت کو یقینی بنایا جا سکے اور صبر و شائستگی کا مظاہرہ کیا جا سکے۔"
+    }
+  },
+  {
+    "id": "C135FO",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on your nearside. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن آپ کے قریب سے ایک سائیکل سوار سیدھا جا رہا ہے۔ سب سے محفوظ اور مہذب عمل کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Edge forward slowly and turn right when there is a small gap",
+        "ur": "آہستہ آہستہ آگے بڑھیں اور جب چھوٹا وقفہ ہو تو دائیں مڑیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to move faster",
+        "ur": "اپنے ہارن بجائیں تاکہ سائیکل سوار کو تیزی سے چلنے کی اطلاع دی جا سکے۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، پھر دائیں مڑیں۔"
+      },
+      "b": {
+        "en": "Signal early and overtake the cyclist quickly before turning",
+        "ur": "جلدی سگنل دیں اور موڑنے سے پہلے سائیکل سوار کو تیزی سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist until they have passed before turning right to avoid cutting across their path, ensuring their safety and demonstrating courteous driving.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے انتظار کرنا چاہیے جب تک کہ وہ گزر نہ جائیں، اس سے پہلے کہ آپ دائیں مڑیں، تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے، ان کی حفاظت یقینی بنائی جا سکے اور مہذب ڈرائیونگ کا مظاہرہ کیا جا سکے۔"
+    }
+  },
+  {
+    "id": "9BWSBD",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right across a cycle lane. A cyclist is approaching behind you in the cycle lane. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو سائیکل لین کے پار دائیں طرف مڑنا ہے۔ ایک سائیکل سوار آپ کے پیچھے سائیکل لین میں آ رہا ہے۔ سب سے محفوظ اور مہذب عمل کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Edge forward slowly into the cycle lane to show your intention to turn.",
+        "ur": "دائیں یا بائیں موڑ لینے کا ارادہ ظاہر کرنے کے لیے آہستہ آہستہ سائیکل لین میں داخل ہوں۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly before the cyclist reaches the junction to avoid delay.",
+        "ur": "جلدی سگنل دیں اور سائیکل سوار کے چوراہے تک پہنچنے سے پہلے تیزی سے مڑ جائیں تاکہ تاخیر سے بچا جا سکے۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, ensuring you do not cut across their path.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں، اور اس بات کو یقینی بنائیں کہ آپ ان کے راستے کو عبور نہ کریں۔"
+      },
+      "c": {
+        "en": "Wave the cyclist to go ahead so you can turn without waiting.",
+        "ur": "سائیکل سوار کو آگے جانے کے لیے ہاتھ ہلا کر اشارہ دیں تاکہ آپ بغیر انتظار کیے موڑ سکیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists to pass before turning across their path to avoid cutting them off and to ensure their safety.",
+      "ur": "آپ کو ہمیشہ سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے اس سے پہلے کہ آپ ان کے راستے کو کاٹ کر مڑیں، تاکہ ان کا راستہ بند نہ ہو اور ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "IEEDAQ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on a cycle lane to your left. What is the best course of action to demonstrate a safe and considerate attitude?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن بائیں طرف سائیکل لین پر ایک سائیکل سوار سیدھا جا رہا ہے۔ محفوظ اور مہذب رویہ دکھانے کے لیے بہترین عمل کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Overtake the cyclist on the left before turning to maintain traffic flow.",
+        "ur": "موٹر سائیکل سوار کو بائیں طرف سے اوورٹیک کریں تاکہ ٹریفک کا بہاؤ برقرار رہے۔"
+      },
+      "b": {
+        "en": "Signal early and complete your turn quickly to avoid holding up traffic behind you.",
+        "ur": "جلدی سگنل دیں اور اپنا موڑ تیزی سے مکمل کریں تاکہ آپ کے پیچھے آنے والی گاڑیوں کی روانی متاثر نہ ہو۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, ensuring you do not cut across their path.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں، اور اس بات کو یقینی بنائیں کہ آپ ان کے راستے کو عبور نہ کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist of your intention to turn right.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو دائیں مڑنے کی اپنی نیت سے آگاہ کیا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Waiting for the cyclist to pass before turning prevents cutting across their path, which is safer and shows consideration for vulnerable road users.",
+      "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کرنا ان کے راستے میں کاٹنے سے بچاتا ہے، جو زیادہ محفوظ ہے اور کمزور سڑک استعمال کرنے والوں کے لیے خیال رکھنے کا مظہر ہے۔"
+    }
+  },
+  {
+    "id": "KQONSM",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but there is a cyclist travelling straight ahead on your right. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن آپ کے دائیں طرف ایک سائیکل سوار سیدھے جا رہا ہے۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد دائیں مڑیں۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly before the cyclist reaches the junction",
+        "ur": "جلدی سگنل دیں اور سائیکل سوار کے چوراہے تک پہنچنے سے پہلے تیزی سے مڑ جائیں۔"
+      },
+      "c": {
+        "en": "Overtake the cyclist on the left just before turning",
+        "ur": "موڑ لینے سے ٹھیک پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "d": {
+        "en": "Sound your horn to alert the cyclist to speed up",
+        "ur": "اپنے ہارن بجائیں تاکہ سائیکل سوار کو تیز رفتاری کا اشارہ دیا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Waiting behind the cyclist until they have passed ensures you do not cut across their path, which is safer and shows consideration for vulnerable road users.",
+      "ur": "سائیکل سوار کے پیچھے انتظار کرنا جب تک وہ گزر نہ جائیں، اس بات کو یقینی بناتا ہے کہ آپ ان کے راستے کو عبور نہ کریں، جو کہ زیادہ محفوظ ہے اور کمزور سڑک استعمال کرنے والوں کے لیے خیال رکھنے کا مظہر ہے۔"
+    }
+  },
+  {
+    "id": "0XWY8Q",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on your right. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن آپ کے دائیں طرف ایک سائیکل سوار سیدھا جا رہا ہے۔ سب سے محفوظ اور سب سے زیادہ خیال رکھنے والا عمل کیا ہوگا؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn to alert the cyclist to move faster",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو تیز چلنے کی اطلاع دی جا سکے۔"
+      },
+      "b": {
+        "en": "Signal early and overtake the cyclist quickly before turning",
+        "ur": "جلدی سگنل دیں اور موڑنے سے پہلے سائیکل سوار کو تیزی سے اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، پھر دائیں مڑیں۔"
+      },
+      "d": {
+        "en": "Turn right immediately, assuming the cyclist will stop",
+        "ur": "فوراً دائیں مڑیں، یہ فرض کرتے ہوئے کہ سائیکل سوار رک جائے گا۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Waiting behind the cyclist until they have passed ensures you do not cut across their path, which is safer and more considerate to vulnerable road users.",
+      "ur": "سائیکل سوار کے پیچھے انتظار کرنا جب تک وہ گزر نہ جائیں، اس بات کو یقینی بناتا ہے کہ آپ ان کے راستے کو عبور نہ کریں، جو کہ کمزور سڑک استعمال کرنے والوں کے لیے زیادہ محفوظ اور مہذب ہے۔"
+    }
+  },
+  {
+    "id": "4CKBES",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on your right. What is the best course of action to demonstrate a safe and courteous attitude?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن ایک سائیکل سوار آپ کے دائیں طرف سیدھا جا رہا ہے۔ محفوظ اور مہذب رویہ ظاہر کرنے کے لیے بہترین عمل کیا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Signal early and overtake the cyclist quickly before turning right.",
+        "ur": "جلدی سگنل دیں اور دائیں مڑنے سے پہلے سائیکل سوار کو تیزی سے اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to move faster and then turn.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو تیز چلنے اور پھر مڑنے کی اطلاع دی جا سکے۔"
+      },
+      "d": {
+        "en": "Turn immediately to avoid holding up traffic, assuming the cyclist will stop.",
+        "ur": "فوری طور پر مڑیں تاکہ ٹریفک کی روانی میں رکاوٹ نہ ہو، بشرطیکہ سائیکل سوار رک جائے۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist and only turn when it is safe, giving them priority.",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں اور صرف تب مڑیں جب یہ محفوظ ہو، انہیں ترجیح دیتے ہوئے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist and only turn when it is safe, giving them priority to avoid cutting across their path and to show consideration for vulnerable road users.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے رکنا چاہیے اور صرف اس وقت موڑنا چاہیے جب یہ محفوظ ہو، انہیں ترجیح دیتے ہوئے تاکہ ان کے راستے میں دخل اندازی نہ ہو اور کمزور سڑک استعمال کرنے والوں کا خیال رکھا جا سکے۔"
+    }
+  },
+  {
+    "id": "9F16RZ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on the road you want to turn into. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں طرف مڑنا ہے، لیکن ایک سائیکل سوار اس سڑک پر سیدھا جا رہا ہے جس طرف آپ مڑنا چاہتے ہیں۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait for the cyclist to pass before making your turn",
+        "ur": "موڑ لینے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں۔"
+      },
+      "b": {
+        "en": "Signal early and complete your turn quickly to avoid holding up traffic",
+        "ur": "جلدی سگنل دیں اور اپنا موڑ تیزی سے مکمل کریں تاکہ ٹریفک کو روکنے سے بچا جا سکے۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your presence and proceed",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو اپنی موجودگی کا پتہ چل جائے اور آگے بڑھیں۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning right",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait for the cyclist to pass before turning to avoid cutting across their path, ensuring safety and showing consideration for vulnerable road users.",
+      "ur": "آپ کو سائیکل سوار کے گزرنے کا انتظار کرنا چاہیے قبل اس کے کہ آپ مڑیں تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے، اس طرح حفاظت یقینی بنتی ہے اور کمزور سڑک استعمال کرنے والوں کے لیے خیال ظاہر ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "HAGCCR",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on your right. What is the best course of action to demonstrate a safe and courteous attitude?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن آپ کے دائیں طرف ایک سائیکل سوار سیدھا جا رہا ہے۔ محفوظ اور شائستہ رویہ دکھانے کے لیے بہترین عمل کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Turn immediately to avoid holding up traffic behind you.",
+        "ur": "فوری طور پر موڑ لیں تاکہ آپ کے پیچھے آنے والے ٹریفک کو روکنا نہ پڑے۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right.",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد دائیں مڑیں۔"
+      },
+      "b": {
+        "en": "Signal early and overtake the cyclist quickly before turning.",
+        "ur": "جلدی سگنل دیں اور موڑنے سے پہلے سائیکل سوار کو تیزی سے اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to move faster.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو تیز چلنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Waiting behind the cyclist until they have passed ensures their safety and shows patience and courtesy, avoiding cutting across their path or intimidating them.",
+      "ur": "سائیکل سوار کے پیچھے انتظار کرنا جب تک وہ گزر نہ جائیں، ان کی حفاظت کو یقینی بناتا ہے اور صبر و شائستگی کا مظاہرہ کرتا ہے، ان کے راستے کو کاٹنے یا انہیں ڈرانے سے گریز کرتا ہے۔"
+    }
+  },
+  {
+    "id": "ONKDPA",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on the road you want to turn into. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنا چاہتے ہیں، لیکن ایک سائیکل سوار اس سڑک پر سیدھا جا رہا ہے جس پر آپ مڑنا چاہتے ہیں۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد دائیں مڑیں۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning right to maintain traffic flow",
+        "ur": "دائیں مڑنے سے پہلے بائیں جانب سے سائیکل سوار کو اوورٹیک کریں تاکہ ٹریفک کا بہاؤ برقرار رہے۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly in front of the cyclist to avoid holding up traffic",
+        "ur": "جلدی سگنل دیں اور سائیکل سوار کے سامنے تیزی سے موڑ لیں تاکہ ٹریفک میں رکاوٹ نہ ہو۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to speed up and clear the junction",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو تیز رفتار ہونے اور چوراہے کو خالی کرنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Waiting behind the cyclist until they have passed ensures their safety and avoids cutting across their path, which is both courteous and complies with the rules on priority at junctions.",
+      "ur": "سائیکل سوار کے پیچھے انتظار کرنا جب تک وہ گزر نہ جائیں، ان کی حفاظت کو یقینی بناتا ہے اور ان کے راستے کو کاٹنے سے بچاتا ہے، جو نہ صرف شائستگی ہے بلکہ چوراہوں پر ترجیح کے قواعد کی بھی پابندی ہے۔"
+    }
+  },
+  {
+    "id": "KPWOIJ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں جانب سیدھا جا رہا ہے۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Overtake the cyclist on the left before turning to maintain traffic flow.",
+        "ur": "ٹریفک کے بہاؤ کو برقرار رکھنے کے لیے موڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your presence and proceed.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو اپنی موجودگی کا پتہ چل جائے اور آگے بڑھیں۔"
+      },
+      "b": {
+        "en": "Signal early and complete your turn quickly to avoid holding up traffic.",
+        "ur": "جلدی سگنل دیں اور اپنا موڑ تیزی سے مکمل کریں تاکہ ٹریفک کو روکنے سے بچا جا سکے۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists to pass before turning across their path to avoid cutting them off and to ensure their safety.",
+      "ur": "آپ کو ہمیشہ سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے اس سے پہلے کہ آپ ان کے راستے کو کراس کریں تاکہ ان کا راستہ بند نہ ہو اور ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "0Z0NT2",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on the road you want to turn into. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار اس سڑک پر سیدھا جا رہا ہے جس پر آپ مڑنا چاہتے ہیں۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد دائیں مڑیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your presence and proceed",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو اپنی موجودگی کا پتہ چل جائے اور آگے بڑھیں۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly before the cyclist reaches the junction",
+        "ur": "جلدی سگنل دیں اور سائیکل سوار کے چوراہے تک پہنچنے سے پہلے فوری موڑ لیں۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning right",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist to avoid cutting across their path, ensuring their safety and demonstrating patience and courtesy at junctions.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے انتظار کرنا چاہیے تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے، جس سے ان کی حفاظت یقینی بنتی ہے اور چوراہوں پر صبر اور شائستگی کا مظاہرہ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "7JNKPE",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn left, but a cyclist is travelling straight ahead on your left side. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ بائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے بائیں جانب سیدھا جا رہا ہے۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Overtake the cyclist on the left before turning to maintain traffic flow.",
+        "ur": "موٹر سائیکل سوار کو بائیں جانب سے اوورٹیک کریں تاکہ ٹریفک کا بہاؤ برقرار رہے۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist of your intention to turn.",
+        "ur": "اپنی گاڑی کا ہارن بجائیں تاکہ سائیکل سوار کو آپ کے موڑنے کے ارادے سے آگاہ کیا جا سکے۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly to avoid delaying the cyclist.",
+        "ur": "جلدی سگنل دیں اور تیزی سے موڑ لیں تاکہ سائیکل سوار کو دیر نہ ہو۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them plenty of room.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں کافی جگہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists to pass before turning and give them plenty of room to ensure their safety and avoid cutting across their path.",
+      "ur": "آپ کو ہمیشہ سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے قبل اس کے کہ آپ مڑیں اور ان کو محفوظ رکھنے کے لیے کافی جگہ دینی چاہیے تاکہ ان کے راستے میں مداخلت نہ ہو۔"
+    }
+  },
+  {
+    "id": "GFUBLB",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on the road you want to turn into. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن ایک سائیکل سوار اس سڑک پر سیدھا جا رہا ہے جس پر آپ مڑنا چاہتے ہیں۔ سب سے محفوظ اور سب سے زیادہ خیال رکھنے والا عمل کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد دائیں مڑیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to move faster",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو تیز چلنے کی اطلاع دی جا سکے۔"
+      },
+      "b": {
+        "en": "Signal early and overtake the cyclist quickly before turning",
+        "ur": "جلدی سگنل دیں اور موڑنے سے پہلے سائیکل سوار کو تیزی سے اوورٹیک کریں۔"
+      },
+      "d": {
+        "en": "Turn right immediately to avoid holding up traffic behind you",
+        "ur": "فوری طور پر دائیں مڑیں تاکہ آپ کے پیچھے ٹریفک رکاوٹ کا شکار نہ ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist until they have passed before turning right to avoid cutting across their path, ensuring their safety and showing consideration.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے انتظار کرنا چاہیے جب تک کہ وہ گزر نہ جائیں، اس کے بعد ہی دائیں مڑیں تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے، ان کی حفاظت کو یقینی بنایا جا سکے اور ان کے لیے خیال ظاہر کیا جا سکے۔"
+    }
+  },
+  {
+    "id": "CTEB67",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the most appropriate attitude and action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں جانب سیدھا جا رہا ہے۔ سب سے مناسب رویہ اور عمل کیا ہونا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your presence and proceed when safe.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو اپنی موجودگی کا پتہ چل جائے اور جب محفوظ ہو تو آگے بڑھیں۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly before the cyclist reaches the junction to avoid delay.",
+        "ur": "جلدی سگنل دیں اور سائیکل سوار کے چوراہے تک پہنچنے سے پہلے تیزی سے موڑ لیں تاکہ تاخیر سے بچا جا سکے۔"
+      },
+      "d": {
+        "en": "Edge forward slowly to encourage the cyclist to stop and let you turn first.",
+        "ur": "آہستہ آہستہ آگے بڑھیں تاکہ سائیکل سوار کو رکنے کی ترغیب ملے اور وہ آپ کو پہلے مڑنے دے۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority and space.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں، انہیں ترجیح اور جگہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists going straight ahead to pass before turning, giving them priority and enough space to avoid cutting across their path.",
+      "ur": "آپ کو ہمیشہ سائیکل سواروں کو جو سیدھے جا رہے ہوں، پہلے گزرنے دینا چاہیے، انہیں ترجیح اور اتنی جگہ دینی چاہیے کہ وہ آپ کے راستے کو کاٹنے سے بچ سکیں۔"
+    }
+  },
+  {
+    "id": "DB4XTK",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on the road you want to turn into. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن ایک سائیکل سوار اس سڑک پر سیدھا جا رہا ہے جس پر آپ مڑنا چاہتے ہیں۔ سب سے محفوظ اور سب سے زیادہ خیال رکھنے والا عمل کیا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Signal early and turn quickly to avoid holding up traffic behind you.",
+        "ur": "جلدی سگنل دیں اور تیزی سے مڑیں تاکہ آپ کے پیچھے ٹریفک رکے نہ۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning right to save time.",
+        "ur": "دائیں مڑنے سے پہلے وقت بچانے کے لیے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your presence and proceed when safe.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو اپنی موجودگی کا پتہ چل سکے اور جب محفوظ ہو تو آگے بڑھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists to pass before turning across their path to avoid cutting them off and to ensure their safety.",
+      "ur": "آپ کو ہمیشہ سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے اس سے پہلے کہ آپ ان کے راستے کو کاٹ کر مڑیں، تاکہ انہیں روکنے سے بچا جا سکے اور ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "Z08JLI",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں طرف سیدھا جا رہا ہے۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Signal early and turn quickly to avoid holding up traffic behind you.",
+        "ur": "جلدی سگنل دیں اور فوری موڑ لیں تاکہ آپ کے پیچھے آنے والی گاڑیوں کو انتظار نہ کرنا پڑے۔"
+      },
+      "d": {
+        "en": "Edge forward into the junction to encourage the cyclist to slow down.",
+        "ur": "چوراہے میں آگے بڑھیں تاکہ سائیکل سوار کو رفتار کم کرنے کی ترغیب ملے۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your presence and proceed.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو اپنی موجودگی سے آگاہ کریں اور آگے بڑھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists going straight ahead to pass before turning right, to avoid cutting across their path and ensure their safety.",
+      "ur": "آپ کو ہمیشہ سیدھے جانے والے سائیکل سواروں کو پہلے گزرنے دینا چاہیے اس سے پہلے کہ آپ دائیں مڑیں، تاکہ ان کے راستے میں مداخلت نہ ہو اور ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "4NC6XN",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "When approaching a junction where you intend to turn left, you see a cyclist travelling straight ahead on your left. What is the best course of action to demonstrate a safe and considerate attitude?",
+      "ur": "جب آپ ایک چوراہے کے قریب پہنچ رہے ہوں جہاں آپ بائیں طرف مڑنے کا ارادہ رکھتے ہیں، اور آپ کو اپنی بائیں جانب ایک سائیکل سوار سیدھا آگے جا رہا نظر آئے، تو محفوظ اور شفیق رویہ ظاہر کرنے کے لیے بہترین عمل کیا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Sound your horn to alert the cyclist to move faster so you can turn quickly.",
+        "ur": "اپنا ہارن بجائیں تاکہ سائیکل سوار کو تیز چلنے کی اطلاع دی جا سکے تاکہ آپ جلدی موڑ سکیں۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist and only turn left once they have passed safely.",
+        "ur": "سائیکل سوار کے پیچھے رُکیں اور صرف اس وقت بائیں مڑیں جب وہ محفوظ طریقے سے گزر چکا ہو۔"
+      },
+      "d": {
+        "en": "Signal early and turn left immediately, assuming the cyclist will stop.",
+        "ur": "جلدی سگنل دیں اور فوراً بائیں مڑیں، یہ فرض کرتے ہوئے کہ سائیکل سوار رک جائے گا۔"
+      },
+      "c": {
+        "en": "Overtake the cyclist on the left before turning to avoid delaying other traffic.",
+        "ur": "دوسری ٹریفک کو روکنے سے بچنے کے لیے موڑنے سے پہلے سائیکل سوار کو بائیں جانب سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Waiting behind the cyclist and turning only once they have passed ensures their safety and shows patience and consideration, avoiding cutting across their path or causing confusion.",
+      "ur": "سائیکل سوار کے پیچھے انتظار کرنا اور تب ہی مڑنا جب وہ گزر چکے ہوں، ان کی حفاظت کو یقینی بناتا ہے اور صبر و تحمل اور خیال مندی کا مظاہرہ کرتا ہے، جس سے ان کے راستے میں مداخلت یا الجھن پیدا ہونے سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "O4BU9W",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right across a cycle lane. A cyclist is approaching from behind in the cycle lane. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو سائیکل لین کو پار کرتے ہوئے دائیں مڑنا ہے۔ ایک سائیکل سوار سائیکل لین میں آپ کے پیچھے سے آ رہا ہے۔ سب سے محفوظ اور مہذب عمل کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      },
+      "d": {
+        "en": "Edge forward into the cycle lane to block the cyclist and turn when clear.",
+        "ur": "سائیکل لین میں آہستہ آہستہ آگے بڑھیں تاکہ سائیکل سوار کا راستہ روکا جا سکے اور جب راستہ صاف ہو تو موڑ لیں۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly before the cyclist reaches the junction.",
+        "ur": "جلدی سگنل دیں اور سائیکل سوار کے چوراہے تک پہنچنے سے پہلے جلدی موڑ لیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to warn the cyclist to slow down while you turn.",
+        "ur": "موڑ لیتے ہوئے سائیکل سوار کو خبردار کرنے کے لیے ہارن بجائیں تاکہ وہ رفتار کم کرے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists to pass before turning across their path to avoid cutting them off and to ensure their safety.",
+      "ur": "آپ کو ہمیشہ سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے اس سے پہلے کہ آپ ان کے راستے کو کاٹ کر مڑیں، تاکہ ان کا راستہ بند نہ ہو اور ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "Y1DUAK",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on the road you want to turn into. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار اس سڑک پر سیدھا جا رہا ہے جس پر آپ مڑنا چاہتے ہیں۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Signal early and turn quickly to avoid holding up traffic behind you",
+        "ur": "جلدی سگنل دیں اور فوری موڑ لیں تاکہ آپ کے پیچھے ٹریفک رکے نہ۔"
+      },
+      "c": {
+        "en": "Overtake the cyclist on the left before turning right",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، پھر دائیں مڑیں۔"
+      },
+      "d": {
+        "en": "Sound your horn to alert the cyclist to speed up and clear the junction",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو خبردار کیا جا سکے کہ وہ اپنی رفتار بڑھائے اور چوراہے کو خالی کرے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist until they have passed before turning right to avoid cutting across their path, ensuring safety and showing courtesy to a vulnerable road user.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے انتظار کرنا چاہیے جب تک کہ وہ گزر نہ جائیں، اس سے پہلے دائیں مڑیں تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے، جس سے حفاظت یقینی بنتی ہے اور ایک کمزور روڈ صارف کے ساتھ شائستگی کا مظاہرہ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "TASJ2X",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the best course of action to demonstrate a responsible attitude?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں طرف مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں جانب سیدھا جا رہا ہے۔ ذمہ دار رویہ ظاہر کرنے کے لیے بہترین عمل کیا ہوگا؟"
+    },
+    "options": {
+      "c": {
+        "en": "Overtake the cyclist quickly on the left before turning right",
+        "ur": "سائیکل سوار کو دائیں مڑنے سے پہلے بائیں طرف سے جلدی اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، پھر دائیں مڑیں۔"
+      },
+      "b": {
+        "en": "Sound your horn to alert the cyclist to speed up and clear the junction",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو تیز رفتاری سے گزرنے اور چوراہے کو خالی کرنے کی اطلاع دی جا سکے۔"
+      },
+      "d": {
+        "en": "Wave the cyclist across to encourage them to move faster",
+        "ur": "سائیکل سوار کو آگے بڑھنے کی ترغیب دینے کے لیے ہاتھ ہلا کر اشارہ کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist until they have passed before turning right to avoid cutting across their path and to show patience and consideration for vulnerable road users.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے انتظار کرنا چاہیے جب تک کہ وہ گزر نہ جائیں، اس سے پہلے دائیں مڑیں تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے اور کمزور سڑک استعمال کرنے والوں کے لیے صبر اور خیال کا مظاہرہ کیا جا سکے۔"
+    }
+  },
+  {
+    "id": "7NXOOC",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on the road you want to turn into. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار اس سڑک پر سیدھا جا رہا ہے جس پر آپ مڑنا چاہتے ہیں۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Signal early and turn quickly to avoid holding up traffic",
+        "ur": "جلدی سگنل دیں اور فوری موڑ لیں تاکہ ٹریفک کو روکنے سے بچا جا سکے۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before making your turn",
+        "ur": "موڑ لینے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist before turning right",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کو اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to stop",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو رکنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists to pass before turning across their path to avoid cutting them off and to ensure their safety.",
+      "ur": "آپ کو ہمیشہ سائیکل سواروں کو اپنی راہ سے گزرنے دینا چاہیے اس سے پہلے کہ آپ ان کے راستے کو کاٹ کر مڑیں، تاکہ ان کا راستہ بند نہ ہو اور ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "ANIMEV",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں جانب سیدھا جا رہا ہے۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning to maintain traffic flow.",
+        "ur": "موٹر سائیکل سوار کو بائیں جانب سے اوورٹیک کریں تاکہ ٹریفک کا بہاؤ برقرار رہے۔"
+      },
+      "b": {
+        "en": "Signal early and complete your turn quickly to avoid holding up traffic.",
+        "ur": "جلدی سگنل دیں اور اپنا موڑ تیزی سے مکمل کریں تاکہ ٹریفک کو روکنے سے بچا جا سکے۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your presence and proceed.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو اپنی موجودگی سے آگاہ کریں اور آگے بڑھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists to pass before turning across their path to avoid cutting them off and to ensure their safety.",
+      "ur": "آپ کو ہمیشہ سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے اس سے پہلے کہ آپ ان کے راستے کو کراس کرتے ہوئے مڑیں، تاکہ ان کا راستہ نہ کاٹا جائے اور ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "DH3XCW",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on your right. What is the best course of action to demonstrate a safe and considerate attitude?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن آپ کے دائیں طرف ایک سائیکل سوار سیدھا جا رہا ہے۔ محفوظ اور مہذب رویہ دکھانے کے لیے بہترین عمل کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Turn right immediately to avoid holding up traffic behind you.",
+        "ur": "فوری طور پر دائیں مڑیں تاکہ آپ کے پیچھے آنے والی گاڑیوں کو رکاوٹ نہ ہو۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right.",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد دائیں مڑیں۔"
+      },
+      "b": {
+        "en": "Signal early and overtake the cyclist quickly before turning.",
+        "ur": "جلدی سگنل دیں اور موڑنے سے پہلے سائیکل سوار کو تیزی سے اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to move faster.",
+        "ur": "سائیکل سوار کو تیز چلانے کے لیے ہارن بجائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Waiting behind the cyclist until they have passed ensures their safety and shows patience and consideration, avoiding cutting across their path which could be dangerous.",
+      "ur": "سائیکل سوار کے پیچھے انتظار کرنا جب تک وہ گزر نہ جائیں، ان کی حفاظت کو یقینی بناتا ہے اور صبر و تحمل اور خیال مندی کا مظاہرہ کرتا ہے، ان کے راستے کو کاٹنے سے گریز کرتا ہے جو خطرناک ہو سکتا ہے۔"
+    }
+  },
+  {
+    "id": "V80TGT",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "When approaching a junction where you intend to turn left, a cyclist is travelling straight ahead on your left side. What is the safest and most considerate action to take?",
+      "ur": "جب آپ ایک چوراہے کے قریب پہنچ رہے ہوں جہاں آپ بائیں مڑنے کا ارادہ رکھتے ہوں، اور آپ کی بائیں جانب ایک سائیکل سوار سیدھا جا رہا ہو، تو سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Signal early and turn left quickly to avoid holding up traffic",
+        "ur": "جلدی سگنل دیں اور ٹریفک کو روکنے سے بچنے کے لیے بائیں طرف فوری موڑ لیں۔"
+      },
+      "d": {
+        "en": "Sound your horn to alert the cyclist to your presence and proceed",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو اپنی موجودگی کا پتہ چل جائے اور آگے بڑھیں۔"
+      },
+      "c": {
+        "en": "Overtake the cyclist on the left before turning",
+        "ur": "موڑنے سے پہلے سائیکل سوار کو بائیں جانب سے اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning left",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، پھر بائیں مڑیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist until they have passed to avoid cutting across their path, ensuring their safety and showing consideration as required by the rules on priority and courteous driving.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے انتظار کرنا چاہیے جب تک کہ وہ گزر نہ جائیں تاکہ ان کے راستے میں مداخلت نہ ہو، اس طرح ان کی حفاظت یقینی بنتی ہے اور ترجیحی حقوق اور شائستہ ڈرائیونگ کے قواعد کے مطابق احترام ظاہر ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "LGHAKM",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں جانب سیدھا جا رہا ہے۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Wave the cyclist across to encourage them to move faster",
+        "ur": "سائیکل سوار کو آگے بڑھنے کی ترغیب دینے کے لیے ہاتھ ہلا کر اشارہ کریں۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد دائیں مڑیں۔"
+      },
+      "c": {
+        "en": "Overtake the cyclist quickly on the left before turning",
+        "ur": "موٹر سائیکل سوار کو بائیں جانب سے جلدی اوورٹیک کریں اور پھر موڑ لیں۔"
+      },
+      "b": {
+        "en": "Sound your horn to alert the cyclist to speed up and clear the junction",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو خبردار کیا جا سکے کہ وہ تیز چلائے اور چوراہے کو خالی کرے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist until they have passed to avoid cutting across their path, ensuring their safety and demonstrating patience and courtesy.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے انتظار کرنا چاہیے جب تک کہ وہ گزر نہ جائیں تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے، اس طرح ان کی حفاظت یقینی بنتی ہے اور صبر و شائستگی کا مظاہرہ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "VEAGPA",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on your inside. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن ایک سائیکل سوار آپ کے اندرونی جانب سیدھا جا رہا ہے۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، پھر دائیں مڑیں۔"
+      },
+      "d": {
+        "en": "Turn immediately to avoid holding up traffic behind you",
+        "ur": "فوری طور پر مڑیں تاکہ آپ کے پیچھے آنے والی گاڑیوں کی روانی میں رکاوٹ نہ آئے۔"
+      },
+      "b": {
+        "en": "Signal early and overtake the cyclist quickly before turning",
+        "ur": "جلدی سگنل دیں اور موڑنے سے پہلے سائیکل سوار کو تیزی سے اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to move faster",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو تیز چلنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist until they have passed before turning right to avoid cutting across their path, ensuring their safety and demonstrating courteous driving.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے انتظار کرنا چاہیے جب تک کہ وہ گزر نہ جائیں، اس سے پہلے کہ آپ دائیں مڑیں، تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے، ان کی حفاظت یقینی بنائی جا سکے اور شائستہ ڈرائیونگ کا مظاہرہ کیا جا سکے۔"
+    }
+  },
+  {
+    "id": "K8VQPU",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں طرف سیدھا جا رہا ہے۔ سب سے محفوظ اور سب سے زیادہ خیال رکھنے والا عمل کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Overtake the cyclist on the left before turning right.",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Wave the cyclist to go ahead so you can turn first.",
+        "ur": "سائیکل سوار کو آگے جانے کے لیے ہاتھ ہلا کر اشارہ دیں تاکہ آپ پہلے مڑ سکیں۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      },
+      "b": {
+        "en": "Signal early and complete your turn quickly to avoid holding up traffic.",
+        "ur": "جلدی سگنل دیں اور اپنا موڑ تیزی سے مکمل کریں تاکہ ٹریفک کو روکنے سے بچا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists going straight ahead before turning right to avoid cutting across their path and to ensure their safety.",
+      "ur": "آپ کو ہمیشہ دائیں مڑنے سے پہلے سیدھے جانے والے سائیکل سواروں کا انتظار کرنا چاہیے تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے اور ان کی حفاظت کو یقینی بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "QSBNS0",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn left, but a cyclist is travelling straight ahead on your left side. What is the best course of action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ بائیں طرف مڑنا چاہتے ہیں، لیکن ایک سائیکل سوار آپ کے بائیں جانب سیدھے راستے پر جا رہا ہے۔ بہترین اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning to clear the junction faster.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں تاکہ چوراہا جلدی صاف ہو سکے۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly to avoid holding up traffic behind you.",
+        "ur": "جلدی سگنل دیں اور فوری موڑ لیں تاکہ آپ کے پیچھے ٹریفک رکے نہ۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your intention to turn.",
+        "ur": "اپنی گاڑی کا ہارن بجائیں تاکہ سائیکل سوار کو آپ کے موڑنے کے ارادے کی اطلاع مل سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists going straight ahead to pass before turning to avoid cutting across their path and to ensure their safety.",
+      "ur": "آپ کو ہمیشہ سیدھے جانے والے سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے قبل اس کے کہ آپ مڑیں، تاکہ ان کے راستے میں مداخلت نہ ہو اور ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "89KR90",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the best course of action to demonstrate a responsible attitude?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں طرف سیدھا جا رہا ہے۔ ذمہ دار رویہ ظاہر کرنے کے لیے بہترین عمل کیا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Signal early and complete your turn quickly to avoid holding up traffic.",
+        "ur": "جلدی سگنل دیں اور اپنا موڑ تیزی سے مکمل کریں تاکہ ٹریفک کو روکنے سے بچا جا سکے۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your presence and proceed.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو اپنی موجودگی کا پتہ چل جائے اور آگے بڑھیں۔"
+      },
+      "d": {
+        "en": "Edge forward into the junction to encourage the cyclist to slow down.",
+        "ur": "چوراہے میں آگے بڑھیں تاکہ سائیکل سوار کو رفتار کم کرنے کی ترغیب ملے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists to pass before turning across their path to avoid cutting them off and to show patience and consideration for vulnerable road users.",
+      "ur": "آپ کو ہمیشہ سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے اس سے پہلے کہ آپ ان کے راستے کو کاٹ کر مڑیں، تاکہ انہیں راستہ روکنے سے بچایا جا سکے اور کمزور سڑک استعمال کرنے والوں کے لیے صبر اور خیال کا مظاہرہ کیا جا سکے۔"
+    }
+  },
+  {
+    "id": "X7MPXT",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right across a cycle lane. A cyclist is approaching from behind in the cycle lane. What is the best course of action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو سائیکل لین کو عبور کرتے ہوئے دائیں مڑنا ہے۔ ایک سائیکل سوار سائیکل لین میں آپ کے پیچھے سے آ رہا ہے۔ بہترین اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Edge forward into the cycle lane to block the cyclist until it is safe to turn.",
+        "ur": "سائیکل لین میں آہستہ آہستہ آگے بڑھیں تاکہ سائیکل سوار کو روکا جا سکے جب تک کہ موڑنا محفوظ نہ ہو۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly to avoid holding up traffic behind you.",
+        "ur": "جلدی سگنل دیں اور فوری موڑ لیں تاکہ آپ کے پیچھے آنے والی گاڑیوں کو انتظار نہ کرنا پڑے۔"
+      },
+      "c": {
+        "en": "Sound your horn to warn the cyclist you are turning across their path.",
+        "ur": "اپنا ہارن بجائیں تاکہ سائیکل سوار کو خبردار کیا جا سکے کہ آپ ان کے راستے میں مڑ رہے ہیں۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, ensuring their safety.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں تاکہ ان کی حفاظت یقینی بنائی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists to pass before turning across their path to avoid cutting them off and ensure their safety.",
+      "ur": "آپ کو ہمیشہ سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے قبل اس کے کہ آپ ان کے راستے کو کراس کرتے ہوئے مڑیں، تاکہ ان کا راستہ بند نہ ہو اور ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "SQM5L4",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں طرف سیدھا جا رہا ہے۔ سب سے محفوظ اور مہذب عمل کیا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Signal early and turn quickly to avoid holding up traffic behind you.",
+        "ur": "جلدی سگنل دیں اور فوری موڑ لیں تاکہ آپ کے پیچھے ٹریفک رکے نہ۔"
+      },
+      "c": {
+        "en": "Wave the cyclist across to encourage them to go first.",
+        "ur": "سائیکل سوار کو پہلے جانے کی ترغیب دینے کے لیے انہیں ہاتھ ہلا کر راستہ دیں۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning right.",
+        "ur": "دائیں طرف مڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists going straight ahead to pass before turning right, as cutting across them is dangerous and discourteous.",
+      "ur": "آپ کو ہمیشہ سیدھے جانے والے سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے اس سے پہلے کہ آپ دائیں مڑیں، کیونکہ ان کے راستے میں کٹ مارنا خطرناک اور غیر مہذب ہے۔"
+    }
+  },
+  {
+    "id": "7FFW8K",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on the road you are turning into. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار اس سڑک پر سیدھا جا رہا ہے جس پر آپ مڑنے والے ہیں۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait for the cyclist to pass before turning right",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your presence and then turn",
+        "ur": "اپنی موجودگی سے سائیکل سوار کو آگاہ کرنے کے لیے ہارن بجائیں اور پھر مڑیں۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly before the cyclist reaches the junction",
+        "ur": "جلدی سگنل دیں اور سائیکل سوار کے چوراہے تک پہنچنے سے پہلے تیزی سے موڑ لیں۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning right",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait for the cyclist to pass before turning right to avoid cutting across their path, ensuring their safety and demonstrating courteous driving.",
+      "ur": "آپ کو سائیکل سوار کے گزرنے کا انتظار کرنا چاہیے اس سے پہلے کہ آپ دائیں مڑیں تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے، جس سے ان کی حفاظت یقینی بنتی ہے اور مہذب ڈرائیونگ کا مظاہرہ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "6XR388",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on your right. What is the best course of action to demonstrate a safe and courteous attitude?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن آپ کے دائیں طرف ایک سائیکل سوار سیدھا جا رہا ہے۔ محفوظ اور مہذب رویہ ظاہر کرنے کے لیے بہترین عمل کیا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Signal early and overtake the cyclist quickly before turning.",
+        "ur": "جلدی سگنل دیں اور موڑنے سے پہلے سائیکل سوار کو تیزی سے اوورٹیک کریں۔"
+      },
+      "d": {
+        "en": "Turn immediately to avoid holding up traffic behind you.",
+        "ur": "فوری طور پر مڑیں تاکہ آپ کے پیچھے آنے والے ٹریفک کو روکنا نہ پڑے۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to move faster.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو تیز چلنے کی اطلاع دی جا سکے۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right.",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، پھر دائیں مڑیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Waiting behind the cyclist until they have passed ensures their safety and shows patience and courtesy, avoiding cutting across their path which could cause danger.",
+      "ur": "سائیکل سوار کے پیچھے انتظار کرنا جب تک وہ گزر نہ جائیں، ان کی حفاظت کو یقینی بناتا ہے اور صبر و شائستگی کا مظاہرہ کرتا ہے، ان کے راستے کو کاٹنے سے گریز کرتا ہے جو خطرہ پیدا کر سکتا ہے۔"
+    }
+  },
+  {
+    "id": "YD1TBS",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the best course of action to demonstrate a responsible driving attitude?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں طرف سیدھا جا رہا ہے۔ ذمہ دار ڈرائیونگ رویہ ظاہر کرنے کے لیے بہترین عمل کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Turn immediately to avoid holding up traffic behind you",
+        "ur": "فوری طور پر مڑیں تاکہ آپ کے پیچھے آنے والے ٹریفک کو روکنا نہ پڑے۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your presence and then turn",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو اپنی موجودگی کا پتہ چل جائے اور پھر مڑیں۔"
+      },
+      "b": {
+        "en": "Signal early and overtake the cyclist quickly before turning",
+        "ur": "جلدی سگنل دیں اور موڑنے سے پہلے سائیکل سوار کو تیزی سے اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد دائیں مڑیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Waiting behind the cyclist until they have passed ensures their safety and shows patience and courtesy, avoiding cutting across their path which could be dangerous.",
+      "ur": "سائیکل سوار کے پیچھے انتظار کرنا جب تک وہ گزر نہ جائیں، ان کی حفاظت کو یقینی بناتا ہے اور صبر و شائستگی کا مظاہرہ کرتا ہے، ان کے راستے کو کاٹنے سے گریز کرتا ہے جو خطرناک ہو سکتا ہے۔"
+    }
+  },
+  {
+    "id": "VK1PWI",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on the road you want to turn into. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن ایک سائیکل سوار اس سڑک پر سیدھا جا رہا ہے جس پر آپ مڑنا چاہتے ہیں۔ سب سے محفوظ اور سب سے زیادہ خیال رکھنے والا عمل کیا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Signal early and turn quickly to avoid delaying the cyclist",
+        "ur": "جلدی اشارہ دیں اور فوری موڑ لیں تاکہ سائیکل سوار کو تاخیر نہ ہو۔"
+      },
+      "d": {
+        "en": "Wave the cyclist to go ahead so you can turn immediately",
+        "ur": "سائیکل سوار کو آگے جانے کا اشارہ دیں تاکہ آپ فوراً مڑ سکیں۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد دائیں مڑیں۔"
+      },
+      "c": {
+        "en": "Overtake the cyclist on the left before turning right",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist until they have passed before turning right to avoid cutting across their path, ensuring their safety and demonstrating patience and courtesy.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے انتظار کرنا چاہیے جب تک کہ وہ گزر نہ جائیں، اس سے پہلے کہ آپ دائیں مڑیں، تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے، ان کی حفاظت کو یقینی بنایا جا سکے اور صبر و شائستگی کا مظاہرہ کیا جا سکے۔"
+    }
+  },
+  {
+    "id": "LRKPFS",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right across a cycle lane. A cyclist is approaching from behind in the cycle lane. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو سائیکل لین کو پار کرتے ہوئے دائیں مڑنا ہے۔ ایک سائیکل سوار سائیکل لین میں آپ کے پیچھے سے آ رہا ہے۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn to warn the cyclist you are turning across their path.",
+        "ur": "اپنا ہارن بجائیں تاکہ سائیکل سوار کو خبردار کیا جا سکے کہ آپ ان کے راستے کو کراس کر رہے ہیں۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly to avoid holding up traffic behind you.",
+        "ur": "جلدی سگنل دیں اور فوری موڑ لیں تاکہ آپ کے پیچھے ٹریفک رکے نہ۔"
+      },
+      "d": {
+        "en": "Edge forward slowly into the cycle lane to check if the cyclist is close.",
+        "ur": "سائیکل لین میں آہستہ آہستہ آگے بڑھیں تاکہ یہ چیک کیا جا سکے کہ سائیکل سوار قریب ہے یا نہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists to pass before turning across their path to avoid cutting them off and to ensure their safety.",
+      "ur": "آپ کو ہمیشہ سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے اس سے پہلے کہ آپ ان کے راستے کو کاٹ کر مڑیں، تاکہ ان کا راستہ بند نہ ہو اور ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "V0PM4R",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the best course of action to demonstrate a safe and considerate attitude?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں جانب سیدھا جا رہا ہے۔ محفوظ اور مہذب رویہ ظاہر کرنے کے لیے بہترین عمل کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Edge forward slowly to encourage the cyclist to stop and let you turn first.",
+        "ur": "آہستہ آہستہ آگے بڑھیں تاکہ سائیکل سوار کو رکنے کی ترغیب ملے اور وہ آپ کو پہلے مڑنے دے۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your presence and proceed when clear.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو اپنی موجودگی کا پتہ چل جائے اور جب راستہ صاف ہو تو آگے بڑھیں۔"
+      },
+      "b": {
+        "en": "Signal early and complete your turn quickly to avoid holding up traffic.",
+        "ur": "جلدی سگنل دیں اور اپنی موڑ مکمل کریں تاکہ ٹریفک کو روکنے سے بچا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists going straight ahead before turning across their path to avoid cutting them off and to show patience and consideration.",
+      "ur": "آپ کو ہمیشہ سائیکل سواروں کے سیدھے جانے کا انتظار کرنا چاہیے قبل اس کے کہ آپ ان کے راستے کو کاٹ کر مڑیں، تاکہ ان کا راستہ نہ روکا جائے اور صبر و تحمل اور خیال مندی کا مظاہرہ کیا جا سکے۔"
+    }
+  },
+  {
+    "id": "POS1SQ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں جانب سیدھا جا رہا ہے۔ سب سے محفوظ اور مہذب عمل کیا ہوگا؟"
+    },
+    "options": {
+      "c": {
+        "en": "Overtake the cyclist on the left before turning right",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly to avoid holding up traffic",
+        "ur": "جلدی سگنل دیں اور فوری موڑ لیں تاکہ ٹریفک کو روکنے سے بچا جا سکے۔"
+      },
+      "d": {
+        "en": "Wave the cyclist to go ahead so you can turn first",
+        "ur": "سائیکل سوار کو آگے جانے کا اشارہ دیں تاکہ آپ پہلے مڑ سکیں۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد دائیں مڑیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist until they have passed to avoid cutting across their path, ensuring their safety and demonstrating patience and courtesy.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے انتظار کرنا چاہیے جب تک کہ وہ گزر نہ جائیں تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے، اس طرح ان کی حفاظت یقینی بنتی ہے اور صبر و شائستگی کا مظاہرہ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "HHP2LK",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on your nearside. What is the best course of action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن آپ کے قریب والے راستے پر ایک سائیکل سوار سیدھا جا رہا ہے۔ بہترین اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Signal early and overtake the cyclist quickly before turning",
+        "ur": "جلدی سگنل دیں اور موڑنے سے پہلے سائیکل سوار کو تیزی سے اوورٹیک کریں۔"
+      },
+      "d": {
+        "en": "Turn right immediately to avoid holding up traffic behind you",
+        "ur": "فوری طور پر دائیں مڑیں تاکہ آپ کے پیچھے ٹریفک رکنے سے بچ جائے۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد دائیں مڑیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to move faster",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو تیز چلنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist until they have passed before turning right to avoid cutting across their path and to ensure their safety.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے انتظار کرنا چاہیے جب تک کہ وہ گزر نہ جائیں، اس کے بعد ہی دائیں مڑیں تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے اور ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "K3F58B",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on your nearside. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن آپ کے قریب والے راستے پر ایک سائیکل سوار سیدھا جا رہا ہے۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Turn immediately, assuming the cyclist will stop for you",
+        "ur": "فوراً مڑیں، یہ فرض کرتے ہوئے کہ سائیکل سوار آپ کے لیے رک جائے گا۔"
+      },
+      "b": {
+        "en": "Signal early and overtake the cyclist quickly before turning",
+        "ur": "جلدی سگنل دیں اور موڑنے سے پہلے سائیکل سوار کو تیزی سے اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد دائیں مڑیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to move faster",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو تیز چلنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist until they have passed to avoid cutting across their path, ensuring their safety and demonstrating patience and courtesy.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے انتظار کرنا چاہیے جب تک کہ وہ گزر نہ جائیں تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے، اس طرح ان کی حفاظت یقینی بنتی ہے اور صبر و شائستگی کا مظاہرہ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "9OI773",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on your right. What is the best course of action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن آپ کے دائیں طرف ایک سائیکل سوار سیدھا جا رہا ہے۔ بہترین کارروائی کیا ہوگی؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn to alert the cyclist to move faster so you can turn.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو تیز چلنے کی اطلاع دی جا سکے تاکہ آپ موڑ سکیں۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist and only turn when it is safe to do so, giving them priority.",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں اور صرف تب مڑیں جب یہ محفوظ ہو، انہیں ترجیح دیتے ہوئے۔"
+      },
+      "d": {
+        "en": "Turn immediately, assuming the cyclist will slow down to let you pass.",
+        "ur": "فوراً مڑیں، یہ فرض کرتے ہوئے کہ سائیکل سوار آپ کو گزرنے کے لیے رفتار کم کر دے گا۔"
+      },
+      "b": {
+        "en": "Signal early and overtake the cyclist quickly before turning right.",
+        "ur": "جلدی سگنل دیں اور دائیں مڑنے سے پہلے سائیکل سوار کو تیزی سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist and only turn when it is safe, giving them priority to proceed straight ahead, as cutting across cyclists is dangerous and against the rules.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے رکنا چاہیے اور صرف اس وقت موڑنا چاہیے جب یہ محفوظ ہو، انہیں سیدھے آگے بڑھنے کی ترجیح دیتے ہوئے، کیونکہ سائیکل سواروں کے راستے کاٹنا خطرناک ہے اور قوانین کے خلاف ہے۔"
+    }
+  },
+  {
+    "id": "QHZPG0",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on the road you want to turn into. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن ایک سائیکل سوار اس سڑک پر سیدھا جا رہا ہے جس پر آپ مڑنا چاہتے ہیں۔ سب سے محفوظ اور سب سے زیادہ خیال رکھنے والا عمل کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait for the cyclist to pass before making your turn",
+        "ur": "موڑ لینے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning",
+        "ur": "موڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Wave the cyclist to go ahead so you can turn immediately",
+        "ur": "سائیکل سوار کو آگے جانے کا اشارہ دیں تاکہ آپ فوراً مڑ سکیں۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly to avoid holding up traffic",
+        "ur": "جلدی سگنل دیں اور فوری موڑ لیں تاکہ ٹریفک کو روکنے سے بچا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists to pass before turning across their path to avoid cutting them off and ensure their safety.",
+      "ur": "آپ کو ہمیشہ سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے اس سے پہلے کہ آپ ان کے راستے کو کاٹ کر مڑیں، تاکہ ان کا راستہ بند نہ ہو اور ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "JRZDCF",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the best course of action to demonstrate a safe and considerate attitude?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں جانب سیدھا جا رہا ہے۔ محفوظ اور مہذب رویہ ظاہر کرنے کے لیے بہترین اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right.",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، پھر دائیں مڑیں۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left just before the junction to get ahead.",
+        "ur": "چوراہے سے کچھ پہلے سائیکل سوار کو بائیں جانب سے اوورٹیک کریں تاکہ آگے نکل سکیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your intention to turn.",
+        "ur": "اپنی گاڑی کا ہارن بجائیں تاکہ سائیکل سوار کو آپ کے موڑنے کے ارادے کی اطلاع ملے۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly before the cyclist reaches the junction.",
+        "ur": "جلدی اشارہ دیں اور سائیکل سوار کے چوراہے تک پہنچنے سے پہلے فوری موڑ لیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Waiting behind the cyclist until they have passed ensures you do not cut across their path, demonstrating patience and consideration for vulnerable road users as required by safe driving attitude principles.",
+      "ur": "سائیکل سوار کے پیچھے انتظار کرنا جب تک وہ گزر نہ جائیں، اس بات کو یقینی بناتا ہے کہ آپ ان کے راستے کو عبور نہ کریں، جو محفوظ ڈرائیونگ کے اصولوں کے تحت صبر اور کمزور سڑک استعمال کرنے والوں کے لیے خیال رکھنے کا مظاہرہ ہے۔"
+    }
+  },
+  {
+    "id": "DW96OQ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں طرف سیدھا جا رہا ہے۔ سب سے محفوظ اور سب سے زیادہ خیال رکھنے والا عمل کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Overtake the cyclist on the left before turning to maintain traffic flow.",
+        "ur": "موڑنے سے پہلے بائیں طرف سائیکل سوار کو اوورٹیک کریں تاکہ ٹریفک کا بہاؤ برقرار رہے۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly to avoid holding up traffic behind you.",
+        "ur": "جلدی سگنل دیں اور تیزی سے مڑیں تاکہ آپ کے پیچھے ٹریفک رکے نہ۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your presence and proceed when safe.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو اپنی موجودگی کا پتہ چل جائے اور جب محفوظ ہو تو آگے بڑھیں۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists to pass before turning across their path to avoid cutting them off and to ensure their safety.",
+      "ur": "آپ کو ہمیشہ سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے اس سے پہلے کہ آپ ان کے راستے کو کاٹ کر مڑیں، تاکہ ان کا راستہ بند نہ ہو اور ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "HDFMOA",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on your right. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن آپ کے دائیں طرف ایک سائیکل سوار سیدھا جا رہا ہے۔ سب سے محفوظ اور سب سے زیادہ خیال رکھنے والا عمل کیا ہوگا؟"
+    },
+    "options": {
+      "c": {
+        "en": "Overtake the cyclist on the left before turning right",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد دائیں مڑیں۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly to avoid holding up traffic",
+        "ur": "جلدی سگنل دیں اور فوری موڑ لیں تاکہ ٹریفک کو روکنے سے بچا جا سکے۔"
+      },
+      "d": {
+        "en": "Wave the cyclist to go ahead so you can turn first",
+        "ur": "سائیکل سوار کو آگے جانے کا اشارہ دیں تاکہ آپ پہلے مڑ سکیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Waiting behind the cyclist until they have passed ensures their safety and avoids cutting across their path, which is both considerate and in line with DVSA guidance.",
+      "ur": "سائیکل سوار کے پیچھے انتظار کرنا جب تک وہ گزر نہ جائیں، ان کی حفاظت کو یقینی بناتا ہے اور ان کے راستے میں مداخلت سے بچاتا ہے، جو کہ نہ صرف مہربان رویہ ہے بلکہ DVSA کی ہدایات کے مطابق بھی ہے۔"
+    }
+  },
+  {
+    "id": "WZ1L4P",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on your right. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن آپ کے دائیں طرف ایک سائیکل سوار سیدھے راستے پر جا رہا ہے۔ سب سے محفوظ اور سب سے زیادہ خیال رکھنے والا عمل کیا ہوگا؟"
+    },
+    "options": {
+      "c": {
+        "en": "Overtake the cyclist quickly on the left before turning right",
+        "ur": "دائیں مڑنے سے پہلے بائیں جانب سے سائیکل سوار کو تیزی سے اوورٹیک کریں۔"
+      },
+      "d": {
+        "en": "Turn right immediately, assuming the cyclist will stop to let you pass",
+        "ur": "فوراً دائیں مڑیں، اس مفروضے کے ساتھ کہ سائیکل سوار آپ کو گزرنے دے گا۔"
+      },
+      "b": {
+        "en": "Sound your horn to alert the cyclist to speed up and clear the junction",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو خبردار کیا جا سکے کہ وہ اپنی رفتار بڑھائے اور چوراہے سے گزر جائے۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد دائیں مڑیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist until they have passed before turning right to avoid cutting across their path, ensuring their safety and showing consideration.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے انتظار کرنا چاہیے جب تک کہ وہ گزر نہ جائیں، اس کے بعد ہی دائیں مڑیں تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے، ان کی حفاظت کو یقینی بنایا جا سکے اور ان کے لیے احترام ظاہر کیا جا سکے۔"
+    }
+  },
+  {
+    "id": "SVH76J",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on your right. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن ایک سائیکل سوار آپ کے دائیں جانب سیدھا جا رہا ہے۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn to alert the cyclist to stop",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو رکنے کی اطلاع دی جا سکے۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before making your turn",
+        "ur": "موڑ لینے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning",
+        "ur": "موڑ لینے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly before the cyclist reaches the junction",
+        "ur": "جلدی سگنل دیں اور سائیکل سوار کے چوراہے تک پہنچنے سے پہلے جلدی موڑ لیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Waiting for the cyclist to pass before turning prevents cutting across their path, ensuring their safety and demonstrating courteous driving.",
+      "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کرنا ان کے راستے میں مداخلت سے بچاتا ہے، ان کی حفاظت کو یقینی بناتا ہے اور شائستہ ڈرائیونگ کا مظاہرہ کرتا ہے۔"
+    }
+  },
+  {
+    "id": "OOSROS",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on the road you want to turn into. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار اس سڑک پر سیدھا جا رہا ہے جس پر آپ مڑنا چاہتے ہیں۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Overtake the cyclist on the left before turning to maintain traffic flow.",
+        "ur": "ٹریفک کے بہاؤ کو برقرار رکھنے کے لیے موڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your presence and proceed when clear.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو اپنی موجودگی کا پتہ چل جائے اور جب راستہ خالی ہو تو آگے بڑھیں۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly to avoid holding up traffic behind you.",
+        "ur": "جلدی سگنل دیں اور تیزی سے مڑیں تاکہ آپ کے پیچھے ٹریفک رکے نہ۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists to pass before turning across their path to avoid cutting them off and to ensure their safety, demonstrating patience and courtesy.",
+      "ur": "آپ کو ہمیشہ سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے اس سے پہلے کہ آپ ان کے راستے کو کاٹ کر مڑیں، تاکہ ان کی راہ میں رکاوٹ نہ بنیں اور ان کی حفاظت کو یقینی بنایا جا سکے، اس طرح صبر اور شائستگی کا مظاہرہ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "NOY79A",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right across a cycle lane. A cyclist is approaching from behind in the cycle lane. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو سائیکل لین کو عبور کرتے ہوئے دائیں مڑنا ہے۔ ایک سائیکل سوار سائیکل لین میں آپ کے پیچھے سے آ رہا ہے۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait for the cyclist to pass before turning right",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly before the cyclist reaches the junction",
+        "ur": "جلدی سگنل دیں اور سائیکل سوار کے چوراہے تک پہنچنے سے پہلے فوری موڑ لیں۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning",
+        "ur": "موڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn to warn the cyclist and then turn",
+        "ur": "سائیکل سوار کو خبردار کرنے کے لیے ہارن بجائیں اور پھر موڑ لیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists to pass before turning across their path to avoid cutting them off and ensure their safety.",
+      "ur": "آپ کو ہمیشہ سائیکل سواروں کو گزرنے دینا چاہیے اس سے پہلے کہ آپ ان کے راستے کو کاٹ کر مڑیں، تاکہ ان کا راستہ بند نہ ہو اور ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "66EZUZ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on your right. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن ایک سائیکل سوار آپ کے دائیں طرف سیدھا جا رہا ہے۔ سب سے محفوظ اور مہذب عمل کیا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Signal early and overtake the cyclist quickly before turning",
+        "ur": "جلدی سگنل دیں اور موڑنے سے پہلے سائیکل سوار کو تیزی سے اوورٹیک کریں۔"
+      },
+      "d": {
+        "en": "Turn right immediately to avoid holding up traffic behind you",
+        "ur": "فوری طور پر دائیں مڑیں تاکہ آپ کے پیچھے آنے والی گاڑیوں کو رکاوٹ نہ ہو۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد دائیں مڑیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to move faster",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو تیز چلنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Waiting behind the cyclist until they have passed ensures their safety and avoids cutting across their path, demonstrating patience and courtesy as required by the DVSA attitude guidelines.",
+      "ur": "سائیکل سوار کے پیچھے انتظار کرنا جب تک وہ گزر نہ جائیں، ان کی حفاظت کو یقینی بناتا ہے اور ان کے راستے کو کاٹنے سے بچاتا ہے، جو کہ صبر اور شائستگی کا مظاہرہ ہے جیسا کہ DVSA رویے کے رہنما اصولوں میں ضروری ہے۔"
+    }
+  },
+  {
+    "id": "S7RQWW",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where a cyclist is waiting to cross ahead. What is the best attitude and action to take in this situation?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں ایک سائیکل سوار آگے کراس کرنے کے لیے انتظار کر رہا ہے۔ اس صورت حال میں بہترین رویہ اور عمل کیا ہونا چاہیے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Overtake the cyclist on the left before turning to avoid holding up traffic.",
+        "ur": "موٹر سائیکل سوار کو بائیں جانب سے اوورٹیک کریں اور پھر موڑ لیں تاکہ ٹریفک میں رکاوٹ نہ بنے۔"
+      },
+      "a": {
+        "en": "Wait patiently for the cyclist to cross before proceeding, giving them plenty of space.",
+        "ur": "صبر سے انتظار کریں جب تک سائیکل سوار کراس نہ کر لے، اور انہیں کافی جگہ دیں۔"
+      },
+      "b": {
+        "en": "Sound your horn to alert the cyclist to hurry up so traffic behind you can move.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو جلدی کرنے کی اطلاع دی جا سکے تاکہ آپ کے پیچھے ٹریفک روانہ ہو سکے۔"
+      },
+      "c": {
+        "en": "Edge forward slowly to encourage the cyclist to cross quickly and clear the junction.",
+        "ur": "آہستہ آہستہ آگے بڑھیں تاکہ سائیکل سوار کو جلدی کراس کرنے اور چوراہے کو خالی کرنے کی ترغیب ملے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Waiting patiently and giving the cyclist plenty of space shows courtesy and consideration, ensuring their safety and avoiding intimidation or risk.",
+      "ur": "صبر سے انتظار کرنا اور سائیکل سوار کو مناسب جگہ دینا شائستگی اور خیال مندی کا مظاہرہ ہے، جو ان کی حفاظت کو یقینی بناتا ہے اور دھمکانے یا خطرے سے بچاتا ہے۔"
+    }
+  },
+  {
+    "id": "AWK11V",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں طرف سیدھا جا رہا ہے۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، پھر دائیں مڑیں۔"
+      },
+      "b": {
+        "en": "Signal early and overtake the cyclist quickly before turning",
+        "ur": "جلدی سگنل دیں اور موڑنے سے پہلے سائیکل سوار کو تیزی سے اوورٹیک کریں۔"
+      },
+      "d": {
+        "en": "Turn right immediately to avoid holding up traffic behind you",
+        "ur": "فوری طور پر دائیں مڑیں تاکہ آپ کے پیچھے ٹریفک رکے نہ۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to move faster",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو تیز چلنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist until they have passed before turning right to avoid cutting across their path, ensuring their safety and demonstrating patience and courtesy.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے انتظار کرنا چاہیے جب تک کہ وہ گزر نہ جائیں، اس سے پہلے کہ آپ دائیں مڑیں، تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے، ان کی حفاظت کو یقینی بنایا جا سکے اور صبر و شائستگی کا مظاہرہ کیا جا سکے۔"
+    }
+  },
+  {
+    "id": "ZWSNMP",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but there is a cyclist travelling straight ahead on your right. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن آپ کے دائیں جانب ایک سائیکل سوار سیدھے جا رہا ہے۔ سب سے محفوظ اور مہذب عمل کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Sound your horn to alert the cyclist to stop and let you turn",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو خبردار کیا جا سکے کہ وہ رکے اور آپ کو مڑنے دے۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly before the cyclist reaches the junction",
+        "ur": "جلدی سگنل دیں اور سائیکل سوار کے چوراہے تک پہنچنے سے پہلے فوری موڑ لیں۔"
+      },
+      "c": {
+        "en": "Overtake the cyclist on the left just before turning right",
+        "ur": "دائیں مڑنے سے ٹھیک پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، پھر دائیں مڑیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist until they have passed before turning right to avoid cutting across their path, ensuring their safety and demonstrating patience and courtesy.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے انتظار کرنا چاہیے جب تک کہ وہ گزر نہ جائیں، اس سے پہلے کہ آپ دائیں مڑیں، تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے، ان کی حفاظت کو یقینی بنایا جا سکے اور صبر و شائستگی کا مظاہرہ کیا جا سکے۔"
+    }
+  },
+  {
+    "id": "X5Z9F5",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right side. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں جانب سیدھے راستے پر جا رہا ہے۔ سب سے محفوظ اور سب سے زیادہ خیال رکھنے والا عمل کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly to avoid holding up traffic behind you.",
+        "ur": "جلدی سگنل دیں اور فوری موڑ لیں تاکہ آپ کے پیچھے آنے والی گاڑیوں کو انتظار نہ کرنا پڑے۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning right.",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist of your intention to turn.",
+        "ur": "اپنی گاڑی کا ہارن بجائیں تاکہ سائیکل سوار کو اپنی موڑنے کی نیت سے آگاہ کیا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists to pass before turning across their path to avoid cutting them off and to ensure their safety.",
+      "ur": "آپ کو ہمیشہ سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے اس سے پہلے کہ آپ ان کے راستے کو کراس کرتے ہوئے مڑیں، تاکہ ان کا راستہ نہ روکا جائے اور ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "FN72DL",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on your nearside. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن آپ کے قریب سائیکل سوار سیدھا آگے جا رہا ہے۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، پھر دائیں مڑیں۔"
+      },
+      "b": {
+        "en": "Signal early and overtake the cyclist quickly before turning",
+        "ur": "جلدی سگنل دیں اور موڑنے سے پہلے سائیکل سوار کو تیزی سے اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to move faster",
+        "ur": "اپنے ہارن بجائیں تاکہ سائیکل سوار کو تیز چلنے کی اطلاع دی جا سکے۔"
+      },
+      "d": {
+        "en": "Turn immediately and expect the cyclist to slow down",
+        "ur": "فوری طور پر موڑیں اور توقع رکھیں کہ سائیکل سوار اپنی رفتار کم کرے گا۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist until they have passed before turning right to avoid cutting across their path, ensuring their safety and demonstrating courteous driving.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے انتظار کرنا چاہیے جب تک کہ وہ گزر نہ جائیں، اس سے پہلے کہ آپ دائیں مڑیں، تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے، ان کی حفاظت یقینی بنائی جا سکے اور شائستہ ڈرائیونگ کا مظاہرہ کیا جا سکے۔"
+    }
+  },
+  {
+    "id": "9SP3ZV",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن آپ کے دائیں طرف ایک سائیکل سوار سیدھا جا رہا ہے۔ سب سے محفوظ اور سب سے زیادہ خیال رکھنے والا عمل کیا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Signal early and turn quickly to avoid holding up traffic behind you.",
+        "ur": "جلدی سگنل دیں اور فوری موڑ لیں تاکہ آپ کے پیچھے ٹریفک رکے نہ۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning right.",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist of your intention to turn.",
+        "ur": "اپنی گاڑی کا ہارن بجائیں تاکہ سائیکل سوار کو آپ کے موڑنے کے ارادے کی اطلاع مل سکے۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists going straight ahead to pass before turning right to avoid cutting across their path and to ensure their safety.",
+      "ur": "آپ کو ہمیشہ سیدھے جانے والے سائیکل سواروں کو پہلے گزرنے دینا چاہیے اس سے پہلے کہ آپ دائیں مڑیں، تاکہ ان کے راستے میں مداخلت نہ ہو اور ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "HP45JZ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "When approaching a junction where you intend to turn left, a cyclist is travelling straight ahead on your left. What is the safest and most considerate action to take?",
+      "ur": "جب آپ ایک چوراہے کے قریب پہنچ رہے ہوں جہاں آپ بائیں مڑنے کا ارادہ رکھتے ہوں، اور آپ کی بائیں جانب ایک سائیکل سوار سیدھا جا رہا ہو، تو سب سے محفوظ اور مہذب عمل کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning left",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائے، پھر بائیں مڑیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your intention to turn",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو آپ کے موڑنے کے ارادے سے آگاہ کیا جا سکے۔"
+      },
+      "b": {
+        "en": "Signal early and turn left quickly to avoid holding up traffic",
+        "ur": "جلدی سگنل دیں اور بائیں طرف فوری موڑ لیں تاکہ ٹریفک کو روکنا نہ پڑے۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning",
+        "ur": "موڑ لینے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist until they have passed to avoid cutting across their path, ensuring their safety and demonstrating courteous driving.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے انتظار کرنا چاہیے جب تک کہ وہ گزر نہ جائیں تاکہ ان کے راستے میں مداخلت نہ ہو، ان کی حفاظت کو یقینی بنایا جا سکے اور شائستہ ڈرائیونگ کا مظاہرہ کیا جا سکے۔"
+    }
+  },
+  {
+    "id": "5QAH4N",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں جانب سیدھا جا رہا ہے۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Signal early and complete your turn quickly to avoid holding up traffic.",
+        "ur": "جلدی سگنل دیں اور اپنا موڑ تیزی سے مکمل کریں تاکہ ٹریفک کو روکنے سے بچا جا سکے۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist of your intention to turn.",
+        "ur": "اپنی گاڑی کا ہارن بجائیں تاکہ سائیکل سوار کو آپ کے موڑنے کے ارادے کی اطلاع مل سکے۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning right.",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists going straight ahead to pass before turning right to avoid cutting across their path and to ensure their safety.",
+      "ur": "آپ کو ہمیشہ سیدھے جانے والے سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے اس سے پہلے کہ آپ دائیں مڑیں، تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے اور ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "XJ8C6I",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right. A cyclist is travelling straight ahead on your right. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں۔ آپ کے دائیں طرف ایک سائیکل سوار سیدھا جا رہا ہے۔ سب سے محفوظ اور مہذب عمل کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Overtake the cyclist on the left just before turning.",
+        "ur": "موڑ لینے سے ٹھیک پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly before the cyclist reaches the junction.",
+        "ur": "جلدی سگنل دیں اور سائیکل سوار کے چوراہے تک پہنچنے سے پہلے فوری موڑ لیں۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist and proceed when clear.",
+        "ur": "ہارن بجائیں تاکہ سائیکل سوار کو خبردار کیا جا سکے اور جب راستہ صاف ہو تو آگے بڑھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists going straight ahead to pass before turning right, as cutting across them is dangerous and discourteous.",
+      "ur": "آپ کو ہمیشہ سیدھے جانے والے سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے اس سے پہلے کہ آپ دائیں مڑیں، کیونکہ ان کے راستے میں کاٹنا خطرناک اور غیر مہذب عمل ہے۔"
+    }
+  },
+  {
+    "id": "AJXDOL",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں طرف سیدھا جا رہا ہے۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn to alert the cyclist to move faster",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو تیز چلنے کی اطلاع دی جا سکے۔"
+      },
+      "b": {
+        "en": "Signal early and overtake the cyclist quickly before turning",
+        "ur": "جلدی سگنل دیں اور موڑنے سے پہلے سائیکل سوار کو تیزی سے اوورٹیک کریں۔"
+      },
+      "d": {
+        "en": "Turn immediately to avoid holding up traffic behind you",
+        "ur": "فوری طور پر مڑیں تاکہ آپ کے پیچھے آنے والی گاڑیوں کی روانی میں رکاوٹ نہ آئے۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist and only turn when they have passed safely",
+        "ur": "سائیکل سوار کے پیچھے رکیں اور صرف اس وقت مڑیں جب وہ محفوظ طریقے سے گزر چکا ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist and only turn when they have passed safely to avoid cutting across their path, ensuring their safety and demonstrating courteous driving.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے رکنا چاہیے اور صرف اس وقت موڑنا چاہیے جب وہ محفوظ طریقے سے گزر چکے ہوں تاکہ ان کے راستے میں مداخلت نہ ہو، اس طرح ان کی حفاظت یقینی بنائی جاتی ہے اور شائستہ ڈرائیونگ کا مظاہرہ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "FSNPEG",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں طرف سیدھا جا رہا ہے۔ سب سے محفوظ اور سب سے زیادہ خیال رکھنے والا عمل کیا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Signal early and complete your turn quickly to avoid holding up traffic.",
+        "ur": "جلدی سگنل دیں اور اپنا موڑ تیزی سے مکمل کریں تاکہ ٹریفک کو روکنے سے بچا جا سکے۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist of your intention to turn.",
+        "ur": "اپنی گاڑی کا ہارن بجائیں تاکہ سائیکل سوار کو آپ کے موڑنے کے ارادے کی اطلاع مل سکے۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning right.",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists going straight ahead to pass before turning right, as cutting across them is dangerous and inconsiderate.",
+      "ur": "آپ کو ہمیشہ سیدھے جانے والے سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے اس سے پہلے کہ آپ دائیں مڑیں، کیونکہ ان کے راستے میں کاٹنا خطرناک اور غیر مہذب عمل ہے۔"
+    }
+  },
+  {
+    "id": "GWQFHY",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the best course of action to demonstrate a safe and considerate attitude?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں جانب سیدھا جا رہا ہے۔ محفوظ اور مہذب رویہ ظاہر کرنے کے لیے بہترین عمل کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait behind the cyclist and only turn when it is safe to do so, giving them priority.",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں اور صرف تب موڑیں جب یہ محفوظ ہو، انہیں ترجیح دیتے ہوئے۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to move faster and then turn.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو تیز چلنے اور پھر مڑنے کی اطلاع دی جا سکے۔"
+      },
+      "d": {
+        "en": "Turn immediately, assuming the cyclist will slow down or stop for you.",
+        "ur": "فوراً مڑیں، یہ فرض کرتے ہوئے کہ سائیکل سوار آپ کے لیے رفتار کم کرے گا یا رک جائے گا۔"
+      },
+      "b": {
+        "en": "Signal early and overtake the cyclist quickly before turning right.",
+        "ur": "جلدی سگنل دیں اور دائیں مڑنے سے پہلے سائیکل سوار کو تیزی سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait behind cyclists going straight ahead and only turn when it is safe, giving them priority to avoid cutting across their path and to show consideration for vulnerable road users.",
+      "ur": "آپ کو ہمیشہ سیدھے جانے والے سائیکل سواروں کے پیچھے رکنا چاہیے اور صرف تب مڑنا چاہیے جب یہ محفوظ ہو، انہیں ترجیح دیتے ہوئے تاکہ ان کے راستے میں مداخلت نہ ہو اور کمزور روڈ صارفین کا خیال رکھا جا سکے۔"
+    }
+  },
+  {
+    "id": "10DGMV",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but there is a cyclist travelling straight ahead on your right. What is the best course of action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں طرف مڑنا ہے، لیکن آپ کے دائیں جانب ایک سائیکل سوار سیدھا جا رہا ہے۔ بہترین عمل کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right.",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد دائیں مڑیں۔"
+      },
+      "b": {
+        "en": "Signal early and overtake the cyclist quickly before turning.",
+        "ur": "جلدی سگنل دیں اور موڑنے سے پہلے سائیکل سوار کو تیزی سے اوورٹیک کریں۔"
+      },
+      "d": {
+        "en": "Turn right immediately to avoid holding up traffic behind you.",
+        "ur": "فوری طور پر دائیں مڑیں تاکہ آپ کے پیچھے آنے والی ٹریفک رکنے پر مجبور نہ ہو۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to move faster.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو تیز چلنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait behind cyclists going straight ahead when turning right to avoid cutting across their path and ensure their safety.",
+      "ur": "جب آپ دائیں مڑ رہے ہوں تو ہمیشہ سیدھے جانے والے سائیکل سواروں کے پیچھے رُکیں تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے اور ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "MUE6AO",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your nearside. What is the best course of action to demonstrate a safe and considerate attitude?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن آپ کے قریب سے ایک سائیکل سوار سیدھا جا رہا ہے۔ محفوظ اور مہذب رویہ ظاہر کرنے کے لیے بہترین عمل کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Edge forward slowly to encourage the cyclist to move faster",
+        "ur": "آہستہ آہستہ آگے بڑھیں تاکہ سائیکل سوار کو تیز چلنے کی ترغیب ملے۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning right",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد دائیں مڑیں۔"
+      },
+      "b": {
+        "en": "Signal early and overtake the cyclist quickly before turning",
+        "ur": "جلدی سگنل دیں اور موڑنے سے پہلے سائیکل سوار کو تیزی سے اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your presence and proceed",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو اپنی موجودگی کا احساس دلایا جا سکے اور آگے بڑھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Waiting behind the cyclist until they have passed ensures you do not cut across their path, demonstrating patience and consideration for vulnerable road users.",
+      "ur": "سائیکل سوار کے پیچھے انتظار کرنا جب تک وہ گزر نہ جائیں، اس بات کو یقینی بناتا ہے کہ آپ ان کے راستے کو عبور نہ کریں، جو کہ صبر اور کمزور سڑک استعمال کرنے والوں کے لیے خیال رکھنے کی علامت ہے۔"
+    }
+  },
+  {
+    "id": "EMA3VV",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on the road you want to turn into. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن ایک سائیکل سوار اس سڑک پر سیدھا جا رہا ہے جس پر آپ مڑنا چاہتے ہیں۔ سب سے محفوظ اور سب سے زیادہ خیال رکھنے والا عمل کیا ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait for the cyclist to pass before turning right",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your intention",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو اپنی نیت سے آگاہ کیا جا سکے۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly to avoid delaying the cyclist",
+        "ur": "جلدی اشارہ دیں اور تیزی سے مڑیں تاکہ سائیکل سوار کو تاخیر نہ ہو۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left before turning",
+        "ur": "موڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists to pass before turning across their path to avoid cutting them off and to ensure their safety.",
+      "ur": "آپ کو ہمیشہ سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے اس سے پہلے کہ آپ ان کے راستے کو کاٹ کر مڑیں، تاکہ ان کا راستہ بند نہ ہو اور ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "QYWEGT",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on the road you want to turn into. What is the safest and most courteous action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار اس سڑک پر سیدھا جا رہا ہے جس پر آپ مڑنا چاہتے ہیں۔ سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Overtake the cyclist on the left before turning right to save time.",
+        "ur": "دائیں طرف مڑنے سے پہلے وقت بچانے کے لیے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly to avoid holding up traffic behind you.",
+        "ur": "جلدی سگنل دیں اور تیزی سے موڑ لیں تاکہ آپ کے پیچھے آنے والی گاڑیوں کو رکاوٹ نہ ہو۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your presence and proceed when clear.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو اپنی موجودگی کا پتہ چل جائے اور جب راستہ خالی ہو تو آگے بڑھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists to pass before turning across their path to avoid cutting them off, ensuring their safety and demonstrating courteous driving.",
+      "ur": "آپ کو ہمیشہ سائیکل سواروں کے گزرنے کا انتظار کرنا چاہیے اس سے پہلے کہ آپ ان کے راستے کو کاٹ کر مڑیں، تاکہ ان کی حفاظت یقینی بنائی جا سکے اور مہذب ڈرائیونگ کا مظاہرہ ہو۔"
+    }
+  },
+  {
+    "id": "J4UQUO",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where a cyclist is waiting to go straight ahead while you intend to turn right. What is the safest and most considerate action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں ایک سائیکل سوار سیدھا جانے کے لیے انتظار کر رہا ہے جبکہ آپ دائیں مڑنے کا ارادہ رکھتے ہیں۔ سب سے محفوظ اور سب سے زیادہ خیال رکھنے والا عمل کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Overtake the cyclist on the left before turning",
+        "ur": "موڑ لینے سے پہلے سائیکل سوار کو بائیں جانب سے اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly to avoid holding up the cyclist",
+        "ur": "جلدی سگنل دیں اور تیزی سے مڑیں تاکہ سائیکل سوار کو روکنے سے بچا جا سکے۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning right",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait for the cyclist to pass before turning right to avoid cutting across their path, ensuring their safety and demonstrating courteous driving.",
+      "ur": "آپ کو سائیکل سوار کے گزرنے کا انتظار کرنا چاہیے اس سے پہلے کہ آپ دائیں مڑیں تاکہ ان کے راستے کو کاٹنے سے بچا جا سکے، اس طرح ان کی حفاظت یقینی بنتی ہے اور مہذب ڈرائیونگ کا مظاہرہ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "PTKBHO",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you need to turn right, but a cyclist is travelling straight ahead on your right. What is the best course of action to take?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ کو دائیں مڑنا ہے، لیکن آپ کے دائیں طرف ایک سائیکل سوار سیدھا جا رہا ہے۔ بہترین اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Overtake the cyclist on the left before turning right.",
+        "ur": "دائیں مڑنے سے پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Signal early and turn quickly to avoid holding up traffic behind you.",
+        "ur": "جلدی سگنل دیں اور فوری موڑ لیں تاکہ آپ کے پیچھے آنے والی گاڑیوں کو انتظار نہ کرنا پڑے۔"
+      },
+      "a": {
+        "en": "Wait for the cyclist to pass before turning, giving them priority.",
+        "ur": "موڑنے سے پہلے سائیکل سوار کے گزرنے کا انتظار کریں اور انہیں ترجیح دیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist to your intention to turn.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو آپ کے موڑنے کے ارادے کی اطلاع مل سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always wait for cyclists going straight ahead to pass before turning right to avoid cutting across their path and ensure their safety.",
+      "ur": "آپ کو ہمیشہ سیدھے جانے والے سائیکل سواروں کو پہلے گزرنے دینا چاہیے اس سے پہلے کہ آپ دائیں مڑیں، تاکہ ان کے راستے میں مداخلت نہ ہو اور ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "TL75NG",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "You are approaching a junction where you intend to turn right, but a cyclist is travelling straight ahead on your right. What is the best course of action to demonstrate a responsible attitude?",
+      "ur": "آپ ایک چوراہے کے قریب پہنچ رہے ہیں جہاں آپ دائیں طرف مڑنے کا ارادہ رکھتے ہیں، لیکن ایک سائیکل سوار آپ کے دائیں جانب سیدھا جا رہا ہے۔ ذمہ دار رویہ ظاہر کرنے کے لیے بہترین عمل کیا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Signal early and overtake the cyclist quickly before turning right.",
+        "ur": "جلدی سگنل دیں اور دائیں مڑنے سے پہلے سائیکل سوار کو تیزی سے اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Wave the cyclist to go ahead so you can turn without delay.",
+        "ur": "سائیکل سوار کو آگے جانے کے لیے ہاتھ ہلا کر اشارہ دیں تاکہ آپ بلا تاخیر موڑ سکیں۔"
+      },
+      "d": {
+        "en": "Sound your horn to alert the cyclist to move faster and clear the junction.",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو تیز چلنے اور چوراہے کو خالی کرنے کی اطلاع دی جا سکے۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist and only turn when it is safe to do so, giving them priority.",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں اور صرف تب مڑیں جب یہ محفوظ ہو، انہیں ترجیح دیتے ہوئے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait behind the cyclist and only turn when it is safe, giving them priority to avoid cutting across their path and to show patience and consideration.",
+      "ur": "آپ کو سائیکل سوار کے پیچھے انتظار کرنا چاہیے اور صرف تب موڑنا چاہیے جب یہ محفوظ ہو، انہیں ترجیح دیتے ہوئے تاکہ ان کے راستے میں مداخلت نہ ہو اور صبر و تحمل اور خیال مندی کا مظاہرہ کیا جا سکے۔"
+    }
+  },
+  {
+    "id": "YGJIB3",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "When approaching a junction where you intend to turn left, you see a cyclist travelling straight ahead on your left. What is the safest and most considerate action to take?",
+      "ur": "جب آپ ایسے چوراہے کے قریب پہنچ رہے ہوں جہاں آپ بائیں مڑنے کا ارادہ رکھتے ہیں، اور آپ کی بائیں جانب ایک سائیکل سوار سیدھا جا رہا ہو، تو سب سے محفوظ اور مہذب عمل کیا ہوگا؟"
+    },
+    "options": {
+      "c": {
+        "en": "Overtake the cyclist on the left just before turning",
+        "ur": "موڑ لینے سے ٹھیک پہلے سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Signal early and turn left quickly to avoid holding up traffic",
+        "ur": "جلدی سگنل دیں اور ٹریفک کو روکنے سے بچنے کے لیے بائیں طرف فوری موڑ لیں۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning left",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، پھر بائیں مڑیں۔"
+      },
+      "d": {
+        "en": "Sound your horn to alert the cyclist to your presence and proceed",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو اپنی موجودگی سے آگاہ کریں اور آگے بڑھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Waiting behind the cyclist until they have passed ensures you do not cut across their path, which is both safer and more courteous to vulnerable road users.",
+      "ur": "سائیکل سوار کے پیچھے انتظار کرنا جب تک وہ گزر نہ جائیں، اس بات کو یقینی بناتا ہے کہ آپ ان کے راستے کو عبور نہ کریں، جو کہ کمزور سڑک استعمال کرنے والوں کے لیے زیادہ محفوظ اور مہذب رویہ ہے۔"
+    }
+  },
+  {
+    "id": "HDYZC0",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Attitude",
+    "question": {
+      "en": "When approaching a junction where you intend to turn left, you see a cyclist travelling straight ahead on your left side. What is the safest and most considerate action to take?",
+      "ur": "جب آپ ایسے چوراہے کے قریب پہنچ رہے ہوں جہاں آپ بائیں طرف مڑنے کا ارادہ رکھتے ہیں، اور آپ کی بائیں جانب ایک سائیکل سوار سیدھا آگے جا رہا ہو، تو سب سے محفوظ اور مہذب اقدام کیا ہوگا؟"
+    },
+    "options": {
+      "c": {
+        "en": "Overtake the cyclist on the left before turning left",
+        "ur": "بائیں طرف مڑنے سے پہلے سائیکل سوار کو بائیں جانب سے اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Signal left early and turn quickly to avoid holding up traffic",
+        "ur": "جلدی بائیں سگنل دیں اور ٹریفک کو روکنے سے بچنے کے لیے جلدی موڑ لیں۔"
+      },
+      "d": {
+        "en": "Sound your horn to alert the cyclist to move faster",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو تیز چلنے کی اطلاع دی جا سکے۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until they have passed before turning left",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ وہ گزر نہ جائیں، اس کے بعد بائیں مڑیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Waiting behind the cyclist until they have passed ensures their safety and avoids cutting across their path, demonstrating patience and courtesy as required by the DVSA attitude guidelines.",
+      "ur": "سائیکل سوار کے پیچھے انتظار کرنا جب تک وہ گزر نہ جائیں، ان کی حفاظت کو یقینی بناتا ہے اور ان کے راستے میں مداخلت سے بچاتا ہے، جو کہ DVSA رویے کے رہنما اصولوں کے مطابق صبر اور شائستگی کا مظاہرہ ہے۔"
+    }
+  }
+]

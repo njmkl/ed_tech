@@ -1,0 +1,135 @@
+[
+  {
+    "id": "QETOUQ",
+    "question": {
+      "es": "¿Puede circular con su vehículo si emite ruido que supera los límites autorizados?",
+      "ru": "Можно ли ездить на транспортном средстве, если оно издаёт шум, превышающий разрешённые нормы?"
+    },
+    "options": {
+      "a": {
+        "es": "No, está prohibido.",
+        "ru": "Нет, это запрещено."
+      },
+      "b": {
+        "es": "Sí, mientras se trate de una avería.",
+        "ru": "Да, если это связано с неисправностью."
+      },
+      "c": {
+        "es": "Sí, ya que el ruido no supone ningún peligro.",
+        "ru": "Да, так как шум не представляет опасности."
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "es": "Circular con un vehículo que emite ruido por encima de los límites autorizados está prohibido, ya que puede causar molestias y daños a la salud pública. Aunque el ruido sea debido a una avería, el conductor debe reparar el vehículo para cumplir con la normativa. Por lo tanto, la opción correcta es la a).",
+      "ru": "Езда на транспортном средстве, издающем шум выше разрешённых норм, запрещена, так как это может причинять неудобства и вред здоровью окружающих. Даже если шум вызван неисправностью, водитель обязан отремонтировать транспортное средство, чтобы соответствовать правилам. Поэтому правильный ответ — вариант а)."
+    },
+    "file_id": "tema15_032",
+    "topic": "Conocimiento del automóvil II"
+  },
+  {
+    "id": "QGAWH8",
+    "question": {
+      "es": "¿Cuándo suelen los jóvenes realizar más maniobras de riesgo?",
+      "ru": "Когда молодые люди обычно совершают больше рискованных манёвров?"
+    },
+    "options": {
+      "a": {
+        "es": "Cuando van solos.",
+        "ru": "Когда они едут одни."
+      },
+      "b": {
+        "es": "Cuando van acompañados.",
+        "ru": "Когда они едут в компании."
+      },
+      "c": {
+        "es": "Tanto cuando van solos como cuando van acompañados.",
+        "ru": "И когда они едут одни, и когда в компании."
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "es": "Los jóvenes tienden a realizar más maniobras de riesgo cuando van acompañados, debido a la influencia social y la presión de grupo que puede llevar a comportamientos imprudentes al volante.",
+      "ru": "Молодые люди чаще совершают рискованные манёвры, когда едут в компании, из-за социального влияния и давления группы, что может приводить к неосторожному поведению за рулём."
+    },
+    "file_id": "tema18_005",
+    "topic": "Viajes, civismo vial y accidentes"
+  },
+  {
+    "id": "QEIJMV",
+    "question": {
+      "es": "El accidente más frecuente por el uso del teléfono móvil es...",
+      "ru": "Какое наиболее частое ДТП происходит из-за использования мобильного телефона?"
+    },
+    "options": {
+      "a": {
+        "es": "El choque frontolateral.",
+        "ru": "Фронтально-боковое столкновение."
+      },
+      "b": {
+        "es": "La salida de la vía.",
+        "ru": "Выезд с проезжей части."
+      },
+      "c": {
+        "es": "El alcance.",
+        "ru": "Наезд сзади."
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "es": "El uso del teléfono móvil distrae al conductor, lo que aumenta el riesgo de no mantener la distancia de seguridad y provoca accidentes por alcance. Por eso, el accidente más frecuente relacionado con el uso del móvil es el alcance.",
+      "ru": "Использование мобильного телефона отвлекает водителя, что увеличивает риск несоблюдения безопасной дистанции и приводит к наездам сзади. Поэтому наиболее частым ДТП, связанным с использованием телефона, является наезд сзади."
+    },
+    "file_id": "tema18_011",
+    "topic": "Viajes, civismo vial y accidentes"
+  },
+  {
+    "id": "Q6Q84X",
+    "question": {
+      "es": "Si el manocontacto no se enciende, ¿qué puede ocurrir?",
+      "ru": "Если индикатор давления масла не загорается, что может произойти?"
+    },
+    "options": {
+      "a": {
+        "es": "No es una avería ya que el generador carga normalmente.",
+        "ru": "Это не неисправность, так как генератор заряжает нормально."
+      },
+      "b": {
+        "es": "No es una avería ya que la presión de engrase es correcta.",
+        "ru": "Это не неисправность, так как давление масла правильное."
+      },
+      "c": {
+        "es": "Que hay una avería ya que la presión de engrase es incorrecto.",
+        "ru": "Есть неисправность, так как давление масла неправильное."
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "es": "Si el manocontacto (testigo de presión de aceite) no se enciende, indica que puede haber una avería en el sistema de lubricación, ya que la presión de aceite es incorrecta. Esto es importante para evitar daños graves en el motor. Por lo tanto, es necesario revisar el sistema inmediatamente.",
+      "ru": "Если индикатор давления масла не загорается, это может указывать на неисправность в системе смазки, так как давление масла неправильное. Это важно для предотвращения серьёзных повреждений двигателя. Поэтому необходимо немедленно проверить систему."
+    },
+    "file_id": "tema15_026",
+    "topic": "Conocimiento del automóvil II"
+  },
+  {
+    "id": "Q3NWZL",
+    "question": {
+      "es": "En caso de duda sobre las indicaciones del navegador GPS, ¿qué debe hacer el conductor?",
+      "ru": "В случае сомнений относительно указаний навигатора GPS, что должен сделать водитель?"
+    },
+    "options": {
+      "a": {
+        "es": "Es mejor reiniciar el GPS.",
+        "ru": "Лучше перезагрузить GPS."
+      },
+      "b": {
+        "es": "Hay que volver a introducir la ruta.",
+        "ru": "Нужно заново ввести маршрут."
+      },
+          "c": {
+            "es": "Debe prevalecer la opinión del conductor.",
+            "ru": "Должно преобладать мнение водителя."
+          }
+        }
+      }
+    ]

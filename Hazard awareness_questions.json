@@ -1,0 +1,3137 @@
+[
+  {
+    "id": "Z7CIHY",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct action to take?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچیں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک کہ پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      },
+      "d": {
+        "en": "Only stop if the crossing is marked with flashing amber lights",
+        "ur": "صرف اس صورت میں رکیں جب کراسنگ پر چمکتی ہوئی پیلی روشنی ہو۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں کراس کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to let pedestrians waiting at a zebra crossing cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے کراس کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "T0OEUD",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے انتظار کر رہے ہوں کہ وہ کراس کریں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے دیں، رکنے کے لیے تیار رہیں۔"
+      },
+      "b": {
+        "en": "Continue at the same speed if no pedestrians have stepped onto the crossing",
+        "ur": "اگر پیدل چلنے والا کراسنگ پر نہ آیا ہو تو اسی رفتار سے چلتے رہیں۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrians are already on the crossing",
+        "ur": "صرف اس صورت میں رکیں جب پیدل چلنے والے پہلے ہی کراسنگ پر ہوں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to let pedestrians waiting at a zebra crossing cross safely, even if they have not yet stepped onto the crossing.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے کراس کرنے دیا جا سکے، چاہے وہ ابھی کراسنگ پر قدم نہ رکھے ہوں۔"
+    }
+  },
+  {
+    "id": "V57X4M",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road at 30 mph, what is the minimum safe distance you should leave between your vehicle and the cyclist?",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار سے تنگ سڑک پر کسی سائیکل سوار کو اوورٹیک کر رہے ہوں، تو آپ کی گاڑی اور سائیکل سوار کے درمیان کم از کم محفوظ فاصلہ کتنا ہونا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "At least 1 metre",
+        "ur": "کم از کم 1 میٹر"
+      },
+      "d": {
+        "en": "At least 0.5 metres",
+        "ur": "کم از کم 0.5 میٹر"
+      },
+      "a": {
+        "en": "At least 1.5 metres",
+        "ur": "کم از کم 1.5 میٹر"
+      },
+      "c": {
+        "en": "At least 2 metres",
+        "ur": "کم از کم ۲ میٹر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should leave at least 1.5 metres when overtaking a cyclist at speeds up to 30 mph to ensure their safety and avoid causing them to swerve or lose balance.",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار تک سائیکل سوار کو اوورٹیک کر رہے ہوں تو ان کی حفاظت کو یقینی بنانے اور انہیں گھومنے یا توازن کھونے سے بچانے کے لیے کم از کم 1.5 میٹر کی دوری رکھنی چاہیے۔"
+    }
+  },
+  {
+    "id": "7L3ZRW",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct action to take?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچیں جہاں پیدل چلنے والے انتظار کر رہے ہوں، تو صحیح اقدام کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrians are already on the crossing",
+        "ur": "صرف تب رُکیں جب پیدل چلنے والے پہلے ہی کراسنگ پر ہوں۔"
+      },
+      "b": {
+        "en": "Continue at the same speed if no pedestrians have stepped onto the crossing",
+        "ur": "اگر پیدل چلنے والا کراسنگ پر نہیں آیا ہو تو اسی رفتار سے چلتے رہیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop for pedestrians waiting to cross at a zebra crossing, giving way to them even before they step onto the crossing.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور پیدل چلنے والوں کے لیے رکنے کے لیے تیار رہنا چاہیے جو زیبرا کراسنگ پر عبور کرنے کے انتظار میں ہوں، انہیں راستہ دینا چاہیے یہاں تک کہ وہ کراسنگ پر قدم رکھیں۔"
+    }
+  },
+  {
+    "id": "5JT90X",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road with parked vehicles on your side, what is the safest course of action?",
+      "ur": "جب آپ ایک تنگ سڑک پر، جہاں آپ کی طرف گاڑیاں پارک کی ہوئی ہوں، کسی سائیکل سوار کو اوورٹیک کر رہے ہوں، تو سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Sound your horn to alert the cyclist and overtake quickly on the left",
+        "ur": "سائیکل سوار کو خبردار کرنے کے لیے ہارن بجائیں اور بائیں طرف سے جلدی اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Wait until it is safe to move fully into the other lane before overtaking, giving the cyclist plenty of space",
+        "ur": "اوورٹیک کرنے سے پہلے اس وقت تک انتظار کریں جب تک کہ دوسری لین میں مکمل طور پر محفوظ طریقے سے منتقل ہونا ممکن نہ ہو، اور سائیکل سوار کو کافی جگہ دیں۔"
+      },
+      "c": {
+        "en": "Overtake the cyclist closely to avoid blocking traffic behind you",
+        "ur": "سائیکل سوار کو قریب سے اوورٹیک کریں تاکہ آپ کے پیچھے ٹریفک بلاک نہ ہو۔"
+      },
+      "d": {
+        "en": "Pass the cyclist on the right without moving into the other lane if there is enough space",
+        "ur": "اگر کافی جگہ ہو تو سائیکل سوار کو دائیں جانب سے دوسرے لین میں داخل ہوئے بغیر اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should wait until it is safe to move fully into the other lane to give the cyclist at least 1.5 metres of space, especially on narrow roads with parked vehicles, to avoid putting them at risk.",
+      "ur": "آپ کو اس وقت تک انتظار کرنا چاہیے جب تک کہ دوسرے لین میں مکمل طور پر منتقل ہونا محفوظ نہ ہو، تاکہ سائیکل سوار کو کم از کم 1.5 میٹر کی جگہ دی جا سکے، خاص طور پر تنگ سڑکوں پر جہاں گاڑیاں پارک ہوں، تاکہ ان کو خطرے میں نہ ڈالا جائے۔"
+    }
+  },
+  {
+    "id": "00FNED",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct action to take?",
+      "ur": "جب آپ ایک زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو صحیح اقدام کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "d": {
+        "en": "Only stop if pedestrians have already stepped onto the crossing",
+        "ur": "صرف اس صورت میں رُکیں جب پیدل چلنے والے پہلے ہی کراسنگ پر قدم رکھ چکے ہوں۔"
+      },
+      "c": {
+        "en": "Maintain your speed but be ready to stop if they step onto the crossing",
+        "ur": "اپنی رفتار برقرار رکھیں لیکن اگر وہ کراسنگ پر قدم رکھیں تو رکنے کے لیے تیار رہیں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں راستہ دینے کے لیے رکنے کے لیے تیار رہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے کراس کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "9J3IOC",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ ایک زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrians are already on the crossing",
+        "ur": "صرف اس صورت میں رکیں جب پیدل چلنے والے پہلے ہی کراسنگ پر ہوں۔"
+      },
+      "b": {
+        "en": "Continue at the same speed if no pedestrians have stepped onto the crossing",
+        "ur": "اگر پیدل چلنے والا کراسنگ پر نہ آیا ہو تو اسی رفتار سے چلتے رہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop for pedestrians waiting to cross at a zebra crossing, giving way to them even before they step onto the crossing.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور پیدل چلنے والوں کے لیے رکنے کے لیے تیار رہنا چاہیے جو زیبرا کراسنگ پر عبور کرنے کے انتظار میں ہوں، اور انہیں عبور کرنے سے پہلے ہی راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "1A1BP1",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct action to take?",
+      "ur": "جب آپ زبرا کراسنگ کے قریب پہنچیں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو صحیح اقدام کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "d": {
+        "en": "Only stop if pedestrians have already stepped onto the crossing",
+        "ur": "صرف اس صورت میں رکیں جب پیدل چلنے والے پہلے ہی عبوری راستے پر قدم رکھ چکے ہوں۔"
+      },
+      "c": {
+        "en": "Maintain your speed if no pedestrians are on the crossing",
+        "ur": "اگر کراسنگ پر کوئی پیدل چلنے والا نہ ہو تو اپنی رفتار برقرار رکھیں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to let pedestrians waiting at a zebra crossing cross safely, even if they have not yet stepped onto the crossing.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زبردستی کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے عبور کرنے دیا جا سکے، چاہے وہ ابھی کراسنگ پر قدم نہ رکھے ہوں۔"
+    }
+  },
+  {
+    "id": "ZYA0T0",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے انتظار کر رہے ہوں کہ وہ کراس کریں، تو صحیح عمل کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Only stop if the pedestrians are already on the crossing",
+        "ur": "صرف اس صورت میں رکیں جب پیدل چلنے والے پہلے ہی کراسنگ پر ہوں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے دیں، رکنے کے لیے تیار رہیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے کراس کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "0N1I4R",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road with oncoming traffic, what is the safest course of action?",
+      "ur": "جب تنگ سڑک پر، جہاں سامنے سے ٹریفک آ رہی ہو، سائیکل سوار کو اوورٹیک کرنا ہو تو سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Overtake on the left if the cyclist is riding near the kerb",
+        "ur": "اگر سائیکل سوار کنارے کے قریب چل رہا ہو تو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Overtake the cyclist closely to avoid blocking oncoming traffic",
+        "ur": "سائیکل سوار کو قریب سے اوورٹیک کریں تاکہ سامنے آنے والی ٹریفک کو بلاک کرنے سے بچا جا سکے۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until it is safe to overtake with plenty of room",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ اسے محفوظ طریقے سے کافی جگہ دے کر اوورٹیک کرنا ممکن نہ ہو۔"
+      },
+      "b": {
+        "en": "Sound your horn to alert the cyclist and overtake quickly",
+        "ur": "ہارن بجائیں تاکہ سائیکل سوار کو خبردار کیا جا سکے اور جلدی اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On narrow roads with oncoming traffic, it is safest to wait behind the cyclist until you can overtake with plenty of room, giving them at least 1.5 metres space to avoid causing danger.",
+      "ur": "تنگ سڑکوں پر جہاں سامنے سے ٹریفک آ رہی ہو، سب سے محفوظ طریقہ یہ ہے کہ سائیکل سوار کے پیچھے انتظار کریں جب تک کہ آپ انہیں کافی جگہ دے کر اوورٹیک نہ کر سکیں، کم از کم 1.5 میٹر کی جگہ دے کر خطرہ پیدا کرنے سے بچیں۔"
+    }
+  },
+  {
+    "id": "9T8QNV",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو صحیح عمل کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے دیں، رکنے کے لیے تیار رہیں۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک کہ پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrians are already on the crossing",
+        "ur": "صرف اس صورت میں رکیں جب پیدل چلنے والے پہلے ہی کراسنگ پر ہوں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے عبور کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "ZAZEDE",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے انتظار کر رہے ہوں کہ وہ کراس کریں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے جاری رکھیں جب تک کہ پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "d": {
+        "en": "Only stop if the crossing is marked with flashing amber lights",
+        "ur": "صرف اس صورت میں رُکیں جب کراسنگ پر چمکتی ہوئی پیلی روشنی ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to let pedestrians waiting at a zebra crossing cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے کراس کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "HC4XO3",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے کراس کرنے کے انتظار میں ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں کراس کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "d": {
+        "en": "Only stop if the crossing is controlled by traffic lights",
+        "ur": "صرف اس صورت میں رکیں جب چوراہا ٹریفک سگنلز سے کنٹرول ہو رہا ہو۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے جاری رکھیں جب تک پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے عبور کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "CNMXLK",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road at 30 mph, what is the minimum safe distance you should leave between your vehicle and the cyclist?",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار سے تنگ سڑک پر کسی سائیکل سوار کو اوورٹیک کر رہے ہوں، تو آپ کی گاڑی اور سائیکل سوار کے درمیان کم از کم محفوظ فاصلہ کتنا ہونا چاہیے؟"
+    },
+    "options": {
+      "a": {
+        "en": "At least 1.5 metres",
+        "ur": "کم از کم 1.5 میٹر"
+      },
+      "d": {
+        "en": "At least 0.5 metres",
+        "ur": "کم از کم 0.5 میٹر"
+      },
+      "c": {
+        "en": "At least 2 metres",
+        "ur": "کم از کم ۲ میٹر"
+      },
+      "b": {
+        "en": "At least 1 metre",
+        "ur": "کم از کم 1 میٹر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should leave at least 1.5 metres when overtaking a cyclist at speeds up to 30 mph to ensure their safety and avoid causing them to swerve or lose balance.",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار تک سائیکل سوار کو اوورٹیک کر رہے ہوں تو ان کی حفاظت کو یقینی بنانے اور انہیں ڈگمگانے یا توازن کھونے سے بچانے کے لیے کم از کم 1.5 میٹر کی دوری رکھنی چاہیے۔"
+    }
+  },
+  {
+    "id": "8FUWOE",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct action to take?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے انتظار کر رہے ہوں کہ وہ کراس کریں، تو صحیح اقدام کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Only stop if the pedestrian makes eye contact with you",
+        "ur": "صرف اس صورت میں رکیں جب پیدل چلنے والا آپ سے آنکھیں ملا لے۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں کراس کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians before stopping",
+        "ur": "گاڑی روکنے سے پہلے پیدل چلنے والوں کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک کہ پیدل چلنے والے کراسنگ پر نہ قدم رکھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to let pedestrians waiting at a zebra crossing cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے گزرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "MLDQOL",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct action to take?",
+      "ur": "جب آپ ایک زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے انتظار کر رہے ہوں کہ وہ کراس کریں، تو صحیح اقدام کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrians are already on the crossing",
+        "ur": "صرف اس صورت میں رکیں جب پیدل چلنے والے پہلے ہی کراسنگ پر ہوں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے جاری رکھیں جب تک کہ پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to let pedestrians waiting at a zebra crossing cross safely, even if they have not yet stepped onto the crossing.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے کراس کرنے دیا جا سکے، چاہے وہ ابھی کراسنگ پر قدم نہ رکھے ہوں۔"
+    }
+  },
+  {
+    "id": "6DGZV7",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road at 30 mph, what is the minimum safe distance you should leave between your vehicle and the cyclist?",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار سے تنگ سڑک پر سائیکل سوار کو اوورٹیک کر رہے ہوں، تو آپ کی گاڑی اور سائیکل سوار کے درمیان کم از کم محفوظ فاصلہ کتنا ہونا چاہیے؟"
+    },
+    "options": {
+      "a": {
+        "en": "At least 1.5 metres",
+        "ur": "کم از کم 1.5 میٹر"
+      },
+      "b": {
+        "en": "About 0.5 metres",
+        "ur": "تقریباً 0.5 میٹر"
+      },
+      "d": {
+        "en": "No minimum distance if the road is clear",
+        "ur": "اگر راستہ خالی ہو تو کم از کم فاصلہ ضروری نہیں ہے۔"
+      },
+      "c": {
+        "en": "At least 2.5 metres",
+        "ur": "کم از کم 2.5 میٹر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must leave at least 1.5 metres when overtaking cyclists at speeds up to 30 mph to ensure their safety and avoid collisions.",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار تک سائیکل سواروں کو اوورٹیک کر رہے ہوں تو ان کی حفاظت کو یقینی بنانے اور تصادم سے بچنے کے لیے کم از کم 1.5 میٹر فاصلہ چھوڑنا ضروری ہے۔"
+    }
+  },
+  {
+    "id": "EMWS73",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road at 30 mph, what is the minimum safe distance you should leave between your vehicle and the cyclist?",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار سے تنگ سڑک پر سائیکل سوار کو اوورٹیک کر رہے ہوں، تو آپ کی گاڑی اور سائیکل سوار کے درمیان کم از کم محفوظ فاصلہ کتنا ہونا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "At least 1 metre",
+        "ur": "کم از کم 1 میٹر"
+      },
+      "d": {
+        "en": "At least 0.5 metres",
+        "ur": "کم از کم 0.5 میٹر"
+      },
+      "c": {
+        "en": "At least 2 metres",
+        "ur": "کم از کم ۲ میٹر"
+      },
+      "a": {
+        "en": "At least 1.5 metres",
+        "ur": "کم از کم 1.5 میٹر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should give at least 1.5 metres space when overtaking a cyclist at speeds up to 30 mph to ensure their safety and avoid startling them.",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار تک سائیکل سوار کو اوورٹیک کر رہے ہوں تو ان کی حفاظت کو یقینی بنانے اور انہیں خوفزدہ کرنے سے بچنے کے لیے کم از کم 1.5 میٹر کی جگہ دینی چاہیے۔"
+    }
+  },
+  {
+    "id": "RM77HK",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے انتظار کر رہے ہوں کہ وہ کراس کریں، تو صحیح عمل کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے دیں، رکنے کے لیے تیار رہیں۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrian is already on the crossing",
+        "ur": "صرف اس صورت میں رکیں جب پیدل چلنے والا پہلے ہی عبوری راستے پر ہو۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے جاری رکھیں جب تک پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے عبور کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "LHJ2MC",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے کراس کرنے کے انتظار میں ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrian makes eye contact with you",
+        "ur": "صرف اس صورت میں رکیں جب پیدل چلنے والا آپ سے آنکھیں ملا لے۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں راستہ دینے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "c": {
+        "en": "Maintain your speed if no pedestrians have stepped onto the crossing yet",
+        "ur": "اگر ابھی تک کوئی پیدل چلنے والا کراسنگ پر نہیں آیا تو اپنی رفتار برقرار رکھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے عبور کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "H4NXR5",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ ایسے زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے انتظار کر رہے ہوں کہ وہ کراس کریں، تو صحیح اقدام کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں پار کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians before proceeding",
+        "ur": "اپنے ہارن کا استعمال کریں تاکہ پیدل چلنے والوں کو آگاہ کیا جا سکے قبل اس کے کہ آپ گاڑی چلائیں۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrian is already on the crossing",
+        "ur": "صرف اس صورت میں رکیں جب پیدل چلنے والا پہلے ہی کراسنگ پر ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے عبور کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "N6Z5OU",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ زبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Only stop if the crossing has traffic lights showing red",
+        "ur": "صرف اس صورت میں رکیں جب چوراہے پر ٹریفک لائٹس سرخ دکھا رہی ہوں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے دیں، رکنے کے لیے تیار رہیں۔"
+      },
+      "b": {
+        "en": "Continue at the same speed if no pedestrians have stepped onto the crossing",
+        "ur": "اگر پیدل چلنے والے کراسنگ پر نہیں آئے ہوں تو اسی رفتار سے چلتے رہیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to let pedestrians waiting at a zebra crossing cross safely, regardless of whether they have stepped onto the crossing yet.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے کراس کرنے دیا جا سکے، چاہے وہ ابھی کراسنگ پر قدم رکھ چکے ہوں یا نہیں۔"
+    }
+  },
+  {
+    "id": "9JES90",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچیں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں کراس کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "d": {
+        "en": "Only stop if the crossing is marked with flashing amber beacons",
+        "ur": "صرف اس صورت میں رُکیں جب کراسنگ پر چمکتی ہوئی پیلی روشنی والے بیکنز نصب ہوں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "b": {
+        "en": "Continue at the same speed if no pedestrians have stepped onto the crossing",
+        "ur": "اگر پیدل چلنے والا فٹ پاتھ پر نہ آیا ہو تو اسی رفتار سے چلتے رہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to give way to pedestrians waiting to cross at a zebra crossing.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو راستہ دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "861D3E",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچیں جہاں پیدل چلنے والے کراس کرنے کے انتظار میں ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں کراس کرنے دیں، رکنے کے لیے تیار رہیں۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک کہ پیدل چلنے والے کراسنگ پر نہ قدم رکھیں۔"
+      },
+      "d": {
+        "en": "Only stop if the crossing is marked with flashing amber lights",
+        "ur": "صرف اسی صورت میں رکیں جب کراسنگ پر چمکتی ہوئی پیلی روشنی لگی ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے عبور کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "4KNME6",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں راستہ دینے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrians are already on the crossing",
+        "ur": "صرف اس صورت میں رُکیں جب پیدل چلنے والے پہلے ہی کراسنگ پر ہوں۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to let pedestrians waiting at a zebra crossing cross safely, even if they have not yet stepped onto the crossing.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے کراس کرنے دیا جا سکے، چاہے وہ ابھی کراسنگ پر قدم نہ رکھے ہوں۔"
+    }
+  },
+  {
+    "id": "H5T6F1",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "b": {
+        "en": "Continue at the same speed if no pedestrians have stepped onto the crossing",
+        "ur": "اگر پیدل چلنے والا کراسنگ پر نہ آیا ہو تو اسی رفتار سے چلتے رہیں۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrian is already on the crossing",
+        "ur": "صرف اس صورت میں رکیں جب پیدل چلنے والا پہلے ہی کراسنگ پر ہو۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے دیں، رکنے کے لیے تیار رہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop for pedestrians waiting to cross at a zebra crossing, giving way to them even before they step onto the crossing.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور پیدل چلنے والوں کے لیے رکنے کے لیے تیار رہنا چاہیے جو زیبرا کراسنگ پر عبور کرنے کے انتظار میں ہوں، انہیں راستہ دینا چاہیے یہاں تک کہ وہ کراسنگ پر قدم رکھیں۔"
+    }
+  },
+  {
+    "id": "BMY5IH",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Only stop if the pedestrians are already on the crossing",
+        "ur": "صرف اس صورت میں رکیں جب پیدل چلنے والے پہلے ہی کراسنگ پر ہوں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں کراس کرنے دیں، رکنے کے لیے تیار رہیں۔"
+      },
+      "b": {
+        "en": "Continue at the same speed if no pedestrians have stepped onto the crossing",
+        "ur": "اگر پیدل چلنے والا کراسنگ پر نہ آیا ہو تو اسی رفتار سے چلتے رہیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely, even if they have not yet stepped onto the crossing.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے کراس کرنے کی اجازت دی جا سکے، چاہے وہ ابھی کراسنگ پر قدم نہ رکھے ہوں۔"
+    }
+  },
+  {
+    "id": "MXLE1O",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ ایسے زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو صحیح عمل کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "d": {
+        "en": "Only stop if the crossing is marked with flashing amber lights",
+        "ur": "صرف اسی صورت میں رکیں جب چوراہے پر چمکتی ہوئی پیلی روشنی ہو۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے عبور کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "48JE2N",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے انتظار کر رہے ہوں کہ وہ کراس کریں، تو صحیح عمل کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "d": {
+        "en": "Only stop if the crossing is marked with flashing amber lights",
+        "ur": "صرف اس صورت میں رکیں جب کراسنگ پر چمکتی ہوئی پیلی روشنی ہو۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے عبور کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "YUWMJ6",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road with parked vehicles on your side, what is the safest approach to take?",
+      "ur": "جب آپ تنگ سڑک پر، جہاں آپ کی طرف گاڑیاں پارک کی ہوئی ہوں، کسی سائیکل سوار کو اوورٹیک کر رہے ہوں تو سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Wait behind the cyclist until it is safe to overtake with plenty of space",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ اسے محفوظ طریقے سے زیادہ فاصلے کے ساتھ اوورٹیک کرنا ممکن نہ ہو۔"
+      },
+      "d": {
+        "en": "Overtake on the left if there is enough space between the cyclist and parked vehicles",
+        "ur": "اگر سائیکل سوار اور پارک شدہ گاڑیوں کے درمیان کافی جگہ ہو تو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist before overtaking",
+        "ur": "اوورٹیک کرنے سے پہلے سائیکل سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "a": {
+        "en": "Pass quickly and close to the cyclist to minimise time in the opposite lane",
+        "ur": "تیزی سے اور سائیکل سوار کے قریب سے گزریں تاکہ مخالف لین میں گزارا گیا وقت کم سے کم ہو۔"
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "en": "Waiting behind the cyclist until it is safe to overtake with plenty of space reduces risk, as cyclists may need to move away from parked vehicles unexpectedly.",
+      "ur": "سائیکل سوار کے پیچھے انتظار کرنا جب تک کہ محفوظ طریقے سے اور کافی فاصلہ رکھتے ہوئے اوورٹیک نہ کیا جائے، خطرے کو کم کرتا ہے کیونکہ سائیکل سواروں کو غیر متوقع طور پر کھڑی گاڑیوں سے دور ہٹنا پڑ سکتا ہے۔"
+    }
+  },
+  {
+    "id": "K8H2AO",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road at 30 mph, what is the minimum safe distance you should leave between your vehicle and the cyclist?",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار سے تنگ سڑک پر سائیکل سوار کو اوورٹیک کر رہے ہوں، تو آپ کی گاڑی اور سائیکل سوار کے درمیان کم از کم محفوظ فاصلہ کتنا ہونا چاہیے؟"
+    },
+    "options": {
+      "d": {
+        "en": "At least 0.5 metres",
+        "ur": "کم از کم 0.5 میٹر"
+      },
+      "a": {
+        "en": "At least 1.5 metres",
+        "ur": "کم از کم 1.5 میٹر"
+      },
+      "b": {
+        "en": "At least 1 metre",
+        "ur": "کم از کم 1 میٹر"
+      },
+      "c": {
+        "en": "At least 2 metres",
+        "ur": "کم از کم ۲ میٹر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should give at least 1.5 metres space when overtaking cyclists at speeds up to 30 mph to ensure their safety and avoid startling them.",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار تک سائیکل سواروں کو اوورٹیک کریں تو ان کی حفاظت کو یقینی بنانے اور انہیں خوفزدہ کرنے سے بچنے کے لیے کم از کم 1.5 میٹر فاصلہ رکھیں۔"
+    }
+  },
+  {
+    "id": "UAPAQB",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچیں جہاں پیدل چلنے والے انتظار کر رہے ہوں، تو صحیح عمل کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "b": {
+        "en": "Continue at the same speed if no pedestrians have stepped onto the crossing",
+        "ur": "اگر پیدل چلنے والا کراسنگ پر نہ آیا ہو تو اسی رفتار سے آگے بڑھیں۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrian is already on the crossing",
+        "ur": "صرف اس صورت میں رکیں جب پیدل چلنے والا پہلے ہی کراسنگ پر ہو۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں پار کرنے دیں، رکنے کے لیے تیار رہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop for pedestrians waiting to cross at a zebra crossing, giving way to them even before they step onto the crossing.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور پیدل چلنے والوں کے لیے رکنے کے لیے تیار رہنا چاہیے جو زیبرا کراسنگ پر عبور کرنے کے انتظار میں ہوں، اور انہیں راستہ دینا چاہیے یہاں تک کہ وہ کراسنگ پر قدم رکھیں۔"
+    }
+  },
+  {
+    "id": "N09EI3",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچیں جہاں پیدل چلنے والے کراس کرنے کے انتظار میں ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Only stop if the pedestrians are already on the crossing",
+        "ur": "صرف اس صورت میں رکیں جب پیدل چلنے والے پہلے ہی کراسنگ پر ہوں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے دیں، رکنے کے لیے تیار رہیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "b": {
+        "en": "Continue at the same speed if no pedestrians have stepped onto the crossing",
+        "ur": "اگر پیدل چلنے والا کراسنگ پر نہ آیا ہو تو اسی رفتار سے آگے بڑھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to let pedestrians waiting at a zebra crossing cross safely, even if they have not yet stepped onto the crossing.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے کراس کرنے دیا جا سکے، چاہے وہ ابھی کراسنگ پر قدم نہ رکھے ہوں۔"
+    }
+  },
+  {
+    "id": "INJNR3",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct action to take?",
+      "ur": "جب آپ زبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے انتظار کر رہے ہوں کہ وہ کراس کریں، تو صحیح عمل کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک کہ پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians and proceed if the road is clear",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو خبردار کیا جا سکے اور اگر راستہ خالی ہو تو آگے بڑھیں۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrians are already on the crossing",
+        "ur": "صرف اس صورت میں رکیں جب پیدل چلنے والے پہلے ہی کراسنگ پر ہوں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں راستہ دینے کے لیے رکنے کے لیے تیار رہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے کراس کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "VZTKSG",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے راستہ پار کرنے کے لیے انتظار کر رہے ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں کراس کرنے دیں، رکنے کے لیے تیار رہیں۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrians are already on the crossing",
+        "ur": "صرف اس صورت میں رُکیں جب پیدل چلنے والے پہلے ہی کراسنگ پر ہوں۔"
+      },
+      "b": {
+        "en": "Continue at the same speed if no pedestrians have stepped onto the crossing",
+        "ur": "اگر پیدل چلنے والا کراسنگ پر نہ آیا ہو تو اسی رفتار سے چلتے رہیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop for pedestrians waiting to cross at a zebra crossing, giving way to them even before they step onto the crossing.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور پیدل چلنے والوں کے لیے رکنے کے لیے تیار رہنا چاہیے جو زیبرا کراسنگ پر عبور کرنے کے انتظار میں ہوں، اور انہیں عبور کرنے سے پہلے ہی راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "X67F44",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچیں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں راستہ دینے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "b": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "d": {
+        "en": "Only stop if pedestrians have already stepped onto the crossing",
+        "ur": "صرف اس صورت میں رُکیں جب پیدل چلنے والے پہلے ہی کراسنگ پر قدم رکھ چکے ہوں۔"
+      },
+      "c": {
+        "en": "Maintain your speed but be ready to stop if they step onto the crossing",
+        "ur": "اپنی رفتار برقرار رکھیں لیکن اگر وہ کراسنگ پر قدم رکھیں تو رکنے کے لیے تیار رہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے عبور کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "4QUZUE",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے کراس کرنے کے انتظار میں ہوں، تو صحیح عمل کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to warn pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی تنبیہ دی جا سکے۔"
+      },
+      "d": {
+        "en": "Only stop if the crossing is marked with flashing amber lights",
+        "ur": "صرف اسی صورت میں رُکیں جب کراسنگ پر چمکتی ہوئی پیلی روشنی ہو۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے دیں، رکنے کے لیے تیار رہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے عبور کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "P1OO89",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road with oncoming traffic, what is the safest course of action?",
+      "ur": "جب تنگ سڑک پر جہاں سامنے سے ٹریفک آ رہی ہو، سائیکل سوار کو اوورٹیک کرنا ہو تو سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait behind the cyclist until the road ahead is clear before overtaking",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ آگے کا راستہ صاف نہ ہو، پھر ہی اوورٹیک کریں۔"
+      },
+      "d": {
+        "en": "Pass the cyclist on the left side to avoid oncoming traffic",
+        "ur": "سائیکل سوار کو بائیں جانب سے اوورٹیک کریں تاکہ سامنے سے آنے والی ٹریفک سے بچا جا سکے۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist before overtaking closely",
+        "ur": "قریب سے اوورٹیک کرنے سے پہلے سائیکل سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "b": {
+        "en": "Overtake quickly, even if it means moving into the oncoming lane briefly",
+        "ur": "جلدی سے اوورٹیک کریں، چاہے اس کا مطلب عارضی طور پر مخالف سمت کی لین میں جانا ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On narrow roads with oncoming traffic, it is safest to wait behind the cyclist until you have enough clear space to overtake safely, giving them at least 1.5 metres space and avoiding forcing them into oncoming traffic.",
+      "ur": "تنگ سڑکوں پر جہاں سامنے سے ٹریفک آ رہی ہو، سب سے محفوظ طریقہ یہ ہے کہ سائیکل سوار کے پیچھے انتظار کریں جب تک کہ آپ کے پاس محفوظ طور پر اوورٹیک کرنے کے لیے کافی خالی جگہ نہ ہو، انہیں کم از کم 1.5 میٹر جگہ دیں اور انہیں سامنے سے آنے والی ٹریفک میں دھکیلنے سے گریز کریں۔"
+    }
+  },
+  {
+    "id": "AD1CUI",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road with oncoming traffic, what is the safest approach to take?",
+      "ur": "جب تنگ سڑک پر سامنے سے آنے والی ٹریفک ہو اور سائیکل سوار کو اوورٹیک کرنا ہو، تو سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Overtake quickly and move back immediately to your lane to avoid oncoming vehicles",
+        "ur": "جلدی سے اوورٹیک کریں اور فوری طور پر اپنی لین میں واپس آ جائیں تاکہ سامنے سے آنے والی گاڑیوں سے بچا جا سکے۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist and overtake on the left if possible",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو خبردار کیا جا سکے اور اگر ممکن ہو تو بائیں جانب سے اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Wait behind the cyclist until the road ahead is clear and you can give them at least 1.5 metres space",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ آگے کا راستہ صاف نہ ہو اور آپ انہیں کم از کم 1.5 میٹر جگہ دے سکیں۔"
+      },
+      "d": {
+        "en": "Pass the cyclist closely to avoid holding up traffic behind you",
+        "ur": "سائیکل سوار کو قریب سے عبور کریں تاکہ آپ کے پیچھے ٹریفک رکنے سے بچ سکے۔"
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "en": "On narrow roads with oncoming traffic, it is safest to wait until you can overtake giving the cyclist at least 1.5 metres space, rather than rushing or passing too closely, to ensure their safety and avoid collisions.",
+      "ur": "تنگ سڑکوں پر جہاں سامنے سے ٹریفک آ رہی ہو، سب سے محفوظ طریقہ یہ ہے کہ آپ انتظار کریں جب تک آپ سائیکل سوار کو کم از کم 1.5 میٹر کی جگہ دیتے ہوئے اوورٹیک نہ کر سکیں، جلد بازی کرنے یا بہت قریب سے گزرنے کی بجائے، تاکہ ان کی حفاظت یقینی بنائی جا سکے اور تصادم سے بچا جا سکے۔"
+    }
+  },
+  {
+    "id": "ORL270",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے کراس کرنے کے انتظار میں ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Maintain your speed if the pedestrians are not yet on the crossing",
+        "ur": "اگر پیدل چلنے والے ابھی عبوری راستے پر نہیں پہنچے تو اپنی رفتار برقرار رکھیں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں راستہ دینے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrians step onto the crossing",
+        "ur": "صرف اس صورت میں رکیں جب پیدل چلنے والے عبور پر قدم رکھیں۔"
+      },
+      "b": {
+        "en": "Sound your horn to warn pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی تنبیہ دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to let pedestrians cross at a zebra crossing, including those waiting to cross, to ensure their safety.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور پیدل چلنے والوں کو زبرا کراسنگ پر عبور کرنے کے لیے رکنے کے لیے تیار رہنا چاہیے، جن میں وہ لوگ بھی شامل ہیں جو عبور کرنے کے انتظار میں ہوں، تاکہ ان کی حفاظت یقینی بنائی جا سکے۔"
+    }
+  },
+  {
+    "id": "40WSXI",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road with parked vehicles on the opposite side, what is the safest approach?",
+      "ur": "جب تنگ سڑک پر جہاں مخالف طرف گاڑیاں پارک کی ہوئی ہوں، سائیکل سوار کو اوورٹیک کرنا ہو تو سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Overtake quickly without changing lane to avoid oncoming traffic",
+        "ur": "آنے والی ٹریفک سے بچنے کے لیے بغیر لین بدلے جلدی اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Wait behind the cyclist until it is safe to move fully into the adjacent lane",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ محفوظ نہ ہو کہ مکمل طور پر متصل لین میں منتقل ہو جائیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist before overtaking closely",
+        "ur": "قریب سے اوورٹیک کرنے سے پہلے سائیکل سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "d": {
+        "en": "Pass the cyclist on the left if there is enough space between them and the parked vehicles",
+        "ur": "اگر سائیکل سوار اور کھڑی گاڑیوں کے درمیان کافی جگہ ہو تو سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "en": "Waiting behind the cyclist until it is safe to move fully into the adjacent lane ensures you give them enough space and avoid squeezing between them and parked vehicles, reducing the risk of collision.",
+      "ur": "سائیکل سوار کے پیچھے انتظار کرنا جب تک کہ محفوظ نہ ہو کہ مکمل طور پر متصل لین میں منتقل ہو جائیں، اس بات کو یقینی بناتا ہے کہ آپ انہیں کافی جگہ دیں اور انہیں اور پارک شدہ گاڑیوں کے درمیان دبانے سے بچیں، جس سے تصادم کے خطرے میں کمی آتی ہے۔"
+    }
+  },
+  {
+    "id": "I5KFEY",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road at 30 mph, what is the minimum safe distance you should leave between your vehicle and the cyclist?",
+      "ur": "جب آپ تیز رفتاری سے 30 میل فی گھنٹہ کی رفتار پر ایک تنگ سڑک پر سائیکل سوار کو اوورٹیک کر رہے ہوں، تو آپ کی گاڑی اور سائیکل سوار کے درمیان کم از کم محفوظ فاصلہ کتنا ہونا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "At least 2 metres",
+        "ur": "کم از کم ۲ میٹر"
+      },
+      "a": {
+        "en": "At least 1.5 metres",
+        "ur": "کم از کم 1.5 میٹر"
+      },
+      "d": {
+        "en": "No minimum distance if the cyclist is riding close to the kerb",
+        "ur": "اگر سائیکل سوار کنارے کے قریب چل رہا ہو تو کم از کم فاصلہ ضروری نہیں ہے۔"
+      },
+      "b": {
+        "en": "About 1 metre",
+        "ur": "تقریباً 1 میٹر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should leave at least 1.5 metres when overtaking a cyclist at speeds up to 30 mph to ensure their safety and avoid causing them to swerve.",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار تک سائیکل سوار کو اوورٹیک کریں تو ان کی حفاظت کو یقینی بنانے اور انہیں اچانک راستہ بدلنے سے بچانے کے لیے کم از کم 1.5 میٹر فاصلہ چھوڑنا چاہیے۔"
+    }
+  },
+  {
+    "id": "35QU46",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ ایک زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے کراس کرنے کے انتظار میں ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Continue at the same speed if no pedestrians have stepped onto the crossing",
+        "ur": "اگر پیدل چلنے والا فٹ پاتھ پر نہیں آیا ہو تو اسی رفتار سے چلتے رہیں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے دیں، رکنے کے لیے تیار رہیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrian makes eye contact with you",
+        "ur": "صرف اس صورت میں رکیں جب پیدل چلنے والا آپ سے آنکھیں ملا لے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to let pedestrians cross at a zebra crossing, regardless of whether they have stepped onto the crossing yet.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور پیدل چلنے والوں کو زیبرا کراسنگ پر عبور کرنے دینے کے لیے رکنے کے لیے تیار رہنا چاہیے، چاہے وہ ابھی کراسنگ پر قدم رکھ چکے ہوں یا نہیں۔"
+    }
+  },
+  {
+    "id": "6Z9N69",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road in good weather at 30 mph, what is the minimum safe distance you should leave between your vehicle and the cyclist?",
+      "ur": "جب آپ اچھی موسم میں 30 میل فی گھنٹہ کی رفتار سے تنگ سڑک پر سائیکل سوار کو اوورٹیک کر رہے ہوں، تو آپ کی گاڑی اور سائیکل سوار کے درمیان کم از کم محفوظ فاصلہ کتنا ہونا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "About 0.5 metres",
+        "ur": "تقریباً 0.5 میٹر"
+      },
+      "d": {
+        "en": "No minimum distance if the cyclist is riding close to the curb",
+        "ur": "اگر سائیکل سوار کنارے کے قریب چل رہا ہو تو کم از کم فاصلہ ضروری نہیں۔"
+      },
+      "a": {
+        "en": "At least 1.5 metres",
+        "ur": "کم از کم 1.5 میٹر"
+      },
+      "c": {
+        "en": "At least 2.5 metres",
+        "ur": "کم از کم 2.5 میٹر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should leave at least 1.5 metres when overtaking a cyclist at speeds up to 30 mph to ensure their safety and avoid startling them.",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار تک سائیکل سوار کو اوورٹیک کر رہے ہوں تو ان کی حفاظت کو یقینی بنانے اور انہیں خوفزدہ کرنے سے بچنے کے لیے کم از کم 1.5 میٹر فاصلہ چھوڑنا چاہیے۔"
+    }
+  },
+  {
+    "id": "FDDTF8",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road at 30 mph, what is the minimum safe distance you should leave between your vehicle and the cyclist?",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار سے تنگ سڑک پر کسی سائیکل سوار کو اوورٹیک کر رہے ہوں، تو آپ کی گاڑی اور سائیکل سوار کے درمیان کم از کم محفوظ فاصلہ کتنا ہونا چاہیے؟"
+    },
+    "options": {
+      "a": {
+        "en": "At least 1.5 metres",
+        "ur": "کم از کم 1.5 میٹر"
+      },
+      "d": {
+        "en": "No minimum distance if the road is clear",
+        "ur": "اگر راستہ خالی ہو تو کم از کم فاصلہ ضروری نہیں ہے۔"
+      },
+      "b": {
+        "en": "About 1 metre",
+        "ur": "تقریباً 1 میٹر"
+      },
+      "c": {
+        "en": "At least 2 metres",
+        "ur": "کم از کم ۲ میٹر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should give at least 1.5 metres space when overtaking a cyclist at speeds up to 30 mph to ensure their safety and avoid startling them.",
+      "ur": "جب آپ 30 میل فی گھنٹہ تک کی رفتار سے سائیکل سوار کو اوورٹیک کر رہے ہوں تو ان کی حفاظت کو یقینی بنانے اور انہیں خوفزدہ کرنے سے بچنے کے لیے کم از کم 1.5 میٹر کا فاصلہ رکھنا چاہیے۔"
+    }
+  },
+  {
+    "id": "DVY8QI",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road at 30 mph, what is the minimum safe distance you should leave between your vehicle and the cyclist?",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار سے تنگ سڑک پر سائیکل سوار کو اوورٹیک کر رہے ہوں، تو آپ کی گاڑی اور سائیکل سوار کے درمیان کم از کم محفوظ فاصلہ کتنا ہونا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "At least 1 metre",
+        "ur": "کم از کم 1 میٹر"
+      },
+      "d": {
+        "en": "At least 0.5 metres",
+        "ur": "کم از کم 0.5 میٹر"
+      },
+      "c": {
+        "en": "At least 2 metres",
+        "ur": "کم از کم ۲ میٹر"
+      },
+      "a": {
+        "en": "At least 1.5 metres",
+        "ur": "کم از کم 1.5 میٹر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should leave at least 1.5 metres when overtaking a cyclist at speeds up to 30 mph to ensure their safety and allow for any sudden movements.",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار تک سائیکل سوار کو اوورٹیک کریں تو ان کی حفاظت کو یقینی بنانے اور اچانک حرکات کے لیے جگہ دینے کے لیے کم از کم 1.5 میٹر فاصلہ چھوڑنا چاہیے۔"
+    }
+  },
+  {
+    "id": "GORTDE",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road with oncoming traffic, what is the safest course of action?",
+      "ur": "جب تنگ سڑک پر سامنے سے آنے والی ٹریفک ہو اور آپ سائیکل سوار کو اوورٹیک کرنا چاہتے ہوں، تو سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn to alert the cyclist before overtaking on the right",
+        "ur": "اپنے ہارن بجائیں تاکہ سائیکل سوار کو دائیں طرف سے اوورٹیک کرنے سے پہلے خبردار کیا جا سکے۔"
+      },
+      "b": {
+        "en": "Overtake quickly on the left to avoid holding up traffic behind you",
+        "ur": "پیچھے آنے والی گاڑیوں کو روکنے سے بچنے کے لیے بائیں طرف جلدی سے اوورٹیک کریں۔"
+      },
+      "d": {
+        "en": "Pass the cyclist closely to minimise the time spent in the opposite lane",
+        "ur": "سائیکل سوار کو قریب سے عبور کریں تاکہ مخالف لین میں گزارا گیا وقت کم سے کم ہو۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until the road ahead is clear before overtaking",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ آگے کا راستہ صاف نہ ہو، پھر ہی اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On narrow roads with oncoming traffic, it is safest to wait until the road ahead is clear before overtaking a cyclist to give them enough space and avoid causing danger to all road users.",
+      "ur": "تنگ سڑکوں پر جہاں سامنے سے ٹریفک آ رہی ہو، سائیکل سوار کو اوورٹیک کرنے سے پہلے یہ سب سے محفوظ ہے کہ آپ اس وقت تک انتظار کریں جب تک آگے کی سڑک خالی نہ ہو، تاکہ انہیں کافی جگہ دی جا سکے اور تمام سڑک استعمال کرنے والوں کے لیے خطرہ پیدا نہ ہو۔"
+    }
+  },
+  {
+    "id": "KGP81B",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct action to take?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو صحیح اقدام کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "d": {
+        "en": "Only stop if pedestrians have already stepped onto the crossing",
+        "ur": "صرف اس صورت میں رکیں جب پیدل چلنے والے پہلے ہی عبوری راستے پر قدم رکھ چکے ہوں۔"
+      },
+      "c": {
+        "en": "Maintain your speed but be ready to brake if they step onto the crossing",
+        "ur": "اپنی رفتار برقرار رکھیں لیکن اگر وہ کراسنگ پر قدم رکھیں تو بریک لگانے کے لیے تیار رہیں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں پار کرنے دیں، رکنے کے لیے تیار رہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے کراس کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "5UHF56",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ ایک زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے عبور کرنے کے انتظار میں ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "d": {
+        "en": "Only stop if the crossing is controlled by traffic lights",
+        "ur": "صرف اس صورت میں رکیں جب چوراہا ٹریفک سگنلز سے کنٹرول ہو رہا ہو۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک کہ پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to let pedestrians waiting at a zebra crossing cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے کراس کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "LFNS6G",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچیں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے دیں، رکنے کے لیے تیار رہیں۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے جاری رکھیں جب تک پیدل چلنے والے کراسنگ پر نہ قدم رکھیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "d": {
+        "en": "Only stop if the crossing is controlled by traffic lights",
+        "ur": "صرف اسی صورت میں رکیں جب چوراہے پر ٹریفک سگنل نصب ہوں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے کراس کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "R0FTV0",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct action to take?",
+      "ur": "جب آپ ایک زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو صحیح اقدام کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے دیں، رکنے کے لیے تیار رہیں۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے جاری رکھیں جب تک پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      },
+      "d": {
+        "en": "Only stop if the crossing is marked with flashing amber lights",
+        "ur": "صرف اس صورت میں رُکیں جب کراسنگ پر چمکتی ہوئی پیلی روشنی لگی ہو۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے کراس کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "EMWJ6S",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچیں جہاں پیدل چلنے والے انتظار کر رہے ہوں، تو صحیح عمل کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں کراس کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrians are already on the crossing",
+        "ur": "صرف اس صورت میں رکیں جب پیدل چلنے والے پہلے ہی کراسنگ پر ہوں۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے عبور کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "Z7O6H7",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct action to take?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچیں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو صحیح اقدام کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Overtake any vehicles stopped at the crossing if the road is clear",
+        "ur": "اگر راستہ خالی ہو تو چوراہے پر رکے ہوئے کسی بھی گاڑی کو اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک کہ پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے عبور کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "A85A0S",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road at 30 mph, what is the minimum safe distance you should leave between your vehicle and the cyclist?",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار سے تنگ سڑک پر سائیکل سوار کو اوورٹیک کر رہے ہوں، تو آپ کی گاڑی اور سائیکل سوار کے درمیان کم از کم محفوظ فاصلہ کتنا ہونا چاہیے؟"
+    },
+    "options": {
+      "d": {
+        "en": "At least 0.5 metres",
+        "ur": "کم از کم 0.5 میٹر"
+      },
+      "b": {
+        "en": "At least 1 metre",
+        "ur": "کم از کم 1 میٹر"
+      },
+      "a": {
+        "en": "At least 1.5 metres",
+        "ur": "کم از کم 1.5 میٹر"
+      },
+      "c": {
+        "en": "At least 2 metres",
+        "ur": "کم از کم ۲ میٹر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should leave at least 1.5 metres when overtaking a cyclist at speeds up to 30 mph to ensure their safety and avoid causing them to swerve.",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار تک سائیکل سوار کو اوورٹیک کر رہے ہوں تو ان کی حفاظت کو یقینی بنانے اور انہیں اچانک راستہ بدلنے سے بچانے کے لیے کم از کم 1.5 میٹر فاصلہ چھوڑنا چاہیے۔"
+    }
+  },
+  {
+    "id": "HG3TXM",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road with oncoming traffic, what is the safest course of action?",
+      "ur": "جب تنگ سڑک پر سامنے سے ٹریفک آ رہی ہو اور آپ سائیکل سوار کو اوورٹیک کرنا چاہتے ہوں، تو سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Overtake the cyclist closely to avoid blocking the road for oncoming vehicles",
+        "ur": "سائیکل سوار کو قریب سے اوورٹیک کریں تاکہ سامنے آنے والی گاڑیوں کے لیے راستہ بند نہ ہو۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until it is safe to overtake with plenty of space",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ اسے محفوظ طریقے سے کافی جگہ کے ساتھ اوورٹیک کرنا ممکن نہ ہو۔"
+      },
+      "b": {
+        "en": "Sound your horn to alert the cyclist and overtake quickly",
+        "ur": "اپنی ہارن بجائیں تاکہ سائیکل سوار کو خبردار کیا جا سکے اور جلدی سے اوورٹیک کریں۔"
+      },
+      "d": {
+        "en": "Flash your headlights to signal the cyclist to move aside before overtaking",
+        "ur": "اپنی ہیڈلائٹس چمکائیں تاکہ سائیکل سوار کو اوورٹیک کرنے سے پہلے کنارے ہٹنے کا اشارہ دیا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On narrow roads with oncoming traffic, it is safest to wait behind the cyclist until you can overtake with enough space to avoid causing danger to the cyclist or oncoming vehicles.",
+      "ur": "تنگ سڑکوں پر جہاں سامنے سے ٹریفک آ رہی ہو، سب سے محفوظ طریقہ یہ ہے کہ سائیکل سوار کے پیچھے انتظار کریں جب تک کہ آپ اتنی جگہ نہ مل جائے کہ آپ اسے محفوظ طریقے سے اوورٹیک کر سکیں، تاکہ سائیکل سوار یا سامنے سے آنے والی گاڑیوں کو کوئی خطرہ نہ ہو۔"
+    }
+  },
+  {
+    "id": "8UYIY0",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے انتظار کر رہے ہوں کہ وہ کراس کریں، تو صحیح عمل کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں کراس کرنے دیں، رکنے کے لیے تیار رہیں۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrian is already on the crossing",
+        "ur": "صرف اس صورت میں رکیں جب پیدل چلنے والا پہلے ہی کراسنگ پر ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے کراس کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "BHEGHM",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road at 30 mph, what is the minimum safe distance you should leave between your vehicle and the cyclist?",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار سے تنگ سڑک پر سائیکل سوار کو اوورٹیک کر رہے ہوں، تو آپ کی گاڑی اور سائیکل سوار کے درمیان کم از کم محفوظ فاصلہ کتنا ہونا چاہیے؟"
+    },
+    "options": {
+      "d": {
+        "en": "At least 0.5 metres",
+        "ur": "کم از کم 0.5 میٹر"
+      },
+      "a": {
+        "en": "At least 1.5 metres",
+        "ur": "کم از کم 1.5 میٹر"
+      },
+      "c": {
+        "en": "At least 2 metres",
+        "ur": "کم از کم ۲ میٹر"
+      },
+      "b": {
+        "en": "At least 1 metre",
+        "ur": "کم از کم 1 میٹر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should leave at least 1.5 metres when overtaking a cyclist at speeds up to 30 mph to ensure their safety and avoid startling them.",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار تک سائیکل سوار کو اوورٹیک کر رہے ہوں تو ان کی حفاظت کو یقینی بنانے اور انہیں خوفزدہ کرنے سے بچنے کے لیے کم از کم 1.5 میٹر فاصلہ چھوڑنا چاہیے۔"
+    }
+  },
+  {
+    "id": "160QDP",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road at 30 mph, what is the minimum safe distance you should leave between your vehicle and the cyclist?",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار سے تنگ سڑک پر کسی سائیکل سوار کو اوورٹیک کر رہے ہوں، تو آپ کی گاڑی اور سائیکل سوار کے درمیان کم از کم محفوظ فاصلہ کتنا ہونا چاہیے؟"
+    },
+    "options": {
+      "d": {
+        "en": "At least 0.5 metres",
+        "ur": "کم از کم 0.5 میٹر"
+      },
+      "a": {
+        "en": "At least 1.5 metres",
+        "ur": "کم از کم 1.5 میٹر"
+      },
+      "b": {
+        "en": "At least 1 metre",
+        "ur": "کم از کم 1 میٹر"
+      },
+      "c": {
+        "en": "At least 2 metres",
+        "ur": "کم از کم ۲ میٹر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should leave at least 1.5 metres when overtaking a cyclist at speeds up to 30 mph to ensure their safety and avoid startling them.",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار تک سائیکل سوار کو اوورٹیک کر رہے ہوں تو ان کی حفاظت کو یقینی بنانے اور انہیں خوفزدہ کرنے سے بچنے کے لیے کم از کم 1.5 میٹر فاصلہ چھوڑنا چاہیے۔"
+    }
+  },
+  {
+    "id": "3NPWCK",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ ایسے زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے انتظار کر رہے ہوں کہ وہ کراس کریں، تو درست عمل کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک کہ پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrians are already on the crossing",
+        "ur": "صرف اس صورت میں رُکیں جب پیدل چلنے والے پہلے ہی کراسنگ پر ہوں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں کراس کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to warn pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی تنبیہ دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے کراس کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "8K6GFI",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct action to take?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچیں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو صحیح اقدام کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "d": {
+        "en": "Only stop if pedestrians have already stepped onto the crossing",
+        "ur": "صرف اس صورت میں رُکیں جب پیدل چلنے والے پہلے ہی عبوری راستے پر قدم رکھ چکے ہوں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں راستہ دینے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "c": {
+        "en": "Maintain your speed and proceed if the crossing is clear",
+        "ur": "اپنی رفتار برقرار رکھیں اور اگر چوراہا خالی ہو تو آگے بڑھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to give way to pedestrians waiting to cross at a zebra crossing.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو راستہ دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "6L8I5F",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road at 30 mph, what is the minimum safe distance you should leave between your vehicle and the cyclist?",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار سے تنگ سڑک پر سائیکل سوار کو اوورٹیک کر رہے ہوں، تو آپ کی گاڑی اور سائیکل سوار کے درمیان کم از کم محفوظ فاصلہ کتنا ہونا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "At least 2.5 metres",
+        "ur": "کم از کم 2.5 میٹر"
+      },
+      "b": {
+        "en": "At least 0.5 metres",
+        "ur": "کم از کم 0.5 میٹر"
+      },
+      "a": {
+        "en": "At least 1.5 metres",
+        "ur": "کم از کم 1.5 میٹر"
+      },
+      "d": {
+        "en": "At least 1 metre",
+        "ur": "کم از کم 1 میٹر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should give at least 1.5 metres space when overtaking a cyclist at speeds up to 30 mph to ensure their safety and avoid startling them.",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار تک سائیکل سوار کو اوورٹیک کر رہے ہوں تو ان کی حفاظت کو یقینی بنانے اور انہیں خوفزدہ کرنے سے بچنے کے لیے کم از کم 1.5 میٹر کا فاصلہ رکھیں۔"
+    }
+  },
+  {
+    "id": "37BL66",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچیں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک کہ پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrians are already on the crossing",
+        "ur": "صرف اس صورت میں رکیں جب پیدل چلنے والے پہلے ہی کراسنگ پر ہوں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں راستہ دینے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے کراس کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "DP8O31",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road at 30 mph, what is the minimum safe distance you should leave between your vehicle and the cyclist?",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار سے تنگ سڑک پر سائیکل سوار کو اوورٹیک کر رہے ہوں، تو آپ کی گاڑی اور سائیکل سوار کے درمیان کم از کم محفوظ فاصلہ کتنا ہونا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "At least 2 metres",
+        "ur": "کم از کم ۲ میٹر"
+      },
+      "b": {
+        "en": "At least 1 metre",
+        "ur": "کم از کم 1 میٹر"
+      },
+      "d": {
+        "en": "At least 0.5 metres",
+        "ur": "کم از کم 0.5 میٹر"
+      },
+      "a": {
+        "en": "At least 1.5 metres",
+        "ur": "کم از کم 1.5 میٹر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should leave at least 1.5 metres when overtaking a cyclist at speeds up to 30 mph to ensure their safety and avoid causing them to swerve or lose balance.",
+      "ur": "جب آپ 30 میل فی گھنٹہ تک کی رفتار سے کسی سائیکل سوار کو اوورٹیک کر رہے ہوں تو ان کی حفاظت کو یقینی بنانے اور انہیں لڑکھڑانے یا توازن کھونے سے بچانے کے لیے کم از کم 1.5 میٹر کی دوری رکھنی چاہیے۔"
+    }
+  },
+  {
+    "id": "G5C8IW",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road at 30 mph, what is the minimum safe distance you should leave between your vehicle and the cyclist?",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار سے تنگ سڑک پر سائیکل سوار کو اوورٹیک کر رہے ہوں، تو آپ کی گاڑی اور سائیکل سوار کے درمیان کم از کم محفوظ فاصلہ کتنا ہونا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "At least 2 metres",
+        "ur": "کم از کم ۲ میٹر"
+      },
+      "b": {
+        "en": "About 1 metre",
+        "ur": "تقریباً 1 میٹر"
+      },
+      "d": {
+        "en": "No minimum distance if the road is narrow",
+        "ur": "اگر سڑک تنگ ہو تو کم از کم فاصلہ نہیں رکھا جائے گا۔"
+      },
+      "a": {
+        "en": "At least 1.5 metres",
+        "ur": "کم از کم 1.5 میٹر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should leave at least 1.5 metres when overtaking a cyclist at speeds up to 30 mph to ensure their safety and avoid causing them to swerve.",
+      "ur": "جب آپ 30 میل فی گھنٹہ تک کی رفتار سے کسی سائیکل سوار کو اوورٹیک کر رہے ہوں تو ان کی حفاظت کو یقینی بنانے اور انہیں اچانک موڑنے سے بچانے کے لیے کم از کم 1.5 میٹر کی دوری رکھنی چاہیے۔"
+    }
+  },
+  {
+    "id": "2WZAZN",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ ایک زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو صحیح عمل کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrians are already on the crossing",
+        "ur": "صرف اس صورت میں رکیں جب پیدل چلنے والے پہلے ہی کراسنگ پر ہوں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے کراس کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "TNOZ1L",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو صحیح عمل کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Only stop if the crossing is controlled by traffic lights",
+        "ur": "صرف اس صورت میں رکیں جب چوراہا ٹریفک سگنلز سے کنٹرول ہو رہا ہو۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں راستہ دینے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to let pedestrians cross at a zebra crossing when they are waiting, as they have priority.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور پیدل چلنے والوں کو عبور کرنے کے لیے رکنے کے لیے تیار رہنا چاہیے جب وہ زیبرا کراسنگ پر انتظار کر رہے ہوں، کیونکہ ان کو ترجیح حاصل ہے۔"
+    }
+  },
+  {
+    "id": "QONGGS",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct action to take?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے کراس کرنے کے انتظار میں ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Speed up to clear the crossing before pedestrians step out",
+        "ur": "رفتہ بڑھائیں تاکہ پیدل چلنے والے سڑک عبور کرنے سے پہلے کراسنگ عبور کر لیں۔"
+      },
+      "b": {
+        "en": "Maintain your speed but sound your horn to warn pedestrians",
+        "ur": "اپنی رفتار برقرار رکھیں لیکن پیدل چلنے والوں کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "c": {
+        "en": "Stop only if pedestrians have already stepped onto the crossing",
+        "ur": "رکیں صرف اگر پیدل چلنے والے پہلے سے عبوری راستے پر قدم رکھ چکے ہوں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے کراس کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "VYWLAY",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct action to take?",
+      "ur": "جب آپ ایک زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے انتظار کر رہے ہوں کہ وہ کراس کریں، تو صحیح اقدام کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "b": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "c": {
+        "en": "Maintain your speed if no pedestrians are on the crossing yet",
+        "ur": "اگر پیدل چلنے والے ابھی عبور پر نہیں پہنچے تو اپنی رفتار برقرار رکھیں۔"
+      },
+      "d": {
+        "en": "Overtake any slow-moving vehicles near the crossing carefully",
+        "ur": "کسی بھی سست رفتار گاڑی کو کراسنگ کے قریب احتیاط سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے عبور کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "DCTUDA",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct action to take?",
+      "ur": "جب آپ ایک زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے انتظار کر رہے ہوں کہ وہ کراس کریں، تو صحیح اقدام کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Overtake any vehicles that have stopped at the crossing",
+        "ur": "کسی بھی گاڑی کو جو کراسنگ پر رکی ہو، اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to let pedestrians waiting at a zebra crossing cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے کراس کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "W0VU25",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے کراس کرنے کے انتظار میں ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک کہ پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrian is already on the crossing",
+        "ur": "صرف اس صورت میں رُکیں جب پیدل چلنے والا پہلے ہی کراسنگ پر ہو۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے عبور کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "AXBTEX",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road with oncoming traffic, what is the safest action to take?",
+      "ur": "جب تنگ سڑک پر سامنے سے آنے والی ٹریفک کے ساتھ سائیکل سوار کو اوورٹیک کرنا ہو، تو سب سے محفوظ اقدام کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait behind the cyclist until the road ahead is clear before overtaking",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ آگے کی سڑک خالی نہ ہو، پھر ہی اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Overtake immediately, keeping as close as possible to the cyclist to avoid oncoming traffic",
+        "ur": "فوری طور پر اوورٹیک کریں، سائیکل سوار کے جتنا قریب ممکن ہو رہتے ہوئے تاکہ سامنے آنے والی ٹریفک سے بچا جا سکے۔"
+      },
+      "d": {
+        "en": "Flash your headlights to warn the cyclist and then overtake on the left",
+        "ur": "اپنے ہیڈلائٹس فلیش کریں تاکہ سائیکل سوار کو خبردار کیا جا سکے، پھر بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Sound your horn to alert the cyclist and overtake quickly",
+        "ur": "ہارن بجائیں تاکہ سائیکل سوار کو خبردار کیا جا سکے اور جلدی اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On narrow roads with oncoming traffic, it is safest to wait behind the cyclist until there is enough clear space to overtake safely, giving them at least 1.5 metres of room.",
+      "ur": "تنگ سڑکوں پر جہاں سامنے سے ٹریفک آ رہی ہو، سب سے محفوظ طریقہ یہ ہے کہ سائیکل سوار کے پیچھے انتظار کیا جائے جب تک کہ اوورٹیک کرنے کے لیے کافی صاف جگہ نہ مل جائے، اور سائیکل سوار کو کم از کم 1.5 میٹر کی جگہ دی جائے۔"
+    }
+  },
+  {
+    "id": "L6K1QD",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ ایک زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو صحیح عمل کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrian is already on the crossing",
+        "ur": "صرف اس صورت میں رکیں جب پیدل چلنے والا پہلے ہی کراسنگ پر ہو۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک کہ پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to give way to pedestrians waiting to cross at a zebra crossing.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ پیدل چلنے والوں کو جو زیبرا کراسنگ پر عبور کرنے کے لیے انتظار کر رہے ہوں راستہ دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "2KO7B2",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے دیں، رکنے کے لیے تیار رہیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنے ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrians are already on the crossing",
+        "ur": "صرف اس صورت میں رُکیں جب پیدل چلنے والے پہلے ہی کراسنگ پر ہوں۔"
+      },
+      "b": {
+        "en": "Continue at the same speed if no pedestrians have stepped onto the crossing",
+        "ur": "اگر پیدل چلنے والا کراسنگ پر نہ آیا ہو تو اسی رفتار سے چلتے رہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to let pedestrians cross at a zebra crossing, even if they have not yet stepped onto it.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ پیدل چلنے والوں کو زیبرا کراسنگ پر عبور کرنے دیا جا سکے، چاہے وہ ابھی اس پر قدم نہ رکھے ہوں۔"
+    }
+  },
+  {
+    "id": "QSNNL2",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road at 30 mph, what is the minimum safe distance you should leave between your vehicle and the cyclist?",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار سے تنگ سڑک پر سائیکل سوار کو اوورٹیک کر رہے ہوں، تو آپ کی گاڑی اور سائیکل سوار کے درمیان کم از کم محفوظ فاصلہ کتنا ہونا چاہیے؟"
+    },
+    "options": {
+      "a": {
+        "en": "At least 1.5 metres",
+        "ur": "کم از کم 1.5 میٹر"
+      },
+      "d": {
+        "en": "At least 0.5 metres",
+        "ur": "کم از کم 0.5 میٹر"
+      },
+      "b": {
+        "en": "At least 1 metre",
+        "ur": "کم از کم 1 میٹر"
+      },
+      "c": {
+        "en": "At least 2 metres",
+        "ur": "کم از کم ۲ میٹر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should leave at least 1.5 metres when overtaking a cyclist at speeds up to 30 mph to ensure their safety and avoid startling them.",
+      "ur": "جب آپ 30 میل فی گھنٹہ تک کی رفتار سے کسی سائیکل سوار کو اوورٹیک کر رہے ہوں تو ان کی حفاظت کو یقینی بنانے اور انہیں خوفزدہ کرنے سے بچنے کے لیے کم از کم 1.5 میٹر کی دوری رکھنی چاہیے۔"
+    }
+  },
+  {
+    "id": "F93QHH",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road with oncoming traffic, what is the safest approach to take?",
+      "ur": "جب تنگ سڑک پر جہاں سامنے سے ٹریفک آ رہی ہو، کسی سائیکل سوار کو اوورٹیک کرنا ہو تو سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Wait behind the cyclist until it is safe to overtake with plenty of space",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ اسے محفوظ طریقے سے کافی جگہ کے ساتھ اوورٹیک کرنا ممکن نہ ہو۔"
+      },
+      "b": {
+        "en": "Sound your horn to alert the cyclist and overtake quickly",
+        "ur": "ہارن بجائیں تاکہ سائیکل سوار کو خبردار کیا جا سکے اور جلدی سے اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Overtake closely to minimise time spent in the opposite lane",
+        "ur": "قریب سے اوورٹیک کریں تاکہ مخالف لین میں گزارا گیا وقت کم سے کم ہو۔"
+      },
+      "d": {
+        "en": "Pass the cyclist on the left if the road is clear",
+        "ur": "اگر راستہ خالی ہو تو سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On narrow roads with oncoming traffic, it is safest to wait behind the cyclist until there is enough space to overtake safely, giving them at least 1.5 metres of room to avoid causing danger.",
+      "ur": "تنگ سڑکوں پر جہاں سامنے سے ٹریفک آ رہی ہو، سب سے محفوظ طریقہ یہ ہے کہ سائیکل سوار کے پیچھے انتظار کیا جائے جب تک کہ محفوظ انداز میں اوورٹیک کرنے کے لیے کافی جگہ نہ ہو، اور کم از کم 1.5 میٹر کی جگہ دی جائے تاکہ خطرہ پیدا نہ ہو۔"
+    }
+  },
+  {
+    "id": "13YV2U",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road at 30 mph, what is the minimum safe distance you should leave between your vehicle and the cyclist?",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار سے تنگ سڑک پر سائیکل سوار کو اوورٹیک کر رہے ہوں، تو آپ کی گاڑی اور سائیکل سوار کے درمیان کم از کم محفوظ فاصلہ کتنا ہونا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "At least 2 metres",
+        "ur": "کم از کم ۲ میٹر"
+      },
+      "d": {
+        "en": "At least 0.5 metres",
+        "ur": "کم از کم 0.5 میٹر"
+      },
+      "b": {
+        "en": "At least 1 metre",
+        "ur": "کم از کم 1 میٹر"
+      },
+      "a": {
+        "en": "At least 1.5 metres",
+        "ur": "کم از کم 1.5 میٹر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should give at least 1.5 metres space when overtaking cyclists at speeds up to 30 mph to ensure their safety and avoid collisions.",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار تک سائیکل سواروں کو اوورٹیک کر رہے ہوں تو ان کی حفاظت کو یقینی بنانے اور تصادم سے بچنے کے لیے کم از کم 1.5 میٹر فاصلہ رکھیں۔"
+    }
+  },
+  {
+    "id": "H6NM0A",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road at 30 mph, what is the minimum safe distance you should leave between your vehicle and the cyclist?",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار سے تنگ سڑک پر سائیکل سوار کو اوورٹیک کر رہے ہوں، تو آپ کی گاڑی اور سائیکل سوار کے درمیان کم از کم محفوظ فاصلہ کتنا ہونا چاہیے؟"
+    },
+    "options": {
+      "d": {
+        "en": "No less than 0.5 metres",
+        "ur": "کم از کم 0.5 میٹر"
+      },
+      "a": {
+        "en": "At least 1.5 metres",
+        "ur": "کم از کم 1.5 میٹر"
+      },
+      "b": {
+        "en": "About 1 metre",
+        "ur": "تقریباً 1 میٹر"
+      },
+      "c": {
+        "en": "At least 2 metres",
+        "ur": "کم از کم ۲ میٹر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should give at least 1.5 metres space when overtaking a cyclist at speeds up to 30 mph to ensure their safety and avoid causing them to swerve.",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار تک سائیکل سوار کو اوورٹیک کر رہے ہوں تو ان کی حفاظت کو یقینی بنانے اور انہیں اچانک راستہ بدلنے سے بچانے کے لیے کم از کم 1.5 میٹر کی جگہ دینی چاہیے۔"
+    }
+  },
+  {
+    "id": "HK8X4D",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے انتظار کر رہے ہوں کہ وہ کراس کریں، تو صحیح عمل کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنے ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrians are already on the crossing",
+        "ur": "صرف اس صورت میں رُکیں جب پیدل چلنے والے پہلے ہی عبوری راستے پر ہوں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں پار کرنے دیں، رکنے کے لیے تیار رہیں۔"
+      },
+      "c": {
+        "en": "Maintain your speed if no pedestrians have stepped onto the crossing",
+        "ur": "اگر پیدل چلنے والا کراسنگ پر نہ آیا ہو تو اپنی رفتار برقرار رکھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to give way to pedestrians waiting to cross at a zebra crossing.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ پیدل چلنے والوں کو جو زیبرا کراسنگ پر عبور کرنے کے لیے انتظار کر رہے ہوں راستہ دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "MPR5TY",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ ایک زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے انتظار کر رہے ہوں کہ وہ کراس کریں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے دیں، رکنے کے لیے تیار رہیں۔"
+      },
+      "d": {
+        "en": "Overtake any vehicles stopped at the crossing if the road is clear",
+        "ur": "اگر راستہ خالی ہو تو کراسنگ پر رکے ہوئے کسی بھی گاڑی کو اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک کہ پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to let pedestrians waiting at a zebra crossing cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے کراس کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "5345JO",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچیں جہاں پیدل چلنے والے کراس کرنے کے انتظار میں ہوں، تو صحیح عمل کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں پار کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      },
+      "d": {
+        "en": "Only stop if the crossing is marked with flashing amber lights",
+        "ur": "صرف اس صورت میں رُکیں جب کراسنگ پر چمکتی ہوئی پیلی روشنی لگی ہو۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians before stopping",
+        "ur": "اپنی گاڑی کا ہارن بجائیں تاکہ رکنے سے پہلے پیدل چلنے والوں کو خبردار کیا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے کراس کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "G308L4",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے دیں، رکنے کے لیے تیار رہیں۔"
+      },
+      "c": {
+        "en": "Maintain your speed if the pedestrians are not yet on the crossing",
+        "ur": "اگر پیدل چلنے والے ابھی عبوری راستے پر نہیں پہنچے تو اپنی رفتار برقرار رکھیں۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrians step onto the crossing",
+        "ur": "صرف اس صورت میں رکیں جب پیدل چلنے والے عبوری راستے پر قدم رکھیں۔"
+      },
+      "b": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے عبور کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "WCB476",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct action to take?",
+      "ur": "جب آپ زبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے انتظار کر رہے ہوں، تو صحیح اقدام کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Overtake any vehicles stopped at the crossing carefully",
+        "ur": "کراسنگ پر رکے ہوئے کسی بھی گاڑی کو احتیاط سے اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے جاری رکھیں جب تک پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to let pedestrians waiting at a zebra crossing cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے عبور کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "E7HAGL",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Only stop if the crossing is controlled by traffic lights",
+        "ur": "صرف اسی صورت میں رکیں جب چوراہا ٹریفک سگنلز سے کنٹرول ہو رہا ہو۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک کہ پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے دیں، رکنے کے لیے تیار رہیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to warn pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے عبور کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "TP1KLP",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے کراس کرنے کے انتظار میں ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Only stop if the pedestrians are already on the crossing",
+        "ur": "صرف اسی صورت میں رکیں جب پیدل چلنے والے پہلے ہی کراسنگ پر ہوں۔"
+      },
+      "b": {
+        "en": "Continue at the same speed if no pedestrians have stepped onto the crossing",
+        "ur": "اگر پیدل چلنے والا کراسنگ پر نہ آیا ہو تو اسی رفتار سے آگے بڑھیں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں راستہ دینے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely, even if they have not yet stepped onto the crossing.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے کراس کرنے دیا جا سکے، چاہے وہ ابھی کراسنگ پر قدم نہ رکھے ہوں۔"
+    }
+  },
+  {
+    "id": "FZKT7N",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچیں جہاں پیدل چلنے والے کراس کرنے کے انتظار میں ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrians are already on the crossing",
+        "ur": "صرف اس صورت میں رکیں جب پیدل چلنے والے پہلے ہی عبوری راستے پر ہوں۔"
+      },
+      "b": {
+        "en": "Continue at the same speed if no pedestrians have stepped onto the crossing",
+        "ur": "اگر پیدل چلنے والا کراسنگ پر نہ آیا ہو تو اسی رفتار سے چلتے رہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to give way to pedestrians waiting to cross at a zebra crossing, even if they have not yet stepped onto the crossing.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ پیدل چلنے والوں کو راستہ دیا جا سکے جو زیبرا کراسنگ پر عبور کرنے کے لیے انتظار کر رہے ہوں، چاہے وہ ابھی کراسنگ پر قدم نہ رکھے ہوں۔"
+    }
+  },
+  {
+    "id": "YBEDIT",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ ایسے زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے انتظار کر رہے ہوں کہ وہ کراس کریں، تو صحیح عمل کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Continue at the same speed if no pedestrians are on the crossing",
+        "ur": "اگر کراسنگ پر کوئی پیدل چلنے والا نہ ہو تو اسی رفتار سے چلتے رہیں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "d": {
+        "en": "Overtake any slow-moving vehicles near the crossing quickly",
+        "ur": "کسی بھی سست رفتار گاڑی کو کراسنگ کے قریب جلدی سے اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to give way to pedestrians waiting to cross at a zebra crossing.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور پیدل چلنے والوں کو راستہ دینے کے لیے رکنے کے لیے تیار رہنا چاہیے جو زیبرا کراسنگ پر عبور کرنے کے انتظار میں ہوں۔"
+    }
+  },
+  {
+    "id": "FNWQIL",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road with oncoming traffic, what is the safest course of action?",
+      "ur": "جب تنگ سڑک پر سامنے سے آنے والی ٹریفک کے ساتھ سائیکل سوار کو اوورٹیک کرنا ہو، تو سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Pass the cyclist on the left if the vehicle behind is too close",
+        "ur": "اگر پیچھے والا گاڑی بہت قریب ہو تو سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Wait behind the cyclist until the road ahead is clear before overtaking",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ آگے کا راستہ صاف نہ ہو، پھر ہی اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Overtake the cyclist closely to minimise time spent in the opposite lane",
+        "ur": "سائیکل سوار کو قریب سے اوورٹیک کریں تاکہ مخالف لین میں گزارا گیا وقت کم سے کم ہو۔"
+      },
+      "b": {
+        "en": "Sound your horn to alert the cyclist and overtake quickly",
+        "ur": "ہارن بجائیں تاکہ سائیکل سوار کو خبردار کیا جا سکے اور جلدی اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On narrow roads with oncoming traffic, it is safest to wait until there is enough clear road ahead to overtake a cyclist safely, giving them at least 1.5 metres space, rather than overtaking closely or using the horn which may startle them.",
+      "ur": "تنگ سڑکوں پر جہاں سامنے سے ٹریفک آ رہی ہو، سب سے محفوظ طریقہ یہ ہے کہ سائیکل سوار کو محفوظ طریقے سے اوورٹیک کرنے کے لیے آگے کافی صاف راستہ ہونے تک انتظار کیا جائے، اور انہیں کم از کم 1.5 میٹر کی جگہ دی جائے، بجائے اس کے کہ قریب سے اوورٹیک کیا جائے یا ہارن بجایا جائے جو انہیں خوفزدہ کر سکتا ہے۔"
+    }
+  },
+  {
+    "id": "N52643",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ ایک زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو درست عمل کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Continue at the same speed if no pedestrians have stepped onto the crossing",
+        "ur": "اگر پیدل چلنے والا کراسنگ پر نہ آیا ہو تو وہی رفتار برقرار رکھیں۔"
+      },
+      "d": {
+        "en": "Only stop if the pedestrians are already on the crossing",
+        "ur": "صرف اس صورت میں رُکیں جب پیدل چلنے والے پہلے ہی کراسنگ پر ہوں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں پار کرنے دیں، رکنے کے لیے تیار رہیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to let pedestrians cross at a zebra crossing, including those waiting to cross, to ensure their safety.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور پیدل چلنے والوں کو زبرا کراسنگ پر عبور کرنے کے لیے رکنے کے لیے تیار رہنا چاہیے، جن میں عبور کرنے کے منتظر افراد بھی شامل ہیں، تاکہ ان کی حفاظت کو یقینی بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "BFOLHT",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road with a 30 mph speed limit, what is the minimum safe distance you should leave between your vehicle and the cyclist?",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار کی حد والی تنگ سڑک پر کسی سائیکل سوار کو اوورٹیک کر رہے ہوں، تو آپ کی گاڑی اور سائیکل سوار کے درمیان کم از کم محفوظ فاصلہ کتنا ہونا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "About 0.5 metres",
+        "ur": "تقریباً 0.5 میٹر"
+      },
+      "c": {
+        "en": "At least 2.5 metres",
+        "ur": "کم از کم 2.5 میٹر"
+      },
+      "a": {
+        "en": "At least 1.5 metres",
+        "ur": "کم از کم 1.5 میٹر"
+      },
+      "d": {
+        "en": "No minimum distance if the cyclist is riding close to the kerb",
+        "ur": "اگر سائیکل سوار کنارے کے قریب چل رہا ہو تو کم از کم فاصلہ نہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should give at least 1.5 metres space when overtaking a cyclist at speeds up to 30 mph to ensure their safety and avoid causing them to swerve or lose balance.",
+      "ur": "جب آپ 30 میل فی گھنٹہ تک کی رفتار سے کسی سائیکل سوار کو اوورٹیک کر رہے ہوں تو ان کی حفاظت کو یقینی بنانے اور انہیں گھومنے یا توازن کھونے سے بچانے کے لیے کم از کم 1.5 میٹر کی جگہ دینی چاہیے۔"
+    }
+  },
+  {
+    "id": "NKSWZM",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road with parked vehicles on your side, what is the safest approach to take?",
+      "ur": "جب آپ ایک تنگ سڑک پر، جہاں آپ کی طرف گاڑیاں پارک کی ہوئی ہوں، سائیکل سوار کو اوورٹیک کر رہے ہوں تو سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Wait behind the cyclist until it is safe to overtake with plenty of space, even if it means slowing down traffic",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ اسے محفوظ طریقے سے، کافی جگہ کے ساتھ اوورٹیک کرنا ممکن نہ ہو، چاہے اس کا مطلب ٹریفک کو سست کرنا ہی کیوں نہ ہو۔"
+      },
+      "d": {
+        "en": "Overtake the cyclist on the left side if they are riding near the kerb",
+        "ur": "اگر سائیکل سوار کنارے کے قریب چل رہا ہو تو اسے بائیں جانب سے اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist and overtake on the left if there is space",
+        "ur": "ہارن بجائیں تاکہ سائیکل سوار کو خبردار کیا جا سکے اور اگر جگہ ہو تو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Pass the cyclist quickly, keeping as close as possible to the parked vehicles to avoid oncoming traffic",
+        "ur": "سائیکل سوار کو جلدی عبور کریں، اور آنے والی ٹریفک سے بچنے کے لیے پارک شدہ گاڑیوں کے جتنا قریب ممکن ہو گا، رہیں۔"
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "en": "Waiting behind the cyclist until it is safe to overtake with plenty of space reduces the risk of collision, especially on narrow roads with parked vehicles limiting your room.",
+      "ur": "سائیکل سوار کے پیچھے انتظار کرنا جب تک کہ اسے محفوظ طریقے سے کافی جگہ کے ساتھ اوورٹیک نہ کیا جا سکے، تصادم کے خطرے کو کم کرتا ہے، خاص طور پر تنگ سڑکوں پر جہاں کھڑی گاڑیاں آپ کی جگہ محدود کرتی ہیں۔"
+    }
+  },
+  {
+    "id": "T5N4WZ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے انتظار کر رہے ہوں کہ وہ کراس کریں، تو صحیح عمل کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Only stop if the crossing is marked with flashing amber lights",
+        "ur": "صرف اسی صورت میں رکیں جب کراسنگ پر چمکتی ہوئی پیلی روشنی ہو۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک کہ پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert pedestrians before stopping",
+        "ur": "گاڑی روکنے سے پہلے پیدل چلنے والوں کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زیبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے کراس کرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "TWRHPO",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct action to take?",
+      "ur": "جب آپ زبرا کراسنگ کے قریب پہنچیں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو صحیح اقدام کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn to alert pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی اطلاع دی جا سکے۔"
+      },
+      "d": {
+        "en": "Overtake any vehicles stopped at the crossing if the road is clear",
+        "ur": "اگر راستہ خالی ہو تو چوراہے پر رکے ہوئے کسی بھی گاڑی کو اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے چلتے رہیں جب تک پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں کراس کرنے دیں، رکنے کے لیے تیار رہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے گزرنے دیا جا سکے۔"
+    }
+  },
+  {
+    "id": "XJYOVD",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road with parked cars on your side, what is the safest approach to take?",
+      "ur": "جب آپ ایک تنگ سڑک پر، جہاں آپ کی طرف گاڑیاں پارک کی ہوئی ہوں، سائیکل سوار کو اوورٹیک کر رہے ہوں تو سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Overtake the cyclist on the left if there is enough space between them and the parked cars",
+        "ur": "اگر سائیکل سوار اور کھڑی گاڑیوں کے درمیان کافی جگہ ہو تو سائیکل سوار کو بائیں طرف سے اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Wait behind the cyclist until it is safe to overtake with plenty of space, even if it means slowing down",
+        "ur": "سائیکل سوار کے پیچھے انتظار کریں جب تک کہ اسے محفوظ طریقے سے، کافی جگہ کے ساتھ اوورٹیک کرنا ممکن نہ ہو، چاہے اس کا مطلب رفتار کم کرنا ہی کیوں نہ ہو۔"
+      },
+      "a": {
+        "en": "Pass the cyclist quickly and closely to minimise time spent in the opposite lane",
+        "ur": "سائیکل سوار کو جلدی اور قریب سے اوورٹیک کریں تاکہ مخالف لین میں گزارا گیا وقت کم سے کم ہو۔"
+      },
+      "c": {
+        "en": "Sound your horn to alert the cyclist before overtaking closely",
+        "ur": "قریب سے اوورٹیک کرنے سے پہلے سائیکل سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "en": "Waiting behind the cyclist until it is safe to overtake with plenty of space reduces the risk of collision, especially on narrow roads with parked cars, where passing too closely or quickly can be dangerous.",
+      "ur": "سائیکل سوار کے پیچھے انتظار کرنا جب تک کہ محفوظ طریقے سے کافی جگہ کے ساتھ اوورٹیک نہ کیا جا سکے، تصادم کے خطرے کو کم کرتا ہے، خاص طور پر تنگ سڑکوں پر جہاں گاڑیاں پارک کی گئی ہوں، کیونکہ بہت قریب یا تیز رفتاری سے گزرنا خطرناک ہو سکتا ہے۔"
+    }
+  },
+  {
+    "id": "8CQRO8",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When overtaking a cyclist on a narrow road at 30 mph, what is the minimum safe distance you should leave between your vehicle and the cyclist?",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار سے تنگ سڑک پر سائیکل سوار کو اوورٹیک کر رہے ہوں، تو آپ کی گاڑی اور سائیکل سوار کے درمیان کم از کم محفوظ فاصلہ کتنا ہونا چاہیے؟"
+    },
+    "options": {
+      "a": {
+        "en": "At least 1.5 metres",
+        "ur": "کم از کم 1.5 میٹر"
+      },
+      "b": {
+        "en": "About 0.5 metres",
+        "ur": "تقریباً 0.5 میٹر"
+      },
+      "d": {
+        "en": "No minimum distance if the cyclist is riding close to the kerb",
+        "ur": "اگر سائیکل سوار کنارے کے قریب چل رہا ہو تو کم از کم فاصلہ ضروری نہیں ہے۔"
+      },
+      "c": {
+        "en": "At least 2.5 metres",
+        "ur": "کم از کم 2.5 میٹر"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should leave at least 1.5 metres when overtaking a cyclist at speeds up to 30 mph to ensure their safety and avoid causing them to swerve or lose balance.",
+      "ur": "جب آپ 30 میل فی گھنٹہ کی رفتار تک سائیکل سوار کو اوورٹیک کر رہے ہوں تو ان کی حفاظت کو یقینی بنانے اور انہیں ڈگمگانے یا توازن کھونے سے بچانے کے لیے کم از کم 1.5 میٹر کی جگہ چھوڑنی چاہیے۔"
+    }
+  },
+  {
+    "id": "N61M5U",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Hazard awareness",
+    "question": {
+      "en": "When approaching a zebra crossing where pedestrians are waiting to cross, what is the correct course of action?",
+      "ur": "جب آپ کسی زیبرا کراسنگ کے قریب پہنچ رہے ہوں جہاں پیدل چلنے والے کراس کرنے کے لیے انتظار کر رہے ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn to warn pedestrians to wait",
+        "ur": "اپنی ہارن بجائیں تاکہ پیدل چلنے والوں کو انتظار کرنے کی تنبیہ دی جا سکے۔"
+      },
+      "b": {
+        "en": "Continue at the same speed unless pedestrians step onto the crossing",
+        "ur": "اسی رفتار سے جاری رکھیں جب تک پیدل چلنے والے کراسنگ پر نہ آ جائیں۔"
+      },
+      "d": {
+        "en": "Only stop if the crossing is marked with flashing amber lights",
+        "ur": "صرف تب رکیں جب کراسنگ پر چمکتی ہوئی پیلی روشنی ہو۔"
+      },
+      "a": {
+        "en": "Slow down and be prepared to stop to let them cross",
+        "ur": "رفتار کم کریں اور انہیں عبور کرنے کے لیے رکنے کے لیے تیار رہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must always slow down and be prepared to stop to allow pedestrians waiting at a zebra crossing to cross safely.",
+      "ur": "آپ کو ہمیشہ رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے تاکہ زبرا کراسنگ پر انتظار کرنے والے پیدل چلنے والوں کو محفوظ طریقے سے کراس کرنے دیا جا سکے۔"
+    }
+  }
+]

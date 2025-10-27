@@ -1,0 +1,3236 @@
+[
+  {
+    "id": "L1X85C",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز والے راستے پر ٹریلر کو ٹو کر رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must drive at exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must keep your headlights on full beam",
+        "ur": "آپ کو اپنی ہیڈلائٹس مکمل بیم پر روشن رکھنی ہوں گی۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to maintain safety and traffic flow.",
+      "ur": "موٹر ویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حفاظت اور ٹریفک کے بہاؤ کو برقرار رکھا جا سکے۔"
+    }
+  },
+  {
+    "id": "AK0X2P",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کو ٹو کر رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "You must always use stabilisers on the trailer",
+        "ur": "آپ کو ہمیشہ ٹریلر پر اسٹیبلائزرز استعمال کرنے چاہئیں۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "c": {
+        "en": "You must keep your speed below 50 mph",
+        "ur": "آپ کو اپنی رفتار 50 میل فی گھنٹہ سے کم رکھنی چاہیے۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا زیادہ لین ہوں، گاڑی کھینچتے وقت آپ کو دائیں ہاتھ کی لین میں نہیں چلنا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "9DFJM6",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کو ٹو کیا جا رہا ہو، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must drive at exactly 50 mph",
+        "ur": "آپ کو بالکل 50 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "d": {
+        "en": "You must keep your headlights on full beam",
+        "ur": "آپ کو اپنی ہیڈلائٹس مکمل بیم پر روشن رکھنی ہوں گی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "42D90H",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کو ٹو کیا جا رہا ہو، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You must keep your speed below 50 mph",
+        "ur": "آپ کو اپنی رفتار 50 میل فی گھنٹہ سے کم رکھنی ہوگی۔"
+      },
+      "d": {
+        "en": "You must fit stabilisers to the trailer",
+        "ur": "آپ کو ٹریلر پر اسٹیبلائزرز نصب کرنا لازمی ہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر تین یا زیادہ لینوں والے راستوں پر گاڑی کھینچتے ہوئے، آپ کو حادثات کے خطرے کو کم کرنے اور ٹریفک کے بہاؤ کو بہتر بنانے کے لیے دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+    }
+  },
+  {
+    "id": "907TN6",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کو ٹو کر رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must keep your speed below 50 mph",
+        "ur": "آپ کو اپنی رفتار 50 میل فی گھنٹہ سے کم رکھنی ہوگی۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "d": {
+        "en": "You must only overtake on the left",
+        "ur": "آپ کو صرف بائیں طرف سے اوور ٹیک کرنا چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "TME9RE",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا اس سے زیادہ لینز میں ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "d": {
+        "en": "You must keep a minimum of 2 seconds distance from the vehicle in front",
+        "ur": "آپ کو سامنے والی گاڑی سے کم از کم 2 سیکنڈ کا فاصلہ رکھنا ضروری ہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "CWJ1RU",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹروے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must keep your headlights on full beam",
+        "ur": "آپ کو اپنی ہیڈلائٹس فل بیم پر روشن رکھنی ہوں گی۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 50 mph",
+        "ur": "آپ کو بالکل 50 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلنا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "N6MLSX",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You SHOULD drive in the middle lane to maintain a steady speed",
+        "ur": "آپ کو رفتار کو مستحکم رکھنے کے لیے درمیانی لین میں گاڑی چلانی چاہیے۔"
+      },
+      "b": {
+        "en": "You MUST drive in the right-hand lane to allow faster vehicles to overtake",
+        "ur": "آپ کو تیز رفتار گاڑیوں کو اوورٹیک کرنے کی اجازت دینے کے لیے دائیں ہاتھ کی لین میں گاڑی چلانی چاہیے۔"
+      },
+      "a": {
+        "en": "You MUST NOT drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You MAY use any lane as long as you keep to the speed limit",
+        "ur": "آپ کسی بھی لین کا استعمال کر سکتے ہیں بشرطیکہ آپ رفتار کی حد کا خیال رکھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا اس سے زیادہ لین ہوں، گاڑی کھینچتے وقت آپ کو دائیں ہاتھ کی لین میں نہیں چلنا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "SF1CEB",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "d": {
+        "en": "You must carry passengers in the trailer if space allows",
+        "ur": "اگر جگہ اجازت دے تو آپ کو ٹریلر میں مسافروں کو لے جانا چاہیے۔"
+      },
+      "c": {
+        "en": "You must keep your speed below 50 mph",
+        "ur": "آپ کو اپنی رفتار 50 میل فی گھنٹہ سے کم رکھنی ہوگی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "33BTE8",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر جہاں تین یا زیادہ لینز ہوں ٹریلر کو ٹو کرتے ہوئے، درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "c": {
+        "en": "You must drive at the national speed limit for cars",
+        "ur": "آپ کو گاڑیوں کے لیے مقررہ قومی رفتار کی حد پر گاڑی چلانی چاہیے۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must keep a minimum distance of 10 metres from the vehicle in front",
+        "ur": "آپ کو سامنے والی گاڑی سے کم از کم 10 میٹر کا فاصلہ رکھنا ضروری ہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹر ویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلنا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "FHYND0",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must keep your speed below 50 mph",
+        "ur": "آپ کو اپنی رفتار 50 میل فی گھنٹہ سے کم رکھنی چاہیے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must only overtake on the left",
+        "ur": "آپ کو صرف بائیں طرف سے اوورٹیک کرنا چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا اس سے زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "3SXLVO",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز والے راستے پر ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must drive in the left-hand lane only during peak hours",
+        "ur": "آپ کو مصروف اوقات میں صرف بائیں ہاتھ کی لین میں گاڑی چلانی چاہیے۔"
+      },
+      "b": {
+        "en": "You must always drive in the middle lane",
+        "ur": "آپ کو ہمیشہ درمیانی لین میں گاڑی چلانی چاہیے۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You may use any lane as long as you keep to the speed limit",
+        "ur": "آپ کسی بھی لین کا استعمال کر سکتے ہیں بشرطیکہ آپ مقررہ رفتار کی حد کا خیال رکھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "58X1E0",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کو ٹو کیا جا رہا ہو، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 50 mph",
+        "ur": "آپ کو بالکل 50 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "d": {
+        "en": "You must keep a minimum distance of 10 metres from the vehicle in front",
+        "ur": "آپ کو سامنے والے گاڑی سے کم از کم 10 میٹر کا فاصلہ رکھنا ضروری ہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے وقت آپ کو دائیں ہاتھ کی لین میں نہیں چلنا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "SQMIHO",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "You may use any lane as long as you drive below 60 mph",
+        "ur": "آپ کسی بھی لین کا استعمال کر سکتے ہیں بشرطیکہ آپ کی رفتار 60 میل فی گھنٹہ سے کم ہو۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You must drive in the middle lane only",
+        "ur": "آپ کو صرف درمیانی لین میں گاڑی چلانی چاہیے۔"
+      },
+      "b": {
+        "en": "You must keep to the right-hand lane at all times",
+        "ur": "آپ کو ہر وقت دائیں طرف کی لین میں رہنا چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "SLPSCB",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کو ٹو کر رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You must keep to the left-hand lane only if the trailer is over 750 kg",
+        "ur": "اگر ٹریلر کا وزن 750 کلوگرام سے زیادہ ہو تو آپ کو صرف بائیں لین میں رہنا ہوگا۔"
+      },
+      "d": {
+        "en": "You may use any lane as long as you drive below 60 mph",
+        "ur": "آپ کسی بھی لین کا استعمال کر سکتے ہیں بشرطیکہ آپ کی رفتار 60 میل فی گھنٹہ سے کم ہو۔"
+      },
+      "b": {
+        "en": "You must drive in the middle lane to maintain stability",
+        "ur": "آپ کو استحکام برقرار رکھنے کے لیے درمیانی لین میں گاڑی چلانی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹر ویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں جانب والی لین میں نہیں چلنا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "LA4X0C",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must drive at exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "d": {
+        "en": "You must keep a minimum of 2 seconds distance from the vehicle in front",
+        "ur": "آپ کو سامنے والی گاڑی سے کم از کم 2 سیکنڈ کا فاصلہ رکھنا ضروری ہے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا اس سے زیادہ لین ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "2F704B",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کو ٹو کیا جا رہا ہو، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You must keep your speed below 50 mph",
+        "ur": "آپ کو اپنی رفتار 50 میل فی گھنٹہ سے کم رکھنی ہوگی۔"
+      },
+      "d": {
+        "en": "You must always use stabilisers on the trailer",
+        "ur": "آپ کو ٹریلر پر ہمیشہ اسٹیبلائزر استعمال کرنے چاہئیں۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا اس سے زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "JR15VJ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "You must keep a minimum of 2 seconds distance from the vehicle in front",
+        "ur": "آپ کو سامنے والی گاڑی سے کم از کم 2 سیکنڈ کا فاصلہ رکھنا ضروری ہے۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not use the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے وقت دائیں ہاتھ کی لین استعمال نہیں کرنی چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "8HAVHN",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب تین یا زیادہ لینوں والی موٹروے پر ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must keep your speed below 50 mph",
+        "ur": "آپ کو اپنی رفتار 50 میل فی گھنٹہ سے کم رکھنی ہوگی۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must fit stabilisers to the trailer",
+        "ur": "آپ کو ٹریلر پر اسٹیبلائزرز نصب کرنا لازمی ہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا اس سے زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "PGO3DC",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹروے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کو ٹو کیا جا رہا ہو، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "You must keep your headlights on dipped beam only",
+        "ur": "آپ کو اپنی ہیڈلائٹس صرف ڈِپ بیم پر روشن رکھنی چاہئیں۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to maintain safety and traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلنا چاہیے تاکہ حفاظت اور ٹریفک کے بہاؤ کو برقرار رکھا جا سکے۔"
+    }
+  },
+  {
+    "id": "EAARKJ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹروے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کو ٹو کیا جا رہا ہو، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "You must keep a minimum distance of 100 metres from the vehicle in front",
+        "ur": "آپ کو سامنے والی گاڑی سے کم از کم 100 میٹر کا فاصلہ رکھنا ضروری ہے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں لین میں گاڑی نہیں چلانی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "XLX4BB",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کو ٹو کیا جا رہا ہو، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must drive at exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "d": {
+        "en": "You must keep a minimum of 2 seconds distance from the vehicle in front",
+        "ur": "آپ کو سامنے والی گاڑی سے کم از کم 2 سیکنڈ کا فاصلہ رکھنا ضروری ہے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹر ویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے وقت آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "6W6RC4",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا اس سے زیادہ لینز والے راستے پر ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must drive at exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "d": {
+        "en": "You must keep your headlights on full beam",
+        "ur": "آپ کو اپنی ہیڈلائٹس فل بیم پر روشن رکھنی ہوں گی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "1ESWN0",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹروے پر تین یا زیادہ لینز کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You must keep your speed below 50 mph",
+        "ur": "آپ کو اپنی رفتار 50 میل فی گھنٹہ سے کم رکھنی ہوگی۔"
+      },
+      "d": {
+        "en": "You must always use stabilisers on the trailer",
+        "ur": "آپ کو ہمیشہ ٹریلر پر اسٹیبلائزرز استعمال کرنے چاہئیں۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹر ویز پر جہاں تین یا اس سے زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلنا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "3Q1KSB",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹروے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کھینچ رہے ہوں، تو مندرجہ ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "You may use any lane as long as you drive below 60 mph",
+        "ur": "آپ کسی بھی لین کا استعمال کر سکتے ہیں بشرطیکہ آپ کی رفتار 60 میل فی گھنٹہ سے کم ہو۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You must keep to the left-hand lane only if the trailer exceeds 750 kg",
+        "ur": "اگر ٹریلر کا وزن 750 کلوگرام سے زیادہ ہو تو آپ کو صرف بائیں لین میں رہنا ہوگا۔"
+      },
+      "b": {
+        "en": "You must drive in the middle lane to maintain stability",
+        "ur": "آپ کو استحکام برقرار رکھنے کے لیے درمیانی لین میں گاڑی چلانی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا اس سے زیادہ لین ہوں، گاڑی کھینچتے وقت آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "3BE1AA",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب تین یا زیادہ لینوں والی موٹروے پر ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "You must keep the trailer load as light as possible",
+        "ur": "آپ کو ٹریلر کا بوجھ جتنا ممکن ہو ہلکا رکھنا چاہیے۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "b": {
+        "en": "You must always use hazard warning lights",
+        "ur": "آپ کو ہمیشہ ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to maintain safety and traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا اس سے زیادہ لین ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کے لین میں نہیں چلانا چاہیے تاکہ حفاظت اور ٹریفک کے بہاؤ کو برقرار رکھا جا سکے۔"
+    }
+  },
+  {
+    "id": "L7VQQ6",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز والے راستے پر ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "b": {
+        "en": "You must drive in the middle lane to maintain stability",
+        "ur": "آپ کو استحکام برقرار رکھنے کے لیے درمیانی لین میں گاڑی چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You must keep to the left-hand lane only if the trailer is over 750 kg",
+        "ur": "اگر ٹریلر کا وزن 750 کلوگرام سے زیادہ ہو تو آپ کو صرف بائیں لین میں رہنا ہوگا۔"
+      },
+      "d": {
+        "en": "You may use any lane as long as you drive below 60 mph",
+        "ur": "آپ کسی بھی لین کا استعمال کر سکتے ہیں بشرطیکہ آپ کی رفتار 60 میل فی گھنٹہ سے کم ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "V6ZL0S",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must drive in the right-hand lane to allow faster vehicles to overtake",
+        "ur": "آپ کو تیز رفتار گاڑیوں کو اوورٹیک کرنے کی اجازت دینے کے لیے دائیں ہاتھ کی لین میں گاڑی چلانی چاہیے۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You may drive in any lane as long as you keep to the speed limit",
+        "ur": "آپ کسی بھی لین میں گاڑی چلا سکتے ہیں جب تک کہ آپ رفتار کی حد کا خیال رکھیں۔"
+      },
+      "d": {
+        "en": "You should only use the middle lane for overtaking",
+        "ur": "آپ کو اوورٹیک کرنے کے لیے صرف درمیانی لین استعمال کرنی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر تین یا زیادہ لینوں کے ساتھ گاڑی کھینچتے ہوئے، آپ کو حادثات کے خطرے کو کم کرنے اور ٹریفک کے بہاؤ کو بہتر بنانے کے لیے دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+    }
+  },
+  {
+    "id": "56X2BF",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کو ٹو کر رہے ہوں، تو درج ذیل میں سے کون سی قانونی شرط ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must always use hazard warning lights",
+        "ur": "آپ کو ہمیشہ ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must keep a minimum of 2 seconds distance from the vehicle in front",
+        "ur": "آپ کو سامنے والی گاڑی سے کم از کم 2 سیکنڈ کا فاصلہ رکھنا ضروری ہے۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "YBI7JV",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹروے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کو ٹو کیا جا رہا ہو، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must fit stabilisers to the trailer",
+        "ur": "آپ کو ٹریلر پر اسٹیبلائزرز نصب کرنا لازمی ہے۔"
+      },
+      "c": {
+        "en": "You must keep your speed below 50 mph",
+        "ur": "آپ کو اپنی رفتار 50 میل فی گھنٹہ سے کم رکھنی ہوگی۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "0MO5BA",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کو ٹو کر رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "d": {
+        "en": "You must keep your headlights on full beam",
+        "ur": "آپ کو اپنی ہیڈلائٹس فل بیم پر روشن رکھنی ہوں گی۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 50 mph",
+        "ur": "آپ کو بالکل 50 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "NOXCC0",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹروے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کو ٹو کر رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must keep to the right-hand lane at all times",
+        "ur": "آپ کو ہر وقت دائیں ہاتھ کی لین میں رہنا ضروری ہے۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must only use the middle lane for overtaking",
+        "ur": "آپ کو اوورٹیک کرنے کے لیے صرف درمیانی لین استعمال کرنی چاہیے۔"
+      },
+      "c": {
+        "en": "You may use any lane as long as you drive below 60 mph",
+        "ur": "آپ کسی بھی لین کا استعمال کر سکتے ہیں جب تک کہ آپ کی رفتار 60 میل فی گھنٹہ سے کم ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے وقت آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "27MFAS",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز والے راستے پر ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must drive in the middle lane to maintain stability",
+        "ur": "آپ کو استحکام برقرار رکھنے کے لیے درمیانی لین میں گاڑی چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You may use the right-hand lane if the trailer is fitted with stabilisers",
+        "ur": "اگر ٹریلر میں استحکام فراہم کرنے والے اسٹبلائزر نصب ہوں تو آپ دائیں ہاتھ کی لین استعمال کر سکتے ہیں۔"
+      },
+      "d": {
+        "en": "You should drive in the left-hand lane only during peak hours",
+        "ur": "آپ کو مصروف اوقات میں صرف بائیں لین میں گاڑی چلانی چاہیے۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی چلانا منع ہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "GY7G0A",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا اس سے زیادہ لینز میں ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must keep your headlights on full beam",
+        "ur": "آپ کو اپنی ہیڈلائٹس مکمل بیم پر روشن رکھنی چاہئیں۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 50 mph",
+        "ur": "آپ کو بالکل 50 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "RZH6MR",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کو ٹو کیا جا رہا ہو، تو مندرجہ ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "d": {
+        "en": "You must keep a minimum distance of 100 metres from the vehicle in front",
+        "ur": "آپ کو سامنے والی گاڑی سے کم از کم 100 میٹر کا فاصلہ رکھنا ضروری ہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "H1NIEU",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب آپ موٹروے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must keep a minimum distance of 10 metres from the vehicle in front",
+        "ur": "آپ کو سامنے والے گاڑی سے کم از کم 10 میٹر کا فاصلہ رکھنا ضروری ہے۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 50 mph",
+        "ur": "آپ کو بالکل 50 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "XA7A2D",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹروے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "c": {
+        "en": "You must drive at the national speed limit for cars",
+        "ur": "آپ کو کاروں کے لیے مقررہ قومی رفتار حد پر گاڑی چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must keep a minimum distance of 10 metres from the vehicle in front",
+        "ur": "آپ کو سامنے والی گاڑی سے کم از کم 10 میٹر کا فاصلہ رکھنا ضروری ہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹر ویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "B2VBOK",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز والے راستے پر ٹریلر کو ٹو کر رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "You must keep your speed below 50 mph",
+        "ur": "آپ کو اپنی رفتار 50 میل فی گھنٹہ سے کم رکھنی چاہیے۔"
+      },
+      "b": {
+        "en": "You must drive in the middle lane to maintain stability",
+        "ur": "آپ کو استحکام برقرار رکھنے کے لیے درمیانی لین میں گاڑی چلانی چاہیے۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا اس سے زیادہ لین ہوں، گاڑی کھینچتے وقت آپ کو دائیں ہاتھ کی لین میں نہیں چلنا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "TLFHN7",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹروے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سی قانونی شرط ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must keep your speed below 50 mph",
+        "ur": "آپ کو اپنی رفتار 50 میل فی گھنٹہ سے کم رکھنی چاہیے۔"
+      },
+      "d": {
+        "en": "You must fit stabilisers to the trailer",
+        "ur": "آپ کو ٹریلر پر اسٹیبلائزرز نصب کرنا ضروری ہیں۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to maintain safety and traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا اس سے زیادہ لین ہوں، گاڑی کھینچتے وقت آپ کو دائیں ہاتھ کی لین میں نہیں چلنا چاہیے تاکہ حفاظت اور ٹریفک کے بہاؤ کو برقرار رکھا جا سکے۔"
+    }
+  },
+  {
+    "id": "627C73",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز والے راستے پر ٹریلر کو ٹو کر رہے ہوں، تو مندرجہ ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "d": {
+        "en": "You must carry passengers in the trailer if space allows",
+        "ur": "اگر جگہ اجازت دے تو آپ کو ٹریلر میں مسافروں کو لے جانا چاہیے۔"
+      },
+      "c": {
+        "en": "You must keep your speed below 50 mph",
+        "ur": "آپ کو اپنی رفتار 50 میل فی گھنٹہ سے کم رکھنی ہوگی۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "FFJ8VE",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کو ٹو کر رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must keep to the right-hand lane at all times",
+        "ur": "آپ کو ہر وقت دائیں ہاتھ کی لین میں رہنا ضروری ہے۔"
+      },
+      "c": {
+        "en": "You must use hazard warning lights when overtaking",
+        "ur": "آپ کو اوورٹیک کرتے وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must drive at the national speed limit",
+        "ur": "آپ کو قومی رفتار حد کے مطابق گاڑی چلانی ہوگی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر تین یا زیادہ لینوں والے راستوں پر گاڑی کھینچتے ہوئے، آپ کو حادثات کے خطرے کو کم کرنے اور ٹریفک کے بہاؤ کو بہتر بنانے کے لیے دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+    }
+  },
+  {
+    "id": "8ZHZB6",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹروے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کو ٹو کر رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must use your hazard warning lights at all times",
+        "ur": "آپ کو ہمیشہ اپنے ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "d": {
+        "en": "You must keep a minimum of 2 seconds distance from the vehicle in front",
+        "ur": "آپ کو سامنے والی گاڑی سے کم از کم 2 سیکنڈ کا فاصلہ رکھنا ضروری ہے۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "FHH5CM",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "d": {
+        "en": "You must fit stabilisers to the trailer",
+        "ur": "آپ کو ٹریلر پر اسٹیبلائزرز نصب کرنا ضروری ہیں۔"
+      },
+      "c": {
+        "en": "You must keep your speed below 50 mph",
+        "ur": "آپ کو اپنی رفتار 50 میل فی گھنٹہ سے کم رکھنی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا زیادہ لین ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلنا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "7SC4IZ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کو ٹو کیا جا رہا ہو، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must keep to the right-hand lane at all times",
+        "ur": "آپ کو ہر وقت دائیں طرف کی لین میں رہنا ضروری ہے۔"
+      },
+      "c": {
+        "en": "You must drive in the middle lane only",
+        "ur": "آپ کو صرف درمیانی لین میں گاڑی چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You may use any lane as long as you drive below 60 mph",
+        "ur": "آپ کسی بھی لین کا استعمال کر سکتے ہیں جب تک کہ آپ 60 میل فی گھنٹہ سے کم رفتار سے گاڑی چلا رہے ہوں۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "II2S0B",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی چلانا منع ہے۔"
+      },
+      "c": {
+        "en": "You must drive at the national speed limit for cars (70 mph)",
+        "ur": "آپ کو قومی رفتار حد برائے گاڑیاں (70 میل فی گھنٹہ) پر گاڑی چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must keep a minimum distance of 10 metres from the vehicle in front",
+        "ur": "آپ کو سامنے والی گاڑی سے کم از کم ۱۰ میٹر کا فاصلہ رکھنا ضروری ہے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا اس سے زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "D6G4SE",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز والے راستے پر ٹریلر کو ٹو کیا جا رہا ہو، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "d": {
+        "en": "You must carry passengers in the trailer if space allows",
+        "ur": "اگر جگہ اجازت دے تو آپ کو ٹریلر میں مسافروں کو لے جانا چاہیے۔"
+      },
+      "c": {
+        "en": "You must keep your speed below 50 mph",
+        "ur": "آپ کو اپنی رفتار 50 میل فی گھنٹہ سے کم رکھنی ہوگی۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹر ویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "KYV8HP",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹروے پر تین یا زیادہ لینز کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You may drive in any lane as long as you keep to the speed limit",
+        "ur": "آپ کسی بھی لین میں گاڑی چلا سکتے ہیں بشرطیکہ آپ رفتار کی حد کا خیال رکھیں۔"
+      },
+      "d": {
+        "en": "You must only use the middle lane to maintain stability",
+        "ur": "آپ کو استحکام برقرار رکھنے کے لیے صرف درمیانی لین استعمال کرنی چاہیے۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "b": {
+        "en": "You must drive in the right-hand lane to allow faster vehicles to overtake",
+        "ur": "آپ کو تیز رفتار گاڑیوں کو اوورٹیک کرنے کی اجازت دینے کے لیے دائیں ہاتھ کی لین میں گاڑی چلانی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "U8BQR2",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب تین یا زیادہ لینوں والی موٹروے پر ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must drive in the middle lane only",
+        "ur": "آپ کو صرف درمیانی لین میں گاڑی چلانی چاہیے۔"
+      },
+      "b": {
+        "en": "You must keep to the right-hand lane at all times",
+        "ur": "آپ کو ہر وقت دائیں ہاتھ والی لین میں رہنا چاہیے۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You may use any lane as long as you drive below 60 mph",
+        "ur": "آپ کسی بھی لین کا استعمال کر سکتے ہیں بشرطیکہ آپ کی رفتار 60 میل فی گھنٹہ سے کم ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا اس سے زیادہ لین ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کے لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "UOXYR6",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز میں ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "d": {
+        "en": "You must always use stabilisers on the trailer",
+        "ur": "آپ کو ہمیشہ ٹریلر پر اسٹیبلائزرز استعمال کرنے چاہئیں۔"
+      },
+      "c": {
+        "en": "You must keep your speed below 50 mph",
+        "ur": "آپ کو اپنی رفتار 50 میل فی گھنٹہ سے کم رکھنی ہوگی۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر تین یا زیادہ لینوں کے ساتھ گاڑی کھینچتے وقت، آپ کو حادثات کے خطرے کو کم کرنے اور ٹریفک کے بہاؤ کو بہتر بنانے کے لیے دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+    }
+  },
+  {
+    "id": "OUOIU2",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب تین یا زیادہ لینوں والی موٹروے پر ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must keep a minimum of 2 seconds distance from the vehicle in front",
+        "ur": "آپ کو آگے والے گاڑی سے کم از کم 2 سیکنڈ کا فاصلہ رکھنا ضروری ہے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے وقت آپ کو دائیں ہاتھ کی لین میں نہیں چلنا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "E1CHOM",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کو ٹو کیا جا رہا ہو، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "b": {
+        "en": "You must drive in the middle lane to maintain stability",
+        "ur": "آپ کو استحکام برقرار رکھنے کے لیے درمیانی لین میں گاڑی چلانی چاہیے۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must reduce your speed to below 30 mph",
+        "ur": "آپ کو اپنی رفتار 30 میل فی گھنٹہ سے کم کرنی ہوگی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں طرف کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "XOCQX1",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز والی سڑک پر ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "You must fit stabilisers to the trailer",
+        "ur": "آپ کو ٹریلر پر اسٹیبلائزرز نصب کرنا ضروری ہے۔"
+      },
+      "c": {
+        "en": "You must keep your speed below 50 mph",
+        "ur": "آپ کو اپنی رفتار 50 میل فی گھنٹہ سے کم رکھنی ہوگی۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to maintain safety and traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینیں ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلنا چاہیے تاکہ حفاظت اور ٹریفک کے بہاؤ کو برقرار رکھا جا سکے۔"
+    }
+  },
+  {
+    "id": "82JVLZ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کو ٹو کر رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must keep your headlights on dipped beam only",
+        "ur": "آپ کو اپنی ہیڈلائٹس ہمیشہ ڈِپ بیم پر ہی رکھنی چاہئیں۔"
+      },
+      "c": {
+        "en": "You must maintain a speed of exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار برقرار رکھنی ہوگی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے وقت آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "D1NJKW",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹروے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کو ٹو کر رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "You must keep a minimum distance of 10 metres from the vehicle in front",
+        "ur": "آپ کو سامنے والی گاڑی سے کم از کم 10 میٹر کا فاصلہ رکھنا ضروری ہے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to maintain safety and traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا اس سے زیادہ لین ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلنا چاہیے تاکہ حفاظت اور ٹریفک کے بہاؤ کو برقرار رکھا جا سکے۔"
+    }
+  },
+  {
+    "id": "URK15F",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must always use hazard warning lights",
+        "ur": "آپ کو ہمیشہ ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "d": {
+        "en": "You must carry passengers in the trailer if space allows",
+        "ur": "اگر جگہ اجازت دے تو آپ کو ٹریلر میں مسافروں کو لے جانا چاہیے۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You must keep your speed below 50 mph",
+        "ur": "آپ کو اپنی رفتار 50 میل فی گھنٹہ سے کم رکھنی ہوگی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to maintain safety and traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا اس سے زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلنا چاہیے تاکہ حفاظت اور ٹریفک کے بہاؤ کو برقرار رکھا جا سکے۔"
+    }
+  },
+  {
+    "id": "QE49IB",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹروے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "You must keep your headlights on full beam",
+        "ur": "آپ کو اپنی ہیڈلائٹس مکمل بیم پر روشن رکھنی ہوں گی۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 50 mph",
+        "ur": "آپ کو بالکل 50 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to maintain safety and traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا اس سے زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حفاظت اور ٹریفک کے بہاؤ کو برقرار رکھا جا سکے۔"
+    }
+  },
+  {
+    "id": "A0F3PF",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "d": {
+        "en": "You must fit stabilisers to the trailer",
+        "ur": "آپ کو ٹریلر پر اسٹیبلائزرز نصب کرنا لازمی ہے۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You must keep your speed below 50 mph",
+        "ur": "آپ کو اپنی رفتار 50 میل فی گھنٹہ سے کم رکھنی ہوگی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to maintain safety and traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا اس سے زیادہ لین ہوں، گاڑی کھینچتے وقت آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حفاظت اور ٹریفک کے بہاؤ کو برقرار رکھا جا سکے۔"
+    }
+  },
+  {
+    "id": "UP3TX4",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب آپ موٹر وے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کو ٹو کر رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must keep your speed below 50 mph",
+        "ur": "آپ کو اپنی رفتار 50 میل فی گھنٹہ سے کم رکھنی ہوگی۔"
+      },
+      "d": {
+        "en": "You must fit stabilisers to the trailer",
+        "ur": "آپ کو ٹریلر پر اسٹیبلائزرز نصب کرنا لازمی ہے۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to maintain safety and traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حفاظت اور ٹریفک کے بہاؤ کو برقرار رکھا جا سکے۔"
+    }
+  },
+  {
+    "id": "C3S3A5",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز والے راستے پر ٹریلر کو ٹو کر رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You must keep your speed below 50 mph",
+        "ur": "آپ کو اپنی رفتار 50 میل فی گھنٹہ سے کم رکھنی ہوگی۔"
+      },
+      "d": {
+        "en": "You must carry passengers in the trailer if space allows",
+        "ur": "اگر جگہ اجازت دے تو آپ کو ٹریلر میں مسافروں کو لے جانا چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ والی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "UDC5VD",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی چلانا منع ہے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "d": {
+        "en": "You must keep a minimum of 2 seconds distance from the vehicle in front",
+        "ur": "آپ کو سامنے والی گاڑی سے کم از کم 2 سیکنڈ کا فاصلہ رکھنا ضروری ہے۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا اس سے زیادہ لینز ہوں، گاڑی کھینچتے وقت آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "DYMR75",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹروے پر تین یا زیادہ لینز والے راستے پر ٹریلر کو ٹو کر رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must drive at exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "d": {
+        "en": "You must keep a minimum of 2 seconds distance from the vehicle in front",
+        "ur": "آپ کو سامنے والی گاڑی سے کم از کم 2 سیکنڈ کا فاصلہ رکھنا ضروری ہے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "48Y6CQ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز والے راستے پر ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must keep a minimum of 2 seconds distance from the vehicle in front",
+        "ur": "آپ کو سامنے والی گاڑی سے کم از کم 2 سیکنڈ کا فاصلہ رکھنا ضروری ہے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا زیادہ لین ہوں، گاڑی کھینچتے وقت آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "PWQN6T",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز والے راستے پر ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "You must keep a minimum distance of 10 metres from the vehicle in front",
+        "ur": "آپ کو سامنے والی گاڑی سے کم از کم 10 میٹر کا فاصلہ رکھنا ضروری ہے۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "c": {
+        "en": "You must drive at the national speed limit for cars (70 mph)",
+        "ur": "آپ کو کاروں کے لیے قومی رفتار حد (70 میل فی گھنٹہ) پر گاڑی چلانی ہوگی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا اس سے زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "KH7H7N",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹروے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must keep a minimum distance of 10 metres from the vehicle in front",
+        "ur": "آپ کو سامنے والی گاڑی سے کم از کم ۱۰ میٹر کا فاصلہ رکھنا ضروری ہے۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "GGM4AC",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سی قانونی شرط ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "d": {
+        "en": "You must keep a minimum of 2 seconds distance from the vehicle in front",
+        "ur": "آپ کو سامنے والی گاڑی سے کم از کم 2 سیکنڈ کا فاصلہ رکھنا ضروری ہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر تین یا اس سے زیادہ لینوں والے راستوں پر گاڑی کھینچتے ہوئے، آپ کو حادثات کے خطرے کو کم کرنے اور ٹریفک کے بہاؤ کو بہتر بنانے کے لیے دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+    }
+  },
+  {
+    "id": "MXUEFJ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹروے پر تین یا زیادہ لینز کے ساتھ ٹریلر کو ٹو کیا جا رہا ہو، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 50 mph",
+        "ur": "آپ کو بالکل 50 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "d": {
+        "en": "You must keep your headlights on dipped beam only",
+        "ur": "آپ کو اپنی ہیڈلائٹس صرف ڈِپ بیم پر روشن رکھنی چاہئیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "LDCHU8",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز والے راستے پر ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must drive at exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "d": {
+        "en": "You must keep your headlights on dipped beam only",
+        "ur": "آپ کو اپنی ہیڈلائٹس ہمیشہ ڈِپ بیم پر ہی رکھنی چاہئیں۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to maintain safety and traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا اس سے زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حفاظت اور ٹریفک کے بہاؤ کو برقرار رکھا جا سکے۔"
+    }
+  },
+  {
+    "id": "E117L3",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کو ٹو کیا جا رہا ہو، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must drive in the middle lane to maintain stability",
+        "ur": "آپ کو استحکام برقرار رکھنے کے لیے درمیانی لین میں گاڑی چلانی چاہیے۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You may use the right-hand lane if the traffic is light",
+        "ur": "اگر ٹریفک کم ہو تو آپ دائیں ہاتھ کی لین استعمال کر سکتے ہیں۔"
+      },
+      "d": {
+        "en": "You should always stay in the left-hand lane regardless of traffic",
+        "ur": "آپ کو ہمیشہ ٹریفک کی صورتحال سے قطع نظر بائیں لین میں رہنا چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹر ویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے وقت آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "YRPWUV",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must keep your headlights on dipped beam only",
+        "ur": "آپ کو اپنی ہیڈلائٹس صرف ڈِپ بیم پر روشن رکھنی چاہئیں۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا اس سے زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کے لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "4BXG93",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کو ٹو کر رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 50 mph",
+        "ur": "آپ کو بالکل 50 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "d": {
+        "en": "You must keep your headlights on full beam",
+        "ur": "آپ کو اپنی ہیڈلائٹس مکمل بیم پر روشن رکھنی چاہئیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "QHEZ8U",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must drive at exactly 50 mph",
+        "ur": "آپ کو بالکل 50 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "b": {
+        "en": "You must always use hazard warning lights",
+        "ur": "آپ کو ہمیشہ ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must keep your headlights on full beam",
+        "ur": "آپ کو اپنی ہیڈلائٹس مکمل بیم پر روشن رکھنی ہوں گی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا اس سے زیادہ لین ہوں، گاڑی کھینچتے وقت آپ کو دائیں ہاتھ کے لین میں نہیں چلنا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "BYSBBU",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹروے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must always use hazard warning lights",
+        "ur": "آپ کو ہمیشہ ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "d": {
+        "en": "You must keep the trailer load as light as possible",
+        "ur": "آپ کو ٹریلر کا بوجھ جتنا ممکن ہو ہلکا رکھنا چاہیے۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to maintain safety and traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا اس سے زیادہ لین ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ والے لین میں نہیں چلنا چاہیے تاکہ حفاظت اور ٹریفک کے بہاؤ کو برقرار رکھا جا سکے۔"
+    }
+  },
+  {
+    "id": "QQZARY",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "You must keep a minimum of 2 seconds distance from the vehicle in front",
+        "ur": "آپ کو سامنے والی گاڑی سے کم از کم 2 سیکنڈ کا فاصلہ رکھنا ضروری ہے۔"
+      },
+      "b": {
+        "en": "You must always use hazard warning lights",
+        "ur": "آپ کو ہمیشہ ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "887E4J",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کو ٹو کیا جا رہا ہو، تو مندرجہ ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "c": {
+        "en": "You must keep your speed below 50 mph",
+        "ur": "آپ کو اپنی رفتار 50 میل فی گھنٹہ سے کم رکھنی ہوگی۔"
+      },
+      "d": {
+        "en": "You must fit stabilisers to the trailer",
+        "ur": "آپ کو ٹریلر پر اسٹیبلائزرز نصب کرنا لازمی ہے۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے وقت آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "CFDG25",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "You should drive in the left-hand lane only during peak hours",
+        "ur": "آپ کو صرف رش کے اوقات میں بائیں ہاتھ کی لین میں گاڑی چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You may use the right-hand lane if the trailer is fitted with stabilisers",
+        "ur": "اگر ٹریلر میں اسٹیبلائزر نصب ہوں تو آپ دائیں ہاتھ کی لین استعمال کر سکتے ہیں۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "b": {
+        "en": "You must drive in the middle lane to maintain stability",
+        "ur": "آپ کو استحکام برقرار رکھنے کے لیے درمیانی لین میں گاڑی چلانی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹر ویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "Y1NFFB",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کو ٹو کیا جا رہا ہو، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must drive at exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "b": {
+        "en": "You must always use hazard warning lights",
+        "ur": "آپ کو ہمیشہ ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must keep a minimum of 2 seconds distance from the vehicle in front",
+        "ur": "آپ کو سامنے والی گاڑی سے کم از کم 2 سیکنڈ کا فاصلہ رکھنا ضروری ہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، ٹوئنگ کے دوران آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "3TD9P2",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹروے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کو ٹو کر رہے ہوں، تو درج ذیل میں سے کون سی قانونی شرط ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "c": {
+        "en": "You must drive at the national speed limit for cars",
+        "ur": "آپ کو کاروں کے لیے مقررہ قومی رفتار حد پر گاڑی چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must keep a minimum of 2 seconds distance from the vehicle in front",
+        "ur": "آپ کو سامنے والے گاڑی سے کم از کم 2 سیکنڈ کا فاصلہ رکھنا ضروری ہے۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "H3J84I",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must keep your speed below 50 mph",
+        "ur": "آپ کو اپنی رفتار 50 میل فی گھنٹہ سے کم رکھنی ہوگی۔"
+      },
+      "c": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must fit stabilisers to the trailer",
+        "ur": "آپ کو ٹریلر پر اسٹیبلائزرز نصب کرنا ضروری ہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا اس سے زیادہ لین ہوں، گاڑی کھینچتے وقت آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "ZEFE7Z",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must drive in the right-hand lane to allow faster vehicles to overtake",
+        "ur": "آپ کو تیز رفتار گاڑیوں کو اوورٹیک کرنے کی اجازت دینے کے لیے دائیں ہاتھ والی لین میں گاڑی چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You may drive in any lane as long as you keep to the speed limit",
+        "ur": "آپ کسی بھی لین میں گاڑی چلا سکتے ہیں بشرطیکہ آپ رفتار کی حد کا خیال رکھیں۔"
+      },
+      "d": {
+        "en": "You must drive only in the left-hand lane and never overtake",
+        "ur": "آپ کو صرف بائیں ہاتھ کی لین میں گاڑی چلانی چاہیے اور کبھی اوور ٹیک نہیں کرنا چاہیے۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی چلانا منع ہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلنا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "23T45T",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You must drive only in the middle lane",
+        "ur": "آپ کو صرف درمیانی لین میں گاڑی چلانی چاہیے۔"
+      },
+      "b": {
+        "en": "You must keep to the right-hand lane at all times",
+        "ur": "آپ کو ہر وقت دائیں ہاتھ والی لین میں رہنا چاہیے۔"
+      },
+      "d": {
+        "en": "You may use any lane as long as you drive below 60 mph",
+        "ur": "آپ کسی بھی لین کا استعمال کر سکتے ہیں بشرطیکہ آپ کی رفتار 60 میل فی گھنٹہ سے کم ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "BOPAOV",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "d": {
+        "en": "You must keep a minimum distance of 50 metres from the vehicle in front",
+        "ur": "آپ کو سامنے والی گاڑی سے کم از کم 50 میٹر کا فاصلہ رکھنا ضروری ہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "2Y3YEV",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement regarding lane use?",
+      "ur": "جب موٹر وے پر تین یا اس سے زیادہ لینز ہوں اور ٹریلر کھینچا جا رہا ہو، تو درج ذیل میں سے کون سا لین استعمال کرنے کے حوالے سے قانونی شرط ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You can use any lane as long as you drive below 60 mph",
+        "ur": "آپ کسی بھی لین کا استعمال کر سکتے ہیں بشرطیکہ آپ کی رفتار 60 میل فی گھنٹہ سے کم ہو۔"
+      },
+      "b": {
+        "en": "You must stay in the middle lane at all times",
+        "ur": "آپ کو ہر وقت درمیانی لین میں رہنا چاہیے۔"
+      },
+      "d": {
+        "en": "You must only use the left-hand lane when overtaking",
+        "ur": "آپ کو صرف بائیں ہاتھ کی لین کا استعمال کرنا چاہیے جب آپ گاڑی کو اوورٹیک کر رہے ہوں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا اس سے زیادہ لین ہوں، گاڑی کھینچتے وقت آپ کو دائیں ہاتھ کے لین میں نہیں چلنا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "TD0HZT",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کو ٹو کر رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must drive at exactly 50 mph",
+        "ur": "آپ کو بالکل 50 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "d": {
+        "en": "You must keep a minimum distance of 10 metres from the vehicle in front",
+        "ur": "آپ کو سامنے والے گاڑی سے کم از کم 10 میٹر کا فاصلہ رکھنا ضروری ہے۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹر ویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلنا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "44T6JK",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کو ٹو کیا جا رہا ہو، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must keep to the right-hand lane at all times",
+        "ur": "آپ کو ہر وقت دائیں ہاتھ والی لین میں رہنا چاہیے۔"
+      },
+      "c": {
+        "en": "You may use any lane as long as you drive below 60 mph",
+        "ur": "آپ کسی بھی لین کا استعمال کر سکتے ہیں بشرطیکہ آپ کی رفتار 60 میل فی گھنٹہ سے کم ہو۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must only use the middle lane unless overtaking",
+        "ur": "آپ کو صرف درمیانی لین استعمال کرنی چاہیے جب آپ گاڑی اوورٹیک کر رہے ہوں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلنا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "PA260F",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز والے راستے پر ٹریلر کو ٹو کر رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی چلانا منع ہے۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 60 mph",
+        "ur": "آپ کو بالکل 60 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "d": {
+        "en": "You must keep your headlights on full beam",
+        "ur": "آپ کو اپنی ہیڈلائٹس مکمل بیم پر روشن رکھنی چاہئیں۔"
+      },
+      "b": {
+        "en": "You must always use hazard warning lights",
+        "ur": "آپ کو ہمیشہ ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "ISKD6Q",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹروے پر تین یا زیادہ لینز کے ساتھ ٹریلر کو ٹو کر رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "You MUST reduce your speed to below 50 mph",
+        "ur": "آپ کو اپنی رفتار 50 میل فی گھنٹہ سے کم کرنی ہوگی۔"
+      },
+      "c": {
+        "en": "You SHOULD use hazard lights when overtaking",
+        "ur": "آپ کو اوورٹیک کرتے وقت ہیزرڈ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "b": {
+        "en": "You MUST drive in the middle lane to maintain stability",
+        "ur": "آپ کو استحکام برقرار رکھنے کے لیے وسطی لین میں گاڑی چلانی ضروری ہے۔"
+      },
+      "a": {
+        "en": "You MUST NOT drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی چلانا منع ہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "BVZFOZ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز والے راستے پر ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must drive at exactly 50 mph",
+        "ur": "آپ کو بالکل 50 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "d": {
+        "en": "You must keep your headlights on dipped beam only",
+        "ur": "آپ کو اپنی ہیڈلائٹس صرف ڈِپ بیم پر روشن رکھنی چاہئیں۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "7V0ZK0",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب آپ موٹر وے پر تین یا زیادہ لینز والے راستے پر ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must only use the middle lane to maintain stability",
+        "ur": "آپ کو استحکام برقرار رکھنے کے لیے صرف درمیانی لین استعمال کرنی چاہیے۔"
+      },
+      "b": {
+        "en": "You must drive in the right-hand lane to allow faster vehicles to overtake",
+        "ur": "آپ کو تیز رفتار گاڑیوں کو اوورٹیک کرنے کی اجازت دینے کے لیے دائیں ہاتھ کی لین میں گاڑی چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You may drive in any lane as long as you keep to the speed limit",
+        "ur": "آپ کسی بھی لین میں گاڑی چلا سکتے ہیں بشرطیکہ آپ رفتار کی حد کا خیال رکھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں جانب والی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "9L6Q91",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must drive at exactly 50 mph",
+        "ur": "آپ کو بالکل 50 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "d": {
+        "en": "You must keep your headlights on full beam",
+        "ur": "آپ کو اپنی ہیڈلائٹس مکمل بیم پر روشن رکھنی چاہئیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "PJ91N3",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز میں ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must always drive in the middle lane",
+        "ur": "آپ کو ہمیشہ درمیانی لین میں گاڑی چلانی چاہیے۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You may use any lane as long as you keep to the speed limit",
+        "ur": "آپ کسی بھی لین کا استعمال کر سکتے ہیں بشرطیکہ آپ رفتار کی حد کا خیال رکھیں۔"
+      },
+      "c": {
+        "en": "You must drive in the left-hand lane only during peak hours",
+        "ur": "آپ کو مصروف اوقات میں صرف بائیں ہاتھ کی لین میں گاڑی چلانی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "QY4JBK",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must drive in the middle lane to maintain steady speed",
+        "ur": "آپ کو رفتار کو مستحکم رکھنے کے لیے درمیانی لین میں گاڑی چلانی چاہیے۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "d": {
+        "en": "You must keep your speed below 50 mph",
+        "ur": "آپ کو اپنی رفتار 50 میل فی گھنٹہ سے کم رکھنی ہوگی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلنا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "KCJJKR",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کو ٹو کیا جا رہا ہو، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must stay in the left-hand lane only during peak hours",
+        "ur": "آپ کو مصروف اوقات میں صرف بائیں ہاتھ کی لین میں رہنا چاہیے۔"
+      },
+      "c": {
+        "en": "You may use the right-hand lane if traffic is light",
+        "ur": "اگر ٹریفک کم ہو تو آپ دائیں ہاتھ والی لین استعمال کر سکتے ہیں۔"
+      },
+      "b": {
+        "en": "You must drive in the middle lane to maintain stability",
+        "ur": "آپ کو استحکام برقرار رکھنے کے لیے درمیانی لین میں گاڑی چلانی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے وقت آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "DZOO1E",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹروے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must drive in the middle lane to maintain stability",
+        "ur": "آپ کو استحکام برقرار رکھنے کے لیے درمیانی لین میں گاڑی چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You may use any lane as long as you do not exceed 60 mph",
+        "ur": "آپ کسی بھی لین کا استعمال کر سکتے ہیں بشرطیکہ آپ کی رفتار 60 میل فی گھنٹہ سے زیادہ نہ ہو۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You must keep to the left-hand lane only if the trailer exceeds 750 kg",
+        "ur": "اگر ٹریلر کا وزن 750 کلوگرام سے زیادہ ہو تو آپ کو صرف بائیں لین میں رہنا ہوگا۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا اس سے زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلنا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "BCCGZY",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹروے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "You must keep your speed below 50 mph",
+        "ur": "آپ کو اپنی رفتار 50 میل فی گھنٹہ سے کم رکھنی چاہیے۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی چلانا منع ہے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "d": {
+        "en": "You must only overtake on the left-hand side",
+        "ur": "آپ کو صرف بائیں جانب سے اوورٹیک کرنا چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "L6AY1I",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کو ٹو کر رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "d": {
+        "en": "You must keep a minimum of 2 seconds distance from the vehicle in front",
+        "ur": "آپ کو سامنے والی گاڑی سے کم از کم 2 سیکنڈ کا فاصلہ رکھنا ضروری ہے۔"
+      },
+      "c": {
+        "en": "You must drive at the national speed limit for cars",
+        "ur": "آپ کو کاروں کے لیے مقررہ قومی رفتار حد پر گاڑی چلانی ہوگی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹروے پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلنا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "3PKFE9",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز کے ساتھ ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ والی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "c": {
+        "en": "You must drive at exactly 50 mph",
+        "ur": "آپ کو بالکل 50 میل فی گھنٹہ کی رفتار سے گاڑی چلانی ہوگی۔"
+      },
+      "d": {
+        "en": "You must keep your headlights on full beam",
+        "ur": "آپ کو اپنی ہیڈلائٹس مکمل بیم پر روشن رکھنی ہوں گی۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "Q63U3P",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹر وے پر تین یا زیادہ لینز والے راستے پر ٹریلر کھینچ رہے ہوں، تو درج ذیل میں سے کون سی قانونی شرط ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "You must always use stabilisers on the trailer",
+        "ur": "آپ کو ٹریلر پر ہمیشہ اسٹیبلائزرز استعمال کرنے چاہئیں۔"
+      },
+      "b": {
+        "en": "You must use hazard warning lights at all times",
+        "ur": "آپ کو ہر وقت ہیزرڈ وارننگ لائٹس استعمال کرنی چاہئیں۔"
+      },
+      "c": {
+        "en": "You must keep your speed below 50 mph",
+        "ur": "آپ کو اپنی رفتار 50 میل فی گھنٹہ سے کم رکھنی ہوگی۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے وقت آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  },
+  {
+    "id": "Y30091",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 3",
+    "question": {
+      "en": "When towing a trailer on a motorway with three or more lanes, which of the following is a legal requirement?",
+      "ur": "جب موٹروے پر تین یا زیادہ لینوں کے ساتھ ٹریلر کو ٹو کر رہے ہوں، تو درج ذیل میں سے کون سا قانونی تقاضہ ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "You must keep to the right-hand lane at all times",
+        "ur": "آپ کو ہر وقت دائیں ہاتھ والی لین میں رہنا چاہیے۔"
+      },
+      "a": {
+        "en": "You must not drive in the right-hand lane",
+        "ur": "آپ کو دائیں ہاتھ کی لین میں گاڑی نہیں چلانی چاہیے۔"
+      },
+      "c": {
+        "en": "You may use any lane as long as you drive below 60 mph",
+        "ur": "آپ کسی بھی لین کا استعمال کر سکتے ہیں بشرطیکہ آپ کی رفتار 60 میل فی گھنٹہ سے کم ہو۔"
+      },
+      "d": {
+        "en": "You must only use the middle lane",
+        "ur": "آپ کو صرف درمیانی لین استعمال کرنی چاہیے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When towing on motorways with three or more lanes, you must not drive in the right-hand lane to reduce the risk of accidents and improve traffic flow.",
+      "ur": "موٹرویز پر جہاں تین یا زیادہ لینز ہوں، گاڑی کھینچتے ہوئے آپ کو دائیں ہاتھ کی لین میں نہیں چلانا چاہیے تاکہ حادثات کے خطرے کو کم کیا جا سکے اور ٹریفک کے بہاؤ کو بہتر بنایا جا سکے۔"
+    }
+  }
+]

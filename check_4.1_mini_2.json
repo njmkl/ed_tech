@@ -1,0 +1,114 @@
+[
+  {
+    "id": "Q429XC",
+    "file_id": "tema15_032",
+    "topic": "Conocimiento del automóvil II",
+    "question": {
+      "es": "¿Cuándo sabremos que el motor está siendo lubricado correctamente?",
+      "ru": "Когда мы узнаем, что двигатель смазывается правильно?"
+    },
+    "options": {
+      "a": {
+        "es": "Cuando el indicador luminoso de aceite está encendido.",
+        "ru": "Когда индикатор масла горит."
+      },
+      "b": {
+        "es": "Cuando el indicador luminoso de aceite está apagado.",
+        "ru": "Когда индикатор масла выключен."
+      },
+      "c": {
+        "es": "No se puede saber.",
+        "ru": "Невозможно узнать."
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "es": "El motor está correctamente lubricado cuando el indicador luminoso de aceite está apagado, ya que su encendido indica falta de presión de aceite.",
+      "ru": "Двигатель правильно смазывается, когда индикатор масла выключен, так как его включение указывает на недостаток давления масла."
+    }
+  },
+  {
+    "id": "Q8ZPZT",
+    "file_id": "tema18_005",
+    "topic": "Viajes, civismo vial y accidentes",
+    "question": {
+      "es": "La edad avanzada, ¿Puede ser un factor que distraiga al volante?",
+      "ru": "Пожилой возраст, может ли он быть фактором, отвлекающим за рулём?"
+    },
+    "options": {
+      "a": {
+        "es": "Sí, si no se toman las debidas precauciones.",
+        "ru": "Да, если не принимать соответствующие меры предосторожности."
+      },
+      "b": {
+        "es": "Sí, siempre.",
+        "ru": "Да, всегда."
+      },
+      "c": {
+        "es": "No.",
+        "ru": "Нет."
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "es": "La edad avanzada puede distraer si no se toman precauciones adecuadas.",
+      "ru": "Пожилой возраст может отвлекать, если не принимать соответствующие меры предосторожности."
+    }
+  },
+  {
+    "id": "QE4ELW",
+    "file_id": "tema18_011",
+    "topic": "Viajes, civismo vial y accidentes",
+    "question": {
+      "es": "Un vehículo que dispone de la última tecnología, ¿Puede sufrir un accidente?",
+      "ru": "Транспортное средство, оснащённое новейшими технологиями, может ли попасть в аварию?"
+    },
+    "options": {
+      "a": {
+        "es": "Sí, porque la tecnología no aumenta la seguridad, sino la comodidad en la conducción.",
+        "ru": "Да, потому что технологии не повышают безопасность, а только комфорт при вождении."
+      },
+      "b": {
+        "es": "Sí, cuando no se hace un uso adecuado.",
+        "ru": "Да, если не использовать их должным образом."
+      },
+      "c": {
+        "es": "No.",
+        "ru": "Нет."
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "es": "Aunque la tecnología ayuda, un accidente puede ocurrir si no se usa adecuadamente.",
+      "ru": "Хотя технологии помогают, авария может произойти, если их использовать неправильно."
+    }
+  },
+  {
+    "id": "QX69V8",
+    "file_id": "tema6_064",
+    "topic": "Alumbrado y señalización en el vehículo",
+    "question": {
+      "es": "Cuando sea obligatorio el uso del alumbrado, el conductor de una bicicleta, ¿Debe llevar alguna prenda o elemento reflectante?",
+      "ru": "Когда обязательно использование освещения, должен ли водитель велосипеда носить какую-либо светоотражающую одежду или элемент?"
+    },
+    "options": {
+      "a": {
+        "es": "No.",
+        "ru": "Нет."
+      },
+      "b": {
+        "es": "Sí, cuando circule por vías urbanas e interurbanas.",
+        "ru": "Да, когда он движется по городским и загородным дорогам."
+      },
+      "c": {
+        "es": "Sólo cuando circule por vías interurbanas.",
+        "ru": "Только когда он движется по загородным дорогам."
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "es": "El uso de prendas o elementos reflectantes es obligatorio para mejorar la visibilidad del ciclista cuando se usa alumbrado, especialmente en vías interurbanas.",
+      "ru": "Использование светоотражающих элементов обязательно для улучшения видимости велосипедиста при использовании освещения, особенно на загородных дорогах."
+    }
+  }
+]

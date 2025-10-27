@@ -1,0 +1,1302 @@
+[
+  {
+    "question": "When was the Anderson Committee set up?",
+    "options": {
+      "A": "1965",
+      "B": "1961",
+      "C": "1958",
+      "D": "1994"
+    },
+    "correct_answer": "C",
+    "explanation": "The Anderson Committee was set up in 1958 to consider new designs for motorway signs.",
+    "topic": "Anderson Committee",
+    "id": 1
+  },
+  {
+    "question": "What did the Anderson Committee recommend for motorway signs?",
+    "options": {
+      "A": "No changes needed",
+      "B": "Smaller signs with red backgrounds",
+      "C": "Much larger signs with blue backgrounds",
+      "D": "No recommendations made"
+    },
+    "correct_answer": "C",
+    "explanation": "The Anderson Committee recommended much larger signs with blue backgrounds for motorways.",
+    "topic": "Anderson Committee",
+    "id": 2
+  },
+  {
+    "question": "When did work begin on the conversion of British signs?",
+    "options": {
+      "A": "1958",
+      "B": "1965",
+      "C": "1961",
+      "D": "1994"
+    },
+    "correct_answer": "B",
+    "explanation": "Work began on the conversion of British signs in 1965 to adopt the European system.",
+    "topic": "Conversion of British signs",
+    "id": 3
+  },
+  {
+    "question": "What shapes are used for warning signs and prohibitions in the UK system?",
+    "options": {
+      "A": "Blue circle for warning signs, blue triangle for prohibitions",
+      "B": "Blue triangle for warning signs, blue circle for prohibitions",
+      "C": "Red circle for warning signs, red triangle for prohibitions",
+      "D": "Red triangle for warning signs, red circle for prohibitions"
+    },
+    "correct_answer": "D",
+    "explanation": "In the UK system, warning signs are expressed as a symbol within a red triangle, and prohibitions are within a red circle.",
+    "topic": "UK system shapes",
+    "id": 4
+  },
+  {
+    "question": "When were new regulatory and warning signs introduced in the UK?",
+    "options": {
+      "A": "1958",
+      "B": "1994",
+      "C": "1965",
+      "D": "1961"
+    },
+    "correct_answer": "B",
+    "explanation": "New regulatory and warning signs were introduced in the UK in 1994, along with simplified yellow line restrictions.",
+    "topic": "New signs introduction",
+    "id": 5
+  },
+  {
+    "question": "What technology is being used to provide better information to road users?",
+    "options": {
+      "A": "Telegraphs",
+      "B": "Carrier pigeons",
+      "C": "New technology",
+      "D": "Newspapers"
+    },
+    "correct_answer": "C",
+    "explanation": "New technology is being used to provide better information to road users on hazards, delays, diversions, and traffic control.",
+    "topic": "New technology usage",
+    "id": 6
+  },
+  {
+    "question": "What is the future expected to bring in terms of traffic signing?",
+    "options": {
+      "A": "More developments to keep pace with changing traffic demands",
+      "B": "Decrease in signs",
+      "C": "No changes",
+      "D": "Removal of signs"
+    },
+    "correct_answer": "A",
+    "explanation": "The future is expected to bring more developments in traffic signing to keep pace with the changing traffic demands on our roads.",
+    "topic": "Future of traffic signing",
+    "id": 7
+  },
+  {
+    "question": "What type of information do blue circles generally provide?",
+    "options": {
+      "A": "Warnings",
+      "B": "Orders",
+      "C": "Information",
+      "D": "None of the above"
+    },
+    "correct_answer": "B",
+    "explanation": "Blue circles generally give a mandatory instruction or indicate a route available only to particular classes of traffic.",
+    "topic": "Blue circles",
+    "id": 8
+  },
+  {
+    "question": "Which colour are all triangular signs?",
+    "options": {
+      "A": "Blue",
+      "B": "Red",
+      "C": "Green",
+      "D": "White"
+    },
+    "correct_answer": "B",
+    "explanation": "All triangular signs are red.",
+    "topic": "Triangular signs",
+    "id": 9
+  },
+  {
+    "question": "What do red rings or circles indicate?",
+    "options": {
+      "A": "Orders",
+      "B": "Information",
+      "C": "Warnings",
+      "D": "None of the above"
+    },
+    "correct_answer": "C",
+    "explanation": "Red rings or circles tell you what you must not do, such as speed limits or vehicle restrictions.",
+    "topic": "Red rings or circles",
+    "id": 10
+  },
+  {
+    "question": "In what situations are blue rectangles used?",
+    "options": {
+      "A": "For information",
+      "B": "For warnings",
+      "C": "For orders",
+      "D": "For direction signs"
+    },
+    "correct_answer": "A",
+    "explanation": "Blue rectangles are used for information signs except on motorways where blue is used for direction signs.",
+    "topic": "Blue rectangles",
+    "id": 11
+  },
+  {
+    "question": "What do the words 'must' or 'must not' in the descriptions refer to?",
+    "options": {
+      "A": "Suggestions",
+      "B": "Warnings",
+      "C": "Advice",
+      "D": "Legal requirements"
+    },
+    "correct_answer": "D",
+    "explanation": "The words 'must' or 'must not' refer to legal requirements that have to be obeyed.",
+    "topic": "Legal requirements",
+    "id": 12
+  },
+  {
+    "question": "What does a broader line at a junction indicate?",
+    "options": {
+      "A": "Speed limit",
+      "B": "Stop line location",
+      "C": "Priority through the junction",
+      "D": "Pedestrian crossing"
+    },
+    "correct_answer": "C",
+    "explanation": "The broader line at a junction indicates the priority through the junction.",
+    "topic": "Traffic Signs and Junctions",
+    "id": 13
+  },
+  {
+    "question": "What does a warning sign with a sharp deviation to the left indicate?",
+    "options": {
+      "A": "Road narrows on both sides",
+      "B": "Risk of lorries overturning",
+      "C": "End of dual carriageway",
+      "D": "Traffic merges"
+    },
+    "correct_answer": "B",
+    "explanation": "A warning sign with a sharp deviation to the left indicates the risk of lorries overturning.",
+    "topic": "Warning Signs",
+    "id": 14
+  },
+  {
+    "question": "What do white markers on the edge of a carriageway indicate?",
+    "options": {
+      "A": "Pedestrian crossing",
+      "B": "Off-side edge",
+      "C": "Speed limit",
+      "D": "Near-side edge"
+    },
+    "correct_answer": "D",
+    "explanation": "White markers on the edge of a carriageway indicate the near-side edge.",
+    "topic": "Road Markings",
+    "id": 15
+  },
+  {
+    "question": "What does a plate used with 'road narrows' signs indicate?",
+    "options": {
+      "A": "Traffic merges",
+      "B": "Risk of lorries overturning",
+      "C": "Priority through the junction",
+      "D": "Road narrows on both sides"
+    },
+    "correct_answer": "D",
+    "explanation": "A plate used with 'road narrows' signs indicates that the road narrows on both sides.",
+    "topic": "Warning Signs",
+    "id": 16
+  },
+  {
+    "question": "What type of hazard is indicated by the sign with the word 'FIRE'?",
+    "options": {
+      "A": "Other danger",
+      "B": "Low-flying aircraft",
+      "C": "Risk of ice",
+      "D": "Pedestrians crossing"
+    },
+    "correct_answer": "A",
+    "explanation": "The sign with the word 'FIRE' indicates another type of hazard not specifically mentioned in the other signs.",
+    "topic": "Road hazard signs",
+    "id": 17
+  },
+  {
+    "question": "Which sign may be varied to 'Snowdrifts'?",
+    "options": {
+      "A": "Risk of ice",
+      "B": "Slow-moving military vehicles",
+      "C": "Risk of falling rocks",
+      "D": "Traffic queues ahead"
+    },
+    "correct_answer": "A",
+    "explanation": "The sign indicating 'Ice' may be varied to 'Snowdrifts' for the same hazard.",
+    "topic": "Road hazard signs",
+    "id": 18
+  },
+  {
+    "question": "What does the sign with the word 'Gates' indicate?",
+    "options": {
+      "A": "Crossing a ford",
+      "B": "Descending a steep hill",
+      "C": "No smoking allowed",
+      "D": "Opening or swing bridge"
+    },
+    "correct_answer": "A",
+    "explanation": "The sign with the word 'Gates' indicates crossing a ford.",
+    "topic": "Road signs and warnings",
+    "id": 19
+  },
+  {
+    "question": "What is the equivalent steepness ratio for the warning 'Steep hill'?",
+    "options": {
+      "A": "1:5",
+      "B": "1:10",
+      "C": "10%",
+      "D": "20%"
+    },
+    "correct_answer": "A",
+    "explanation": "The equivalent steepness ratio for the warning 'Steep hill' is 1:5.",
+    "topic": "Road signs and warnings",
+    "id": 20
+  },
+  {
+    "question": "What does a red ring or red circle on a regulatory sign indicate?",
+    "options": {
+      "A": "A positive instruction",
+      "B": "A route for specific vehicles",
+      "C": "A prohibition",
+      "D": "A warning"
+    },
+    "correct_answer": "C",
+    "explanation": "A red ring or red circle on a regulatory sign indicates a prohibition.",
+    "topic": "Regulatory signs",
+    "id": 21
+  },
+  {
+    "question": "When approaching a 'STOP' sign, what action must a driver take?",
+    "options": {
+      "A": "Stop before crossing the transverse line",
+      "B": "Proceed with caution",
+      "C": "Slow down",
+      "D": "Honk the horn"
+    },
+    "correct_answer": "A",
+    "explanation": "When approaching a 'STOP' sign, a driver must stop before crossing the transverse line on the road.",
+    "topic": "Regulatory signs",
+    "id": 22
+  },
+  {
+    "question": "What does a blue circle on a regulatory sign generally indicate?",
+    "options": {
+      "A": "A prohibition",
+      "B": "A warning",
+      "C": "A positive instruction",
+      "D": "A route for specific vehicles"
+    },
+    "correct_answer": "C",
+    "explanation": "A blue circle on a regulatory sign generally gives a positive (mandatory) instruction or indicates a route for use only by particular classes of vehicles.",
+    "topic": "Regulatory signs",
+    "id": 23
+  },
+  {
+    "question": "What must a driver do when encountering a 'GIVE WAY' sign and road markings?",
+    "options": {
+      "A": "Speed up",
+      "B": "Proceed without stopping",
+      "C": "Ignore the sign",
+      "D": "Give way to traffic on the major road"
+    },
+    "correct_answer": "D",
+    "explanation": "When encountering a 'GIVE WAY' sign and road markings, a driver must give way to traffic on the major road.",
+    "topic": "Regulatory signs",
+    "id": 24
+  },
+  {
+    "question": "What does a supervised cattle crossing sign indicate?",
+    "options": {
+      "A": "Area infected by animal disease",
+      "B": "Pedestrians likely to be crossing",
+      "C": "Cattle crossing ahead",
+      "D": "Cattle grid with bypass for horse-drawn vehicles"
+    },
+    "correct_answer": "C",
+    "explanation": "A supervised cattle crossing sign indicates cattle crossing ahead.",
+    "topic": "Cattle and animal crossings",
+    "id": 25
+  },
+  {
+    "question": "What type of vehicles are allowed to pass through a tunnel with the restriction code indicated by the sign?",
+    "options": {
+      "A": "Articulated vehicles",
+      "B": "Pedestrians",
+      "C": "Horse-drawn vehicles",
+      "D": "Vehicles carrying dangerous goods"
+    },
+    "correct_answer": "D",
+    "explanation": "The text states that vehicles carrying dangerous goods with the restriction code indicated by the sign are prohibited from the tunnel.",
+    "topic": "Tunnel Category",
+    "id": 26
+  },
+  {
+    "question": "What does the supplementary plate used with the 'no vehicles' sign indicate?",
+    "options": {
+      "A": "No vehicles over maximum width shown",
+      "B": "Maximum gross weight carrying shown in tonnes",
+      "C": "Exemptions from prohibition signs",
+      "D": "Times when vehicles are prohibited, except for access"
+    },
+    "correct_answer": "D",
+    "explanation": "The supplementary plate used with the 'no vehicles' sign indicates times when vehicles are prohibited, except for access.",
+    "topic": "Regulatory Signs",
+    "id": 27
+  },
+  {
+    "question": "What vehicles are exempt from the 'no solo motorcycles' sign?",
+    "options": {
+      "A": "Towed caravans",
+      "B": "Ridden or accompanied horses",
+      "C": "Goods vehicles over maximum gross weight",
+      "D": "Pedestrians"
+    },
+    "correct_answer": "B",
+    "explanation": "The text mentions that ridden or accompanied horses are exempt from the 'no solo motorcycles' sign.",
+    "topic": "Regulatory Signs",
+    "id": 28
+  },
+  {
+    "question": "What is the restriction code for vehicles carrying dangerous goods in the tunnel at Heathrow Airport between 4 am and 11 pm?",
+    "options": {
+      "A": "D",
+      "B": "E",
+      "C": "C",
+      "D": "B"
+    },
+    "correct_answer": "B",
+    "explanation": "The text specifies that at Heathrow Airport between 4 am and 11 pm, the restriction code for vehicles carrying dangerous goods is Category C.",
+    "topic": "Tunnel Category",
+    "id": 29
+  },
+  {
+    "question": "What do plates used to indicate exemptions from prohibition signs show?",
+    "options": {
+      "A": "Loading and unloading by goods vehicles",
+      "B": "Access to premises or land adjacent",
+      "C": "Maximum width shown in metric and imperial units",
+      "D": "Exemptions from maximum gross weight restrictions"
+    },
+    "correct_answer": "A",
+    "explanation": "Plates used to indicate exemptions from prohibition signs show exemptions for loading and unloading by goods vehicles.",
+    "topic": "Regulatory Signs",
+    "id": 30
+  },
+  {
+    "question": "What does a red bar across a regulatory sign indicate?",
+    "options": {
+      "A": "Weight restriction",
+      "B": "Nature of restriction",
+      "C": "One-way traffic",
+      "D": "Prohibition of changes of direction"
+    },
+    "correct_answer": "D",
+    "explanation": "A red bar across a regulatory sign is used to indicate the prohibition of changes of direction.",
+    "topic": "Regulatory signs",
+    "id": 31
+  },
+  {
+    "question": "When must vehicles give way to traffic from the other direction on a narrow road or bridge?",
+    "options": {
+      "A": "When there is a 'give way' line",
+      "B": "When there is a 'no U-turn' sign",
+      "C": "When there is a 'no overtaking' sign",
+      "D": "When there is a 'no right turn' sign"
+    },
+    "correct_answer": "A",
+    "explanation": "Priority must be given to traffic from the other direction on a narrow road or bridge, usually indicated by a 'give way' line.",
+    "topic": "Regulatory signs",
+    "id": 32
+  },
+  {
+    "question": "What does a time plate used with a 'no right turn' sign indicate?",
+    "options": {
+      "A": "Nature of restriction",
+      "B": "Weight restriction",
+      "C": "One-way traffic",
+      "D": "Part-time prohibition"
+    },
+    "correct_answer": "D",
+    "explanation": "A time plate used with a 'no right turn' sign indicates a part-time prohibition of right turns.",
+    "topic": "Regulatory signs",
+    "id": 33
+  },
+  {
+    "question": "What must vehicles do when a regulatory sign indicates 'vehicles must not go beyond'?",
+    "options": {
+      "A": "Proceed in the direction indicated",
+      "B": "Turn around",
+      "C": "Stop immediately",
+      "D": "Change lanes"
+    },
+    "correct_answer": "A",
+    "explanation": "When a regulatory sign indicates 'vehicles must not go beyond', vehicles must proceed in the direction indicated by the sign.",
+    "topic": "Regulatory signs",
+    "id": 34
+  },
+  {
+    "question": "What should vehicles do at a mini-roundabout?",
+    "options": {
+      "A": "Turn left only",
+      "B": "Proceed without stopping",
+      "C": "Give way to traffic from the immediate right",
+      "D": "Overtake other vehicles"
+    },
+    "correct_answer": "C",
+    "explanation": "At a mini-roundabout, vehicles should give way to traffic from the immediate right.",
+    "topic": "Regulatory signs",
+    "id": 35
+  },
+  {
+    "question": "What is the default speed limit in areas of street lighting?",
+    "options": {
+      "A": "20 mph",
+      "B": "50 mph",
+      "C": "40 mph",
+      "D": "30 mph"
+    },
+    "correct_answer": "D",
+    "explanation": "The text states that in areas of street lighting, the default speed limit is 30 mph unless signs indicate otherwise.",
+    "topic": "Default speed limit in areas of street lighting",
+    "id": 36
+  },
+  {
+    "question": "What type of sign indicates the start of a speed limit?",
+    "options": {
+      "A": "Smaller sign",
+      "B": "Larger sign",
+      "C": "Upright sign",
+      "D": "Repeater sign"
+    },
+    "correct_answer": "B",
+    "explanation": "A larger sign indicates the start of a speed limit, as mentioned in the text.",
+    "topic": "Sign indicating start of speed limit",
+    "id": 37
+  },
+  {
+    "question": "Where are repeater signs for a 30 mph limit used?",
+    "options": {
+      "A": "On motorways",
+      "B": "In town centres",
+      "C": "In Wales",
+      "D": "On roads with street lighting"
+    },
+    "correct_answer": "D",
+    "explanation": "Repeater signs for a 30 mph limit are used only on roads with street lighting, as specified in the text.",
+    "topic": "Use of repeater signs for 30 mph limit",
+    "id": 38
+  },
+  {
+    "question": "What type of road are repeater signs for the national speed limit used on?",
+    "options": {
+      "A": "Roads with street lighting",
+      "B": "Motorways",
+      "C": "Rural roads",
+      "D": "Urban roads"
+    },
+    "correct_answer": "A",
+    "explanation": "Repeater signs for the national speed limit are used only on roads with street lighting, as indicated in the text.",
+    "topic": "Use of repeater signs for national speed limit",
+    "id": 39
+  },
+  {
+    "question": "What do road markings in conjunction with upright signs indicate?",
+    "options": {
+      "A": "Start of motorway",
+      "B": "Traffic-calming measures",
+      "C": "Start of a speed limit",
+      "D": "End of 20 mph zone"
+    },
+    "correct_answer": "D",
+    "explanation": "Road markings in conjunction with upright signs indicate the end of a 20 mph zone and the start of a 30 mph speed limit, as mentioned in the text.",
+    "topic": "Indication of speed limit with road markings",
+    "id": 40
+  },
+  {
+    "question": "What does a sign at the end of road works indicate to drivers?",
+    "options": {
+      "A": "The removal of speed limit signs",
+      "B": "The end of a 30 mph limit",
+      "C": "The presence of speed cameras",
+      "D": "The start of a variable speed limit"
+    },
+    "correct_answer": "D",
+    "explanation": "The sign at the end of road works indicates the start of a variable speed limit where enforcement cameras are in use.",
+    "topic": "Road Works and Variable Speed Limits",
+    "id": 41
+  },
+  {
+    "question": "In what situation does the national speed limit apply on a road?",
+    "options": {
+      "A": "When there are road works",
+      "B": "When there are temporary speed cameras",
+      "C": "When there is a 30 mph limit",
+      "D": "When there are no speed limit repeater signs"
+    },
+    "correct_answer": "D",
+    "explanation": "The national speed limit applies on a road when there are no speed limit repeater signs present.",
+    "topic": "National Speed Limit Application",
+    "id": 42
+  },
+  {
+    "question": "What does a sign near a bend indicate to drivers?",
+    "options": {
+      "A": "End of a variable speed limit",
+      "B": "Minimum permitted speed",
+      "C": "Maximum advised speed",
+      "D": "Presence of speed cameras"
+    },
+    "correct_answer": "C",
+    "explanation": "A sign near a bend indicates the maximum advised speed for drivers to navigate the bend safely.",
+    "topic": "Speed Advisory Signs",
+    "id": 43
+  },
+  {
+    "question": "What do two speed cameras on a road without speed limit repeater signs measure?",
+    "options": {
+      "A": "Minimum vehicle speed",
+      "B": "Average vehicle speed",
+      "C": "Maximum vehicle speed",
+      "D": "End of a variable speed limit"
+    },
+    "correct_answer": "B",
+    "explanation": "Two speed cameras on a road without speed limit repeater signs are used to measure the average speed of a vehicle between two points.",
+    "topic": "Speed Camera Measurement",
+    "id": 44
+  },
+  {
+    "question": "When does the minimum speed requirement not apply on a road?",
+    "options": {
+      "A": "When there are speed cameras",
+      "B": "When it is unsafe to comply",
+      "C": "When there are road works",
+      "D": "When the national speed limit applies"
+    },
+    "correct_answer": "B",
+    "explanation": "The minimum speed requirement does not apply on a road when it is impracticable or unsafe to comply.",
+    "topic": "Minimum Speed Requirement",
+    "id": 45
+  },
+  {
+    "question": "What type of signs are used on bridges with a clearance of less than 16 feet 6 inches?",
+    "options": {
+      "A": "Variable message signs",
+      "B": "Warning triangles",
+      "C": "Both A and B",
+      "D": "Regulatory roundels"
+    },
+    "correct_answer": "D",
+    "explanation": "Both regulatory roundels and warning triangles can be used on bridges with a clearance of less than 16 feet 6 inches.",
+    "topic": "Bridge Signs",
+    "id": 46
+  },
+  {
+    "question": "What happens when a variable message sign on a bridge is activated?",
+    "options": {
+      "A": "The sign turns off",
+      "B": "Two red lights flash",
+      "C": "A loud alarm sounds",
+      "D": "Four amber lights flash"
+    },
+    "correct_answer": "D",
+    "explanation": "When a variable message sign on a bridge is activated, four amber lights flash, with the top pair alternating with the bottom pair.",
+    "topic": "Bridge Signs",
+    "id": 47
+  },
+  {
+    "question": "Where are mandatory signs for overheight vehicles placed?",
+    "options": {
+      "A": "Only on the bridge",
+      "B": "On the bridge and at the side of the road",
+      "C": "Only at the side of the road",
+      "D": "On the vehicle itself"
+    },
+    "correct_answer": "B",
+    "explanation": "Mandatory signs for overheight vehicles are placed on the bridge and at the side of the road.",
+    "topic": "Regulatory Signs",
+    "id": 48
+  },
+  {
+    "question": "What units of measurement may some height restrictions still show?",
+    "options": {
+      "A": "Metric units only",
+      "B": "Imperial units only",
+      "C": "No units of measurement",
+      "D": "Both metric and imperial units"
+    },
+    "correct_answer": "D",
+    "explanation": "Some height restrictions may still show both metric and imperial units of measurement.",
+    "topic": "Regulatory Signs",
+    "id": 49
+  },
+  {
+    "question": "When will height restriction signs showing only imperial units be replaced?",
+    "options": {
+      "A": "When they are damaged",
+      "B": "When they reach the end of their life",
+      "C": "When they are unreadable",
+      "D": "When they are no longer needed"
+    },
+    "correct_answer": "B",
+    "explanation": "Height restriction signs showing only imperial units will be replaced when they reach the end of their life.",
+    "topic": "Regulatory Signs",
+    "id": 50
+  },
+  {
+    "question": "What does a low bridge sign indicate?",
+    "options": {
+      "A": "End of a side road",
+      "B": "Alternative route ahead",
+      "C": "Distance to the bridge",
+      "D": "Maximum headroom under a bridge"
+    },
+    "correct_answer": "D",
+    "explanation": "A low bridge sign indicates the maximum headroom under a bridge or other overhead obstruction.",
+    "topic": "Low Bridge Signs",
+    "id": 51
+  },
+  {
+    "question": "What do chord markings on a bridge indicate?",
+    "options": {
+      "A": "Alternative route ahead",
+      "B": "Maximum headroom under a bridge",
+      "C": "End of a side road",
+      "D": "Points with different headrooms"
+    },
+    "correct_answer": "D",
+    "explanation": "Chord markings on a bridge indicate the points between which different headrooms over different parts of an arch bridge are available.",
+    "topic": "Chord Markings on Bridges",
+    "id": 52
+  },
+  {
+    "question": "What should drivers of all vehicles do when encountering high vehicles on a bridge?",
+    "options": {
+      "A": "Keep to the left-hand side of the road",
+      "B": "Give way in the middle of the road",
+      "C": "Cross the road markings",
+      "D": "Pass oncoming vehicles in safety"
+    },
+    "correct_answer": "B",
+    "explanation": "Drivers of all vehicles should give way to oncoming high vehicles in the middle of the road when there is insufficient room to pass.",
+    "topic": "Driving Etiquette on Bridges",
+    "id": 53
+  },
+  {
+    "question": "What may be added to arches or beams of a bridge to make it more conspicuous?",
+    "options": {
+      "A": "Warning triangles",
+      "B": "Black and yellow bands",
+      "C": "Road markings",
+      "D": "Distance plates"
+    },
+    "correct_answer": "B",
+    "explanation": "Black and yellow bands may be added to the arches or beams of a bridge to make it more conspicuous.",
+    "topic": "Conspicuity of Bridges",
+    "id": 54
+  },
+  {
+    "question": "When is a plate added below the warning triangle on a bridge?",
+    "options": {
+      "A": "To indicate an alternative route",
+      "B": "To show the distance to the bridge",
+      "C": "To guide high vehicles through the highest part of the arch",
+      "D": "To indicate reduced headroom due to an overhanging structure"
+    },
+    "correct_answer": "D",
+    "explanation": "A plate may be added below the warning triangle on a bridge to indicate reduced headroom over a road due to an overhanging building or structure.",
+    "topic": "Warning Triangle Plates",
+    "id": 55
+  },
+  {
+    "question": "What may be incorporated into directional signs to indicate a low bridge ahead?",
+    "options": {
+      "A": "Warning triangles",
+      "B": "Roundels",
+      "C": "Both roundels and warning triangles",
+      "D": "Neither roundels nor warning triangles"
+    },
+    "correct_answer": "B",
+    "explanation": "The excerpt mentions that roundels or warning triangles may be incorporated into directional signs to indicate a low bridge ahead.",
+    "topic": "Low Bridge Signs",
+    "id": 56
+  },
+  {
+    "question": "What do bells suspended over the road at a railway crossing provide?",
+    "options": {
+      "A": "Audible warning",
+      "B": "Visual warning",
+      "C": "Tactile warning",
+      "D": "No warning"
+    },
+    "correct_answer": "A",
+    "explanation": "The bells suspended over the road at a railway crossing provide an audible warning to drivers of vehicles that exceed the safe height beneath electrified overhead cables.",
+    "topic": "Level Crossing Signs and Signals",
+    "id": 57
+  },
+  {
+    "question": "What must drivers of large or slow vehicles do at automatic level crossings?",
+    "options": {
+      "A": "Phone before and after crossing",
+      "B": "Stop and wait",
+      "C": "Ignore the warning signals",
+      "D": "Increase speed"
+    },
+    "correct_answer": "A",
+    "explanation": "At automatic level crossings, drivers of large or slow vehicles must phone before and after crossing.",
+    "topic": "Level Crossing Signs and Signals",
+    "id": 58
+  },
+  {
+    "question": "What do roundels incorporated into road works signs indicate?",
+    "options": {
+      "A": "Speed limit",
+      "B": "Parking restrictions",
+      "C": "Road closure",
+      "D": "Temporary height restrictions"
+    },
+    "correct_answer": "D",
+    "explanation": "Roundels incorporated into road works signs indicate temporary height restrictions.",
+    "topic": "Low Bridge Signs",
+    "id": 59
+  },
+  {
+    "question": "What may a plate used with electrified overhead cable level crossing signs include?",
+    "options": {
+      "A": "A letter",
+      "B": "A number",
+      "C": "An arrow",
+      "D": "A shape"
+    },
+    "correct_answer": "C",
+    "explanation": "A plate used with electrified overhead cable level crossing signs may include an arrow to indicate the direction of the level crossing.",
+    "topic": "Level Crossing Signs and Signals",
+    "id": 60
+  },
+  {
+    "question": "What do flashing red road traffic signals at some crossings indicate?",
+    "options": {
+      "A": "Go",
+      "B": "Slow down",
+      "C": "Proceed with caution",
+      "D": "Stop"
+    },
+    "correct_answer": "D",
+    "explanation": "Flashing red road traffic signals at some crossings indicate STOP.",
+    "topic": "Traffic signals at crossings",
+    "id": 61
+  },
+  {
+    "question": "What should pedestrians do when they see flashing pedestrian signals at a level crossing?",
+    "options": {
+      "A": "Cross quickly",
+      "B": "Ignore the signals",
+      "C": "Run across",
+      "D": "Stop and wait"
+    },
+    "correct_answer": "D",
+    "explanation": "Pedestrians should stop and wait when they see flashing pedestrian signals at a level crossing.",
+    "topic": "Pedestrian signals at crossings",
+    "id": 62
+  },
+  {
+    "question": "What should you do if the red lights at a crossing flash for more than three minutes without a train arriving?",
+    "options": {
+      "A": "Phone the signal operator",
+      "B": "Continue driving",
+      "C": "Speed up",
+      "D": "Ignore the lights"
+    },
+    "correct_answer": "A",
+    "explanation": "If the red lights at a crossing flash for more than three minutes without a train arriving, you should phone the signal operator.",
+    "topic": "Traffic signals at crossings",
+    "id": 63
+  },
+  {
+    "question": "What should you do if your vehicle breaks down or stalls on a crossing?",
+    "options": {
+      "A": "Stay in the vehicle",
+      "B": "Phone the signal operator",
+      "C": "Get yourself and passengers out of the vehicle",
+      "D": "Try to fix the vehicle on the crossing"
+    },
+    "correct_answer": "C",
+    "explanation": "If your vehicle breaks down or stalls on a crossing, you should get yourself and your passengers out of the vehicle as soon as possible.",
+    "topic": "Vehicle breakdown on crossings",
+    "id": 64
+  },
+  {
+    "question": "What should you do when the barriers rise at a crossing?",
+    "options": {
+      "A": "Wait until the signals go out",
+      "B": "Proceed immediately",
+      "C": "Ignore the barriers",
+      "D": "Drive around the barriers"
+    },
+    "correct_answer": "A",
+    "explanation": "When the barriers rise at a crossing, do not proceed until the signals go out.",
+    "topic": "Barriers at crossings",
+    "id": 65
+  },
+  {
+    "question": "What do yellow box markings at a level crossing indicate?",
+    "options": {
+      "A": "Area where vehicles must stop",
+      "B": "Area where vehicles must park",
+      "C": "Area where vehicles must speed up",
+      "D": "Area where vehicles must keep clear"
+    },
+    "correct_answer": "D",
+    "explanation": "Yellow box markings at a level crossing indicate an area of carriageway that must be kept clear.",
+    "topic": "Yellow box markings at level crossings",
+    "id": 66
+  },
+  {
+    "question": "What do amber lights and audible warnings followed by flashing red lights at a level crossing indicate?",
+    "options": {
+      "A": "Proceed with caution",
+      "B": "Speed up",
+      "C": "Stop",
+      "D": "Change lanes"
+    },
+    "correct_answer": "C",
+    "explanation": "Amber lights and audible warnings followed by flashing red lights at a level crossing indicate that a train is approaching and that the barriers are about to come down. Drivers must STOP.",
+    "topic": "Amber lights and red lights at level crossings",
+    "id": 67
+  },
+  {
+    "question": "What should drivers of large vehicles do near a level crossing while contacting the signal operator?",
+    "options": {
+      "A": "Ignore the signals",
+      "B": "Speed up through the crossing",
+      "C": "Park within the yellow box",
+      "D": "Stop on the tracks"
+    },
+    "correct_answer": "C",
+    "explanation": "Drivers of large vehicles should park within the box near a level crossing while contacting the signal operator.",
+    "topic": "Parking for large vehicles near level crossings",
+    "id": 68
+  },
+  {
+    "question": "What happens if another train is approaching while the barriers are down at a level crossing?",
+    "options": {
+      "A": "The barriers will stay down",
+      "B": "The lights will stop flashing",
+      "C": "The barriers will go up",
+      "D": "The sound will change"
+    },
+    "correct_answer": "A",
+    "explanation": "If another train is approaching while the barriers are down at a level crossing, the barriers will stay down, the lights will continue to flash, and the sound may change.",
+    "topic": "Multiple trains approaching at level crossings",
+    "id": 69
+  },
+  {
+    "question": "What should drivers do when the red lights are flashing at a level crossing?",
+    "options": {
+      "A": "Stop",
+      "B": "Proceed with caution",
+      "C": "Speed up to clear the crossing",
+      "D": "Change lanes"
+    },
+    "correct_answer": "A",
+    "explanation": "When the red lights are flashing at a level crossing, drivers must STOP.",
+    "topic": "Red lights flashing at level crossings",
+    "id": 70
+  },
+  {
+    "question": "What type of level crossings have gates or barriers but no attendant?",
+    "options": {
+      "A": "Level crossings with miniature warning lights",
+      "B": "Automatic open level crossings",
+      "C": "Open level crossings",
+      "D": "Level crossings with St Andrew's cross"
+    },
+    "correct_answer": "A",
+    "explanation": "The text mentions that level crossings with miniature warning lights have gates or barriers but no attendant.",
+    "topic": "Types of level crossings",
+    "id": 71
+  },
+  {
+    "question": "What do the miniature red and green lights at level crossings with miniature warning lights indicate?",
+    "options": {
+      "A": "Clear and go",
+      "B": "Go and stop",
+      "C": "Stop and clear",
+      "D": "Stop and go"
+    },
+    "correct_answer": "C",
+    "explanation": "The text states that the miniature red light means stop and the green light means clear at level crossings with miniature warning lights.",
+    "topic": "Operation of miniature warning lights",
+    "id": 72
+  },
+  {
+    "question": "What should you do at automatic level crossings when the traffic light signals show?",
+    "options": {
+      "A": "Look out for trains",
+      "B": "Go",
+      "C": "Slow down",
+      "D": "Stop"
+    },
+    "correct_answer": "D",
+    "explanation": "At automatic level crossings, you must always stop when the traffic light signals show according to the text.",
+    "topic": "Automatic level crossings",
+    "id": 73
+  },
+  {
+    "question": "What should you do at level crossings with 'give way' signs?",
+    "options": {
+      "A": "Slow down",
+      "B": "Go",
+      "C": "Stop",
+      "D": "Look out for trains"
+    },
+    "correct_answer": "C",
+    "explanation": "At level crossings with 'give way' signs, you should always stop and look out for trains as mentioned in the text.",
+    "topic": "Level crossings with 'give way' signs",
+    "id": 74
+  },
+  {
+    "question": "What will happen at automatic open level crossings if another train is approaching?",
+    "options": {
+      "A": "The gates will open wider",
+      "B": "The lights will turn off",
+      "C": "The barriers will close automatically",
+      "D": "The sound of the warnings will change"
+    },
+    "correct_answer": "D",
+    "explanation": "The text states that at automatic open level crossings, the sound of the warnings will change if another train is approaching.",
+    "topic": "Automatic open level crossings",
+    "id": 75
+  },
+  {
+    "question": "What does the 'swept path' refer to in relation to trams?",
+    "options": {
+      "A": "The location of tram signals",
+      "B": "The area where pedestrians can walk safely",
+      "C": "The designated parking spots for trams",
+      "D": "The part of the road used by trams"
+    },
+    "correct_answer": "D",
+    "explanation": "The 'swept path' refers to the part of the road used by trams, which may have a different colour or texture.",
+    "topic": "Tram signs and road markings",
+    "id": 76
+  },
+  {
+    "question": "What does the tram sign with the 'No entry except bus' symbol indicate?",
+    "options": {
+      "A": "A taxi stand",
+      "B": "A pedestrian crossing",
+      "C": "A tram-only route",
+      "D": "A bicycle lane"
+    },
+    "correct_answer": "C",
+    "explanation": "The tram sign with the 'No entry except bus' symbol indicates a tram-only route where other vehicles are not allowed.",
+    "topic": "Tram signs and road markings",
+    "id": 77
+  },
+  {
+    "question": "What does the 'give way' sign and tram plate indicate to drivers?",
+    "options": {
+      "A": "Stop immediately",
+      "B": "Proceed with caution",
+      "C": "Trams have the right of way",
+      "D": "Pedestrians crossing ahead"
+    },
+    "correct_answer": "B",
+    "explanation": "The 'give way' sign and tram plate indicate that drivers should proceed with caution, especially at level crossings without barriers or gates.",
+    "topic": "Tram signs and road markings",
+    "id": 78
+  },
+  {
+    "question": "What do diamond-shaped speed limit signs indicate for tram drivers?",
+    "options": {
+      "A": "The presence of a tram depot nearby",
+      "B": "The distance to the next tram stop",
+      "C": "The maximum speed allowed in kilometres per hour",
+      "D": "The direction of tram travel"
+    },
+    "correct_answer": "C",
+    "explanation": "Diamond-shaped speed limit signs indicate the maximum speed allowed in kilometres per hour for tram drivers.",
+    "topic": "Tram signs and road markings",
+    "id": 79
+  },
+  {
+    "question": "Where should tram drivers stop at traffic signals?",
+    "options": {
+      "A": "Before the pedestrian crossing",
+      "B": "Anywhere on the road",
+      "C": "After the intersection",
+      "D": "At the designated stop line for trams"
+    },
+    "correct_answer": "D",
+    "explanation": "Tram drivers should stop at the designated stop line for trams at traffic signals, especially when that part of the road is not used by other vehicles.",
+    "topic": "Tram signs and road markings",
+    "id": 80
+  },
+  {
+    "question": "What type of vehicles are allowed in a bus lane with the 'local' symbol?",
+    "options": {
+      "A": "Vehicles designed to carry 10 or more people",
+      "B": "Local buses and taxis",
+      "C": "Only local buses",
+      "D": "All vehicles"
+    },
+    "correct_answer": "C",
+    "explanation": "The 'local' symbol on a bus lane indicates that only local buses can use that lane.",
+    "topic": "Bus Lane Regulations",
+    "id": 81
+  },
+  {
+    "question": "What does the absence of the word 'local' on a bus lane symbol indicate?",
+    "options": {
+      "A": "Only local buses",
+      "B": "Vehicles designed to carry 10 or more people",
+      "C": "Local buses and taxis",
+      "D": "All vehicles"
+    },
+    "correct_answer": "B",
+    "explanation": "If the word 'local' is not shown on a bus lane symbol, it means the lane can be used by local buses and vehicles designed to carry 10 or more people.",
+    "topic": "Bus Lane Regulations",
+    "id": 82
+  },
+  {
+    "question": "When can other vehicles enter and stop in a bus lane?",
+    "options": {
+      "A": "Anytime",
+      "B": "When loading and unloading",
+      "C": "Only during off-peak hours",
+      "D": "Never"
+    },
+    "correct_answer": "B",
+    "explanation": "Other vehicles can enter and stop in a bus lane to load and unload unless signs indicate otherwise.",
+    "topic": "Bus Lane Regulations",
+    "id": 83
+  },
+  {
+    "question": "What vehicles can use a near-side with-flow bus lane?",
+    "options": {
+      "A": "Solo motorcycles and taxis",
+      "B": "Solo motorcycles and pedal cycles",
+      "C": "Pedal cycles and authorised vehicles",
+      "D": "Pedal cycles and taxis"
+    },
+    "correct_answer": "B",
+    "explanation": "A near-side with-flow bus lane can be used by solo motorcycles and pedal cycles.",
+    "topic": "Bus Lane Types",
+    "id": 84
+  },
+  {
+    "question": "What does the 'Hours of operation' sign on a bus lane indicate?",
+    "options": {
+      "A": "Speed limit",
+      "B": "Lane closure times",
+      "C": "Parking restrictions",
+      "D": "When the bus lane is in use"
+    },
+    "correct_answer": "D",
+    "explanation": "The 'Hours of operation' sign on a bus lane shows the times when the lane is in operation.",
+    "topic": "Bus Lane Regulations",
+    "id": 85
+  },
+  {
+    "question": "What type of vehicles can use the bus lane according to the excerpt?",
+    "options": {
+      "A": "Pedestrians",
+      "B": "Solo motorcycles, pedal cycles, and taxis",
+      "C": "Cars",
+      "D": "Trucks"
+    },
+    "correct_answer": "B",
+    "explanation": "The excerpt mentions that the bus lane can be used by solo motorcycles, pedal cycles, and taxis.",
+    "topic": "Types of vehicles allowed in the bus lane",
+    "id": 86
+  },
+  {
+    "question": "What do road markings indicating the start of a bus lane show?",
+    "options": {
+      "A": "End of the bus lane",
+      "B": "Speed limit for buses",
+      "C": "No entry for any vehicles",
+      "D": "Route for buses and other permitted vehicles"
+    },
+    "correct_answer": "D",
+    "explanation": "The road markings indicate the start of a route for buses and other permitted vehicles.",
+    "topic": "Road markings for bus lanes",
+    "id": 87
+  },
+  {
+    "question": "What does a bank holiday affect in terms of bus lane restrictions?",
+    "options": {
+      "A": "It lifts all restrictions",
+      "B": "It applies the restrictions normally",
+      "C": "It has no effect on the restrictions",
+      "D": "It extends the restrictions"
+    },
+    "correct_answer": "B",
+    "explanation": "The excerpt states that if a bank holiday falls on a day with restrictions, the restrictions apply normally.",
+    "topic": "Impact of bank holidays on bus lane restrictions",
+    "id": 88
+  },
+  {
+    "question": "What does a contraflow bus lane with upward arrows indicate?",
+    "options": {
+      "A": "Number of traffic lanes available",
+      "B": "One-way traffic for buses only",
+      "C": "No entry for buses",
+      "D": "Parking area for buses"
+    },
+    "correct_answer": "A",
+    "explanation": "The upward arrows in a contraflow bus lane indicate the number of traffic lanes available.",
+    "topic": "Contraflow bus lane markings",
+    "id": 89
+  },
+  {
+    "question": "What is the purpose of a bus gate according to the excerpt?",
+    "options": {
+      "A": "To allow buses to turn around",
+      "B": "To signal the end of a bus lane",
+      "C": "To restrict access to buses only",
+      "D": "To remind pedestrians to look out for buses"
+    },
+    "correct_answer": "C",
+    "explanation": "A bus gate is a short length of bus-only street, restricting access to buses only.",
+    "topic": "Bus gate function",
+    "id": 90
+  },
+  {
+    "question": "What does the broad continuous yellow line at the edge of the carriageway indicate?",
+    "options": {
+      "A": "Other vehicles are prohibited from stopping",
+      "B": "Vehicles can stop temporarily",
+      "C": "It is a bus stop",
+      "D": "It is a lay-by for tourist buses"
+    },
+    "correct_answer": "A",
+    "explanation": "The broad continuous yellow line at the edge of the carriageway means that other vehicles are prohibited from stopping.",
+    "topic": "Road markings",
+    "id": 91
+  },
+  {
+    "question": "What is the purpose of plates used to indicate exemptions for buses, taxis, and pedal cycles?",
+    "options": {
+      "A": "To indicate the speed limit",
+      "B": "To show the bus stop location",
+      "C": "To exempt certain vehicles from prohibitions",
+      "D": "To allow vehicles to park"
+    },
+    "correct_answer": "C",
+    "explanation": "Plates used to indicate exemptions for buses, taxis, and pedal cycles are used to exempt certain vehicles from prohibitions such as turn left ahead and no left turn.",
+    "topic": "Road signs",
+    "id": 92
+  },
+  {
+    "question": "When are other vehicles prohibited from stopping at a stopping place for buses?",
+    "options": {
+      "A": "At all times",
+      "B": "Only during peak hours",
+      "C": "On weekends only",
+      "D": "During the times shown"
+    },
+    "correct_answer": "D",
+    "explanation": "Other vehicles are prohibited from stopping at a stopping place for buses during the times shown.",
+    "topic": "Traffic regulations",
+    "id": 93
+  },
+  {
+    "question": "What is the purpose of an entrance to a bus station, depot, or garage?",
+    "options": {
+      "A": "To allow buses to take photographs",
+      "B": "To provide access for buses, taxis, and pedal cycles",
+      "C": "To show the speed limit",
+      "D": "To indicate a lay-by for buses"
+    },
+    "correct_answer": "B",
+    "explanation": "The entrance to a bus station, depot, or garage is used to provide access for buses, taxis, and pedal cycles.",
+    "topic": "Transport facilities",
+    "id": 94
+  },
+  {
+    "question": "What type of vehicles are exempted from prohibitions by circular signs when mounted in combination with traffic signals?",
+    "options": {
+      "A": "Buses, taxis, and pedal cycles",
+      "B": "Local vehicles",
+      "C": "Tourist buses",
+      "D": "All vehicles"
+    },
+    "correct_answer": "A",
+    "explanation": "Circular signs when mounted in combination with traffic signals exempt buses, taxis, and pedal cycles from prohibitions.",
+    "topic": "Traffic exemptions",
+    "id": 95
+  },
+  {
+    "question": "What type of road marking indicates the end of a cycle lane, track, or route?",
+    "options": {
+      "A": "End of cycle lane, track or route",
+      "B": "Mandatory contraflow pedal cycle lane",
+      "C": "Road markings for an advisory pedal cycle lane",
+      "D": "Reminder to pedestrians to look out for pedal cycles approaching from the right"
+    },
+    "correct_answer": "A",
+    "explanation": "The road marking 'End of cycle lane, track or route' indicates the end of a cycle lane, track, or route for pedal cycles.",
+    "topic": "Road Markings",
+    "id": 96
+  },
+  {
+    "question": "What does a broken line on the carriageway indicate in relation to pedal cycles?",
+    "options": {
+      "A": "Crossing road at junction ahead",
+      "B": "Reminder to pedestrians to look out for pedal cycles approaching from the right",
+      "C": "Road markings for an advisory pedal cycle lane",
+      "D": "Mandatory contraflow pedal cycle lane"
+    },
+    "correct_answer": "A",
+    "explanation": "A broken line on the carriageway may indicate crossing road at junction ahead for pedal cycles.",
+    "topic": "Road Markings",
+    "id": 97
+  },
+  {
+    "question": "When should vehicles not be driven or parked in a with-flow pedal cycle lane?",
+    "options": {
+      "A": "Only during weekends",
+      "B": "At all times",
+      "C": "Only during peak hours",
+      "D": "During its times of operation"
+    },
+    "correct_answer": "D",
+    "explanation": "Vehicles must not be driven or parked in a with-flow pedal cycle lane during its times of operation.",
+    "topic": "Pedal Cycle Lane Regulations",
+    "id": 98
+  },
+  {
+    "question": "What may be shown on the main carriageway to indicate the hours of operation for pedal cycles?",
+    "options": {
+      "A": "Hours of operation for pedal cycles",
+      "B": "Road markings for an advisory pedal cycle lane",
+      "C": "Mandatory contraflow pedal cycle lane",
+      "D": "End of cycle lane, track or route"
+    },
+    "correct_answer": "A",
+    "explanation": "The hours of operation for pedal cycles may be shown on the main carriageway.",
+    "topic": "Road Markings",
+    "id": 99
+  },
+  {
+    "question": "What do the upward arrows indicate in relation to a contraflow pedal cycle lane?",
+    "options": {
+      "A": "Reminder to pedestrians to look out for pedal cycles approaching from the right",
+      "B": "Number of traffic lanes available",
+      "C": "End of cycle lane, track or route",
+      "D": "Road markings for an advisory pedal cycle lane"
+    },
+    "correct_answer": "B",
+    "explanation": "The upward arrows indicate the number of traffic lanes available in a contraflow pedal cycle lane.",
+    "topic": "Road Markings",
+    "id": 100
+  }
+]

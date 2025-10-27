@@ -1,0 +1,114 @@
+[
+  {
+    "id": "QETOUQ",
+    "file_id": "tema15_032",
+    "topic": "Conocimiento del automóvil II",
+    "question": {
+      "es": "¿Está permitido conducir un vehículo que produce un nivel de ruido superior al permitido por la normativa?",
+      "ru": "Разрешено ли управлять транспортным средством, если уровень шума превышает установленные нормы?"
+    },
+    "options": {
+      "a": {
+        "es": "No, está prohibido conducirlo en esas condiciones.",
+        "ru": "Нет, управление в таких условиях запрещено."
+      },
+      "b": {
+        "es": "Sí, si el exceso de ruido se debe a una avería temporal.",
+        "ru": "Да, если превышение шума вызвано временной неисправностью."
+      },
+      "c": {
+        "es": "Sí, siempre que el ruido no cause molestias a otros.",
+        "ru": "Да, если шум не доставляет неудобств другим."
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "es": "Conducir un vehículo que supera los límites de ruido autorizados está prohibido para evitar molestias y daños a la salud pública.",
+      "ru": "Управление транспортным средством с уровнем шума выше разрешённого запрещено, чтобы избежать дискомфорта и вреда для здоровья окружающих."
+    }
+  },
+  {
+    "id": "QGAWH8",
+    "file_id": "tema18_005",
+    "topic": "Viajes, civismo vial y accidentes",
+    "question": {
+      "ru": "В каких ситуациях молодые водители чаще всего совершают опасные манёвры?",
+      "es": "¿En qué situaciones los jóvenes conductores suelen realizar maniobras peligrosas con mayor frecuencia?"
+    },
+    "options": {
+      "a": {
+        "ru": "Когда они находятся в компании друзей.",
+        "es": "Cuando están en compañía de amigos."
+      },
+      "b": {
+        "ru": "Когда они едут одни.",
+        "es": "Cuando conducen solos."
+      },
+      "c": {
+        "ru": "И в одиночестве, и в компании друзей.",
+        "es": "Tanto cuando conducen solos como cuando están con amigos."
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "ru": "Молодые водители чаще рискуют, когда находятся в компании, из-за желания произвести впечатление на друзей.",
+      "es": "Los jóvenes conductores suelen arriesgar más cuando están en compañía, debido al deseo de impresionar a sus amigos."
+    }
+  },
+  {
+    "id": "QEIJMV",
+    "file_id": "tema18_011",
+    "topic": "Viajes, civismo vial y accidentes",
+    "question": {
+      "es": "¿Cuál es el tipo de accidente más común causado por el uso del teléfono móvil?",
+      "ru": "Какой вид ДТП чаще всего происходит из-за использования мобильного телефона?"
+    },
+    "options": {
+      "a": {
+        "es": "Colisión trasera.",
+        "ru": "Наезд сзади."
+      },
+      "b": {
+        "es": "Salida de la carretera.",
+        "ru": "Выезд с проезжей части."
+      },
+      "c": {
+        "es": "Choque lateral frontal.",
+        "ru": "Фронтально-боковое столкновение."
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "es": "El uso del teléfono móvil distrae al conductor, lo que aumenta la probabilidad de no reaccionar a tiempo y causar un choque trasero.",
+      "ru": "Использование мобильного телефона отвлекает водителя, из-за чего он может не успеть вовремя среагировать, что чаще всего приводит к наезду сзади."
+    }
+  },
+  {
+    "id": "Q6Q84X",
+    "file_id": "tema15_026",
+    "topic": "Conocimiento del automóvil II",
+    "question": {
+      "ru": "Что может означать отсутствие сигнала индикатора давления масла на приборной панели?",
+      "es": "¿Qué puede indicar la ausencia de señal del testigo de presión de aceite en el tablero?"
+    },
+    "options": {
+      "a": {
+        "ru": "Это признак неисправности, так как давление масла может быть низким.",
+        "es": "Es un indicio de avería, ya que la presión de aceite puede ser baja."
+      },
+      "b": {
+        "ru": "Это нормально, если генератор работает и заряжает аккумулятор.",
+        "es": "Es normal si el generador funciona y carga la batería."
+      },
+      "c": {
+        "ru": "Это означает, что давление масла в норме и индикатор не нужен.",
+        "es": "Significa que la presión de aceite es correcta y no se necesita el testigo."
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "ru": "Если индикатор давления масла не загорается, это может указывать на неисправность системы смазки, что опасно для двигателя.",
+      "es": "Si el testigo de presión de aceite no se enciende, puede indicar una avería en el sistema de lubricación, lo cual es peligroso para el motor."
+    }
+  }
+]

@@ -1,0 +1,860 @@
+[
+  {
+    "id": "1",
+    "file_id": "",
+    "video": "",
+    "topic": "",
+    "question": {
+      "en": "What should you do before making a U-turn?",
+      "ur": "U-тёрн کرنے سے پہلے آپ کیا کرنا چاہئے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Give an arm signal as well as using your indicators",
+        "ur": "ایک بازو کی اشارہ دیں اور اپنے اشارے استعمال کریں"
+      },
+      "b": {
+        "en": "Select a higher gear than normal",
+        "ur": "عام سے زیادہ گیئر منتخب کریں"
+      },
+      "c": {
+        "en": "Look over your shoulder for a final check",
+        "ur": "آخری چیک کے لئے اپنے کندھے پر دیکھیں"
+      },
+      "d": {
+        "en": "Check road markings to see that U-turns are permitted",
+        "ur": "راستے کی نشانیاں چیک کریں کہ U-ٹرن کی اجازت ہے"
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "en": "Before making a U-turn, it is important to look over your shoulder for a final check to ensure there are no vehicles or obstacles in your way.",
+      "ur": "U-ٹرن کرنے سے پہلے، آپ کو آخری چیک کے لئے اپنے کندھے پر دیکھنا ضروری ہے تاکہ یقینی بنایا جائے کہ آپ کے راستے میں کوئی گاڑی یا رکاوٹ نہیں ہے۔"
+    }
+  },
+  {
+    "id": "2",
+    "file_id": "temaXX_002_p1_img1",
+    "video": "",
+    "topic": "",
+    "question": {
+      "en": "What should you do as you approach this bridge?",
+      "ur": "آپ اس پل کے قریب پہنچتے ہوئے کیا کرنا چاہئے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Slow down",
+        "ur": "آہستہ چلائیں"
+      },
+      "b": {
+        "en": "Keep to 30 mph",
+        "ur": "30 میل فی گھنٹہ تک رہیں"
+      },
+      "c": {
+        "en": "Change gear",
+        "ur": "گیئر تبدیل کریں"
+      },
+      "d": {
+        "en": "Move to the right",
+        "ur": "دائیں طرف منتقل ہوں"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "As you approach a bridge, it is important to slow down to ensure you have better control of your vehicle and can react to any unexpected situations that may arise.",
+      "ur": "جب آپ ایک پل کے قریب پہنچتے ہیں، تو اہم ہے کہ آپ آہستہ چلائیں تاکہ آپ کے گاڑی پر بہتر کنٹرول ہو اور آپ کسی بھی غیر متوقع صورتحال کا جواب دے سکیں۔"
+    }
+  },
+  {
+    "id": "5",
+    "file_id": "",
+    "video": "",
+    "topic": "",
+    "question": {
+      "en": "What should you do if your mobile phone rings while you're driving or riding?",
+      "ur": "اگر آپ گاڑی چلاتے ہوئے یا سوار ہوتے ہوئے آپ کے موبائل فون بجنے لگے تو آپ کیا کریں؟"
+    },
+    "options": {
+      "a": {
+        "en": "Stop immediately",
+        "ur": "فوراً رک جائیں"
+      },
+      "b": {
+        "en": "Answer it immediately",
+        "ur": "فوراً اسے جواب دیں"
+      },
+      "c": {
+        "en": "Leave it until you have stopped in a safe place",
+        "ur": "اسے چھوڑ دیں جب تک آپ ایک محفوظ جگہ پر رک جائیں"
+      },
+      "d": {
+        "en": "Pull up at the nearest kerb",
+        "ur": "نزدیک ترین کرب پر رک جائیں"
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "en": "It is safest to leave the phone until you have stopped in a safe place to avoid distractions while driving.",
+      "ur": "گاڑی چلاتے وقت تشویشات سے بچنے کے لئے بہتر ہے کہ آپ فون کو محفوظ جگہ پر رک کر چلنے کے بعد ہی دیکھیں۔"
+    }
+  },
+  {
+    "id": "6",
+    "file_id": "temaXX_003_p1_img1",
+    "video": "",
+    "topic": "",
+    "question": {
+      "en": "Why are these yellow lines painted across the road?",
+      "ur": "یہ سڑک پر کیوں پیلی لائنیں پینٹ کی گئی ہیں؟"
+    },
+    "options": {
+      "a": {
+        "en": "To tell you the distance to the roundabout",
+        "ur": "گول چوراہے تک فاصلہ بتانے کے لئے"
+      },
+      "b": {
+        "en": "To make you aware of your speed",
+        "ur": "آپ کو آپ کی رفتار کی آگاہی دینے کے لئے"
+      },
+      "c": {
+        "en": "To help you keep the correct separation distance",
+        "ur": "آپ کو صحیح فاصلہ برقرار رکھنے میں مدد کرنے کے لئے"
+      },
+      "d": {
+        "en": "To help you choose the correct lane",
+        "ur": "آپ کو صحیح لین منتخب کرنے میں مدد کرنے کے لئے"
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "en": "Yellow lines across the road are typically used to help drivers maintain the correct separation distance between vehicles.",
+      "ur": "سڑک پر پیلی لائنیں عموماً گاڑیوں کے درمیان صحیح فاصلہ برقرار رکھنے میں ڈرائیورز کی مدد کرنے کے لئے استعمال ہوتی ہیں۔"
+    }
+  },
+  {
+    "id": "3",
+    "file_id": "",
+    "video": "",
+    "topic": "",
+    "question": {
+      "en": "Where should you avoid overtaking?",
+      "ur": "آپ کہاں سے اوورٹیکنگ سے بچنا چاہئے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Approaching a dip in the road",
+        "ur": "راستے میں ڈبک پر پہنچتے ہوئے"
+      },
+      "b": {
+        "en": "On a dual carriageway",
+        "ur": "ڈیول کاریاگوے پر"
+      },
+      "c": {
+        "en": "In a one-way street",
+        "ur": "ایک راستے کی گلی میں"
+      },
+      "d": {
+        "en": "Just after a bend",
+        "ur": "ٹیڑھے کے بعد فوراً"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should avoid overtaking when approaching a dip in the road as visibility may be limited and it can be dangerous.",
+      "ur": "آپ کو راستے میں ڈبک پر پہنچتے ہوئے اوورٹیکنگ سے بچنا چاہئے کیونکہ دیکھنے کی صلاحیت محدود ہوسکتی ہے اور یہ خطرناک ہوسکتا ہے۔"
+    }
+  },
+  {
+    "id": "4",
+    "file_id": "temaXX_002_p1_img1",
+    "video": "",
+    "topic": "",
+    "question": {
+      "en": "What does this curved arrow road marking mean?",
+      "ur": "اس موڑے ہوئے تیر روڈ مارکنگ کا کیا مطلب ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Heavy vehicles should take the next road on the left to avoid a weight limit",
+        "ur": "بھاری گاڑیاں اگلے چھوٹے راستے پر جانا چاہئے تاکہ وزن کی حد سے بچا جا سکے"
+      },
+      "b": {
+        "en": "The road ahead has a camber to the left",
+        "ur": "آگے راستے میں بایاں طرف کی چھت ہے"
+      },
+      "c": {
+        "en": "Overtaking traffic should move back to the left",
+        "ur": "اوورٹیکنگ ٹریفک کو بائیں طرف واپس جانا چاہئے"
+      },
+      "d": {
+        "en": "The road ahead bends to the left",
+        "ur": "آگے راستے میں بائیں طرف موڑ ہے"
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "en": "The curved arrow road marking indicates that overtaking traffic should move back to the left to ensure safe driving conditions.",
+      "ur": "موڑے ہوئے تیر روڈ مارکنگ یہ ظاہر کرتی ہے کہ اوورٹیکنگ ٹریفک کو محفوظ ڈرائیونگ حالات کی یقینی بنانے کے لئے بائیں طرف واپس جانا چاہئے۔"
+    }
+  },
+  {
+    "id": "13",
+    "file_id": "",
+    "video": "",
+    "topic": "",
+    "question": {
+      "en": "You're on a long motorway journey. What should you do if you start to feel sleepy?",
+      "ur": "آپ ایک لمبی موٹروے کی سفر پر ہیں۔ اگر آپ کو نیند آنے لگے تو آپ کیا کریں؟"
+    },
+    "options": {
+      "a": {
+        "en": "Drive faster to complete your journey sooner",
+        "ur": "اپنی سفر جلد مکمل کرنے کے لئے تیز چلائیں"
+      },
+      "b": {
+        "en": "Leave the motorway and stop in a safe place",
+        "ur": "موٹروے چھوڑ کر ایک محفوظ جگہ پر رکیں"
+      },
+      "c": {
+        "en": "Play some loud music",
+        "ur": "کچھ بلند آواز کی موسیقی بجائیں"
+      },
+      "d": {
+        "en": "Stop on the hard shoulder for a rest",
+        "ur": "ہارڈ شولڈر پر رک کر آرام کریں"
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "en": "If you start to feel sleepy while driving, it is important to leave the motorway and stop in a safe place to rest. Driving faster or playing loud music are not safe solutions to drowsiness while driving.",
+      "ur": "اگر آپ گاڑی چلاتے ہوئے نیند آنے لگیں تو اہم ہے کہ آپ موٹروے چھوڑ کر ایک محفوظ جگہ پر رک جائیں تاکہ آرام کر سکیں۔ تیز چلانا یا بلند آواز کی موسیقی بجانا گاڑی چلاتے وقت نیند کے خلاف محفوظ حل نہیں ہیں۔"
+    }
+  },
+  {
+    "id": "14",
+    "file_id": "",
+    "video": "",
+    "topic": "",
+    "question": {
+      "en": "Why should you switch your headlights on when it first starts to get dark?",
+      "ur": "جب رات کو دھنکنے لگتی ہے تو آپ کیوں ہیڈ لائٹس چالو کرنا چاہئے؟"
+    },
+    "options": {
+      "a": {
+        "en": "So others can see you more easily",
+        "ur": "تاکہ دوسرے آپ کو آسانی سے دیکھ سکیں"
+      },
+      "b": {
+        "en": "To make your dials easier to see",
+        "ur": "آپ کے ڈائلز کو آسانی سے دیکھنے کے لئے"
+      },
+      "c": {
+        "en": "So that you blend in with other drivers",
+        "ur": "تاکہ آپ دوسرے ڈرائیوروں میں مل جائیں"
+      },
+      "d": {
+        "en": "Because the street lights are lit",
+        "ur": "کیونکہ سٹریٹ لائٹس روشن ہیں"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Switching your headlights on when it first starts to get dark is important so that others can see you more easily on the road. It enhances your visibility and reduces the risk of accidents.",
+      "ur": "جب رات کو دھنکنے لگتی ہے تو آپ کی ہیڈ لائٹس چالو کرنا اہم ہے تاکہ دوسرے آپ کو راستے پر آسانی سے دیکھ سکیں۔ یہ آپ کی دکھائی کو بڑھاتا ہے اور حادثات کا خطرہ کم کرتا ہے۔"
+    }
+  },
+  {
+    "id": "15",
+    "file_id": "",
+    "video": "",
+    "topic": "",
+    "question": {
+      "en": "What’s most likely to distract you while you’re driving?",
+      "ur": "آپ گاڑی چلاتے وقت زیادہ تر کس چیز سے دھیان ہٹ سکتا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Using a mobile phone",
+        "ur": "موبائل فون استعمال کرنا"
+      },
+      "b": {
+        "en": "Using the windscreen wipers",
+        "ur": "ونڈ شیلڈ وائپر استعمال کرنا"
+      },
+      "c": {
+        "en": "Using the demisters",
+        "ur": "ڈیمسٹر استعمال کرنا"
+      },
+      "d": {
+        "en": "Using the mirrors",
+        "ur": "آئینے استعمال کرنا"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using a mobile phone while driving is one of the most common distractions that can lead to accidents. It is important to avoid any activities that take your attention away from the road.",
+      "ur": "گاڑی چلاتے وقت موبائل فون استعمال کرنا ایک ایسی عام تشویش ہے جو حادثوں کا باعث بن سکتی ہے۔ راستے سے دھیان ہٹانے والی کسی بھی سرگرمی سے بچنا اہم ہے۔"
+    }
+  },
+  {
+    "id": "25",
+    "file_id": "temaXX_012_p1_img1",
+    "video": "",
+    "topic": "",
+    "question": {
+      "en": "You're waiting to emerge from a junction. The windscreen pillar is restricting your view. What should you be particularly aware of?",
+      "ur": "آپ جنکشن سے نکلنے کے لیے انتظار کر رہے ہیں۔ ونڈ شیلڈ پلر آپ کی نظر میں رکاوٹ ڈال رہا ہے۔ آپ کو خاص طور پر کس بات کا خیال رکھنا چاہئے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Lorries",
+        "ur": "لاری"
+      },
+      "b": {
+        "en": "Buses",
+        "ur": "بس"
+      },
+      "c": {
+        "en": "Motorcyclists",
+        "ur": "موٹر سائیکل"
+      },
+      "d": {
+        "en": "Coaches",
+        "ur": "کوچز"
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "en": "When the windscreen pillar is restricting your view, you should be particularly aware of motorcyclists as they may be harder to see due to their smaller size and speed.",
+      "ur": "جب ونڈ شیلڈ پلر آپ کی نظر میں رکاوٹ ڈال رہا ہے، تو آپ کو خاص طور پر موٹر سائیکلس کا خیال رکھنا چاہئے کیونکہ ان کو ان کی چھوٹی سائز اور رفتار کی وجہ سے دیکھنا مشکل ہو سکتا ہے۔"
+    }
+  },
+  {
+    "id": "26",
+    "file_id": "",
+    "video": "",
+    "topic": "",
+    "question": {
+      "en": "How can you make sure that a satellite navigation (sat nav) system doesn't distract you when you're driving?",
+      "ur": "آپ کس طرح یقینی بنا سکتے ہیں کہ جب آپ گاڑی چلاتے ہیں تو ایک سیٹلائٹ نیویگیشن (سیٹ نیو) سسٹم آپ کو توجہ ہٹانے نہیں دیتا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Set it before starting your journey",
+        "ur": "اپنے سفر شروع کرنے سے پہلے اسے سیٹ کریں"
+      },
+      "b": {
+        "en": "Only set the destination when you're lost",
+        "ur": "صرف اسے مقصد تب تک سیٹ کریں جب آپ گم ہوں"
+      },
+      "c": {
+        "en": "Choose a voice that you find calming",
+        "ur": "ایک آواز منتخب کریں جو آپ کو پرسکون محسوس ہو"
+      },
+      "d": {
+        "en": "Turn it off while you're driving in built-up areas",
+        "ur": "جب آپ شہری علاقوں میں گاڑی چلاتے ہیں تو اسے بند کر دیں"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Setting the sat nav before starting your journey allows you to focus on the road ahead without distractions.",
+      "ur": "سفر شروع کرنے سے پہلے سیٹ نیو کرنے سے آپ کو راستے پر توجہ دینے کی اجازت دیتا ہے بغیر کسی تشتیب کے۔"
+    }
+  },
+  {
+    "id": "16",
+    "file_id": "",
+    "video": "",
+    "topic": "",
+    "question": {
+      "en": "You're driving your car. When may you use a hand-held mobile phone?",
+      "ur": "آپ اپنی گاڑی چلا رہے ہیں۔ کب آپ ایک ہینڈ ہیلڈ موبائل فون استعمال کر سکتے ہیں؟"
+    },
+    "options": {
+      "a": {
+        "en": "When you've parked safely",
+        "ur": "جب آپ نے محفوظ طریقے سے پارک کیا ہو"
+      },
+      "b": {
+        "en": "When your car has automatic transmission",
+        "ur": "جب آپ کی گاڑی آٹومیٹک ٹرانسمیشن ہو"
+      },
+      "c": {
+        "en": "When you're receiving a call",
+        "ur": "جب آپ کال موصول کر رہے ہیں"
+      },
+      "d": {
+        "en": "When you're driving at less than 30 mph",
+        "ur": "جب آپ 30 میل فی گھنٹہ سے کم رفتار سے چلا رہے ہیں"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You may use a hand-held mobile phone when you've parked safely to ensure your full attention is on the road and not on the phone.",
+      "ur": "آپ جب محفوظ طریقے سے پارک کریں تو آپ ایک ہینڈ ہیلڈ موبائل فون استعمال کر سکتے ہیں تاکہ آپ کا پورا توجہ راستے پر ہو اور فون پر نہ ہو۔"
+    }
+  },
+  {
+    "id": "17",
+    "file_id": "",
+    "video": "",
+    "topic": "",
+    "question": {
+      "en": "You're driving on a wet road. What should you do if you have to stop your vehicle in an emergency?",
+      "ur": "آپ بارشی سڑک پر گاڑی چلارہے ہیں۔ اگر آپ کو ایک ایمرجنسی میں اپنی گاڑی روکنی ہو تو آپ کیا کریں گے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Give an arm signal",
+        "ur": "ایک بازو کی اشارہ دیں"
+      },
+      "b": {
+        "en": "Apply the parking brake and footbrake together",
+        "ur": "پارکنگ بریک اور پاؤں کے بریک کو اکٹھا لگائیں"
+      },
+      "c": {
+        "en": "Keep both hands on the steering wheel",
+        "ur": "دونوں ہاتھ سٹیرنگ وےل پر رکھیں"
+      },
+      "d": {
+        "en": "Select reverse gear",
+        "ur": "ریورس گیئر منتخب کریں"
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "en": "In an emergency stop on a wet road, you should apply the parking brake and footbrake together to prevent skidding and maintain control of the vehicle.",
+      "ur": "بارشی سڑک پر ایک ایمرجنسی روکنے پر، آپ کو پارکنگ بریک اور پاؤں کے بریک کو اکٹھا لگانا چاہئے تاکہ گاڑی کو سکڑنے سے بچایا جا سکے اور گاڑی کنٹرول میں رہے۔"
+    }
+  },
+  {
+    "id": "18",
+    "file_id": "",
+    "video": "",
+    "topic": "",
+    "question": {
+      "en": "What should you do when you move off from behind a parked car?",
+      "ur": "پارک کی گئی گاڑی کے پیچھے سے جب آپ روانہ ہوتے ہیں تو آپ کیا کرنا چاہئے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Use the exterior mirrors only",
+        "ur": "صرف بیرونی مرائیں استعمال کریں"
+      },
+      "b": {
+        "en": "Give a signal after moving off",
+        "ur": "روانہ ہونے کے بعد ایک سگنل دیں"
+      },
+      "c": {
+        "en": "Look around before moving off",
+        "ur": "روانہ ہونے سے پہلے چاروں طرف دیکھیں"
+      },
+      "d": {
+        "en": "Look around after moving off",
+        "ur": "روانہ ہونے کے بعد چاروں طرف دیکھیں"
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "en": "Before moving off from behind a parked car, you should look around to ensure there are no obstacles or oncoming vehicles that may impede your movement.",
+      "ur": "پارک کی گئی گاڑی کے پیچھے سے روانہ ہونے سے پہلے، آپ کو چاروں طرف دیکھنا چاہئے تاکہ یقینی بنایا جا سکے کہ کوئی رکاوٹ یا آنے والی گاڑیاں آپ کی حرکت میں رکاوٹ ڈال سکتی ہیں۔"
+    }
+  },
+  {
+    "id": "24",
+    "file_id": "temaXX_011_p1_img1",
+    "video": "",
+    "topic": "",
+    "question": {
+      "en": "You're turning right onto a dual carriageway. What should you do before emerging?",
+      "ur": "آپ دو راستے والے سڑک پر دائیں موڑ لے رہے ہیں۔ باہر آنے سے پہلے آپ کیا کریں گے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Make sure that you leave enough room for a vehicle behind",
+        "ur": "پیچھے والے گاڑی کے لئے کافی جگہ چھوڑنے کی یقینی بنائیں"
+      },
+      "b": {
+        "en": "Check that the central reservation is wide enough for your vehicle",
+        "ur": "یہ جانچیں کہ وسطی ریزرویشن آپ کی گاڑی کے لئے کافی چوڑا ہے"
+      },
+      "c": {
+        "en": "Position your vehicle well to the left of the side road",
+        "ur": "اپنی گاڑی کو سڑک کے بائیں طرف اچھی طرح رکھیں"
+      },
+      "d": {
+        "en": "Stop, apply the parking brake and then select a low gear",
+        "ur": "روکیں، پارکنگ بریک لگائیں اور پھر ایک کم گیئر منتخب کریں"
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "en": "Before emerging onto a dual carriageway, it is important to check that the central reservation is wide enough for your vehicle. This ensures that you can safely merge into the traffic flow without causing any obstruction.",
+      "ur": "دو راستے والی سڑک پر آنے سے پہلے، آپ کے لئے اہم ہے کہ آپ یہ جانچیں کہ وسطی ریزرویشن آپ کی گاڑی کے لئے کافی چوڑا ہے۔ یہ یقینی بناتا ہے کہ آپ بغیر کسی رکاوٹ کے ٹریفک کی جاری ہونے میں محفوظ طریقے سے مرکوز ہو سکتے ہیں۔"
+    }
+  },
+  {
+    "id": "10",
+    "file_id": "",
+    "video": "",
+    "topic": "",
+    "question": {
+      "en": "Why should you use your mirrors when you see a hazard ahead?",
+      "ur": "آگے خطرہ دیکھنے پر آپ کیوں اپنے مرائی استعمال کریں گے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Because you'll need to brake sharply and stop",
+        "ur": "کیونکہ آپ کو تیزی سے بریک لگانی ہوگی اور رکنا ہوگا"
+      },
+      "b": {
+        "en": "To check what's happening on the road ahead",
+        "ur": "راستے کے آگے کیا ہو رہا ہے چیک کرنے کے لئے"
+      },
+      "c": {
+        "en": "To assess how your actions will affect the traffic behind",
+        "ur": "آپ کے اعمال کیسے پیچھے ٹریفک پر اثر ڈالیں گے ان کا اندازہ لگانے کے لئے"
+      },
+      "d": {
+        "en": "Because you'll need to accelerate out of danger",
+        "ur": "کیونکہ آپ کو خطرے سے باہر تیزی سے بڑھنی ہوگی"
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "en": "Using mirrors when you see a hazard ahead helps you assess how your actions will affect the traffic behind you, allowing you to make informed decisions to ensure safety for all road users.",
+      "ur": "آگے خطرہ دیکھنے پر آپ کیوں اپنے مرائی استعمال کریں گے؟ یہ آپ کے اعمال کیسے پیچھے ٹریفک پر اثر ڈالیں گے ان کا اندازہ لگانے میں مدد فراہم کرتا ہے، جو آپ کو معلوماتی فیصلے کرنے کی اجازت دیتا ہے تاکہ تمام روڈ یوزرز کیلئے سلامتی یقینی بنا سکیں۔"
+    }
+  },
+  {
+    "id": "11",
+    "file_id": "",
+    "video": "",
+    "topic": "",
+    "question": {
+      "en": "You're waiting to turn right at the end of a road. What should you do if your view is obstructed by parked vehicles?",
+      "ur": "آپ ایک راستہ ختم ہونے پر دائیں مڑنے کے لیے انتظار کر رہے ہیں۔ اگر پارک کی گئی گاڑیوں سے آپ کا منظر محفوظ ہو تو آپ کیا کریں گے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Stop and then move forward slowly and carefully for a clear view",
+        "ur": "رک جائیں اور پھر آہستہ اور احتیاط سے آگے بڑھیں تاکہ صاف منظر حاصل ہو"
+      },
+      "b": {
+        "en": "Move quickly to where you can see so you only block traffic from one direction",
+        "ur": "جلدی سے وہاں جائیں جہاں آپ دیکھ سکتے ہیں تاکہ صرف ایک سمت سے ٹریفک بند ہو"
+      },
+      "c": {
+        "en": "Wait for a pedestrian to let you know when it's safe for you to emerge",
+        "ur": "پیدل چلنے والے کا انتظار کریں تاکہ وہ آپ کو بتائیں کہ کب آپ کو باہر آنے کے لیے محفوظ ہے"
+      },
+      "d": {
+        "en": "Turn your vehicle around immediately and find another junction to use",
+        "ur": "فوراً اپنی گاڑی پلٹا کر دوسری جوڑی کا استعمال کریں"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If your view is obstructed by parked vehicles while waiting to turn right, you should stop and then move forward slowly and carefully to get a clear view, ensuring you can safely navigate the intersection without causing any disruptions to traffic flow.",
+      "ur": "اگر آپ کا منظر پارک کی گئی گاڑیوں سے محفوظ ہو تو دائیں مڑنے کے لیے انتظار کرتے وقت، آپ کو رکنا چاہئے اور پھر آہستہ اور احتیاط سے آگے بڑھنا چاہئے تاکہ آپ کو صاف منظر حاصل ہو، یہ یقینی بنانا کہ آپ ٹریفک کی روانی میں کسی بھی خلل کے بغیر چوراہا پار کر سکتے ہیں۔"
+    }
+  },
+  {
+    "id": "12",
+    "file_id": "",
+    "video": "",
+    "topic": "",
+    "question": {
+      "en": "There are objects hanging from your interior mirror. Why could this be a hazard?",
+      "ur": "آپ کے اندری خطے سے چیزیں لٹکی ہوئی ہیں۔ اس کا خطرہ ہو سکتا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Your radio reception might be affected",
+        "ur": "آپ کے ریڈیو کی رسی متاثر ہو سکتی ہے"
+      },
+      "b": {
+        "en": "Your windscreen could mist up more easily",
+        "ur": "آپ کی ونڈ شیلڈ آسانی سے دھندلا ہو سکتی ہے"
+      },
+      "c": {
+        "en": "Your view could be obstructed",
+        "ur": "آپ کی نظر رکاوٹ میں آ سکتی ہے"
+      },
+      "d": {
+        "en": "Your sun visor might get tangled",
+        "ur": "آپ کا سن وائزر الجھ سکتا ہے"
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "en": "Objects hanging from your interior mirror can be a hazard because they could obstruct your view, potentially leading to blind spots and reducing your ability to see other road users or obstacles, increasing the risk of accidents.",
+      "ur": "آپ کے اندری خطے سے چیزیں لٹکی ہوئی ہیں اس لئے خطرہ ہو سکتا ہے کیونکہ یہ آپ کی نظر رکاوٹ کر سکتی ہیں، جو بینائی کے خالی مقاموں کی طرف لے جا سکتی ہے اور دوسرے روڈ یوزر یا رکاوٹوں کو دیکھنے کی آپ کی صلاحیت کو کم کر سکتی ہے، حادثات کے خطرے کو بڑھا دیتی ہے۔"
+    }
+  },
+  {
+    "id": "7",
+    "file_id": "",
+    "video": "",
+    "topic": "",
+    "question": {
+      "en": "What should you do when you're approaching traffic lights that have been green for some time?",
+      "ur": "اگر آپ ٹریفک لائٹس کے قریب ہیں جو کافی وقت سے ہرا ہوا ہے تو آپ کیا کرنا چاہئے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Accelerate hard",
+        "ur": "زور سے ایکسلیریٹ کریں"
+      },
+      "b": {
+        "en": "Maintain your speed",
+        "ur": "اپنی رفتار برقرار رکھیں"
+      },
+      "c": {
+        "en": "Be ready to stop",
+        "ur": "تیار ہونا رکنے کے لئے"
+      },
+      "d": {
+        "en": "Brake hard",
+        "ur": "زور سے بریک کریں"
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "en": "When approaching traffic lights that have been green for some time, you should be ready to stop in case they change to yellow or red to avoid running a red light.",
+      "ur": "جب آپ ایسے ٹریفک لائٹس کے قریب ہیں جو کافی وقت سے ہرا ہوا ہے، تو آپ کو یہ تیار ہونا چاہئے کہ رکنے کے لئے اگر وہ پیلا یا سرخ ہو جائیں تاکہ آپ سرخ روشنی کو دوڑنے سے بچ سکیں۔"
+    }
+  },
+  {
+    "id": "8",
+    "file_id": "",
+    "video": "",
+    "topic": "",
+    "question": {
+      "en": "What should you do before slowing down or stopping your vehicle?",
+      "ur": "آپ کی گاڑی کو رکنے یا منزل کے قریب آنے سے پہلے آپ کیا کرنا چاہئے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Flash the headlights",
+        "ur": "ہیڈ لائٹس چمکائیں"
+      },
+      "b": {
+        "en": "Sound the horn",
+        "ur": "ہارن بجائیں"
+      },
+      "c": {
+        "en": "Use the mirrors",
+        "ur": "آئینے استعمال کریں"
+      },
+      "d": {
+        "en": "Select a higher gear",
+        "ur": "زیادہ گیئر منتخب کریں"
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "en": "Before slowing down or stopping your vehicle, you should use the mirrors to check for any vehicles behind you and ensure it is safe to do so.",
+      "ur": "آپ کی گاڑی کو رکنے یا منزل کے قریب آنے سے پہلے، آپ کو آئینوں کا استعمال کرنا چاہئے تاکہ آپ پیچھے کوئی گاڑیوں کو چیک کر سکیں اور یہ یقینی بنائیں کہ یہ کرنا محفوظ ہے۔"
+    }
+  },
+  {
+    "id": "9",
+    "file_id": "",
+    "video": "",
+    "topic": "",
+    "question": {
+      "en": "You're following a large vehicle. Why should you stay a safe distance behind it?",
+      "ur": "آپ ایک بڑے گاڑی کی پیچھے جا رہے ہیں۔ آپ کو اس کے پیچھے ایک محفوظ فاصلہ قائم رکھنے کی وجہ سے کیوں رہنا چاہئے؟"
+    },
+    "options": {
+      "a": {
+        "en": "You'll be able to corner more quickly",
+        "ur": "آپ جلدی موڑ سکیں گے"
+      },
+      "b": {
+        "en": "You'll keep out of the wind better",
+        "ur": "آپ ہوا سے بہتر باہر رہیں گے"
+      },
+      "c": {
+        "en": "You'll give the driver a chance to see you in their mirrors",
+        "ur": "آپ ڈرائیور کو آپ کو ان کی مرآتوں میں دیکھنے کا موقع دیں گے"
+      },
+      "d": {
+        "en": "You'll help the large vehicle to stop more easily",
+        "ur": "آپ بڑی گاڑی کو آسانی سے روکنے میں مدد کریں گے"
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "en": "Staying a safe distance behind a large vehicle allows the driver to see you in their mirrors, reducing the risk of a collision if they need to change lanes or make a sudden stop.",
+      "ur": "ایک بڑی گاڑی کے پیچھے ایک محفوظ فاصلہ قائم رکھنا ڈرائیور کو آپ کو ان کی مرآتوں میں دیکھنے کا موقع دیتا ہے، اگر انہیں لینز تبدیل کرنے یا اچانک رکنے کی ضرورت ہو تو ٹکر کے خطرے کو کم کرتا ہے۔"
+    }
+  },
+  {
+    "id": "23",
+    "file_id": "",
+    "video": "",
+    "topic": "",
+    "question": {
+      "en": "What's likely to happen if you use a hands-free phone while you're driving?",
+      "ur": "اگر آپ گاڑی چلاتے ہوئے ہینڈز فری فون استعمال کریں تو کیا ہونے کا امکان ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "It will divert your attention",
+        "ur": "یہ آپ کی توجہ ہٹا دے گا"
+      },
+      "b": {
+        "en": "It will improve your safety",
+        "ur": "یہ آپ کی حفاظت بڑھا دے گا"
+      },
+      "c": {
+        "en": "It will increase your concentration",
+        "ur": "یہ آپ کی توجہ بڑھا دے گا"
+      },
+      "d": {
+        "en": "It will reduce your view",
+        "ur": "یہ آپ کی نظر کم کرے گا"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using a hands-free phone while driving can divert your attention from the road, increasing the risk of accidents.",
+      "ur": "گاڑی چلاتے ہوئے ہینڈز فری فون استعمال کرنا آپ کی توجہ کو راستے سے ہٹا سکتا ہے، حوادث کے خطرے کو بڑھا دیتا ہے۔"
+    }
+  },
+  {
+    "id": "20",
+    "file_id": "",
+    "video": "",
+    "topic": "",
+    "question": {
+      "en": "When do windscreen pillars cause a serious obstruction to your view?",
+      "ur": "جب آپ کو اپنی نظر میں ایک سنگین رکاوٹ کا سامنا کرنا پڑتا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "When you're approaching bends and junctions",
+        "ur": "جب آپ بینڈز اور جنکشن کے قریب ہوں"
+      },
+      "b": {
+        "en": "When you're driving on a motorway",
+        "ur": "جب آپ موٹروے پر چل رہے ہوں"
+      },
+      "c": {
+        "en": "When you're driving on a dual carriageway",
+        "ur": "جب آپ ڈیول کاریاگوئے پر چل رہے ہوں"
+      },
+      "d": {
+        "en": "When you're approaching a one-way street",
+        "ur": "جب آپ ایک ون وے سڑک کے قریب ہوں"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Windscreen pillars can cause a serious obstruction to your view when you're approaching bends and junctions because they can block your line of sight, making it difficult to see oncoming traffic or pedestrians.",
+      "ur": "جب آپ بینڈز اور جنکشن کے قریب ہوں تو ونڈ اسکرین پلر آپ کی نظر میں ایک سنگین رکاوٹ پیدا کر سکتے ہیں کیونکہ یہ آپ کی لائن آف سائٹ کو بلاک کر سکتے ہیں، جس سے آنے والی ٹریفک یا پیادے کو دیکھنا مشکل ہو جاتا ہے۔"
+    }
+  },
+  {
+    "id": "21",
+    "file_id": "",
+    "video": "",
+    "topic": "",
+    "question": {
+      "en": "What should you do if you can't see clearly behind when you're reversing?",
+      "ur": "اگر آپ پیچھے دیکھنے میں صاف نہیں دیکھ سکتے تو آپ کیا کریں؟"
+    },
+    "options": {
+      "a": {
+        "en": "Ask someone to guide you",
+        "ur": "کسی سے رہنمائی کرنے کے لئے کہیں"
+      },
+      "b": {
+        "en": "Open the window to look behind",
+        "ur": "کھڑکی کھول کر پیچھے دیکھیں"
+      },
+      "c": {
+        "en": "Look in the nearside mirror",
+        "ur": "نزدیکی آئنہ دیکھیں"
+      },
+      "d": {
+        "en": "Open the door to look behind",
+        "ur": "دروازہ کھول کر پیچھے دیکھیں"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If you can't see clearly behind when you're reversing, it's best to ask someone to guide you. They can provide you with directions and help you avoid any obstacles that may be in your blind spot.",
+      "ur": "اگر آپ پیچھے دیکھنے میں صاف نہیں دیکھ سکتے تو بہتر ہوگا کہ آپ کسی سے رہنمائی کریں۔ وہ آپ کو راہنمائی فراہم کر سکتے ہیں اور آپ کو کوئی بھی رکاوٹ سے بچانے میں مدد کر سکتے ہیں جو آپ کے اندھے نقطے میں ہو سکتی ہیں۔"
+    }
+  },
+  {
+    "id": "22",
+    "file_id": "",
+    "video": "",
+    "topic": "",
+    "question": {
+      "en": "What does the term ‘blind spot’ mean?",
+      "ur": "مصطلح 'اندھے نقطہ' کا کیا مطلب ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "An area not visible to the driver",
+        "ur": "ڈرائیور کے لئے دیکھنے کے قابل نہیں ہونے والا ایک علاقہ"
+      },
+      "b": {
+        "en": "An area covered by your right-hand mirror",
+        "ur": "آپ کے دائیں ہاتھ کے مرور میں شامل ایک علاقہ"
+      },
+      "c": {
+        "en": "An area not covered by your headlights",
+        "ur": "آپ کے ہیڈ لائٹس کے ذریعے نہیں ڈھانپا گیا ایک علاقہ"
+      },
+      "d": {
+        "en": "An area covered by your left-hand mirror",
+        "ur": "آپ کے بائیں ہاتھ کے مرور میں شامل ایک علاقہ"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "The term 'blind spot' refers to an area not visible to the driver, typically located to the side or rear of the vehicle. It's important for drivers to check their blind spots before changing lanes or making turns to avoid potential collisions.",
+      "ur": "اندھے نقطہ کا مطلب ہے ایک علاقہ جو ڈرائیور کے لئے دیکھنے کے قابل نہیں ہوتا ہے، عام طور پر گاڑی کے سائیڈ یا پیچھے والے حصے پر واقع ہوتا ہے۔ ڈرائیوروں کے لئے اہم ہے کہ وہ اپنے اندھے نقطوں کو چیک کریں پہلے جب وہ لینز تبدیل کریں یا موڑیں لیں تاکہ ممکنہ ٹکراؤ سے بچ سکیں۔"
+    }
+  },
+  {
+    "id": "19",
+    "file_id": "temaXX_008_p1_img1",
+    "video": "",
+    "topic": "",
+    "question": {
+      "en": "You're travelling along this road. How should you pass the cyclist?",
+      "ur": "آپ اس راستے پر سفر کر رہے ہیں۔ آپ کو سائیکلسٹ کو کیسے گزرنا چاہئے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Change down one gear before you pass",
+        "ur": "گزرنے سے پہلے ایک گیئر کم کریں"
+      },
+      "b": {
+        "en": "Sound your horn as you pass",
+        "ur": "گزرتے وقت ہارن بجائیں"
+      },
+      "c": {
+        "en": "Keep close to them as you pass",
+        "ur": "ان کے قریب رہیں جب آپ گزر رہے ہیں"
+      },
+      "d": {
+        "en": "Leave them plenty of room as you pass",
+        "ur": "انہیں بہت سی جگہ چھوڑیں جب آپ گزر رہے ہیں"
+      }
+    },
+    "correct_answer": "d",
+    "explanation": {
+      "en": "When passing a cyclist, it is important to leave them plenty of room to ensure their safety and prevent accidents.",
+      "ur": "سائیکلسٹ کو گزرتے وقت، انہیں بہت سی جگہ چھوڑنا اہم ہے تاکہ ان کی حفاظت یقینی بنائی جائے اور حوادث کو روکا جا سکے۔"
+    }
+  }
+]

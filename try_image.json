@@ -1,0 +1,67 @@
+[
+    {
+        "question": "According to Rule H2, what should drivers do when turning at a junction?",
+        "options": {
+            "A": "Proceed without stopping",
+            "B": "Ignore cyclists",
+            "C": "Honk the horn",
+            "D": "Wait for pedestrians to cross"
+        },
+        "correct_answer": "D",
+        "explanation": "Rule H2 states that drivers should wait for pedestrians to cross the junction before turning, whether turning right or left.",
+        "id": 1,
+        "topic": "Rules of the road"
+    },
+    {
+        "question": "What should drivers not do when turning into or out of a junction, according to Rule H3?",
+        "options": {
+            "A": "Give way to cyclists",
+            "B": "Speed up",
+            "C": "Cut across cyclists",
+            "D": "Ignore horse riders"
+        },
+        "correct_answer": "C",
+        "explanation": "Rule H3 prohibits drivers from cutting across cyclists, horse riders, or horse drawn vehicles when turning into or out of a junction.",
+        "id": 2,
+        "topic": "Rules of the road"
+    },
+    {
+        "question": "When should drivers wait for cyclists to pass the junction before turning?",
+        "options": {
+            "A": "Never",
+            "B": "Always",
+            "C": "Only on weekends",
+            "D": "Only on rainy days"
+        },
+        "correct_answer": "B",
+        "explanation": "Drivers should always wait for cyclists to pass the junction before turning, as per Rule H",
+        "id": 3,
+        "topic": "Vulnerable road users"
+    },
+    {
+        "question": "What should drivers do if turning at a junction would cause a cyclist to stop or swerve?",
+        "options": {
+            "A": "Continue turning",
+            "B": "Speed up",
+            "C": "Stop and wait for a safe gap",
+            "D": "Ignore the cyclist"
+        },
+        "correct_answer": "C",
+        "explanation": "Drivers should stop and wait for a safe gap if turning at a junction would cause a cyclist to stop or swerve, as outlined in Rule H",
+        "id": 4,
+        "topic": "Hazard awareness"
+    },
+    {
+        "question": "In what situations should drivers stop and wait for a safe gap in the flow of cyclists?",
+        "options": {
+            "A": "When cyclists are not around",
+            "B": "When cyclists are moving slowly",
+            "C": "When cyclists are stationary",
+            "D": "When cyclists are approaching a junction"
+        },
+        "correct_answer": "D",
+        "explanation": "Drivers should stop and wait for a safe gap in the flow of cyclists when cyclists are approaching, passing, or moving off from a junction, as per Rule H",
+        "id": 5,
+        "topic": "Vulnerable road users"
+    }
+]

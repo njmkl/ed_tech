@@ -1,0 +1,652 @@
+[
+  {
+    "question": "What are the key principles introduced in the section on Understanding Attitude and Behaviour?",
+    "options": {
+      "A": "Confidence, assertiveness, speed, aggression",
+      "B": "Fear, hesitation, confusion, anger",
+      "C": "Impatience, rudeness, recklessness, distraction",
+      "D": "Calmness, courtesy, consideration, patience"
+    },
+    "correct_answer": "D",
+    "explanation": "The key principles introduced in the section on Understanding Attitude and Behaviour are calmness, courtesy, consideration, and patience.",
+    "topic": "Understanding Attitude and Behaviour",
+    "id": 1
+  },
+  {
+    "question": "What is the concept explained in the section on Safe Following Distance?",
+    "options": {
+      "A": "The two-second rule",
+      "B": "The three-second rule",
+      "C": "The one-second rule",
+      "D": "The five-second rule"
+    },
+    "correct_answer": "A",
+    "explanation": "The concept explained in the section on Safe Following Distance is the two-second rule and its importance in maintaining a safe distance.",
+    "topic": "Safe Following Distance",
+    "id": 2
+  },
+  {
+    "question": "What is the significance of the Attitude topic in the UK driving theory test?",
+    "options": {
+      "A": "It focuses on vehicle maintenance",
+      "B": "It discusses the history of road signs",
+      "C": "It highlights the importance of driver behaviour and mindset",
+      "D": "It covers the rules of parking"
+    },
+    "correct_answer": "C",
+    "explanation": "The Attitude topic in the UK driving theory test highlights the importance of driver behaviour and mindset.",
+    "topic": "Attitude in the UK driving theory test",
+    "id": 3
+  },
+  {
+    "question": "What is one of the learning objectives mentioned in the guide?",
+    "options": {
+      "A": "Learning to change a flat tyre",
+      "B": "Implementing safe following distances",
+      "C": "Recognising different types of clouds",
+      "D": "Learning to bake a cake"
+    },
+    "correct_answer": "B",
+    "explanation": "One of the learning objectives mentioned in the guide is implementing safe following distances.",
+    "topic": "Learning Objectives",
+    "id": 4
+  },
+  {
+    "question": "What should instructors teach regarding Priority and Courtesy according to the guide?",
+    "options": {
+      "A": "Speeding through intersections",
+      "B": "Ignoring pedestrians",
+      "C": "Cutting off other drivers",
+      "D": "Giving way to pedestrians and vulnerable road users"
+    },
+    "correct_answer": "D",
+    "explanation": "Instructors should teach the rules regarding giving way to pedestrians and vulnerable road users according to the guide.",
+    "topic": "Priority and Courtesy",
+    "id": 5
+  },
+  {
+    "question": "What is the importance of clear signalling and communication with other road users?",
+    "options": {
+      "A": "To save fuel",
+      "B": "To show off driving skills",
+      "C": "To annoy other drivers",
+      "D": "To avoid accidents and misunderstandings"
+    },
+    "correct_answer": "D",
+    "explanation": "Clear signalling and communication with other road users is important to avoid accidents and misunderstandings on the road.",
+    "topic": "Signals and Communication",
+    "id": 6
+  },
+  {
+    "question": "What is a common mistake highlighted in the text regarding signalling?",
+    "options": {
+      "A": "Using signals correctly",
+      "B": "Failing to signal",
+      "C": "Not using signals at all",
+      "D": "Signalling too early"
+    },
+    "correct_answer": "B",
+    "explanation": "A common mistake highlighted in the text is failing to signal, which can lead to confusion and potential accidents.",
+    "topic": "Signals and Communication",
+    "id": 7
+  },
+  {
+    "question": "What is the recommended strategy for managing frustration and aggression on the road?",
+    "options": {
+      "A": "Engaging in road rage",
+      "B": "Reflecting on personal experiences",
+      "C": "Ignoring other drivers",
+      "D": "Speeding up to avoid confrontation"
+    },
+    "correct_answer": "B",
+    "explanation": "The recommended strategy for managing frustration and aggression on the road is to reflect on personal experiences and remain calm.",
+    "topic": "Dealing with Mistakes and Aggression",
+    "id": 8
+  },
+  {
+    "question": "Why is extra caution and patience needed when interacting with vulnerable road users?",
+    "options": {
+      "A": "To rush through interactions",
+      "B": "To test the driver's patience",
+      "C": "To annoy vulnerable road users",
+      "D": "To avoid accidents and ensure their safety"
+    },
+    "correct_answer": "D",
+    "explanation": "Extra caution and patience are needed when interacting with vulnerable road users to avoid accidents and ensure their safety.",
+    "topic": "Patience Around Vulnerable Road Users",
+    "id": 9
+  },
+  {
+    "question": "What is the importance of correct road positioning and lane discipline?",
+    "options": {
+      "A": "To save time on the road",
+      "B": "To confuse other drivers",
+      "C": "To show off driving skills",
+      "D": "To maintain safety and order on the road"
+    },
+    "correct_answer": "D",
+    "explanation": "Correct road positioning and lane discipline are important to maintain safety and order on the road, reducing the risk of accidents.",
+    "topic": "Road Positioning and Lane Discipline",
+    "id": 10
+  },
+  {
+    "question": "What is essential for safe driving and influences the behaviour of others on the road?",
+    "options": {
+      "A": "Patience",
+      "B": "Courtesy",
+      "C": "Proper signalling",
+      "D": "Positive attitude"
+    },
+    "correct_answer": "D",
+    "explanation": "A positive attitude is essential for safe driving and influences the behaviour of others on the road.",
+    "topic": "Attitude in driving",
+    "id": 11
+  },
+  {
+    "question": "What is a critical principle in maintaining a safe following distance?",
+    "options": {
+      "A": "One-second rule",
+      "B": "Three-second rule",
+      "C": "Two-second rule",
+      "D": "Four-second rule"
+    },
+    "correct_answer": "C",
+    "explanation": "Understanding and applying the two-second rule is critical in maintaining a safe following distance.",
+    "topic": "Safe following distances",
+    "id": 12
+  },
+  {
+    "question": "How can drivers effectively communicate with other road users?",
+    "options": {
+      "A": "Using hand gestures",
+      "B": "Proper signalling",
+      "C": "Horn honking",
+      "D": "Eye contact"
+    },
+    "correct_answer": "B",
+    "explanation": "Drivers can effectively communicate with other road users through proper signalling.",
+    "topic": "Responsible communication",
+    "id": 13
+  },
+  {
+    "question": "What should drivers do when approaching a zebra crossing with pedestrians present?",
+    "options": {
+      "A": "Speed up to cross quickly",
+      "B": "Ignore the crossing",
+      "C": "Stop and give way to pedestrians",
+      "D": "Sound the horn to alert pedestrians"
+    },
+    "correct_answer": "C",
+    "explanation": "Drivers should stop and give way to pedestrians when approaching a zebra crossing to ensure their safety.",
+    "topic": "Vulnerable road users",
+    "id": 14
+  },
+  {
+    "question": "Can you recall a personal experience where patience was required while driving? How did you handle the situation?",
+    "options": {
+      "A": "No",
+      "B": "Yes",
+      "C": "Maybe",
+      "D": "Not sure"
+    },
+    "correct_answer": "B",
+    "explanation": "This question aims to prompt reflection on personal experiences related to patience while driving, as discussed in the text.",
+    "topic": "Personal experience with patience while driving",
+    "id": 15
+  },
+  {
+    "question": "What is the aim of the Methodological Guide for Instructors and Students on Attitude?",
+    "options": {
+      "A": "To foster a culture of safe and responsible driving",
+      "B": "To encourage reckless driving behaviours",
+      "C": "To promote speeding and aggression on the road",
+      "D": "To ignore the significance of attitude in driving"
+    },
+    "correct_answer": "A",
+    "explanation": "The aim of the Methodological Guide for Instructors and Students on Attitude is to foster a culture of safe and responsible driving.",
+    "topic": "Introduction",
+    "id": 16
+  },
+  {
+    "question": "What is the significance of priority and courtesy towards road users according to the guide?",
+    "options": {
+      "A": "It is important for road safety",
+      "B": "It can lead to accidents",
+      "C": "It is irrelevant in driving",
+      "D": "It is optional for drivers"
+    },
+    "correct_answer": "A",
+    "explanation": "The guide highlights the importance of priority and courtesy towards all road users as essential for road safety.",
+    "topic": "Priority and Courtesy",
+    "id": 17
+  },
+  {
+    "question": "What should instructors and students be able to do by the end of the guide?",
+    "options": {
+      "A": "All of the above",
+      "B": "Identify and apply key principles of driver behaviour",
+      "C": "Recognise the importance of priority and courtesy towards road users",
+      "D": "Understand the significance of attitude in driving"
+    },
+    "correct_answer": "D",
+    "explanation": "By the end of the guide, instructors and students should be able to understand the significance of attitude in driving, identify and apply key principles of driver behaviour, and recognise the importance of priority and courtesy towards road users.",
+    "topic": "Learning Objectives",
+    "id": 18
+  },
+  {
+    "question": "What is the focus of the section on Priority and Courtesy?",
+    "options": {
+      "A": "Encouraging aggressive driving behaviours",
+      "B": "Discussing the benefits of speeding and ignoring road signs",
+      "C": "Teaching the rules regarding giving way to pedestrians and vulnerable road users",
+      "D": "Promoting road rage towards other drivers"
+    },
+    "correct_answer": "C",
+    "explanation": "The focus of the section on Priority and Courtesy is teaching the rules regarding giving way to pedestrians and vulnerable road users.",
+    "topic": "Priority and Courtesy",
+    "id": 19
+  },
+  {
+    "question": "What is the significance of attitude in driving according to the introduction?",
+    "options": {
+      "A": "It is crucial for safe driving",
+      "B": "It has no impact on road safety",
+      "C": "It is irrelevant for responsible driving",
+      "D": "It only affects experienced drivers"
+    },
+    "correct_answer": "A",
+    "explanation": "According to the introduction, the significance of attitude in driving is that it is crucial for safe driving.",
+    "topic": "Introduction",
+    "id": 20
+  },
+  {
+    "question": "What is the aim of the guide mentioned in the introduction?",
+    "options": {
+      "A": "To promote speeding and aggressive driving",
+      "B": "To discourage driver responsibility",
+      "C": "To ignore the importance of driver behaviour",
+      "D": "To equip instructors and students with tools for safe driving"
+    },
+    "correct_answer": "D",
+    "explanation": "The aim of the guide mentioned in the introduction is to equip instructors and students with the necessary tools for safe and responsible driving.",
+    "topic": "Introduction",
+    "id": 21
+  },
+  {
+    "question": "What is a common mistake related to signalling discussed in the text?",
+    "options": {
+      "A": "Not using signals at all",
+      "B": "Using signals too frequently",
+      "C": "Signalling with the wrong hand",
+      "D": "Failing to signal or signalling incorrectly"
+    },
+    "correct_answer": "D",
+    "explanation": "A common mistake related to signalling discussed in the text is failing to signal or signalling incorrectly, which can lead to confusion and potential accidents.",
+    "topic": "Signals and Communication",
+    "id": 22
+  },
+  {
+    "question": "What is the purpose of teaching correct road positioning and lane discipline?",
+    "options": {
+      "A": "To ensure safety and efficiency on the road",
+      "B": "To illustrate incorrect driving habits",
+      "C": "To confuse other road users",
+      "D": "To encourage reckless driving"
+    },
+    "correct_answer": "A",
+    "explanation": "Correct road positioning and lane discipline are taught to ensure safety and efficiency on the road by helping drivers navigate properly and avoid accidents.",
+    "topic": "Road Positioning and Lane Discipline",
+    "id": 23
+  },
+  {
+    "question": "Why is it important to practice mindfulness while driving?",
+    "options": {
+      "A": "To increase road rage",
+      "B": "To ignore road signs",
+      "C": "To maintain a calm attitude",
+      "D": "To drive recklessly"
+    },
+    "correct_answer": "C",
+    "explanation": "Practicing mindfulness while driving helps drivers maintain a calm attitude, which is crucial for safe and responsible driving.",
+    "topic": "Tips, Common Pitfalls, and Recommendations",
+    "id": 24
+  },
+  {
+    "question": "What is the recommended way to respond to a rude driver according to the text?",
+    "options": {
+      "A": "Respond calmly and safely",
+      "B": "Engage in aggressive behaviour",
+      "C": "Honk the horn aggressively",
+      "D": "Ignore the situation"
+    },
+    "correct_answer": "A",
+    "explanation": "The recommended way to respond to a rude driver is to remain calm and respond in a safe manner to avoid escalating the situation.",
+    "topic": "Dealing with Mistakes and Aggression",
+    "id": 25
+  },
+  {
+    "question": "What is the emphasis when interacting with vulnerable road users?",
+    "options": {
+      "A": "Exercising caution and patience",
+      "B": "Showing impatience",
+      "C": "Speeding up to pass them quickly",
+      "D": "Ignoring their presence"
+    },
+    "correct_answer": "A",
+    "explanation": "When interacting with vulnerable road users, the emphasis should be on exercising caution and patience to ensure their safety and well-being.",
+    "topic": "Patience Around Vulnerable Road Users",
+    "id": 26
+  },
+  {
+    "question": "What is a key principle of safe driving attitude according to the text?",
+    "options": {
+      "A": "Negativity",
+      "B": "Positivity",
+      "C": "Impatience",
+      "D": "Aggressiveness"
+    },
+    "correct_answer": "B",
+    "explanation": "The text mentions that a positive attitude is essential for safe driving.",
+    "topic": "Attitude in driving",
+    "id": 27
+  },
+  {
+    "question": "How can prioritising courtesy and patience enhance road safety?",
+    "options": {
+      "A": "It causes accidents",
+      "B": "It significantly enhances road safety",
+      "C": "It has no impact",
+      "D": "It decreases road safety"
+    },
+    "correct_answer": "B",
+    "explanation": "The text states that prioritising courtesy and patience can significantly enhance road safety.",
+    "topic": "Courtesy and patience in driving",
+    "id": 28
+  },
+  {
+    "question": "What is a critical principle mentioned in the text for safe driving?",
+    "options": {
+      "A": "Proper signalling",
+      "B": "Ignoring road signs",
+      "C": "Speeding",
+      "D": "Tailgating"
+    },
+    "correct_answer": "A",
+    "explanation": "The text highlights the importance of proper signalling as a critical principle for safe driving.",
+    "topic": "Safe driving principles",
+    "id": 29
+  },
+  {
+    "question": "When approaching a zebra crossing with pedestrians present, what should a driver do?",
+    "options": {
+      "A": "Speed up to cross quickly",
+      "B": "Honk to alert pedestrians",
+      "C": "Ignore the pedestrians",
+      "D": "Stop and give way to pedestrians"
+    },
+    "correct_answer": "D",
+    "explanation": "The appropriate action when approaching a zebra crossing with pedestrians present is to stop and give way to pedestrians.",
+    "topic": "Safety for vulnerable road users",
+    "id": 30
+  },
+  {
+    "question": "In what way can effective communication with other road users be achieved according to the text?",
+    "options": {
+      "A": "Proper signalling",
+      "B": "Ignoring other drivers",
+      "C": "Tailgating",
+      "D": "Speeding"
+    },
+    "correct_answer": "A",
+    "explanation": "The text mentions that understanding and applying the principles of proper signalling is critical for responsible communication with other road users.",
+    "topic": "Responsible communication in driving",
+    "id": 31
+  },
+  {
+    "question": "What is the objective related to managing aggressive driving behaviours and road rage?",
+    "options": {
+      "A": "To encourage aggressive driving",
+      "B": "To ignore aggressive drivers",
+      "C": "To increase road rage incidents",
+      "D": "To develop strategies to manage aggressive behaviours"
+    },
+    "correct_answer": "D",
+    "explanation": "The objective related to managing aggressive driving behaviours and road rage is to develop strategies to manage aggressive behaviours.",
+    "topic": "Learning Objectives",
+    "id": 32
+  },
+  {
+    "question": "What should instructors teach regarding priority and courtesy towards road users?",
+    "options": {
+      "A": "To always put their needs first",
+      "B": "To ignore pedestrians and vulnerable road users",
+      "C": "To drive aggressively around crossings and junctions",
+      "D": "To give way to pedestrians and vulnerable road users"
+    },
+    "correct_answer": "D",
+    "explanation": "Instructors should teach to give way to pedestrians and vulnerable road users regarding priority and courtesy towards road users.",
+    "topic": "Priority and Courtesy",
+    "id": 33
+  },
+  {
+    "question": "What is the aim of the Methodological Guide for Instructors and Students?",
+    "options": {
+      "A": "To promote aggressive driving behaviours",
+      "B": "To discourage patience and consideration",
+      "C": "To ignore the principles of driver behaviour",
+      "D": "To equip with tools for safe and responsible driving"
+    },
+    "correct_answer": "D",
+    "explanation": "The aim of the Methodological Guide for Instructors and Students is to equip them with the necessary tools for safe and responsible driving.",
+    "topic": "Introduction",
+    "id": 34
+  },
+  {
+    "question": "What is the aim of the Methodological Guide for Instructors and Students mentioned in the introduction?",
+    "options": {
+      "A": "To promote aggressive driving behaviours",
+      "B": "To encourage reckless driving practices",
+      "C": "To equip instructors and students with tools for safe and responsible driving",
+      "D": "To ignore the importance of driver behaviour"
+    },
+    "correct_answer": "C",
+    "explanation": "The aim of the Methodological Guide for Instructors and Students mentioned in the introduction is to equip instructors and students with tools for safe and responsible driving.",
+    "topic": "Introduction",
+    "id": 35
+  },
+  {
+    "question": "How should drivers respond to rude drivers according to the text?",
+    "options": {
+      "A": "Speeding away",
+      "B": "Aggressively",
+      "C": "Ignoring them",
+      "D": "Calmly and safely"
+    },
+    "correct_answer": "D",
+    "explanation": "Drivers should respond to rude drivers calmly and safely to avoid escalating the situation and maintain safety on the road.",
+    "topic": "Dealing with Mistakes and Aggression",
+    "id": 36
+  },
+  {
+    "question": "What is the recommendation provided in the text to reinforce learning and application of driving principles?",
+    "options": {
+      "A": "Avoid driving altogether",
+      "B": "Encourage regular discussions about real-life driving experiences",
+      "C": "Never communicate with other road users",
+      "D": "Drive recklessly"
+    },
+    "correct_answer": "B",
+    "explanation": "The recommendation provided in the text to reinforce learning and application of driving principles is to encourage regular discussions about real-life driving experiences.",
+    "topic": "Recommendations",
+    "id": 37
+  },
+  {
+    "question": "Why is patience emphasised when interacting with vulnerable road users?",
+    "options": {
+      "A": "To rush through interactions",
+      "B": "To annoy them",
+      "C": "To ensure their safety",
+      "D": "To show dominance"
+    },
+    "correct_answer": "C",
+    "explanation": "Patience is emphasised when interacting with vulnerable road users to ensure their safety and avoid any potential accidents or harm.",
+    "topic": "Patience Around Vulnerable Road Users",
+    "id": 38
+  },
+  {
+    "question": "How should drivers respond when encountering a rude driver according to the text?",
+    "options": {
+      "A": "Ignoring them",
+      "B": "Aggressively",
+      "C": "Calmly and safely",
+      "D": "Speeding up"
+    },
+    "correct_answer": "C",
+    "explanation": "Drivers should respond calmly and safely when encountering a rude driver to avoid escalating the situation and ensure safety on the road.",
+    "topic": "Dealing with Mistakes and Aggression",
+    "id": 39
+  },
+  {
+    "question": "What is the need for extra caution and patience emphasised when interacting with vulnerable road users?",
+    "options": {
+      "A": "To ignore vulnerable road users",
+      "B": "To rush through interactions",
+      "C": "To prevent accidents and show respect",
+      "D": "To honk at them"
+    },
+    "correct_answer": "C",
+    "explanation": "The need for extra caution and patience when interacting with vulnerable road users is emphasised to prevent accidents and show respect towards them.",
+    "topic": "Patience Around Vulnerable Road Users",
+    "id": 40
+  },
+  {
+    "question": "Why is correct road positioning and lane discipline important according to the text?",
+    "options": {
+      "A": "To save time",
+      "B": "To annoy other drivers",
+      "C": "To show off driving skills",
+      "D": "To ensure safety and efficiency on the road"
+    },
+    "correct_answer": "D",
+    "explanation": "Correct road positioning and lane discipline are important to ensure safety and efficiency on the road, helping to prevent accidents and maintain traffic flow.",
+    "topic": "Road Positioning and Lane Discipline",
+    "id": 41
+  },
+  {
+    "question": "What is a key principle of attitude that every driver should embody?",
+    "options": {
+      "A": "Aggression",
+      "B": "Speeding",
+      "C": "Patience",
+      "D": "Recklessness"
+    },
+    "correct_answer": "C",
+    "explanation": "Having patience is essential for safe driving and influences the behaviour of others on the road.",
+    "topic": "Attitude in driving",
+    "id": 42
+  },
+  {
+    "question": "Describe the two-second rule and its importance in maintaining a safe following distance.",
+    "options": {
+      "A": "Following closely behind another vehicle",
+      "B": "Ignoring the distance between vehicles",
+      "C": "Speeding up to pass other vehicles quickly",
+      "D": "Keeping a two-second gap between vehicles"
+    },
+    "correct_answer": "D",
+    "explanation": "The two-second rule involves keeping a two-second gap between your vehicle and the one in front to ensure a safe following distance.",
+    "topic": "Safe following distances",
+    "id": 43
+  },
+  {
+    "question": "Provide an example of how to communicate effectively with other road users through signalling.",
+    "options": {
+      "A": "Not using indicators when changing lanes",
+      "B": "Using hand gestures instead of indicators",
+      "C": "Honking the horn to signal",
+      "D": "Using indicators to show intention to turn"
+    },
+    "correct_answer": "D",
+    "explanation": "Using indicators to show your intention to turn or change lanes is an effective way to communicate with other road users.",
+    "topic": "Responsible communication",
+    "id": 44
+  },
+  {
+    "question": "Discuss the appropriate actions to take when approaching a zebra crossing with pedestrians present.",
+    "options": {
+      "A": "Stop and give way to pedestrians",
+      "B": "Speed up to cross before pedestrians",
+      "C": "Ignore the pedestrians and continue driving",
+      "D": "Drive around the pedestrians on the crossing"
+    },
+    "correct_answer": "A",
+    "explanation": "When approaching a zebra crossing with pedestrians present, it is important to stop and give way to them to ensure their safety.",
+    "topic": "Vulnerable road users",
+    "id": 45
+  },
+  {
+    "question": "Reflect on a personal experience where patience was required while driving. How did you handle the situation?",
+    "options": {
+      "A": "I reacted aggressively and honked at other drivers",
+      "B": "I sped up to overtake slow-moving vehicles",
+      "C": "I remained calm and waited for the situation to resolve",
+      "D": "I ignored the need for patience and drove recklessly"
+    },
+    "correct_answer": "C",
+    "explanation": "In situations where patience is required while driving, it is important to remain calm and wait for the situation to resolve without reacting aggressively.",
+    "topic": "Personal experience with patience while driving",
+    "id": 46
+  },
+  {
+    "question": "How does the text suggest drivers can enhance road safety?",
+    "options": {
+      "A": "By speeding up",
+      "B": "By being aggressive",
+      "C": "By ignoring road rules",
+      "D": "By prioritising courtesy and patience"
+    },
+    "correct_answer": "D",
+    "explanation": "Prioritising courtesy and patience can significantly enhance road safety according to the text.",
+    "topic": "Enhancing road safety",
+    "id": 47
+  },
+  {
+    "question": "What is a critical aspect of responsible communication mentioned in the text?",
+    "options": {
+      "A": "Ignoring other road users",
+      "B": "Speeding up",
+      "C": "Proper signalling",
+      "D": "Disregarding road signs"
+    },
+    "correct_answer": "C",
+    "explanation": "Understanding and applying the principles of safe following distances, proper signalling, and responsible communication are mentioned as critical aspects in the text.",
+    "topic": "Responsible communication",
+    "id": 48
+  },
+  {
+    "question": "Why is special consideration needed for vulnerable road users according to the text?",
+    "options": {
+      "A": "To inconvenience them",
+      "B": "To speed past them",
+      "C": "To ignore them",
+      "D": "To ensure their safety"
+    },
+    "correct_answer": "D",
+    "explanation": "Special consideration must be given to vulnerable road users to ensure their safety as mentioned in the text.",
+    "topic": "Vulnerable road users",
+    "id": 49
+  },
+  {
+    "question": "What is the importance of correct road positioning and lane discipline according to the text?",
+    "options": {
+      "A": "To avoid using horns and headlights inappropriately",
+      "B": "To maintain a calm attitude while driving",
+      "C": "To encourage regular discussions about real-life driving experiences",
+      "D": "To practice clear signalling and communication with other road users"
+    },
+    "correct_answer": "D",
+    "explanation": "The text emphasises the importance of correct road positioning and lane discipline to ensure safe driving practices. This includes using diagrams to illustrate the correct and incorrect positioning.",
+    "topic": "Road Positioning and Lane Discipline",
+    "id": 50
+  }
+]

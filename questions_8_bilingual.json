@@ -1,0 +1,893 @@
+[
+  {
+    "id": "Q8WHI3",
+    "file_id": "page_027",
+    "question": {
+      "es": "Un turismo circula por una carretera convencional, ¿Cuándo se considera su velocidad anormalmente reducida?",
+      "ru": "Легковой автомобиль движется по обычной дороге, когда его скорость считается аномально низкой?"
+    },
+    "options": {
+      "a": {
+        "es": "Cuando sea menor de 60 km/h.",
+        "ru": "Когда скорость меньше 60 км/ч."
+      },
+      "b": {
+        "es": "Cuando sea menor de 45 km/h.",
+        "ru": "Когда скорость меньше 45 км/ч."
+      },
+      "c": {
+        "es": "Cuando sea menor de 40 km/h.",
+        "ru": "Когда скорость меньше 40 км/ч."
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "es": "Se considera velocidad anormalmente reducida cuando es inferior a 45 km/h en una carretera convencional.",
+      "ru": "Скорость считается аномально низкой, если она ниже 45 км/ч на обычной дороге."
+    }
+  },
+  {
+    "id": "QHNWUA",
+    "file_id": "page_033",
+    "question": {
+      "es": "La velocidad máxima, con carácter general, para un vehículo especial es...",
+      "ru": "Максимальная скорость, как правило, для специального транспортного средства составляет..."
+    },
+    "options": {
+      "a": {
+        "es": "70 km/h.",
+        "ru": "70 км/ч"
+      },
+      "b": {
+        "es": "40 km/h.",
+        "ru": "40 км/ч"
+      },
+      "c": {
+        "es": "25 km/h.",
+        "ru": "25 км/ч"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "es": "La velocidad máxima general para un vehículo especial es 70 km/h, salvo indicación contraria.",
+      "ru": "Максимальная скорость для специального транспортного средства обычно составляет 70 км/ч, если не указано иное."
+    }
+  },
+  {
+    "id": "QXUN7Y",
+    "file_id": "page_032",
+    "question": {
+      "es": "La velocidad máxima en travesías y urbanas es de 50 km/h, ¿Se podrá establecer una velocidad máxima inferior a esta?",
+      "ru": "Максимальная скорость в населённых пунктах и городских зонах составляет 50 км/ч, можно ли установить максимальную скорость ниже этой?"
+    },
+    "options": {
+      "a": {
+        "es": "No.",
+        "ru": "Нет."
+      },
+      "b": {
+        "es": "Sí.",
+        "ru": "Да."
+      },
+      "c": {
+        "es": "En vías urbanas sí, en travesías no.",
+        "ru": "В городских зонах да, в населённых пунктах нет."
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "es": "Sí, se puede establecer una velocidad máxima inferior a 50 km/h en travesías y vías urbanas para mejorar la seguridad vial.",
+      "ru": "Да, можно установить максимальную скорость ниже 50 км/ч в населённых пунктах и городских зонах для повышения безопасности дорожного движения."
+    }
+  },
+  {
+    "id": "Q4XXNK",
+    "file_id": "page_018",
+    "question": {
+      "es": "En una autovía con tres carriles para cada sentido, ¿Qué distancia de seguridad debe dejar un turismo con el vehículo que circula delante?",
+      "ru": "На автомагистрали с тремя полосами в каждом направлении, какую дистанцию безопасности должен соблюдать легковой автомобиль по отношению к движущемуся впереди транспортному средству?"
+    },
+    "options": {
+      "a": {
+        "es": "50 metros.",
+        "ru": "50 метров."
+      },
+      "b": {
+        "es": "La que permita detener el vehículo en caso de frenado brusco.",
+        "ru": "Такую, чтобы можно было остановить транспортное средство при резком торможении."
+      },
+      "c": {
+        "es": "La que permita detener el vehículo en caso de frenado brusco y permita que los demás adelanten con seguridad.",
+        "ru": "Такую, чтобы можно было остановить транспортное средство при резком торможении и чтобы другие могли безопасно обгонять."
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "es": "La distancia de seguridad debe ser suficiente para detener el vehículo en caso de frenado brusco y permitir que otros vehículos adelanten con seguridad.",
+      "ru": "Дистанция безопасности должна быть такой, чтобы можно было остановить транспортное средство при резком торможении и чтобы другие могли безопасно обгонять."
+    }
+  },
+  {
+    "id": "QOUCDV",
+    "file_id": "page_019",
+    "question": {
+      "es": "Al circular a mayor velocidad...",
+      "ru": "При движении с большей скоростью..."
+    },
+    "options": {
+      "a": {
+        "es": "Se perciben peor las señales de tráfico.",
+        "ru": "Знаки дорожного движения воспринимаются хуже."
+      },
+      "b": {
+        "es": "Se perciben mejor las señales de tráfico.",
+        "ru": "Знаки дорожного движения воспринимаются лучше."
+      },
+      "c": {
+        "es": "Se puede ver y analizar mejor lo que ocurre alrededor.",
+        "ru": "Можно лучше видеть и анализировать происходящее вокруг."
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "es": "Al aumentar la velocidad, el tiempo para percibir y reaccionar a las señales disminuye, por lo que se perciben peor.",
+      "ru": "При увеличении скорости время на восприятие и реакцию на знаки уменьшается, поэтому они воспринимаются хуже."
+    }
+  },
+  {
+    "id": "QYEYGP",
+    "file_id": "page_031",
+    "question": {
+      "es": "¿Cuál es la velocidad máxima permitida para una motocicleta en travesía?",
+      "ru": "Какова максимальная разрешённая скорость для мотоцикла в населённом пункте?"
+    },
+    "options": {
+      "a": {
+        "es": "90 km/h.",
+        "ru": "90 км/ч"
+      },
+      "b": {
+        "es": "50 km/h.",
+        "ru": "50 км/ч"
+      },
+      "c": {
+        "es": "45 km/h.",
+        "ru": "45 км/ч"
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "es": "La velocidad máxima permitida para una motocicleta en travesía es de 50 km/h según la normativa de tráfico.",
+      "ru": "Максимально разрешённая скорость для мотоцикла в населённом пункте составляет 50 км/ч согласно правилам дорожного движения."
+    }
+  },
+  {
+    "id": "Q04IBL",
+    "file_id": "page_009",
+    "question": {
+      "es": "En esta calle no hay señal de limitación de velocidad, ¿A qué velocidad máxima se puede circular?",
+      "ru": "На этой улице нет знака ограничения скорости, с какой максимальной скоростью можно двигаться?"
+    },
+    "options": {
+      "a": {
+        "es": "50 km/h.",
+        "ru": "50 км/ч"
+      },
+      "b": {
+        "es": "30 km/h.",
+        "ru": "30 км/ч"
+      },
+      "c": {
+        "es": "20 km/h.",
+        "ru": "20 км/ч"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "es": "En vías urbanas sin señalización específica, la velocidad máxima permitida es de 50 km/h.",
+      "ru": "На городских улицах без специальной знаковой информации максимальная разрешённая скорость составляет 50 км/ч."
+    }
+  },
+  {
+    "id": "QJPQTA",
+    "file_id": "page_021",
+    "question": {
+      "es": "La velocidad adecuada suele estar...",
+      "ru": "Соответствующая скорость обычно находится..."
+    },
+    "options": {
+      "a": {
+        "es": "Por debajo de la velocidad mínima.",
+        "ru": "Ниже минимальной скорости."
+      },
+      "b": {
+        "es": "Por encima de la velocidad máxima y por debajo de la mínima.",
+        "ru": "Выше максимальной скорости и ниже минимальной."
+      },
+      "c": {
+        "es": "Por encima de la velocidad mínima y por debajo de la máxima.",
+        "ru": "Выше минимальной скорости и ниже максимальной."
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "es": "La velocidad adecuada debe estar entre la velocidad mínima y la máxima para garantizar la seguridad y el buen flujo del tráfico.",
+      "ru": "Соответствующая скорость должна находиться между минимальной и максимальной скоростью для обеспечения безопасности и правильного движения транспорта."
+    }
+  },
+  {
+    "id": "QG7DPW",
+    "file_id": "page_020",
+    "question": {
+      "es": "Los límites de velocidad establecidos en las vías tienen como objetivo...",
+      "ru": "Установленные ограничения скорости на дорогах имеют целью..."
+    },
+    "options": {
+      "a": {
+        "es": "Garantizar la seguridad y la fluidez, y depende de las curvas.",
+        "ru": "Обеспечить безопасность и плавность движения, и зависят от поворотов."
+      },
+      "b": {
+        "es": "Garantizar la seguridad y la fluidez, y depende de su trazado y tráfico.",
+        "ru": "Обеспечить безопасность и плавность движения, и зависят от конфигурации дороги и трафика."
+      },
+      "c": {
+        "es": "Adaptar la conducción a las nuevas tecnologías de los vehículos y el medio ambiente.",
+        "ru": "Адаптировать вождение к новым технологиям транспортных средств и окружающей среде."
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "es": "Los límites de velocidad se establecen para garantizar la seguridad y la fluidez del tráfico, teniendo en cuenta el trazado de la vía y el volumen de tráfico.",
+      "ru": "Ограничения скорости устанавливаются для обеспечения безопасности и плавности движения, учитывая конфигурацию дороги и интенсивность трафика."
+    }
+  },
+  {
+    "id": "QDWGNH",
+    "file_id": "page_008",
+    "question": {
+      "es": "¿Cuál es la velocidad máxima en una vía urbana con un único carril por sentido de circulación?",
+      "ru": "Какова максимальная скорость на городской дороге с одной полосой движения в каждом направлении?"
+    },
+    "options": {
+      "a": {
+        "es": "50 km/h.",
+        "ru": "50 км/ч"
+      },
+      "b": {
+        "es": "45 km/h.",
+        "ru": "45 км/ч"
+      },
+      "c": {
+        "es": "30 km/h.",
+        "ru": "30 км/ч"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "es": "La velocidad máxima en vías urbanas con un único carril por sentido es de 50 km/h según la normativa vigente.",
+      "ru": "Максимальная скорость на городских дорогах с одной полосой в каждом направлении составляет 50 км/ч согласно действующим правилам."
+    }
+  },
+  {
+    "id": "QMYPBN",
+    "file_id": "page_022",
+    "question": {
+      "es": "Al aproximarnos a un autobús con esta señal en su parte posterior y que se encuentra parado recogiendo pasajeros, se deberá...",
+      "ru": "При приближении к автобусу с этим знаком на задней части, который остановился для посадки пассажиров, необходимо..."
+    },
+    "options": {
+      "a": {
+        "es": "Parar siempre detrás del vehículo hasta que reanude la marcha.",
+        "ru": "Всегда останавливаться за транспортным средством до возобновления движения."
+      },
+      "b": {
+        "es": "Reducir la velocidad y si fuera preciso detener el vehículo.",
+        "ru": "Снизить скорость и при необходимости остановить транспортное средство."
+      },
+      "c": {
+        "es": "Avisar de nuestra presencia con ráfagas de luz.",
+        "ru": "Предупредить о своем присутствии миганием фар."
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "es": "Se debe reducir la velocidad y detenerse si es necesario para garantizar la seguridad de los pasajeros que suben o bajan del autobús.",
+      "ru": "Необходимо снизить скорость и при необходимости остановиться, чтобы обеспечить безопасность пассажиров, которые садятся или выходят из автобуса."
+    }
+  },
+  {
+    "id": "QVP088",
+    "file_id": "page_036",
+    "question": {
+      "es": "La velocidad máxima para un vehículo mixto adaptable en autovía es...",
+      "ru": "Максимальная скорость для адаптируемого смешанного транспортного средства на автомагистрали составляет..."
+    },
+    "options": {
+      "a": {
+        "es": "120 km/h.",
+        "ru": "120 км/ч"
+      },
+      "b": {
+        "es": "100 km/h.",
+        "ru": "100 км/ч"
+      },
+      "c": {
+        "es": "90 km/h.",
+        "ru": "90 км/ч"
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "es": "La velocidad máxima para un vehículo mixto adaptable en autovía es de 100 km/h según la normativa vigente.",
+      "ru": "Максимальная скорость для адаптируемого смешанного транспортного средства на автомагистрали составляет 100 км/ч согласно действующим правилам."
+    }
+  },
+  {
+    "id": "Q1ZCSW",
+    "file_id": "page_037",
+    "question": {
+      "es": "¿A qué velocidad máxima podrá circular un autobús que transporta escolares por una autovía?",
+      "ru": "С какой максимальной скоростью может двигаться автобус, перевозящий школьников, по автомагистрали?"
+    },
+    "options": {
+      "a": {
+        "es": "100 km/h.",
+        "ru": "100 км/ч"
+      },
+      "b": {
+        "es": "90 km/h.",
+        "ru": "90 км/ч"
+      },
+      "c": {
+        "es": "80 km/h.",
+        "ru": "80 км/ч"
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "es": "La velocidad máxima permitida para un autobús que transporta escolares en una autovía es de 90 km/h para garantizar la seguridad de los pasajeros.",
+      "ru": "Максимальная разрешённая скорость для автобуса, перевозящего школьников по автомагистрали, составляет 90 км/ч для обеспечения безопасности пассажиров."
+    }
+  },
+  {
+    "id": "QD2G0D",
+    "file_id": "page_050",
+    "question": {
+      "es": "¿Por qué es importante no superar 90 km/h en convencionales?",
+      "ru": "Почему важно не превышать 90 км/ч на обычных дорогах?"
+    },
+    "options": {
+      "a": {
+        "es": "Por la densidad del tráfico.",
+        "ru": "Из-за плотности движения."
+      },
+      "b": {
+        "es": "Porque los sentidos están muy juntos y puede haber vehículos en sentido contrario.",
+        "ru": "Потому что полосы движения очень близко друг к другу и могут быть встречные транспортные средства."
+      },
+      "c": {
+        "es": "Porque se producen muchos adelantamientos.",
+        "ru": "Потому что происходит много обгонов."
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "es": "Porque en las carreteras convencionales los sentidos están muy juntos y puede haber vehículos en sentido contrario, lo que aumenta el riesgo de accidentes a altas velocidades.",
+      "ru": "Потому что на обычных дорогах полосы движения расположены очень близко, и могут быть встречные транспортные средства, что увеличивает риск аварий на высоких скоростях."
+    }
+  },
+  {
+    "id": "Q2URSG",
+    "file_id": "page_051",
+    "question": {
+      "es": "Un turismo podrá superar en 20 km/h la velocidad máxima genérica para adelantar...",
+      "ru": "Легковой автомобиль может превысить максимальную общую скорость на 20 км/ч для обгона..."
+    },
+    "options": {
+      "a": {
+        "es": "No se permite superar la velocidad genérica de la vía.",
+        "ru": "Превышать общую скорость на дороге не разрешается."
+      },
+      "b": {
+        "es": "En carreteras convencionales y vías para automóviles.",
+        "ru": "На обычных дорогах и дорогах для автомобилей."
+      },
+      "c": {
+        "es": "En carreteras convencionales, autovías y autopistas.",
+        "ru": "На обычных дорогах, автомагистралях и скоростных дорогах."
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "es": "Un turismo puede superar en 20 km/h la velocidad máxima genérica solo en carreteras convencionales y vías para automóviles para realizar un adelantamiento seguro.",
+      "ru": "Легковой автомобиль может превысить максимальную общую скорость на 20 км/ч только на обычных дорогах и дорогах для автомобилей для безопасного обгона."
+    }
+  },
+  {
+    "id": "QO5GYQ",
+    "file_id": "page_056",
+    "question": {
+      "es": "A partir de la señal de la fotografía, ¿Qué distancia de seguridad es obligatorio mantener, como mínimo, con la motocicleta?",
+      "ru": "Исходя из знака на фотографии, какое минимальное безопасное расстояние обязательно соблюдать с мотоциклом?"
+    },
+    "options": {
+      "a": {
+        "es": "50 metros.",
+        "ru": "50 метров."
+      },
+      "b": {
+        "es": "Una separación que permita al vehículo que circula detrás adelantar con seguridad.",
+        "ru": "Расстояние, позволяющее транспортному средству, движущемуся сзади, безопасно обогнать."
+      },
+      "c": {
+        "es": "Una separación que permita detenerse sin colisionar con ella.",
+        "ru": "Расстояние, позволяющее остановиться без столкновения с ним."
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "es": "La distancia de seguridad debe ser suficiente para detenerse sin colisionar con el vehículo que circula delante.",
+      "ru": "Безопасное расстояние должно быть таким, чтобы можно было остановиться без столкновения с движущимся впереди транспортным средством."
+    }
+  },
+  {
+    "id": "QORG6N",
+    "file_id": "page_042",
+    "question": {
+      "es": "Un turismo en esta vía, ¿A qué velocidad máxima puede adelantar?",
+      "ru": "Легковой автомобиль на этой дороге, с какой максимальной скоростью он может обгонять?"
+    },
+    "options": {
+      "a": {
+        "es": "120 km/h.",
+        "ru": "120 км/ч"
+      },
+      "b": {
+        "es": "110 km/h.",
+        "ru": "110 км/ч"
+      },
+      "c": {
+        "es": "90 km/h.",
+        "ru": "90 км/ч"
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "es": "En esta vía, la velocidad máxima para adelantar un turismo es de 110 km/h según la normativa vigente.",
+      "ru": "На этой дороге максимальная скорость для обгона легкового автомобиля составляет 110 км/ч согласно действующим правилам."
+    }
+  },
+  {
+    "id": "QRA7EB",
+    "file_id": "page_043",
+    "question": {
+      "es": "En una carretera convencional, ¿A qué velocidad puede adelantar un turismo a un vehículo que circula a 90 km/h?",
+      "ru": "На обычной дороге, с какой скоростью может легковой автомобиль обгонять транспортное средство, движущееся со скоростью 90 км/ч?"
+    },
+    "options": {
+      "a": {
+        "es": "No puede adelantar porque el vehículo circula a la velocidad máxima de la vía.",
+        "ru": "Он не может обгонять, потому что транспортное средство движется с максимальной скоростью на данном участке."
+      },
+      "b": {
+        "es": "120 km/h.",
+        "ru": "120 км/ч."
+      },
+      "c": {
+        "es": "110 km/h.",
+        "ru": "110 км/ч."
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "es": "En una carretera convencional, la velocidad máxima para turismos es generalmente 90 km/h, pero para adelantar se permite aumentar la velocidad hasta 110 km/h.",
+      "ru": "На обычной дороге максимальная скорость для легковых автомобилей обычно 90 км/ч, но при обгоне разрешается увеличить скорость до 110 км/ч."
+    }
+  },
+  {
+    "id": "Q1Q5GZ",
+    "file_id": "page_054",
+    "question": {
+      "es": "¿Puede adelantar a un vehículo que circula en esta vía a 70 km/h?",
+      "ru": "Можно ли обгонять транспортное средство, движущееся по этой дороге со скоростью 70 км/ч?"
+    },
+    "options": {
+      "a": {
+        "es": "Sí, a 110 km/h.",
+        "ru": "Да, со скоростью 110 км/ч."
+      },
+      "b": {
+        "es": "Sí, a 90 km/h.",
+        "ru": "Да, со скоростью 90 км/ч."
+      },
+      "c": {
+        "es": "No, nunca.",
+        "ru": "Нет, никогда."
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "es": "Se puede adelantar respetando el límite de velocidad permitido, que en este caso es 90 km/h.",
+      "ru": "Обгон разрешён при соблюдении установленного ограничения скорости, которое в данном случае составляет 90 км/ч."
+    }
+  },
+  {
+    "id": "QYAFZM",
+    "file_id": "page_040",
+    "question": {
+      "es": "En una autovía dentro de poblado, ¿A qué velocidad puede circular como máximo si no existe señalización?",
+      "ru": "На автомагистрали внутри населённого пункта, с какой максимальной скоростью можно двигаться, если отсутствует дорожная сигнализация?"
+    },
+    "options": {
+      "a": {
+        "es": "120 km/h.",
+        "ru": "120 км/ч"
+      },
+      "b": {
+        "es": "100 km/h.",
+        "ru": "100 км/ч"
+      },
+      "c": {
+        "es": "80 km/h.",
+        "ru": "80 км/ч"
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "es": "Dentro de poblado, la velocidad máxima en una autovía sin señalización es de 80 km/h.",
+      "ru": "Внутри населённого пункта максимальная скорость на автомагистрали без дорожных знаков составляет 80 км/ч."
+    }
+  },
+  {
+    "id": "QGGXK2",
+    "file_id": "page_049",
+    "question": {
+      "es": "En autovía, ¿A qué velocidad máxima puede circular un turismo?",
+      "ru": "На автомагистрали, с какой максимальной скоростью может двигаться легковой автомобиль?"
+    },
+    "options": {
+      "a": {
+        "es": "120 km/h, pudiendo alcanzar los 140 km/h para adelantar.",
+        "ru": "120 км/ч, с возможностью достижения 140 км/ч для обгона."
+      },
+      "b": {
+        "es": "120 km/h.",
+        "ru": "120 км/ч."
+      },
+      "c": {
+        "es": "100 km/h.",
+        "ru": "100 км/ч."
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "es": "La velocidad máxima permitida para un turismo en autovía es 120 km/h, sin excepciones para adelantar.",
+      "ru": "Максимально разрешённая скорость для легкового автомобиля на автомагистрали составляет 120 км/ч, без исключений для обгона."
+    }
+  },
+  {
+    "id": "QUCEYZ",
+    "file_id": "page_006",
+    "question": {
+      "es": "¿A qué velocidad máxima puede circular un turismo en esta carretera?",
+      "ru": "С какой максимальной скоростью может двигаться легковой автомобиль по этой дороге?"
+    },
+    "options": {
+      "a": {
+        "es": "90 km/h.",
+        "ru": "90 км/ч"
+      },
+      "b": {
+        "es": "80 km/h.",
+        "ru": "80 км/ч"
+      },
+      "c": {
+        "es": "70 km/h.",
+        "ru": "70 км/ч"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "es": "La velocidad máxima permitida para turismos en esta carretera es de 90 km/h, según la normativa vigente.",
+      "ru": "Максимально разрешённая скорость для легковых автомобилей на этой дороге составляет 90 км/ч согласно действующим правилам."
+    }
+  },
+  {
+    "id": "QP53JA",
+    "file_id": "page_007",
+    "question": {
+      "es": "En esta vía, ¿Cuál es la velocidad mínima de un turismo?",
+      "ru": "На этой дороге, какова минимальная скорость для легкового автомобиля?"
+    },
+    "options": {
+      "a": {
+        "es": "60 km/h.",
+        "ru": "60 км/ч"
+      },
+      "b": {
+        "es": "45 km/h.",
+        "ru": "45 км/ч"
+      },
+      "c": {
+        "es": "40 km/h.",
+        "ru": "40 км/ч"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "es": "La velocidad mínima en esta vía para un turismo es de 60 km/h para garantizar la fluidez y seguridad del tráfico.",
+      "ru": "Минимальная скорость на этой дороге для легкового автомобиля составляет 60 км/ч для обеспечения плавности и безопасности движения."
+    }
+  },
+  {
+    "id": "QSB9H3",
+    "file_id": "page_005",
+    "question": {
+      "es": "Un turismo con remolque de 750 kg de MMA, ¿A qué velocidad puede circular como máximo en una autovía?",
+      "ru": "Легковой автомобиль с прицепом массой 750 кг максимальной разрешённой массы, с какой максимальной скоростью он может двигаться по автомагистрали?"
+    },
+    "options": {
+      "a": {
+        "es": "120 km/h.",
+        "ru": "120 км/ч"
+      },
+      "b": {
+        "es": "100 km/h.",
+        "ru": "100 км/ч"
+      },
+      "c": {
+        "es": "90 km/h.",
+        "ru": "90 км/ч"
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "es": "Un turismo con remolque de hasta 750 kg de MMA puede circular como máximo a 100 km/h en una autovía.",
+      "ru": "Легковой автомобиль с прицепом массой до 750 кг максимальной разрешённой массы может двигаться по автомагистрали со скоростью не более 100 км/ч."
+    }
+  },
+  {
+    "id": "Q9KRXY",
+    "file_id": "page_039",
+    "question": {
+      "es": "Una autocaravana de 3.600 kg de MMA, ¿A qué velocidad máxima puede circular por una carretera convencional?",
+      "ru": "Автодом с максимальной массой 3 600 кг, с какой максимальной скоростью он может двигаться по обычной дороге?"
+    },
+    "options": {
+      "a": {
+        "es": "90 km/h.",
+        "ru": "90 км/ч"
+      },
+      "b": {
+        "es": "80 km/h.",
+        "ru": "80 км/ч"
+      },
+      "c": {
+        "es": "70 km/h.",
+        "ru": "70 км/ч"
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "es": "Una autocaravana con una MMA superior a 3.500 kg debe respetar el límite de velocidad de 80 km/h en carreteras convencionales.",
+      "ru": "Автодом с максимальной массой более 3 500 кг должен соблюдать ограничение скорости 80 км/ч на обычных дорогах."
+    }
+  },
+  {
+    "id": "Q7TGLV",
+    "file_id": "page_038",
+    "question": {
+      "es": "¿A qué velocidad máxima tiene permitido circular una autocaravana de 3.500 kg de MMA en una autovía?",
+      "ru": "С какой максимальной скоростью разрешено двигаться автодомом массой 3.500 кг по автомагистрали?"
+    },
+    "options": {
+      "a": {
+        "es": "120 km/h.",
+        "ru": "120 км/ч"
+      },
+      "b": {
+        "es": "100 km/h.",
+        "ru": "100 км/ч"
+      },
+      "c": {
+        "es": "90 km/h.",
+        "ru": "90 км/ч"
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "es": "La velocidad máxima permitida para una autocaravana de hasta 3.500 kg de MMA en una autovía es de 100 km/h.",
+      "ru": "Максимальная разрешённая скорость для автодома массой до 3.500 кг на автомагистрали составляет 100 км/ч."
+    }
+  },
+  {
+    "id": "QYENQ7",
+    "file_id": "page_004",
+    "question": {
+      "es": "Al aproximarse a un vehículo inmovilizado en la calzada, ¿Es obligatorio moderar la velocidad?",
+      "ru": "При приближении к неподвижному транспортному средству на проезжей части, обязательно ли снижать скорость?"
+    },
+    "options": {
+      "a": {
+        "es": "Sólo en vías fuera de poblado.",
+        "ru": "Только на дорогах вне населённых пунктов."
+      },
+      "b": {
+        "es": "Sí, en cualquier tipo de vía.",
+        "ru": "Да, на любом типе дороги."
+      },
+      "c": {
+        "es": "No.",
+        "ru": "Нет."
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "es": "Es obligatorio moderar la velocidad al aproximarse a un vehículo inmovilizado para garantizar la seguridad vial en cualquier tipo de vía.",
+      "ru": "Обязательно снижать скорость при приближении к неподвижному транспортному средству для обеспечения безопасности на любом типе дороги."
+    }
+  },
+  {
+    "id": "QYQVI7",
+    "file_id": "page_010",
+    "question": {
+      "es": "En esta vía urbana, donde hay dos carriles para el sentido contrario y un carril para nuestro sentido, ¿Cuál será la velocidad máxima a la que podemos circular con el vehículo azul?",
+      "ru": "На этой городской дороге, где есть две полосы для встречного направления и одна полоса для нашего направления, какова максимальная скорость, с которой мы можем двигаться на синем автомобиле?"
+    },
+    "options": {
+      "a": {
+        "es": "50 km/h.",
+        "ru": "50 км/ч"
+      },
+      "b": {
+        "es": "30 km/h.",
+        "ru": "30 км/ч"
+      },
+      "c": {
+        "es": "20 km/h.",
+        "ru": "20 км/ч"
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "es": "En vías urbanas con un carril por sentido, la velocidad máxima permitida es de 30 km/h para garantizar la seguridad vial.",
+      "ru": "На городских дорогах с одной полосой в каждом направлении максимальная разрешённая скорость составляет 30 км/ч для обеспечения безопасности дорожного движения."
+    }
+  },
+  {
+    "id": "QY103Y",
+    "file_id": "page_028",
+    "question": {
+      "es": "Como norma general en una autovía, ¿Está permitido circular a 50 km/h?",
+      "ru": "Как правило, на автомагистрали разрешено ли движение со скоростью 50 км/ч?"
+    },
+    "options": {
+      "a": {
+        "es": "No, como mínimo hay que circular a 100 km/h.",
+        "ru": "Нет, минимальная скорость должна быть 100 км/ч."
+      },
+      "b": {
+        "es": "No, como mínimo hay que circular a 60 km/h.",
+        "ru": "Нет, минимальная скорость должна быть 60 км/ч."
+      },
+      "c": {
+        "es": "Sí, ya que es la velocidad mínima permitida.",
+        "ru": "Да, так как это минимально разрешённая скорость."
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "es": "En una autovía, la velocidad mínima permitida generalmente es de 60 km/h, pero no se permite circular a 50 km/h porque es inferior a la mínima establecida.",
+      "ru": "На автомагистрали минимальная разрешённая скорость обычно составляет 60 км/ч, движение со скоростью 50 км/ч не допускается, так как она ниже установленного минимума."
+    }
+  },
+  {
+    "id": "QWLR0X",
+    "file_id": "page_014",
+    "question": {
+      "es": "Un tractor que es capaz de desarrollar en llano más de 60 km/h, circulará fuera de poblado a...",
+      "ru": "Трактор, способный развивать на ровной местности скорость более 60 км/ч, будет двигаться вне населённого пункта со скоростью..."
+    },
+    "options": {
+      "a": {
+        "es": "70 km/h.",
+        "ru": "70 км/ч"
+      },
+      "b": {
+        "es": "40 km/h.",
+        "ru": "40 км/ч"
+      },
+      "c": {
+        "es": "25 km/h.",
+        "ru": "25 км/ч"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "es": "Un tractor que puede superar los 60 km/h en llano puede circular fuera de poblado a una velocidad máxima de 70 km/h.",
+      "ru": "Трактор, способный развивать скорость более 60 км/ч, может двигаться вне населённого пункта с максимальной скоростью 70 км/ч."
+    }
+  },
+  {
+    "id": "QHQBHI",
+    "file_id": "page_015",
+    "question": {
+      "es": "¿Cuál es la velocidad máxima para un autobús que realiza transporte escolar en poblado?",
+      "ru": "Какова максимальная скорость для автобуса, осуществляющего перевозку школьников в населённом пункте?"
+    },
+    "options": {
+      "a": {
+        "es": "50 km/h.",
+        "ru": "50 км/ч"
+      },
+      "b": {
+        "es": "40 km/h.",
+        "ru": "40 км/ч"
+      },
+      "c": {
+        "es": "30 km/h.",
+        "ru": "30 км/ч"
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "es": "La velocidad máxima para un autobús que realiza transporte escolar en poblado es de 30 km/h para garantizar la seguridad de los niños.",
+      "ru": "Максимальная скорость для автобуса, перевозящего школьников в населённом пункте, составляет 30 км/ч для обеспечения безопасности детей."
+    }
+  },
+  {
+    "id": "QHU3RH",
+    "file_id": "page_017",
+    "question": {
+      "es": "La obligación de dejar espacio suficiente para permitir el adelantamiento no será aplicable...",
+      "ru": "Обязанность оставлять достаточное пространство для выполнения обгона не применяется..."
+    },
+    "options": {
+      "a": {
+        "es": "En carreteras convencionales.",
+        "ru": "На обычных дорогах."
+      },
+      "b": {
+        "es": "En vías con un único carril para cada sentido.",
+        "ru": "На дорогах с одной полосой движения в каждом направлении."
+      },
+      "c": {
+        "es": "En lugares donde esté prohibido el adelantamiento.",
+        "ru": "В местах, где обгон запрещён."
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "es": "La obligación de dejar espacio suficiente para permitir el adelantamiento no se aplica en lugares donde está prohibido adelantar.",
+      "ru": "Обязанность оставлять достаточное пространство для обгона не применяется в местах, где обгон запрещён."
+    }
+  },
+  {
+    "id": "QVCMBU",
+    "file_id": "page_002",
+    "question": {
+      "es": "Esta señal indica el lugar en el que...",
+      "ru": "Этот знак указывает место, где..."
+    },
+    "options": {
+      "a": {
+        "es": "Comienza la obligación de circular a más de 30 km/h.",
+        "ru": "Начинается обязанность двигаться со скоростью более 30 км/ч."
+      },
+      "b": {
+        "es": "Termina la obligación de circular, al menos, a 30 km/h.",
+        "ru": "Заканчивается обязанность двигаться не менее чем со скоростью 30 км/ч."
+      },
+      "c": {
+        "es": "Finaliza la recomendación de circular a velocidad superior a 30 km/h.",
+        "ru": "Заканчивается рекомендация двигаться со скоростью выше 30 км/ч."
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "es": "Esta señal indica el lugar donde termina la obligación de circular al menos a 30 km/h.",
+      "ru": "Этот знак указывает место, где заканчивается обязанность двигаться не менее чем со скоростью 30 км/ч."
+    }
+  }
+]

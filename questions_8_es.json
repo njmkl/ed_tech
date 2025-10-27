@@ -1,0 +1,602 @@
+[
+  {
+    "id": "Q8WHI3",
+    "question": "Un turismo circula por una carretera convencional, ¿Cuándo se considera su velocidad anormalmente reducida?",
+    "options": {
+      "a": "Cuando sea menor de 60 km/h.",
+      "b": "Cuando sea menor de 45 km/h.",
+      "c": "Cuando sea menor de 40 km/h."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_027"
+  },
+  {
+    "id": "QHNWUA",
+    "question": "La velocidad máxima, con carácter general, para un vehículo especial es...",
+    "options": {
+      "a": "70 km/h.",
+      "b": "40 km/h.",
+      "c": "25 km/h."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_033"
+  },
+  {
+    "id": "QXUN7Y",
+    "question": "La velocidad máxima en travesías y urbanas es de 50 km/h, ¿Se podrá establecer una velocidad máxima inferior a esta?",
+    "options": {
+      "a": "No.",
+      "b": "Sí.",
+      "c": "En vías urbanas sí, en travesías no."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_032"
+  },
+  {
+    "id": "Q6NA6K",
+    "question": "Circular por debajo de la velocidad mínima permitida, ¿Podría ser un factor de riesgo?",
+    "options": {
+      "a": "No, nunca.",
+      "b": "No, ya que siempre se considera una velocidad adecuada.",
+      "c": "Sí, una velocidad anormalmente reducida puede causar accidentes."
+    },
+    "correct_answer": "c",
+    "explanation": "Una velocidad anormalmente reducida puede causar accidentes, ya que puede sorprender a otros conductores y alterar el flujo normal del tráfico.",
+    "file_id": "page_026"
+  },
+  {
+    "id": "Q7O7DJ",
+    "question": "El conductor de un turismo acaba de obtener su primer permiso de conducción, ¿A qué velocidad máxima le está permitido circular?",
+    "options": {
+      "a": "A la misma que el resto de conductores.",
+      "b": "A 80 km/h durante los dos primeros años.",
+      "c": "A 80 km/h durante el primer año."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_030"
+  },
+  {
+    "id": "Q4XXNK",
+    "question": "En una autovía con tres carriles para cada sentido, ¿Qué distancia de seguridad debe dejar un turismo con el vehículo que circula delante?",
+    "options": {
+      "a": "50 metros.",
+      "b": "La que permita detener el vehículo en caso de frenado brusco.",
+      "c": "La que permita detener el vehículo en caso de frenado brusco y permita que los demás adelanten con seguridad."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_018"
+  },
+  {
+    "id": "QOUCDV",
+    "question": "Al circular a mayor velocidad...",
+    "options": {
+      "a": "Se perciben peor las señales de tráfico.",
+      "b": "Se perciben mejor las señales de tráfico.",
+      "c": "Se puede ver y analizar mejor lo que ocurre alrededor."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_019"
+  },
+  {
+    "id": "QT9G2S",
+    "question": "Un vehículo circula a velocidad anormalmente reducida cuando...",
+    "options": {
+      "a": "Circula a velocidad inferior a la mínima permitida en esa vía.",
+      "b": "Circula a velocidad inferior a la del resto de los conductores.",
+      "c": "No se adapta a las circunstancias de la vía."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_025"
+  },
+  {
+    "id": "QYEYGP",
+    "question": "¿Cuál es la velocidad máxima permitida para una motocicleta en travesía?",
+    "options": {
+      "a": "90 km/h.",
+      "b": "50 km/h.",
+      "c": "45 km/h."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_031"
+  },
+  {
+    "id": "Q04IBL",
+    "question": "En esta calle no hay señal de limitación de velocidad, ¿A qué velocidad máxima se puede circular?",
+    "options": {
+      "a": "50 km/h.",
+      "b": "30 km/h.",
+      "c": "20 km/h."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_009"
+  },
+  {
+    "id": "QTNQW1",
+    "question": "¿Cuál es la velocidad máxima de un ciclomotor?",
+    "options": {
+      "a": "45 km/h, pudiendo superarla en 20 km/h para adelantar.",
+      "b": "45 km/h.",
+      "c": "40 km/h."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_035"
+  },
+  {
+    "id": "QJPQTA",
+    "question": "La velocidad adecuada suele estar...",
+    "options": {
+      "a": "Por debajo de la velocidad mínima.",
+      "b": "Por encima de la velocidad máxima y por debajo de la mínima.",
+      "c": "Por encima de la velocidad mínima y por debajo de la máxima."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_021"
+  },
+  {
+    "id": "QG7DPW",
+    "question": "Los límites de velocidad establecidos en las vías tienen como objetivo...",
+    "options": {
+      "a": "Garantizar la seguridad y la fluidez, y depende de las curvas.",
+      "b": "Garantizar la seguridad y la fluidez, y depende de su trazado y tráfico.",
+      "c": "Adaptar la conducción a las nuevas tecnologías de los vehículos y el medio ambiente."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_020"
+  },
+  {
+    "id": "QDWGNH",
+    "question": "¿Cuál es la velocidad máxima en una vía urbana con un único carril por sentido de circulación?",
+    "options": {
+      "a": "50 km/h.",
+      "b": "45 km/h.",
+      "c": "30 km/h."
+    },
+    "correct_answer": "a",
+    "explanation": "",
+    "file_id": "page_008"
+  },
+  {
+    "id": "QMYPBN",
+    "question": "Al aproximarnos a un autobús con esta señal en su parte posterior y que se encuentra parado recogiendo pasajeros, se deberá...",
+    "options": {
+      "a": "Parar siempre detrás del vehículo hasta que reanude la marcha.",
+      "b": "Reducir la velocidad y si fuera preciso detener el vehículo.",
+      "c": "Avisar de nuestra presencia con ráfagas de luz."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_022"
+  },
+  {
+    "id": "QVP088",
+    "question": "La velocidad máxima para un vehículo mixto adaptable en autovía es...",
+    "options": {
+      "a": "120 km/h.",
+      "b": "100 km/h.",
+      "c": "90 km/h."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_036"
+  },
+  {
+    "id": "Q1ZCSW",
+    "question": "¿A qué velocidad máxima podrá circular un autobús que transporta escolares por una autovía?",
+    "options": {
+      "a": "100 km/h.",
+      "b": "90 km/h.",
+      "c": "80 km/h."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_037"
+  },
+  {
+    "id": "QMZ545",
+    "question": "Ante esta situación...",
+    "options": {
+      "a": "Se debe circular a velocidad moderada, llegando incluso a detener el vehículo.",
+      "b": "Se acelerará para dejar atrás a la niña cuanto antes y evitar así el peligro.",
+      "c": "Se circulará normalmente, pues la niña no ha invadido la vía."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_023"
+  },
+  {
+    "id": "QQK877",
+    "question": "Un turismo para adelantar, ¿Puede rebasar la velocidad autorizada?",
+    "options": {
+      "a": "No, nunca.",
+      "b": "Sí, en 30 km/h.",
+      "c": "Sí, en carreteras convencionales."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_044"
+  },
+  {
+    "id": "QD2G0D",
+    "question": "¿Por qué es importante no superar 90 km/h en convencionales?",
+    "options": {
+      "a": "Por la densidad del tráfico.",
+      "b": "Porque los sentidos están muy juntos y puede haber vehículos en sentido contrario.",
+      "c": "Porque se producen muchos adelantamientos."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_050"
+  },
+  {
+    "id": "Q2URSG",
+    "question": "Un turismo podrá superar en 20 km/h la velocidad máxima genérica para adelantar...",
+    "options": {
+      "a": "No se permite superar la velocidad genérica de la vía.",
+      "b": "En carreteras convencionales y vías para automóviles.",
+      "c": "En carreteras convencionales, autovías y autopistas."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_051"
+  },
+  {
+    "id": "QLUDJK",
+    "question": "Si el vehículo de la imagen circula a 80 km/h, ¿Lo hará correctamente a partir de la señal?",
+    "options": {
+      "a": "Sí, pero puede ir a menos de 50 km/h.",
+      "b": "Sí.",
+      "c": "No."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_045"
+  },
+  {
+    "id": "QWNBVI",
+    "question": "Por esta carretera convencional, ¿Cuál es la velocidad máxima para un turismo?",
+    "options": {
+      "a": "80 km/h para circular y 100 km/h para adelantar.",
+      "b": "90 km/h para circular y 110 km/h para adelantar.",
+      "c": "90 km/h para circular y adelantar."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_053"
+  },
+  {
+    "id": "QO5GYQ",
+    "question": "A partir de la señal de la fotografía, ¿Qué distancia de seguridad es obligatorio mantener, como mínimo, con la motocicleta?",
+    "options": {
+      "a": "50 metros.",
+      "b": "Una separación que permita al vehículo que circula detrás adelantar con seguridad.",
+      "c": "Una separación que permita detenerse sin colisionar con ella."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_056"
+  },
+  {
+    "id": "QORG6N",
+    "question": "Un turismo en esta vía, ¿A qué velocidad máxima puede adelantar?",
+    "options": {
+      "a": "120 km/h.",
+      "b": "110 km/h.",
+      "c": "90 km/h."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_042"
+  },
+  {
+    "id": "QRA7EB",
+    "question": "En una carretera convencional, ¿A qué velocidad puede adelantar un turismo a un vehículo que circula a 90 km/h?",
+    "options": {
+      "a": "No puede adelantar porque el vehículo circula a la velocidad máxima de la vía.",
+      "b": "120 km/h.",
+      "c": "110 km/h."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_043"
+  },
+  {
+    "id": "QZL5G4",
+    "question": "Si el vehículo de detrás se acerca demasiado, es conveniente...",
+    "options": {
+      "a": "Mantener la misma separación con el vehículo de delante.",
+      "b": "Disminuir la separación con el vehículo de delante.",
+      "c": "Aumentar la separación con el vehículo de delante."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_057"
+  },
+  {
+    "id": "QM0WJJ",
+    "question": "En este tramo de autovía, ¿Se puede circular a más de 100 km/h para adelantar?",
+    "options": {
+      "a": "No.",
+      "b": "Sí, hasta 110 km/h.",
+      "c": "Sí, hasta 120 km/h."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_041"
+  },
+  {
+    "id": "Q1I3UR",
+    "question": "A la hora de determinar la distancia de seguridad con el vehículo que circula delante...",
+    "options": {
+      "a": "Debe tener en cuenta la velocidad, la visibilidad y el estado de la calzada.",
+      "b": "Debe tener en cuenta las características del vehículo que circula delante.",
+      "c": "Debe tener en cuenta la velocidad, exclusivamente."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_055"
+  },
+  {
+    "id": "Q1Q5GZ",
+    "question": "¿Puede adelantar a un vehículo que circula en esta vía a 70 km/h?",
+    "options": {
+      "a": "Sí, a 110 km/h.",
+      "b": "Sí, a 90 km/h.",
+      "c": "No, nunca."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_054"
+  },
+  {
+    "id": "QYAFZM",
+    "question": "En una autovía dentro de poblado, ¿A qué velocidad puede circular como máximo si no existe señalización?",
+    "options": {
+      "a": "120 km/h.",
+      "b": "100 km/h.",
+      "c": "80 km/h."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_040"
+  },
+  {
+    "id": "Q54AAV",
+    "question": "¿Está permitido realizar competiciones de velocidad en las vías públicas?",
+    "options": {
+      "a": "No, nunca.",
+      "b": "Como norma general no, salvo que con carácter excepcional la autoridad competente las habilite para ello.",
+      "c": "Sí, pero todas estas pruebas autorizadas irán precedidas por un agente de la autoridad con la bandera de color verde."
+    },
+    "correct_answer": "b",
+    "explanation": "Como norma general no está permitido realizar competiciones de velocidad en vías públicas, salvo que la autoridad competente las autorice excepcionalmente.",
+    "file_id": "page_048"
+  },
+  {
+    "id": "QGGXK2",
+    "question": "En autovía, ¿A qué velocidad máxima puede circular un turismo?",
+    "options": {
+      "a": "120 km/h, pudiendo alcanzar los 140 km/h para adelantar.",
+      "b": "120 km/h.",
+      "c": "100 km/h."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_049"
+  },
+  {
+    "id": "QUCEYZ",
+    "question": "¿A qué velocidad máxima puede circular un turismo en esta carretera?",
+    "options": {
+      "a": "90 km/h.",
+      "b": "80 km/h.",
+      "c": "70 km/h."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_006"
+  },
+  {
+    "id": "QW5WYP",
+    "question": "Un tractor que arrastra un remolque, ¿Qué velocidad máxima no debe rebasar fuera de poblado?",
+    "options": {
+      "a": "70 km/h.",
+      "b": "40 km/h.",
+      "c": "25 km/h."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_013"
+  },
+  {
+    "id": "QP53JA",
+    "question": "En esta vía, ¿Cuál es la velocidad mínima de un turismo?",
+    "options": {
+      "a": "60 km/h.",
+      "b": "45 km/h.",
+      "c": "40 km/h."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_007"
+  },
+  {
+    "id": "QHJ8KL",
+    "question": "En esta vía de poblado, ¿A qué velocidad como máximo podremos circular en ausencia de señalización específica?",
+    "options": {
+      "a": "50 km/h.",
+      "b": "30 km/h.",
+      "c": "20 km/h."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_011"
+  },
+  {
+    "id": "QSB9H3",
+    "question": "Un turismo con remolque de 750 kg de MMA, ¿A qué velocidad puede circular como máximo en una autovía?",
+    "options": {
+      "a": "120 km/h.",
+      "b": "100 km/h.",
+      "c": "90 km/h."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_005"
+  },
+  {
+    "id": "Q9KRXY",
+    "question": "Una autocaravana de 3.600 kg de MMA, ¿A qué velocidad máxima puede circular por una carretera convencional?",
+    "options": {
+      "a": "90 km/h.",
+      "b": "80 km/h.",
+      "c": "70 km/h."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_039"
+  },
+  {
+    "id": "Q7TGLV",
+    "question": "¿A qué velocidad máxima tiene permitido circular una autocaravana de 3.500 kg de MMA en una autovía?",
+    "options": {
+      "a": "120 km/h.",
+      "b": "100 km/h.",
+      "c": "90 km/h."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_038"
+  },
+  {
+    "id": "QYENQ7",
+    "question": "Al aproximarse a un vehículo inmovilizado en la calzada, ¿Es obligatorio moderar la velocidad?",
+    "options": {
+      "a": "Sólo en vías fuera de poblado.",
+      "b": "Sí, en cualquier tipo de vía.",
+      "c": "No."
+    },
+    "correct_answer": "b",
+    "explanation": "",
+    "file_id": "page_004"
+  },
+  {
+    "id": "QYQVI7",
+    "question": "En esta vía urbana, donde hay dos carriles para el sentido contrario y un carril para nuestro sentido, ¿Cuál será la velocidad máxima a la que podemos circular con el vehículo azul?",
+    "options": {
+      "a": "50 km/h.",
+      "b": "30 km/h.",
+      "c": "20 km/h."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_010"
+  },
+  {
+    "id": "QY103Y",
+    "question": "Como norma general en una autovía, ¿Está permitido circular a 50 km/h?",
+    "options": {
+      "a": "No, como mínimo hay que circular a 100 km/h.",
+      "b": "No, como mínimo hay que circular a 60 km/h.",
+      "c": "Sí, ya que es la velocidad mínima permitida."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_028"
+  },
+  {
+    "id": "QWLR0X",
+    "question": "Un tractor que es capaz de desarrollar en llano más de 60 km/h, circulará fuera de poblado a...",
+    "options": {
+      "a": "70 km/h.",
+      "b": "40 km/h.",
+      "c": "25 km/h."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_014"
+  },
+  {
+    "id": "QHQBHI",
+    "question": "¿Cuál es la velocidad máxima para un autobús que realiza transporte escolar en poblado?",
+    "options": {
+      "a": "50 km/h.",
+      "b": "40 km/h.",
+      "c": "30 km/h."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_015"
+  },
+  {
+    "id": "QM2KUG",
+    "question": "La máxima velocidad segura que puede mantenerse sobre una sección de carretera en condiciones favorables es la velocidad...",
+    "options": {
+      "a": "De fluidez de la vía.",
+      "b": "De diseño de la vía.",
+      "c": "Adecuada de la vía."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_029"
+  },
+  {
+    "id": "Q1LYFW",
+    "question": "Un vehículo circula a velocidad inadecuada cuando...",
+    "options": {
+      "a": "Circula por debajo de la velocidad máxima y por encima de la mínima.",
+      "b": "Se adapta a las condiciones pero supera los límites establecidos.",
+      "c": "No se adapta a las circunstancias ni del tráfico ni de la vía."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_003"
+  },
+  {
+    "id": "QHU3RH",
+    "question": "La obligación de dejar espacio suficiente para permitir el adelantamiento no será aplicable...",
+    "options": {
+      "a": "En carreteras convencionales.",
+      "b": "En vías con un único carril para cada sentido.",
+      "c": "En lugares donde esté prohibido el adelantamiento."
+    },
+    "correct_answer": "c",
+    "explanation": "",
+    "file_id": "page_017"
+  },
+  {
+    "id": "QJBI65",
+    "question": "Si se pretende adelantar a este vehículo, ¿Está permitido reducir la distancia de seguridad?",
+    "options": {
+      "a": "Sí, para hacer el adelantamiento más seguro.",
+      "b": "Sí, porque así tiene mejor visión del sentido contrario.",
+      "c": "No, se debe mantener siempre la distancia de seguridad."
+    },
+    "correct_answer": "c",
+    "explanation": "No, se debe mantener siempre la distancia de seguridad para garantizar la seguridad durante el adelantamiento.",
+    "file_id": "page_016"
+  },
+  {
+    "id": "QVCMBU",
+    "question": "Esta señal indica el lugar en el que...",
+    "options": {
+      "a": "Comienza la obligación de circular a más de 30 km/h.",
+      "b": "Termina la obligación de circular, al menos, a 30 km/h.",
+      "c": "Finaliza la recomendación de circular a velocidad superior a 30 km/h."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "page_002"
+  }
+]

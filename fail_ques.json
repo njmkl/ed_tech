@@ -1,0 +1,2576 @@
+[
+  {
+    "id": "XMU2RQ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور گاڑی سے نکلنا محفوظ ہے۔ درست طریقہ کار کیا ہے جو آپ کو اپنانا چاہیے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Stay inside the vehicle with seatbelt on, switch on hazard warning lights, and wait for breakdown services without calling emergency services.",
+        "ur": "گاڑی کے اندر سیٹ بیلٹ باندھے رہیں، ہیزرڈ وارننگ لائٹس آن کریں، اور ایمرجنسی سروسز کو کال کیے بغیر بریک ڈاؤن سروسز کے انتظار میں رہیں۔"
+      },
+      "b": {
+        "en": "Place a warning triangle at least 45 metres behind your vehicle, switch on hazard warning lights, and exit on the right side away from traffic.",
+        "ur": "اپنی گاڑی کے کم از کم 45 میٹر پیچھے وارننگ ٹرائینگل رکھیں، ہیزرڈ وارننگ لائٹس آن کریں، اور ٹریفک سے دور دائیں جانب گاڑی سے باہر نکلیں۔"
+      },
+      "a": {
+        "en": "Switch on hazard warning lights and sidelights if dark, exit on the left side away from traffic, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "اگر اندھیرا ہو تو ہیزرڈ وارننگ لائٹس اور سائیڈ لائٹس آن کریں، ٹریفک سے دور بائیں جانب گاڑی سے باہر نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+      },
+      "c": {
+        "en": "Switch off hazard warning lights, exit on the left side even if it is near traffic, and call for help using your mobile phone only.",
+        "ur": "ہیزرڈ وارننگ لائٹس بند کریں، بائیں جانب گاڑی سے باہر نکلیں چاہے وہ ٹریفک کے قریب ہی کیوں نہ ہو، اور صرف اپنے موبائل فون سے مدد کے لیے کال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you must switch on hazard lights and sidelights if dark, exit the vehicle on the left side away from traffic if safe, and call for help using the nearest emergency telephone or mobile phone.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کریں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی سے باہر نکلیں، اور قریب ترین ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+    }
+  },
+  {
+    "id": "R3UEA6",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow?",
+      "ur": "آپ کا گاڑی موٹروے پر خراب ہو گئی ہے اور گاڑی سے نکلنا محفوظ ہے۔ درست طریقہ کار کیا ہے جو آپ کو اپنانا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Switch off hazard warning lights, exit on the left side towards traffic, and wait inside the vehicle with the seatbelt on.",
+        "ur": "ہزارڈ وارننگ لائٹس بند کریں، بائیں جانب ٹریفک کی طرف نکلیں، اور گاڑی کے اندر سیٹ بیلٹ باندھے انتظار کریں۔"
+      },
+      "a": {
+        "en": "Switch on hazard warning lights and sidelights if dark, exit on the left side away from traffic, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "اگر اندھیرا ہو تو ہیزرڈ وارننگ لائٹس اور سائیڈ لائٹس آن کریں، ٹریفک سے دور بائیں جانب گاڑی سے باہر نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+      },
+      "b": {
+        "en": "Place a warning triangle at least 45 metres behind your vehicle, switch on hazard warning lights, and exit on the right side away from traffic.",
+        "ur": "اپنی گاڑی سے کم از کم 45 میٹر پیچھے وارننگ ٹرائینگل رکھیں، ہیزرڈ وارننگ لائٹس آن کریں، اور ٹریفک سے دور دائیں جانب گاڑی سے باہر نکلیں۔"
+      },
+      "d": {
+        "en": "Exit the vehicle immediately without switching on hazard lights, walk along the hard shoulder to the nearest service area, and then call for help.",
+        "ur": "گاڑی سے فوراً باہر نکلیں بغیر ہیزرڈ لائٹس جلائے، ہارڈ شولڈر کے ساتھ چلتے ہوئے قریبی سروس ایریا تک جائیں، اور پھر مدد کے لیے کال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you must switch on hazard warning lights and sidelights if dark, exit on the left side away from traffic for safety, and call for help using the nearest emergency telephone or mobile phone.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو ہیزرڈ وارننگ لائٹس اور اگر اندھیرا ہو تو سائیڈ لائٹس آن کرنی چاہئیں، حفاظت کے لیے ٹریفک سے دور بائیں جانب گاڑی نکالنی چاہیے، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کرنی چاہیے۔"
+    }
+  },
+  {
+    "id": "B98EOL",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving your vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور گاڑی سے نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Cross the motorway to the right side to find a safer place away from traffic.",
+        "ur": "موٹروے کو پار کریں اور ٹریفک سے دور محفوظ جگہ کے لیے دائیں جانب جائیں۔"
+      },
+      "b": {
+        "en": "Stand on the hard shoulder near your vehicle and wait for breakdown services to arrive.",
+        "ur": "اپنی گاڑی کے قریب سخت کندھے پر کھڑے ہوں اور بریک ڈاؤن سروسز کے پہنچنے کا انتظار کریں۔"
+      },
+      "a": {
+        "en": "Move to a place of safety behind the crash barrier on the left side of the motorway and call for help using an emergency telephone or mobile phone.",
+        "ur": "موٹروے کے بائیں جانب حادثے کی رکاوٹ کے پیچھے محفوظ جگہ پر منتقل ہوں اور ایمرجنسی فون یا موبائل فون کا استعمال کرتے ہوئے مدد طلب کریں۔"
+      },
+      "d": {
+        "en": "Place a warning triangle 45 metres behind your vehicle on the hard shoulder to warn other drivers.",
+        "ur": "اپنی گاڑی سے 45 میٹر پیچھے ہارڈ شولڈر پر وارننگ ٹرائینگل رکھیں تاکہ دیگر ڈرائیورز کو خبردار کیا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you should exit the vehicle on the left side away from traffic and move to a safe place behind the crash barrier, then call for help; placing warning triangles or standing near the vehicle on the hard shoulder is unsafe and not advised.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو ٹریفک سے دور بائیں جانب گاڑی سے باہر نکلنا چاہیے اور حادثے کی رکاوٹ کے پیچھے محفوظ جگہ پر جانا چاہیے، پھر مدد کے لیے کال کریں؛ وارننگ ٹرائینگلز لگانا یا ہارڈ شولڈر پر گاڑی کے قریب کھڑا ہونا غیر محفوظ ہے اور تجویز نہیں کیا جاتا۔"
+    }
+  },
+  {
+    "id": "7L732B",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving your vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور آپ کے لیے اپنی گاڑی سے نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Stand on the hard shoulder near your vehicle while waiting for help",
+        "ur": "اپنی گاڑی کے قریب سخت کندھے پر کھڑے ہوں جب تک مدد نہ پہنچ جائے۔"
+      },
+      "a": {
+        "en": "Move to a place of safety behind a barrier on the left side of the motorway, away from traffic",
+        "ur": "موٹروے کے بائیں جانب، ٹریفک سے دور، کسی رکاوٹ کے پیچھے محفوظ جگہ پر منتقل ہو جائیں۔"
+      },
+      "d": {
+        "en": "Place a warning triangle 45 metres behind your vehicle on the hard shoulder",
+        "ur": "اپنی گاڑی کے پیچھے سخت کنارے پر 45 میٹر فاصلے پر وارننگ ٹرائینگل رکھیں۔"
+      },
+      "c": {
+        "en": "Cross the central reservation to wait on the opposite side of the motorway",
+        "ur": "مرکزی ریزرویشن کو عبور کریں اور موٹروے کے مخالف جانب انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When broken down on a motorway, you should exit the vehicle on the left side away from traffic and move to a safe place behind a barrier, never standing near the carriageway or placing warning triangles on motorways.",
+      "ur": "اگر موٹروے پر گاڑی خراب ہو جائے تو آپ کو گاڑی سے بائیں جانب، ٹریفک سے دور نکلنا چاہیے اور حفاظتی رکاوٹ کے پیچھے محفوظ جگہ پر چلے جانا چاہیے۔ کبھی بھی موٹروے پر سڑک کے قریب کھڑے نہ ہوں اور وارننگ ٹرائینگلز نہ لگائیں۔"
+    }
+  },
+  {
+    "id": "YZBMTW",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving the vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور آپ کے لیے گاڑی سے باہر نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Exit on the left side, immediately attempt to repair the vehicle, and keep hazard warning lights on",
+        "ur": "بائیں جانب نکلیں، فوراً گاڑی کی مرمت کرنے کی کوشش کریں، اور ہیزرڈ وارننگ لائٹس آن رکھیں۔"
+      },
+      "a": {
+        "en": "Exit on the left side away from traffic, wear high-visibility clothing if available, and move behind a safety barrier if possible",
+        "ur": "ٹریفک سے دور بائیں جانب نکلیں، اگر دستیاب ہو تو ہائی ویزیبلٹی کپڑے پہنیں، اور اگر ممکن ہو تو حفاظتی رکاوٹ کے پیچھے منتقل ہو جائیں۔"
+      },
+      "b": {
+        "en": "Exit on the right side towards the hard shoulder, place a warning triangle 45 metres behind the vehicle, and wait beside your vehicle",
+        "ur": "دائیں جانب ہارڈ شولڈر کی طرف نکلیں، گاڑی سے 45 میٹر پیچھے وارننگ ٹرائینگل رکھیں، اور اپنی گاڑی کے ساتھ انتظار کریں۔"
+      },
+      "c": {
+        "en": "Stay inside the vehicle with your seatbelt on and call for help using your mobile phone without exiting",
+        "ur": "گاڑی کے اندر اپنی سیٹ بیلٹ باندھے رہیں اور گاڑی سے باہر نکلے بغیر موبائل فون سے مدد طلب کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you should exit on the left side away from traffic, wear high-visibility clothing if possible, and move behind safety barriers to stay safe from passing vehicles.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو ٹریفک سے دور بائیں جانب نکلنا چاہیے، اگر ممکن ہو تو ہائی ویزیبلٹی کپڑے پہننے چاہئیں، اور گزرنے والی گاڑیوں سے محفوظ رہنے کے لیے حفاظتی رکاوٹوں کے پیچھے چلے جانا چاہیے۔"
+    }
+  },
+  {
+    "id": "UJSK1F",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving your vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور آپ کے لیے اپنی گاڑی سے باہر نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Cross the motorway to the right side to find a safer place away from traffic before calling for help.",
+        "ur": "موٹروے کو پار کریں اور دائیں جانب جائیں تاکہ ٹریفک سے دور محفوظ جگہ پر پہنچ کر مدد کے لیے کال کریں۔"
+      },
+      "a": {
+        "en": "Move to a place of safety behind the crash barrier on the left side of the motorway and call for help using the nearest emergency telephone.",
+        "ur": "موٹروے کے بائیں جانب حادثے کی رکاوٹ کے پیچھے محفوظ جگہ پر منتقل ہوں اور قریبی ایمرجنسی فون استعمال کرتے ہوئے مدد طلب کریں۔"
+      },
+      "d": {
+        "en": "Place a warning triangle 45 metres behind your vehicle on the hard shoulder to alert other drivers.",
+        "ur": "اپنی گاڑی کے پیچھے سخت کنارے پر 45 میٹر کی دوری پر وارننگ مثلث رکھیں تاکہ دیگر ڈرائیورز کو خبردار کیا جا سکے۔"
+      },
+      "b": {
+        "en": "Stand on the hard shoulder near your vehicle to warn other drivers and wait for breakdown services to arrive.",
+        "ur": "اپنی گاڑی کے قریب سخت کندھے پر کھڑے ہوں تاکہ دوسرے ڈرائیورز کو خبردار کیا جا سکے اور بریک ڈاؤن سروسز کے پہنچنے کا انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, after exiting your vehicle safely on the left side away from traffic, you should move behind the crash barrier to a place of safety and use the nearest emergency telephone to call for help; placing warning triangles or standing near the vehicle on the hard shoulder is unsafe and not permitted.",
+      "ur": "موٹروے پر، اپنی گاڑی کو ٹریفک سے دور بائیں جانب محفوظ طریقے سے روکنے کے بعد، آپ کو حادثے کی رکاوٹ کے پیچھے محفوظ جگہ پر جانا چاہیے اور مدد کے لیے قریبی ایمرجنسی فون استعمال کرنا چاہیے؛ وارننگ ٹرائینگلز لگانا یا ہارڈ شولڈر پر گاڑی کے قریب کھڑا ہونا غیر محفوظ ہے اور اجازت یافتہ نہیں ہے۔"
+    }
+  },
+  {
+    "id": "7Q5HBN",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and you cannot reach a service area or exit, what is the correct procedure to follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور آپ سروس ایریا یا اخراجی راستے تک نہیں پہنچ سکتے، تو درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Stop on the slip road, switch on hazard lights, exit the vehicle on the right side, and attempt minor repairs before calling for help.",
+        "ur": "سلپ روڈ پر گاڑی روکیں، ہیزرڈ لائٹس آن کریں، گاڑی کے دائیں جانب سے باہر نکلیں، اور مدد طلب کرنے سے پہلے معمولی مرمت کی کوشش کریں۔"
+      },
+      "b": {
+        "en": "Stop in the left lane, switch on hazard lights, exit the vehicle on the right side, and wait for assistance.",
+        "ur": "بائیں لین میں گاڑی روکیں، ہیزرڈ لائٹس آن کریں، گاڑی سے دائیں جانب نکلیں، اور مدد کے انتظار میں رہیں۔"
+      },
+      "a": {
+        "en": "Pull onto the hard shoulder, switch on hazard lights and sidelights if dark, exit the vehicle on the left side away from traffic if safe, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "سخت کندھے پر گاڑی روکیں، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کریں، اگر محفوظ ہو تو گاڑی سے بائیں جانب ٹریفک سے دور نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+      },
+      "c": {
+        "en": "Pull onto the hard shoulder, place a warning triangle 45 metres behind your vehicle, exit on the left side, and call for help.",
+        "ur": "سخت کندھے پر گاڑی روکیں، اپنی گاڑی سے 45 میٹر پیچھے وارننگ مثلث رکھیں، بائیں جانب سے گاڑی سے باہر نکلیں، اور مدد کے لیے کال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown where you cannot reach a service area or exit, you must pull onto the hard shoulder, switch on hazard and sidelights if dark, exit on the left side away from traffic if safe, and call for help using the nearest emergency telephone or mobile phone; placing warning triangles or exiting on the right side is unsafe and not permitted.",
+      "ur": "موٹروے پر اگر گاڑی خراب ہو جائے اور آپ سروس ایریا یا ایگزٹ تک نہیں پہنچ سکتے، تو آپ کو ہارڈ شولڈر پر گاڑی روکنی چاہیے، اگر اندھیرا ہو تو ہیزرڈ اور سائیڈ لائٹس آن کرنی چاہئیں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی سے باہر نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد طلب کریں؛ وارننگ ٹرائینگلز لگانا یا دائیں جانب نکلنا غیر محفوظ ہے اور اجازت نہیں ہے۔"
+    }
+  },
+  {
+    "id": "1NVFES",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving your vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور آپ کے لیے اپنی گاڑی سے باہر نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Move to a place of safety behind the crash barrier on the left side of the motorway and call for help using the nearest emergency telephone.",
+        "ur": "موٹر وے کے بائیں جانب حادثے کی رکاوٹ کے پیچھے محفوظ جگہ پر منتقل ہوں اور قریبی ایمرجنسی فون کا استعمال کرتے ہوئے مدد طلب کریں۔"
+      },
+      "b": {
+        "en": "Stand on the hard shoulder near your vehicle while waiting for breakdown assistance to arrive.",
+        "ur": "اپنی گاڑی کے قریب سخت کندھے پر کھڑے ہوں جب تک کہ بریک ڈاؤن امداد نہ پہنچ جائے۔"
+      },
+      "c": {
+        "en": "Walk along the hard shoulder towards the next exit to find a safe place to wait.",
+        "ur": "سخت کندھے کے ساتھ اگلے اخراج کی طرف چلیں تاکہ انتظار کرنے کے لیے محفوظ جگہ تلاش کی جا سکے۔"
+      },
+      "d": {
+        "en": "Place a warning triangle 45 metres behind your vehicle on the hard shoulder to warn other drivers.",
+        "ur": "اپنی گاڑی کے 45 میٹر پیچھے ہارڈ شولڈر پر وارننگ ٹرائینگل رکھیں تاکہ دیگر ڈرائیورز کو خبردار کیا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, after exiting your vehicle safely on the left side, you should move behind the crash barrier to a place of safety and call for help using the nearest emergency telephone; standing near the vehicle or placing warning triangles on motorways is not advised.",
+      "ur": "موٹروے پر، اپنی گاڑی کو بائیں جانب محفوظ طریقے سے چھوڑنے کے بعد، آپ کو حادثے کی رکاوٹ کے پیچھے محفوظ جگہ پر جانا چاہیے اور قریبی ایمرجنسی فون کا استعمال کرتے ہوئے مدد کے لیے کال کرنی چاہیے؛ گاڑی کے قریب کھڑے ہونا یا موٹروے پر وارننگ ٹرائینگلز لگانا مشورہ نہیں دیا جاتا۔"
+    }
+  },
+  {
+    "id": "JL69E6",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and it is safe to exit, which of the following is the correct procedure to follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور باہر نکلنا محفوظ ہو، تو درج ذیل میں سے کون سا طریقہ کار درست ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Switch on hazard lights, exit the vehicle on the left side away from traffic, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "ہیزرڈ لائٹس آن کریں، گاڑی سے بائیں جانب ٹریفک سے دور نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون استعمال کرکے مدد طلب کریں۔"
+      },
+      "d": {
+        "en": "Exit the vehicle immediately on the side nearest to traffic to warn other drivers, then call emergency services.",
+        "ur": "گاڑی سے فوراً اُس طرف نکلیں جو ٹریفک کے قریب ہو تاکہ دوسرے ڈرائیورز کو خبردار کیا جا سکے، پھر ایمرجنسی سروسز کو کال کریں۔"
+      },
+      "c": {
+        "en": "Switch off hazard lights, stay inside the vehicle with the seatbelt on, and wait for a recovery vehicle to arrive.",
+        "ur": "ہزارڈ لائٹس بند کریں، سیٹ بیلٹ باندھے گاڑی کے اندر رہیں، اور ریکوری گاڑی کے پہنچنے کا انتظار کریں۔"
+      },
+      "b": {
+        "en": "Place a warning triangle at least 45 metres behind the vehicle, exit on the right side, and wait inside the vehicle with the seatbelt on.",
+        "ur": "گاڑی کے کم از کم 45 میٹر پیچھے وارننگ ٹرائینگل رکھیں، دائیں جانب سے گاڑی سے باہر نکلیں، اور سیٹ بیلٹ باندھ کر گاڑی کے اندر انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you should switch on hazard lights, exit on the left side away from traffic if safe, and call for help using the nearest emergency telephone or mobile phone; warning triangles must not be used on motorways.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو ہیزرڈ لائٹس آن کرنی چاہئیں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی نکالنی چاہیے، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کرنی چاہیے؛ موٹروے پر وارننگ ٹرائینگلز استعمال نہیں کیے جا سکتے۔"
+    }
+  },
+  {
+    "id": "QVFUGV",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور گاڑی سے نکلنا محفوظ ہے۔ درست طریقہ کار کیا ہے جو آپ کو اپنانا چاہیے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Switch on hazard warning lights and sidelights, exit on the left side away from traffic, then call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "ہیزرڈ وارننگ لائٹس اور سائیڈ لائٹس آن کریں، ٹریفک سے دور بائیں جانب گاڑی سے نکلیں، پھر قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+      },
+      "d": {
+        "en": "Exit the vehicle immediately on the nearside, switch on hazard lights, and attempt to repair the vehicle on the hard shoulder.",
+        "ur": "گاڑی سے فوراً قریب والی جانب نکلیں، ہیزرڈ لائٹس آن کریں، اور ہارڈ شولڈر پر گاڑی کی مرمت کرنے کی کوشش کریں۔"
+      },
+      "b": {
+        "en": "Place a warning triangle at least 45 metres behind your vehicle on the hard shoulder, then exit on the right side away from traffic.",
+        "ur": "اپنی گاڑی کے کم از کم 45 میٹر پیچھے ہارڈ شولڈر پر وارننگ ٹرائینگل رکھیں، پھر ٹریفک سے دور دائیں جانب گاڑی سے باہر نکلیں۔"
+      },
+      "c": {
+        "en": "Switch off hazard warning lights, stay inside the vehicle with your seatbelt on, and wait for breakdown services to arrive.",
+        "ur": "ہزارڈ وارننگ لائٹس بند کریں، اپنی سیٹ بیلٹ باندھ کر گاڑی کے اندر رہیں، اور بریک ڈاؤن سروسز کے پہنچنے کا انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you should switch on hazard warning lights and sidelights, exit on the left side away from traffic if safe, and call for help using the nearest emergency telephone or mobile phone; warning triangles must not be used on motorways.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو ہیزرڈ وارننگ لائٹس اور سائیڈ لائٹس آن کرنی چاہئیں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی نکالنی چاہیے، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کرنی چاہیے؛ موٹروے پر وارننگ ٹرائینگلز استعمال نہیں کیے جا سکتے۔"
+    }
+  },
+  {
+    "id": "OU4TEI",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور گاڑی سے نکلنا محفوظ ہے۔ درست طریقہ کار کیا ہے جو آپ کو اپنانا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Switch off hazard lights, exit on the left side, and attempt to repair the vehicle on the hard shoulder",
+        "ur": "ہزارڈ لائٹس بند کریں، بائیں طرف سے گاڑی سے باہر نکلیں، اور ہارڈ شولڈر پر گاڑی کی مرمت کرنے کی کوشش کریں۔"
+      },
+      "d": {
+        "en": "Stay inside the vehicle with seatbelt off and wait for breakdown services to arrive",
+        "ur": "گاڑی کے اندر بیٹھے رہیں، سیٹ بیلٹ کھولا ہوا ہو، اور ٹوٹ پھوٹ کی خدمات کے پہنچنے کا انتظار کریں۔"
+      },
+      "a": {
+        "en": "Switch on hazard lights, exit on the left side away from traffic, and call for help using the nearest emergency telephone or mobile phone",
+        "ur": "ہیزرڈ لائٹس آن کریں، ٹریفک سے دور بائیں جانب گاڑی سے باہر نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+      },
+      "b": {
+        "en": "Place a warning triangle at least 45 metres behind your vehicle, exit on the right side, and wait beside your vehicle",
+        "ur": "اپنی گاڑی کے کم از کم 45 میٹر پیچھے وارننگ ٹرائینگل رکھیں، دائیں جانب سے گاڑی سے باہر نکلیں، اور اپنی گاڑی کے ساتھ انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you should switch on hazard lights, exit on the left side away from traffic if safe, and call for help using an emergency telephone or mobile phone; warning triangles should not be used on motorways.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو ہیزرڈ لائٹس آن کرنی چاہئیں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی نکالنی چاہیے، اور ایمرجنسی فون یا موبائل فون کے ذریعے مدد طلب کرنی چاہیے؛ موٹروے پر وارننگ ٹرائینگلز استعمال نہیں کیے جاتے۔"
+    }
+  },
+  {
+    "id": "B3M7U6",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and you cannot reach a service area or exit, what is the correct procedure to follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور آپ سروس ایریا یا اخراجی راستے تک نہیں پہنچ سکتے، تو درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Stop on the carriageway with hazard lights on, exit the vehicle on the right side, and wait for help without calling emergency services unless there is an injury.",
+        "ur": "گاڑی کو روڈ پر ہیزرڈ لائٹس آن کرکے روکیں، گاڑی کے دائیں جانب سے باہر نکلیں، اور مدد کے انتظار میں رہیں، جب تک کہ کوئی چوٹ نہ ہو تب تک ایمرجنسی سروسز کو کال نہ کریں۔"
+      },
+      "d": {
+        "en": "Reverse carefully to the nearest slip road, switch on hazard lights, and call breakdown services from inside the vehicle.",
+        "ur": "احتیاط سے قریبی سلپ روڈ کی طرف ریورس کریں، ہیزرڈ لائٹس آن کریں، اور گاڑی کے اندر سے بریک ڈاؤن سروسز کو کال کریں۔"
+      },
+      "c": {
+        "en": "Place a warning triangle at least 45 metres behind your vehicle on the motorway, switch on hazard lights, and remain inside the vehicle with seatbelt on until help arrives.",
+        "ur": "موٹروے پر اپنی گاڑی کے کم از کم 45 میٹر پیچھے وارننگ ٹرائینگل رکھیں، ہیزرڈ لائٹس آن کریں، اور مدد کے آنے تک سیٹ بیلٹ باندھے گاڑی کے اندر ہی رہیں۔"
+      },
+      "a": {
+        "en": "Pull onto the hard shoulder, switch on hazard warning lights and sidelights if dark, exit the vehicle on the left side away from traffic if safe, and call emergency services using the nearest emergency telephone or mobile phone.",
+        "ur": "سخت کندھے پر گاڑی روکیں، ہیزرڈ وارننگ لائٹس اور اگر اندھیرا ہو تو سائیڈ لائٹس آن کریں، اگر محفوظ ہو تو گاڑی سے بائیں جانب ٹریفک سے دور نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے ایمرجنسی سروسز کو کال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you must pull onto the hard shoulder or emergency refuge area, switch on hazard lights and sidelights if dark, exit on the left side away from traffic if safe, and call for help using the nearest emergency telephone or mobile phone.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو سخت کندھے یا ایمرجنسی ریفیوج ایریا پر گاڑی روکنی چاہیے، ہیزرڈ لائٹس اور اگر اندھیرا ہو تو سائیڈ لائٹس آن کرنی چاہئیں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی سے نکلنا چاہیے، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کرنی چاہیے۔"
+    }
+  },
+  {
+    "id": "37DFMK",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving your vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور آپ کے لیے اپنی گاڑی سے باہر نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Place a warning triangle 45 metres behind your vehicle on the hard shoulder to warn other drivers, then wait inside your vehicle.",
+        "ur": "اپنی گاڑی کے 45 میٹر پیچھے ہارڈ شولڈر پر وارننگ ٹرائینگل رکھیں تاکہ دوسرے ڈرائیورز کو خبردار کیا جا سکے، پھر اپنی گاڑی کے اندر انتظار کریں۔"
+      },
+      "d": {
+        "en": "Cross the central reservation to reach the opposite side of the motorway where it is safer to wait.",
+        "ur": "مرکزی ریزرویشن کو عبور کریں تاکہ موٹروے کے مخالف جانب پہنچ سکیں جہاں انتظار کرنا زیادہ محفوظ ہوتا ہے۔"
+      },
+      "a": {
+        "en": "Move to a place of safety behind the crash barrier, wear high-visibility clothing if available, and call for help using the nearest emergency telephone.",
+        "ur": "حادثے کی رکاوٹ کے پیچھے محفوظ جگہ پر منتقل ہوں، اگر دستیاب ہو تو ہائی ویزیبلٹی کپڑے پہنیں، اور قریبی ایمرجنسی فون استعمال کرکے مدد طلب کریں۔"
+      },
+      "b": {
+        "en": "Stand on the hard shoulder near your vehicle while waiting for breakdown services to arrive, keeping hazard lights on.",
+        "ur": "اپنی گاڑی کے قریب سخت کندھے پر کھڑے رہیں جب تک کہ بریک ڈاؤن سروسز نہ پہنچ جائیں، اور ہیزرڈ لائٹس آن رکھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, after exiting a broken-down vehicle safely, you should move well away from the carriageway, ideally behind a crash barrier, wear high-visibility clothing if possible, and call for help using an emergency telephone; standing near the vehicle or placing warning triangles on motorways is unsafe and prohibited.",
+      "ur": "موٹروے پر، خراب ہو جانے والی گاڑی سے محفوظ طریقے سے نکلنے کے بعد، آپ کو گاڑی کے راستے سے کافی دور جانا چاہیے، بہتر ہے کہ کرش بیریئر کے پیچھے چلے جائیں، اگر ممکن ہو تو ہائی ویزیبلٹی کپڑے پہنیں، اور ایمرجنسی فون کا استعمال کرتے ہوئے مدد طلب کریں؛ گاڑی کے قریب کھڑے ہونا یا موٹروے پر وارننگ ٹرائینگلز لگانا غیر محفوظ اور ممنوع ہے۔"
+    }
+  },
+  {
+    "id": "WYAJI1",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving the vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور گاڑی سے نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Move to a place of safety behind the crash barrier on the left side of the motorway and call for help using the nearest emergency telephone.",
+        "ur": "موٹر وے کے بائیں جانب حادثے کی رکاوٹ کے پیچھے محفوظ جگہ پر منتقل ہو جائیں اور قریبی ایمرجنسی فون کا استعمال کرتے ہوئے مدد طلب کریں۔"
+      },
+      "c": {
+        "en": "Cross the motorway to the central reservation to avoid traffic and use your mobile phone to call for help.",
+        "ur": "موٹروے کو عبور کر کے مرکزی ریزرویشن تک جائیں تاکہ ٹریفک سے بچا جا سکے اور مدد کے لیے موبائل فون استعمال کریں۔"
+      },
+      "d": {
+        "en": "Place a warning triangle 45 metres behind your vehicle on the hard shoulder to warn other drivers.",
+        "ur": "اپنی گاڑی سے 45 میٹر پیچھے ہارڈ شولڈر پر وارننگ ٹرائینگل رکھیں تاکہ دوسرے ڈرائیورز کو خبردار کیا جا سکے۔"
+      },
+      "b": {
+        "en": "Stand on the hard shoulder near your vehicle wearing high-visibility clothing and wait for breakdown services to arrive.",
+        "ur": "اپنی گاڑی کے قریب سخت کندھے پر کھڑے ہوں، روشن رنگ کے حفاظتی لباس پہنے رہیں اور ٹوٹ پھوٹ کی خدمات کے پہنچنے کا انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, after exiting a broken-down vehicle safely on the left side, you should move behind the crash barrier to a place of safety and use the nearest emergency telephone to call for help; placing warning triangles or standing near the vehicle on the hard shoulder is unsafe and not recommended.",
+      "ur": "موٹروے پر، خراب ہونے والی گاڑی کو بائیں جانب محفوظ طریقے سے چھوڑنے کے بعد، آپ کو حادثے کی رکاوٹ کے پیچھے محفوظ جگہ پر جانا چاہیے اور مدد کے لیے قریبی ایمرجنسی فون کا استعمال کرنا چاہیے؛ وارننگ ٹرائینگلز لگانا یا ہارڈ شولڈر پر گاڑی کے قریب کھڑا ہونا غیر محفوظ ہے اور تجویز نہیں کیا جاتا۔"
+    }
+  },
+  {
+    "id": "RR8DQU",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور گاڑی سے نکلنا محفوظ ہے۔ درست طریقہ کار کیا ہے جو آپ کو اپنانا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Switch on hazard warning lights only, exit on the left side even if traffic is close, and attempt minor repairs before calling for help.",
+        "ur": "صرف ہیزرڈ وارننگ لائٹس آن کریں، چاہے ٹریفک قریب ہو، بائیں جانب سے گاڑی نکالیں، اور مدد طلب کرنے سے پہلے معمولی مرمت کی کوشش کریں۔"
+      },
+      "b": {
+        "en": "Place a warning triangle at least 45 metres behind your vehicle, exit on the right side, and wait beside your vehicle for assistance.",
+        "ur": "اپنی گاڑی کے کم از کم 45 میٹر پیچھے ایک وارننگ ٹرائینگل رکھیں، دائیں جانب سے گاڑی سے باہر نکلیں، اور مدد کے لیے اپنی گاڑی کے پاس انتظار کریں۔"
+      },
+      "a": {
+        "en": "Switch on hazard warning lights and sidelights if dark, exit on the left side away from traffic, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "اگر اندھیرا ہو تو ہیزرڈ وارننگ لائٹس اور سائیڈ لائٹس آن کریں، ٹریفک سے دور بائیں جانب گاڑی سے باہر نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+      },
+      "d": {
+        "en": "Exit the vehicle immediately without switching on hazard lights, stand between your vehicle and the central reservation, and call emergency services.",
+        "ur": "گاڑی سے فوراً باہر نکلیں بغیر ہیزرڈ لائٹس آن کیے، اپنی گاڑی اور مرکزی ریزرویشن کے درمیان کھڑے ہوں، اور ایمرجنسی سروسز کو کال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you must switch on hazard lights and sidelights if dark, exit on the left side away from traffic for safety, and call for help using an emergency telephone or mobile phone; warning triangles are not used on motorways.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کریں، حفاظت کے لیے ٹریفک سے دور بائیں جانب گاڑی نکالیں، اور ایمرجنسی فون یا موبائل فون سے مدد طلب کریں؛ موٹروے پر وارننگ ٹرائینگلز استعمال نہیں کیے جاتے۔"
+    }
+  },
+  {
+    "id": "4647MD",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and you cannot reach a service area or exit, what is the correct procedure to follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور آپ سروس ایریا یا اخراجی راستے تک نہیں پہنچ سکتے، تو درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Stop on the slip road, switch on sidelights only, exit the vehicle on the left side regardless of traffic, and call breakdown services using your mobile phone.",
+        "ur": "سلپ روڈ پر گاڑی روکیں، صرف سائیڈ لائٹس آن کریں، ٹریفک کی پرواہ کیے بغیر گاڑی کے بائیں جانب سے نکلیں، اور اپنے موبائل فون سے بریک ڈاؤن سروسز کو کال کریں۔"
+      },
+      "b": {
+        "en": "Stop on the carriageway, switch on hazard lights, exit the vehicle on the right side away from traffic, and wait inside the vehicle until help arrives.",
+        "ur": "گاڑی کو سڑک پر روکیں، ہیزرڈ لائٹس آن کریں، گاڑی سے دائیں جانب ٹریفک سے دور نکلیں، اور مدد کے آنے تک گاڑی کے اندر انتظار کریں۔"
+      },
+      "c": {
+        "en": "Pull onto the verge, place a warning triangle 45 metres behind your vehicle, switch on hazard lights, and stay inside the vehicle with the seatbelt on.",
+        "ur": "گاڑی کو سڑک کے کنارے روکیں، اپنی گاڑی سے 45 میٹر پیچھے وارننگ ٹرائینگل لگائیں، ہیزرڈ لائٹس آن کریں، اور سیٹ بیلٹ باندھے گاڑی کے اندر ہی رہیں۔"
+      },
+      "a": {
+        "en": "Pull onto the hard shoulder, switch on hazard lights and sidelights if dark, exit the vehicle on the left side away from traffic if safe, and call emergency services using the nearest emergency telephone or mobile phone.",
+        "ur": "سخت کندھے پر گاڑی روکیں، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کریں، اگر محفوظ ہو تو گاڑی سے بائیں جانب ٹریفک سے دور نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے ایمرجنسی سروسز کو کال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown where you cannot reach a service area or exit, you must pull onto the hard shoulder, switch on hazard and sidelights if dark, exit on the left side away from traffic if safe, and call for help using emergency telephones or your mobile phone.",
+      "ur": "موٹروے پر اگر گاڑی خراب ہو جائے اور آپ سروس ایریا یا ایگزٹ تک پہنچ نہ سکیں، تو آپ کو ہارڈ شولڈر پر گاڑی روکنی چاہیے، اگر اندھیرا ہو تو ہیزرڈ اور سائیڈ لائٹس آن کرنی چاہئیں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی سے نکلنا چاہیے، اور ایمرجنسی فونز یا موبائل فون کا استعمال کرتے ہوئے مدد کے لیے کال کرنی چاہیے۔"
+    }
+  },
+  {
+    "id": "ZM0WCE",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow?",
+      "ur": "آپ کا گاڑی موٹروے پر خراب ہو گئی ہے اور گاڑی سے نکلنا محفوظ ہے۔ درست طریقہ کار کیا ہے جو آپ کو اپنانا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Place a warning triangle at least 45 metres behind your vehicle, exit on the right side, and wait beside your vehicle for assistance.",
+        "ur": "اپنی گاڑی کے کم از کم 45 میٹر پیچھے وارننگ ٹرائینگل رکھیں، دائیں جانب سے گاڑی سے باہر نکلیں، اور مدد کے لیے اپنی گاڑی کے پاس انتظار کریں۔"
+      },
+      "a": {
+        "en": "Switch on hazard warning lights and sidelights if dark, exit on the left side away from traffic, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "اگر اندھیرا ہو تو ہیزرڈ وارننگ لائٹس اور سائیڈ لائٹس آن کریں، ٹریفک سے دور بائیں جانب گاڑی سے باہر نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+      },
+      "c": {
+        "en": "Switch off hazard lights, exit on the left side even if traffic is close, and attempt to repair the vehicle on the hard shoulder.",
+        "ur": "ہزارڈ لائٹس بند کریں، چاہے ٹریفک قریب ہو، بائیں جانب سے گاڑی سے باہر نکلیں، اور گاڑی کی مرمت ہارڈ شولڈر پر کرنے کی کوشش کریں۔"
+      },
+      "d": {
+        "en": "Stay inside the vehicle with seatbelt on, switch on hazard lights only, and wait for emergency services to arrive.",
+        "ur": "گاڑی کے اندر سیٹ بیلٹ لگا کر رہیں، صرف ہیزرڈ لائٹس آن کریں، اور ایمرجنسی سروسز کے پہنچنے کا انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you must switch on hazard warning lights and sidelights if dark, exit on the left side away from traffic if safe, and call for help using the nearest emergency telephone or mobile phone.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو ہیزرڈ وارننگ لائٹس اور اگر اندھیرا ہو تو سائیڈ لائٹس آن کرنی چاہئیں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی نکالنی چاہیے، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کرنی چاہیے۔"
+    }
+  },
+  {
+    "id": "JUAB3H",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and you cannot reach a service area or exit, what is the correct procedure to follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور آپ سروس ایریا یا اخراجی راستے تک نہیں پہنچ سکتے، تو درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Reverse carefully to the nearest slip road, switch on hazard lights, and call for help from there.",
+        "ur": "احتیاط سے قریبی سلیپ روڈ کی طرف ریورس کریں، ہیزرڈ لائٹس آن کریں، اور وہاں سے مدد کے لیے کال کریں۔"
+      },
+      "b": {
+        "en": "Stop in the middle of the carriageway with hazard lights on, stay inside the vehicle with seatbelt fastened, and wait for emergency services to arrive.",
+        "ur": "کارروے کے درمیان میں گاڑی روکیں، ہیزرڈ لائٹس آن رکھیں، سیٹ بیلٹ باندھے گاڑی کے اندر ہی رہیں، اور ایمرجنسی سروسز کے پہنچنے کا انتظار کریں۔"
+      },
+      "c": {
+        "en": "Place a warning triangle at least 45 metres behind your vehicle on the motorway, switch on hazard lights, and exit the vehicle on the right side to warn other drivers.",
+        "ur": "موٹروے پر اپنی گاڑی کے کم از کم 45 میٹر پیچھے وارننگ ٹرائینگل رکھیں، ہیزرڈ لائٹس آن کریں، اور دوسرے ڈرائیورز کو خبردار کرنے کے لیے گاڑی کے دائیں جانب سے باہر نکلیں۔"
+      },
+      "a": {
+        "en": "Pull onto the hard shoulder, switch on hazard warning lights and sidelights if dark, exit the vehicle on the left side away from traffic if safe, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "سخت کندھے پر گاڑی روکیں، ہیزرڈ وارننگ لائٹس اور اگر اندھیرا ہو تو سائیڈ لائٹس آن کریں، اگر محفوظ ہو تو گاڑی سے بائیں جانب ٹریفک سے دور نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On motorways, you must pull onto the hard shoulder or emergency refuge area, switch on hazard lights and sidelights if dark, exit the vehicle on the left side away from traffic if safe, and call for help using emergency telephones or a mobile phone; placing warning triangles or reversing on motorways is prohibited.",
+      "ur": "موٹروے پر، آپ کو ہارڈ شولڈر یا ایمرجنسی ریفیوج ایریا پر گاڑی روکنی چاہیے، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کرنی چاہئیں، اگر محفوظ ہو تو گاڑی سے بائیں جانب یعنی ٹریفک سے دور نکلیں، اور ایمرجنسی فون یا موبائل فون کے ذریعے مدد طلب کریں؛ موٹروے پر وارننگ ٹرائینگلز لگانا یا ریورس کرنا ممنوع ہے۔"
+    }
+  },
+  {
+    "id": "KYP4GH",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and it is safe to do so, what is the correct procedure to follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور یہ محفوظ ہو تو، درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Stop on the carriageway with hazard lights on, exit the vehicle on the right side away from traffic, and wait for emergency services to arrive.",
+        "ur": "گاڑی کو روڈ پر ہیزرڈ لائٹس آن کرکے روکیں، گاڑی سے دائیں جانب ٹریفک سے دور اتریں، اور ایمرجنسی سروسز کے پہنچنے کا انتظار کریں۔"
+      },
+      "c": {
+        "en": "Pull into the nearest lay-by or slip road, place a warning triangle 45 metres behind your vehicle, and stay inside the vehicle with seatbelt on.",
+        "ur": "قریب ترین لینڈنگ یا سلیپ روڈ پر گاڑی روکیں، اپنی گاڑی سے 45 میٹر پیچھے وارننگ ٹرائینگل لگائیں، اور سیٹ بیلٹ باندھ کر گاڑی کے اندر رہیں۔"
+      },
+      "d": {
+        "en": "Stop in the middle lane with hazard lights on, exit the vehicle immediately, and attempt to repair the vehicle if safe.",
+        "ur": "وسطی لین میں ہیزرڈ لائٹس آن کرکے گاڑی روکیں، فوراً گاڑی سے باہر نکلیں، اور اگر محفوظ ہو تو گاڑی کی مرمت کی کوشش کریں۔"
+      },
+      "a": {
+        "en": "Pull onto the hard shoulder, switch on hazard warning lights and sidelights if dark, exit the vehicle on the left side away from traffic, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "سخت کندھے پر گاڑی روکیں، ہیزرڈ وارننگ لائٹس اور اگر اندھیرا ہو تو سائیڈ لائٹس آن کریں، گاڑی سے بائیں جانب ٹریفک سے دور نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, you should pull onto the hard shoulder if you cannot reach a service area, switch on hazard lights and sidelights if dark, exit on the left side away from traffic, and call for help using emergency telephones or a mobile phone.",
+      "ur": "موٹروے پر، اگر آپ سروس ایریا تک نہیں پہنچ سکتے تو ہارڈ شولڈر پر گاڑی روکیں، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کریں، ٹریفک سے دور بائیں جانب گاڑی نکالیں، اور ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+    }
+  },
+  {
+    "id": "AUP1RG",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving the vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور گاڑی سے نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Stand on the hard shoulder near your vehicle and wait for breakdown services to arrive.",
+        "ur": "اپنی گاڑی کے قریب سخت کندھے پر کھڑے ہوں اور بریک ڈاؤن سروسز کے پہنچنے کا انتظار کریں۔"
+      },
+      "c": {
+        "en": "Cross the carriageway carefully to reach the central reservation and wait there.",
+        "ur": "احتیاط سے سڑک پار کریں تاکہ مرکزی جزیرے تک پہنچ سکیں اور وہاں انتظار کریں۔"
+      },
+      "d": {
+        "en": "Place a warning triangle 45 metres behind your vehicle on the hard shoulder to warn other drivers.",
+        "ur": "اپنی گاڑی کے 45 میٹر پیچھے سخت کنارے پر وارننگ مثلث رکھیں تاکہ دوسرے ڈرائیورز کو خبردار کیا جا سکے۔"
+      },
+      "a": {
+        "en": "Move to a place of safety behind the crash barrier on the left side of the carriageway and call for help using the nearest emergency telephone.",
+        "ur": "حادثے کی جگہ سے بائیں جانب، روڈ کے کنارے واقع حفاظتی رکاوٹ کے پیچھے محفوظ جگہ پر منتقل ہوں اور قریبی ایمرجنسی فون کا استعمال کرتے ہوئے مدد طلب کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, after exiting your vehicle safely on the left side, you should move behind the crash barrier to a place of safety and call for help using the nearest emergency telephone; standing near the vehicle or placing warning triangles on motorways is not advised.",
+      "ur": "موٹروے پر، اپنی گاڑی کو بائیں جانب محفوظ طریقے سے چھوڑنے کے بعد، آپ کو حادثاتی رکاوٹ کے پیچھے محفوظ جگہ پر جانا چاہیے اور قریبی ایمرجنسی فون کا استعمال کرتے ہوئے مدد طلب کرنی چاہیے؛ گاڑی کے قریب کھڑے ہونا یا موٹروے پر وارننگ ٹرائینگلز لگانا مشورہ نہیں دیا جاتا۔"
+    }
+  },
+  {
+    "id": "M159E5",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and it is safe to do so, what is the correct procedure you should follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور یہ محفوظ ہو، تو آپ کو کون سا درست طریقہ کار اپنانا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Stop in the middle of the carriageway, switch on hazard lights, exit the vehicle on the right side, and wait for assistance.",
+        "ur": "کارروے کے درمیان رکیں، ہیزرڈ لائٹس آن کریں، گاڑی کے دائیں جانب سے باہر نکلیں، اور مدد کے انتظار میں رہیں۔"
+      },
+      "c": {
+        "en": "Move your vehicle to the nearest slip road, switch on hazard lights only, stay inside the vehicle with seatbelt on, and call for help.",
+        "ur": "اپنی گاڑی کو قریب ترین سلیپ روڈ پر منتقل کریں، صرف ہیزرڈ لائٹس آن کریں، سیٹ بیلٹ باندھے گاڑی کے اندر رہیں، اور مدد کے لیے کال کریں۔"
+      },
+      "a": {
+        "en": "Pull onto the hard shoulder, switch on hazard lights and sidelights if dark, exit the vehicle on the left side away from traffic, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "سخت کندھے پر گاڑی روکیں، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کریں، گاڑی سے بائیں جانب ٹریفک سے دور نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+      },
+      "d": {
+        "en": "Place a warning triangle 45 metres behind your vehicle on the motorway, switch on hazard lights, and wait inside the vehicle.",
+        "ur": "موٹروے پر اپنی گاڑی کے 45 میٹر پیچھے وارننگ ٹرائینگل رکھیں، ہیزرڈ لائٹس آن کریں، اور گاڑی کے اندر انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, you must pull onto the hard shoulder or emergency refuge area if possible, switch on hazard lights and sidelights if dark, exit the vehicle on the left side away from traffic if safe, and call for help using the nearest emergency telephone or mobile phone.",
+      "ur": "موٹروے پر، اگر ممکن ہو تو ہارڈ شولڈر یا ایمرجنسی ریفیوج ایریا پر گاڑی روکیں، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کریں، اگر محفوظ ہو تو گاڑی سے بائیں جانب ٹریفک سے دور اتر جائیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد طلب کریں۔"
+    }
+  },
+  {
+    "id": "U7NM0F",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and you cannot reach a service area or exit, what is the correct procedure to follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور آپ سروس ایریا یا اخراجی راستے تک نہیں پہنچ سکتے، تو درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Stop in the middle lane with hazard lights on, exit the vehicle on the right side, and wait for help without calling emergency services.",
+        "ur": "درمیانی لین میں ہیزرڈ لائٹس آن کر کے گاڑی روکیں، گاڑی سے دائیں جانب نکلیں، اور ایمرجنسی سروسز کو کال کیے بغیر مدد کے انتظار کریں۔"
+      },
+      "d": {
+        "en": "Stop on the verge, switch on hazard lights only, stay inside the vehicle with seatbelt on, and wait for emergency services to arrive.",
+        "ur": "کنارے پر گاڑی روکیں، صرف ہیزرڈ لائٹس آن کریں، سیٹ بیلٹ باندھے گاڑی کے اندر ہی رہیں، اور ایمرجنسی سروسز کے پہنچنے کا انتظار کریں۔"
+      },
+      "a": {
+        "en": "Pull onto the hard shoulder, switch on hazard lights and sidelights if dark, exit the vehicle on the left side away from traffic if safe, and call emergency services using the nearest emergency telephone or mobile phone.",
+        "ur": "سخت کندھے پر گاڑی روکیں، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کریں، اگر محفوظ ہو تو گاڑی سے بائیں جانب ٹریفک سے دور نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے ایمرجنسی سروسز کو کال کریں۔"
+      },
+      "c": {
+        "en": "Pull onto the hard shoulder, place a warning triangle 45 metres behind the vehicle, exit on the right side, and call your breakdown service.",
+        "ur": "سخت کندھے پر گاڑی روکیں، گاڑی سے 45 میٹر پیچھے وارننگ مثلث رکھیں، دائیں جانب سے گاڑی سے باہر نکلیں، اور اپنی بریک ڈاؤن سروس کو کال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you must pull onto the hard shoulder, use hazard and sidelights if dark, exit on the left side away from traffic if safe, and call emergency services using the nearest emergency telephone or mobile phone.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو سخت کندھے پر گاڑی روکنی چاہیے، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس استعمال کریں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی سے باہر نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے ایمرجنسی سروسز کو کال کریں۔"
+    }
+  },
+  {
+    "id": "UY2W3I",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and you cannot reach a service area or exit, what is the correct procedure to follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور آپ سروس ایریا یا اخراجی راستے تک نہیں پہنچ سکتے، تو درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Reverse carefully to the nearest emergency refuge area, switch on hazard lights, and exit the vehicle on the right side to avoid traffic.",
+        "ur": "احتیاط سے پیچھے جائیں اور قریبی ایمرجنسی ریفیوج ایریا تک پہنچیں، ہیزرڈ لائٹس آن کریں، اور ٹریفک سے بچنے کے لیے گاڑی کے دائیں جانب سے باہر نکلیں۔"
+      },
+      "b": {
+        "en": "Stop in the middle lane with hazard lights on, remain inside the vehicle with seatbelt fastened, and wait for emergency services to arrive.",
+        "ur": "درمیانی لین میں ہیزرڈ لائٹس آن کر کے گاڑی روکیں، سیٹ بیلٹ باندھے گاڑی کے اندر ہی رہیں، اور ایمرجنسی سروسز کے پہنچنے کا انتظار کریں۔"
+      },
+      "c": {
+        "en": "Place a warning triangle at least 45 metres behind your vehicle, switch on hazard lights, and attempt to repair the vehicle quickly to avoid blocking traffic.",
+        "ur": "اپنی گاڑی کے کم از کم 45 میٹر پیچھے وارننگ ٹرائینگل رکھیں، ہیزرڈ لائٹس آن کریں، اور ٹریفک کو بلاک کرنے سے بچنے کے لیے گاڑی کی مرمت جلد از جلد کرنے کی کوشش کریں۔"
+      },
+      "a": {
+        "en": "Pull onto the hard shoulder, switch on hazard warning lights and sidelights if dark, exit the vehicle on the left side away from traffic if safe, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "سخت کندھے پر گاڑی روکیں، ہیزرڈ وارننگ لائٹس اور اگر اندھیرا ہو تو سائیڈ لائٹس آن کریں، اگر محفوظ ہو تو گاڑی سے بائیں جانب ٹریفک سے دور نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you must pull onto the hard shoulder or emergency refuge area if you cannot reach a service area or exit, switch on hazard lights and sidelights if dark, exit on the left side away from traffic if safe, and call for help using emergency telephones or a mobile phone.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، اگر آپ سروس ایریا یا اخراجی راستہ تک نہیں پہنچ سکتے تو سخت کندھے یا ایمرجنسی ریفیوج ایریا پر گاڑی روکیں، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کریں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی سے نکلیں، اور ایمرجنسی فونز یا موبائل فون کا استعمال کرتے ہوئے مدد کے لیے کال کریں۔"
+    }
+  },
+  {
+    "id": "A48F3B",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and it is safe to do so, what is the correct procedure you should follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور یہ محفوظ ہو، تو آپ کو کون سا درست طریقہ کار اپنانا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Pull into the nearest lay-by or service area if possible, switch on hazard lights, place a warning triangle 45 metres behind the vehicle, and call for help.",
+        "ur": "اگر ممکن ہو تو قریبی رکنے کی جگہ یا سروس ایریا میں گاڑی روکیں، ہیزرڈ لائٹس آن کریں، گاڑی کے پیچھے 45 میٹر کی دوری پر وارننگ مثلث رکھیں، اور مدد کے لیے کال کریں۔"
+      },
+      "b": {
+        "en": "Stop in the left lane, switch on hazard lights, exit the vehicle on the right side away from traffic, and wait for assistance.",
+        "ur": "بائیں لین میں گاڑی روکیں، ہیزرڈ لائٹس آن کریں، گاڑی سے دائیں جانب ٹریفک سے دور نکلیں، اور مدد کے انتظار میں رہیں۔"
+      },
+      "d": {
+        "en": "Stop on the carriageway, switch on hazard lights, remain inside the vehicle with seatbelt on, and wait for emergency services.",
+        "ur": "گاڑی کو سڑک پر روکیں، ہیزرڈ لائٹس آن کریں، سیٹ بیلٹ باندھے گاڑی کے اندر ہی رہیں، اور ایمرجنسی سروسز کے آنے کا انتظار کریں۔"
+      },
+      "a": {
+        "en": "Pull onto the hard shoulder, switch on hazard lights and sidelights if dark, exit the vehicle on the left side away from traffic, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "سخت کندھے پر گاڑی روکیں، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کریں، گاڑی سے بائیں جانب ٹریفک سے دور نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, you should pull onto the hard shoulder or emergency refuge area, switch on hazard lights and sidelights if dark, exit the vehicle on the left side away from traffic if safe, and call for help using the nearest emergency telephone or mobile phone.",
+      "ur": "موٹروے پر، آپ کو ہارڈ شولڈر یا ایمرجنسی ریفیوج ایریا پر گاڑی روکنی چاہیے، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کرنی چاہئیں، اگر محفوظ ہو تو گاڑی کے بائیں جانب ٹریفک سے دور نکلنا چاہیے، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کرنی چاہیے۔"
+    }
+  },
+  {
+    "id": "17AE4S",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور آپ کے لیے اپنی گاڑی سے باہر نکلنا محفوظ ہے۔ درست طریقہ کار کیا ہے جو آپ کو اپنانا چاہیے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Switch on hazard warning lights and sidelights if dark, exit on the left side away from traffic, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "اگر اندھیرا ہو تو ہیزرڈ وارننگ لائٹس اور سائیڈ لائٹس آن کریں، ٹریفک سے دور بائیں جانب گاڑی سے باہر نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد طلب کریں۔"
+      },
+      "b": {
+        "en": "Place a warning triangle at least 45 metres behind your vehicle, switch on hazard warning lights, and exit on the right side away from traffic.",
+        "ur": "اپنی گاڑی سے کم از کم 45 میٹر پیچھے وارننگ ٹرائینگل رکھیں، ہیزرڈ وارننگ لائٹس آن کریں، اور ٹریفک سے دور دائیں جانب گاڑی سے اتریں۔"
+      },
+      "d": {
+        "en": "Exit the vehicle immediately without switching on hazard lights, stand between your vehicle and the hard shoulder, and call for help.",
+        "ur": "گاڑی سے فوراً باہر نکلیں بغیر ہیزرڈ لائٹس آن کیے، اپنی گاڑی اور ہارڈ شولڈر کے درمیان کھڑے ہوں، اور مدد کے لیے کال کریں۔"
+      },
+      "c": {
+        "en": "Switch off hazard warning lights, exit on the left side towards traffic, and wait inside the vehicle with your seatbelt on.",
+        "ur": "ہزارڈ وارننگ لائٹس بند کریں، بائیں جانب ٹریفک کی طرف نکلیں، اور اپنی سیٹ بیلٹ باندھ کر گاڑی کے اندر انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you must switch on hazard warning lights and sidelights if dark, exit on the left side away from traffic if safe, and call for help using the nearest emergency telephone or mobile phone.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو ہیزرڈ وارننگ لائٹس اور اگر اندھیرا ہو تو سائیڈ لائٹس آن کرنی چاہئیں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی نکالنی چاہیے، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کرنی چاہیے۔"
+    }
+  },
+  {
+    "id": "PQ8X6P",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving the vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور گاڑی سے نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Exit the vehicle on the left side, immediately attempt to repair the vehicle, and call for help if needed",
+        "ur": "گاڑی سے بائیں جانب نکلیں، فوراً گاڑی کی مرمت کی کوشش کریں، اور اگر ضرورت ہو تو مدد کے لیے کال کریں۔"
+      },
+      "b": {
+        "en": "Exit the vehicle on the right side facing traffic, place a warning triangle 45 metres behind the vehicle, and wait near the vehicle",
+        "ur": "گاڑی سے ٹریفک کی سمت دیکھتے ہوئے دائیں جانب اتریں، گاڑی سے 45 میٹر پیچھے وارننگ ٹرائینگل لگائیں، اور گاڑی کے قریب انتظار کریں۔"
+      },
+      "c": {
+        "en": "Stay inside the vehicle with your seatbelt on and keep hazard lights off to avoid distracting other drivers",
+        "ur": "گاڑی کے اندر اپنی سیٹ بیلٹ باندھے رہیں اور دوسرے ڈرائیورز کو پریشان کرنے سے بچنے کے لیے ہیزرڈ لائٹس بند رکھیں۔"
+      },
+      "a": {
+        "en": "Exit the vehicle on the left side away from traffic, wear high-visibility clothing if available, and move behind a safety barrier if possible",
+        "ur": "گاڑی سے بائیں جانب، ٹریفک سے دور نکلیں، اگر دستیاب ہو تو ہائی ویزیبلٹی کپڑے پہنیں، اور اگر ممکن ہو تو حفاظتی رکاوٹ کے پیچھے چلے جائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, you should exit on the left side away from traffic, wear high-visibility clothing if available, and move behind safety barriers to stay safe from passing vehicles.",
+      "ur": "موٹروے پر، آپ کو ٹریفک سے دور بائیں جانب سے نکلنا چاہیے، اگر دستیاب ہو تو ہائی ویزیبلٹی کپڑے پہنیں، اور گزرنے والی گاڑیوں سے محفوظ رہنے کے لیے حفاظتی رکاوٹوں کے پیچھے چلے جائیں۔"
+    }
+  },
+  {
+    "id": "XADK58",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving your vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور آپ کے لیے اپنی گاڑی سے باہر نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Cross the central reservation to reach the opposite side of the motorway where it is safer",
+        "ur": "مرکزی ریزرویشن کو عبور کریں تاکہ موٹروے کے مخالف جانب پہنچ سکیں جہاں زیادہ محفوظ ہے۔"
+      },
+      "a": {
+        "en": "Move to a place of safety behind the crash barrier on the left side of the motorway and call for help using an emergency telephone or mobile phone",
+        "ur": "موٹروے کے بائیں جانب حادثے کی رکاوٹ کے پیچھے محفوظ جگہ پر منتقل ہوں اور ہنگامی فون یا موبائل فون استعمال کرتے ہوئے مدد طلب کریں۔"
+      },
+      "c": {
+        "en": "Place a warning triangle 45 metres behind your vehicle on the hard shoulder to warn other drivers",
+        "ur": "اپنی گاڑی کے 45 میٹر پیچھے ہارڈ شولڈر پر وارننگ مثلث رکھیں تاکہ دوسرے ڈرائیورز کو خبردار کیا جا سکے۔"
+      },
+      "b": {
+        "en": "Stand on the hard shoulder near your vehicle while waiting for breakdown assistance to arrive",
+        "ur": "اپنی گاڑی کے قریب سخت کندھے پر کھڑے ہوں جب تک کہ مدد کے عملے کا پہنچنا نہ ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, after exiting a broken-down vehicle safely on the left side, you should move behind the crash barrier to a place of safety and call for help; standing near the vehicle or placing warning triangles on motorways is not advised, and crossing the central reservation is dangerous and prohibited.",
+      "ur": "موٹروے پر، خراب ہونے والی گاڑی سے بائیں جانب محفوظ طریقے سے نکلنے کے بعد، آپ کو حادثے کی رکاوٹ کے پیچھے محفوظ جگہ پر جانا چاہیے اور مدد کے لیے کال کرنی چاہیے؛ گاڑی کے قریب کھڑے ہونا یا موٹروے پر وارننگ ٹرائنگلز لگانا مناسب نہیں ہے، اور مرکزی ریزرویشن کو عبور کرنا خطرناک اور ممنوع ہے۔"
+    }
+  },
+  {
+    "id": "G4E325",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving the vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور گاڑی سے نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Exit on the left side and stand on the carriageway to warn other drivers, then call for help using your mobile phone",
+        "ur": "بائیں جانب نکلیں اور دوسرے ڈرائیورز کو خبردار کرنے کے لیے سڑک پر کھڑے ہو جائیں، پھر اپنے موبائل فون سے مدد کے لیے کال کریں۔"
+      },
+      "b": {
+        "en": "Exit on the right side towards the hard shoulder, place a warning triangle behind your vehicle, and stand near the rear of your vehicle",
+        "ur": "دائیں جانب ہارڈ شولڈر کی طرف نکلیں، اپنی گاڑی کے پیچھے وارننگ ٹرائینگل رکھیں، اور اپنی گاڑی کے پچھلے حصے کے قریب کھڑے ہوں۔"
+      },
+      "a": {
+        "en": "Exit on the left side away from traffic, wear high-visibility clothing if available, and move behind a safety barrier if possible",
+        "ur": "بائیں جانب ٹریفک سے دور نکلیں، اگر دستیاب ہو تو ہائی ویزیبلٹی کپڑے پہنیں، اور اگر ممکن ہو تو حفاظتی رکاوٹ کے پیچھے چلے جائیں۔"
+      },
+      "d": {
+        "en": "Exit on the right side, attempt to repair the vehicle quickly, and only call for help if you cannot fix the problem",
+        "ur": "دائیں جانب نکلیں، گاڑی کو جلد از جلد مرمت کرنے کی کوشش کریں، اور صرف اس صورت میں مدد کے لیے کال کریں جب آپ مسئلہ خود حل نہ کر سکیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, you should always exit on the left side away from traffic, wear high-visibility clothing if available, and move behind safety barriers to stay safe from passing vehicles.",
+      "ur": "موٹروے پر، آپ کو ہمیشہ ٹریفک سے دور بائیں جانب سے نکلنا چاہیے، اگر دستیاب ہو تو ہائی ویزیبلٹی کپڑے پہننے چاہئیں، اور گزرنے والی گاڑیوں سے محفوظ رہنے کے لیے حفاظتی رکاوٹوں کے پیچھے منتقل ہونا چاہیے۔"
+    }
+  },
+  {
+    "id": "SGNOMG",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور آپ کے لیے گاڑی سے باہر نکلنا محفوظ ہے۔ درست طریقہ کار کیا ہے جو آپ کو اپنانا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Switch off hazard lights, exit on the left side, and attempt to repair the vehicle on the hard shoulder",
+        "ur": "ہزارڈ لائٹس بند کریں، بائیں جانب گاڑی سے اتریں، اور ہارڈ شولڈر پر گاڑی کی مرمت کرنے کی کوشش کریں۔"
+      },
+      "a": {
+        "en": "Switch on hazard lights, exit on the left side away from traffic, and call for help using the nearest emergency telephone or mobile phone",
+        "ur": "ہیزرڈ لائٹس آن کریں، ٹریفک سے دور بائیں جانب گاڑی سے باہر نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد طلب کریں۔"
+      },
+      "d": {
+        "en": "Stay inside the vehicle with seatbelt on and wait for emergency services without switching on hazard lights",
+        "ur": "گاڑی کے اندر سیٹ بیلٹ لگا کر بیٹھیں اور ہیزرڈ لائٹس آن کیے بغیر ایمرجنسی سروسز کے پہنچنے کا انتظار کریں۔"
+      },
+      "b": {
+        "en": "Place a warning triangle 45 metres behind your vehicle, exit on the right side, and wait beside your vehicle",
+        "ur": "اپنی گاڑی کے 45 میٹر پیچھے وارننگ ٹرائینگل رکھیں، دائیں جانب سے گاڑی سے باہر نکلیں، اور اپنی گاڑی کے پاس انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you should switch on hazard lights, exit on the left side away from traffic if safe, and call for help using the nearest emergency telephone or mobile phone; placing warning triangles or attempting repairs on the hard shoulder is not allowed.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو ہیزرڈ لائٹس آن کرنی چاہئیں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی نکالنی چاہیے، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد طلب کرنی چاہیے؛ ہارڈ شولڈر پر وارننگ ٹرائنگلز لگانا یا مرمت کی کوشش کرنا منع ہے۔"
+    }
+  },
+  {
+    "id": "XCGT9R",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and you cannot reach a service area or exit, what is the correct procedure to follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور آپ سروس ایریا یا اخراجی راستے تک نہیں پہنچ سکتے، تو درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Stop in the middle lane, switch on hazard warning lights, stay inside the vehicle with seatbelt on, and wait for breakdown services to arrive.",
+        "ur": "درمیانی لین میں گاڑی روکیں، ہیزرڈ وارننگ لائٹس آن کریں، سیٹ بیلٹ باندھے گاڑی کے اندر رہیں، اور بریک ڈاؤن سروسز کے پہنچنے کا انتظار کریں۔"
+      },
+      "d": {
+        "en": "Stop on the verge, switch off hazard lights, exit the vehicle on the left side, and attempt to repair the vehicle if safe to do so.",
+        "ur": "کنارے پر گاڑی روکیں، ہیزرڈ لائٹس بند کریں، گاڑی کے بائیں جانب سے باہر نکلیں، اور اگر محفوظ ہو تو گاڑی کی مرمت کرنے کی کوشش کریں۔"
+      },
+      "c": {
+        "en": "Pull onto the hard shoulder, place a warning triangle at least 45 metres behind the vehicle, exit the vehicle on the right side, and call for help using your mobile phone.",
+        "ur": "سخت کندھے پر گاڑی روکیں، گاڑی سے کم از کم 45 میٹر پیچھے وارننگ مثلث رکھیں، گاڑی کے دائیں جانب سے باہر نکلیں، اور موبائل فون سے مدد کے لیے کال کریں۔"
+      },
+      "a": {
+        "en": "Pull onto the hard shoulder, switch on hazard warning lights and sidelights if dark, exit the vehicle on the left side away from traffic if safe, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "سخت کندھے پر گاڑی روکیں، ہیزرڈ وارننگ لائٹس اور اگر اندھیرا ہو تو سائیڈ لائٹس آن کریں، اگر محفوظ ہو تو گاڑی سے بائیں جانب ٹریفک سے دور نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you must pull onto the hard shoulder, use hazard lights and sidelights if dark, exit on the left side away from traffic if safe, and call for help using emergency telephones or your mobile phone; warning triangles must not be used on motorways.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو سخت کندھے پر گاڑی روکنی چاہیے، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس استعمال کریں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی سے باہر نکلیں، اور ہنگامی فون یا موبائل فون کے ذریعے مدد طلب کریں؛ موٹروے پر وارننگ ٹرائینگل استعمال نہیں کیے جا سکتے۔"
+    }
+  },
+  {
+    "id": "A7E3AK",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and you cannot reach a service area or exit, what is the correct procedure to follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور آپ سروس ایریا یا نکلنے کے مقام تک نہیں پہنچ سکتے، تو درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Pull onto the verge, leave hazard lights off to conserve battery, exit the vehicle on the right side, and call a breakdown service using your mobile phone.",
+        "ur": "سڑک کے کنارے گاڑی روکیں، بیٹری بچانے کے لیے ہیزرڈ لائٹس بند رکھیں، گاڑی سے دائیں جانب نکلیں، اور موبائل فون سے بریک ڈاؤن سروس کو کال کریں۔"
+      },
+      "c": {
+        "en": "Reverse carefully to the nearest slip road, switch on hazard lights, and place a warning triangle behind your vehicle.",
+        "ur": "احتیاط سے قریبی سلیپ روڈ کی طرف ریورس کریں، ہیزرڈ لائٹس آن کریں، اور اپنی گاڑی کے پیچھے وارننگ ٹرائینگل رکھیں۔"
+      },
+      "b": {
+        "en": "Stop in the middle of the carriageway with hazard lights on, exit the vehicle on the right side, and wait for help.",
+        "ur": "کارروائی کے وسط میں ہیزرڈ لائٹس آن کر کے گاڑی روکیں، گاڑی کے دائیں جانب سے باہر نکلیں، اور مدد کے انتظار میں رہیں۔"
+      },
+      "a": {
+        "en": "Pull onto the hard shoulder, switch on hazard lights and sidelights if dark, exit the vehicle on the left side away from traffic if safe, and call emergency services using the nearest emergency telephone.",
+        "ur": "سخت کندھے پر گاڑی روکیں، ہیزرڈ لائٹس اور اگر اندھیرا ہو تو سائیڈ لائٹس آن کریں، اگر محفوظ ہو تو گاڑی سے بائیں جانب ٹریفک سے دور نکلیں، اور قریبی ایمرجنسی فون کا استعمال کرتے ہوئے ایمرجنسی سروسز کو کال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you must pull onto the hard shoulder or emergency refuge area, switch on hazard lights and sidelights if dark, exit on the left side away from traffic if safe, and call emergency services using the nearest emergency telephone.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو سخت کندھے یا ایمرجنسی ریفیوج ایریا پر گاڑی روکنی چاہیے، ہیزرڈ لائٹس اور اگر اندھیرا ہو تو سائیڈ لائٹس آن کرنی چاہئیں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی سے باہر نکلیں، اور قریبی ایمرجنسی فون کا استعمال کرتے ہوئے ایمرجنسی سروسز کو کال کریں۔"
+    }
+  },
+  {
+    "id": "YQIUN1",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving your vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور آپ کے لیے اپنی گاڑی سے باہر نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Cross the motorway to the central reservation and wait there for emergency services",
+        "ur": "موٹروے کو عبور کریں اور مرکزی ریزرویشن پر پہنچ کر ایمرجنسی سروسز کے انتظار میں رک جائیں۔"
+      },
+      "d": {
+        "en": "Place a warning triangle 45 metres behind your vehicle on the hard shoulder to alert other drivers",
+        "ur": "اپنی گاڑی کے 45 میٹر پیچھے سخت کنارے پر وارننگ ٹرائینگل رکھیں تاکہ دوسرے ڈرائیورز کو خبردار کیا جا سکے۔"
+      },
+      "b": {
+        "en": "Stand on the hard shoulder near your vehicle to warn other drivers and wait for help",
+        "ur": "اپنی گاڑی کے قریب سخت کندھے پر کھڑے ہوں تاکہ دوسرے ڈرائیورز کو خبردار کر سکیں اور مدد کا انتظار کریں۔"
+      },
+      "a": {
+        "en": "Move to a place of safety behind the crash barrier on the left side of the motorway, wearing high-visibility clothing if available",
+        "ur": "موٹروے کے بائیں جانب حادثے کی رکاوٹ کے پیچھے محفوظ جگہ پر منتقل ہو جائیں، اگر دستیاب ہو تو ہائی ویزیبلٹی کپڑے پہن کر۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you should exit the vehicle on the left side away from traffic and move to a safe place behind the crash barrier, wearing high-visibility clothing if possible; placing warning triangles is not allowed on motorways.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو ٹریفک سے دور بائیں جانب گاڑی سے باہر نکلنا چاہیے اور حادثے کی رکاوٹ کے پیچھے محفوظ جگہ پر جانا چاہیے، اگر ممکن ہو تو ہائی ویزیبلٹی کپڑے پہنیں؛ موٹروے پر وارننگ ٹرائینگلز لگانا منع ہے۔"
+    }
+  },
+  {
+    "id": "9NNYK9",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and it is safe to do so, what is the correct procedure you should follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور یہ محفوظ ہو، تو آپ کو کون سا درست طریقہ کار اپنانا چاہیے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Pull into the emergency refuge area, switch off hazard lights, exit the vehicle on the right side, and attempt minor repairs if safe.",
+        "ur": "ایمرجنسی ریفیوج ایریا میں گاڑی روکیں، ہیزرڈ لائٹس بند کریں، گاڑی کے دائیں جانب سے باہر نکلیں، اور اگر محفوظ ہو تو معمولی مرمت کی کوشش کریں۔"
+      },
+      "b": {
+        "en": "Stop in the middle of the carriageway, switch on hazard warning lights, exit the vehicle on the right side, and wait for help to arrive.",
+        "ur": "کارروے کے درمیان میں گاڑی روکیں، ہیزرڈ وارننگ لائٹس آن کریں، گاڑی سے دائیں جانب نکلیں، اور مدد کے پہنچنے کا انتظار کریں۔"
+      },
+      "c": {
+        "en": "Move your vehicle to the nearest slip road, place a warning triangle 45 metres behind your vehicle, and stay inside the vehicle with seatbelt on.",
+        "ur": "اپنی گاڑی قریبی سلیپ روڈ پر منتقل کریں، اپنی گاڑی سے 45 میٹر پیچھے وارننگ مثلث رکھیں، اور سیٹ بیلٹ باندھ کر گاڑی کے اندر رہیں۔"
+      },
+      "a": {
+        "en": "Pull onto the hard shoulder, switch on hazard warning lights and sidelights if dark, exit the vehicle on the left side away from traffic, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "سخت کندھے پر گاڑی روکیں، ہیزرڈ وارننگ لائٹس اور اگر اندھیرا ہو تو سائیڈ لائٹس آن کریں، گاڑی سے بائیں جانب ٹریفک سے دور نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد طلب کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you should pull onto the hard shoulder or emergency refuge area, switch on hazard lights and sidelights if dark, exit on the left side away from traffic if safe, and call for help using an emergency telephone or mobile phone.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو ہارڈ شولڈر یا ایمرجنسی ریفیوج ایریا پر گاڑی روکنی چاہیے، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کرنی چاہئیں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی سے باہر نکلیں، اور ایمرجنسی فون یا موبائل فون استعمال کرتے ہوئے مدد کے لیے کال کریں۔"
+    }
+  },
+  {
+    "id": "ECRMMM",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving your vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور گاڑی سے باہر نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Move to a place of safety behind the crash barrier on the left side of the motorway, wearing high-visibility clothing if available.",
+        "ur": "موٹروے کے بائیں جانب حادثے کی رکاوٹ کے پیچھے محفوظ جگہ پر منتقل ہو جائیں، اگر دستیاب ہو تو ہائی ویزیبلٹی کپڑے پہن کر۔"
+      },
+      "d": {
+        "en": "Place a warning triangle 45 metres behind your vehicle on the hard shoulder to warn other drivers.",
+        "ur": "اپنی گاڑی کے پیچھے سخت کنارے پر 45 میٹر کی دوری پر وارننگ مثلث رکھیں تاکہ دوسرے ڈرائیورز کو خبردار کیا جا سکے۔"
+      },
+      "b": {
+        "en": "Stand on the hard shoulder near your vehicle while waiting for help, keeping hazard lights on.",
+        "ur": "اپنی گاڑی کے قریب سخت کندھے پر کھڑے ہوں اور مدد کے انتظار میں ہیزرڈ لائٹس جلائے رکھیں۔"
+      },
+      "c": {
+        "en": "Cross the motorway to the right side to find a safer place away from traffic.",
+        "ur": "موٹروے کو پار کر کے دائیں جانب جائیں تاکہ ٹریفک سے دور ایک محفوظ جگہ مل سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, if you exit your vehicle after a breakdown, you should move to a place of safety behind the crash barrier on the left side, wearing high-visibility clothing if possible; standing near the vehicle or crossing the motorway is dangerous, and warning triangles must not be used on motorways.",
+      "ur": "موٹروے پر، اگر آپ کی گاڑی خراب ہو جائے اور آپ اسے چھوڑ کر نکلیں، تو آپ کو بائیں جانب کرش بیریئر کے پیچھے محفوظ جگہ پر جانا چاہیے، اگر ممکن ہو تو ہائی ویزیبلٹی کپڑے پہن کر؛ گاڑی کے قریب کھڑے ہونا یا موٹروے پار کرنا خطرناک ہے، اور موٹروے پر وارننگ ٹرائینگلز استعمال نہیں کیے جا سکتے۔"
+    }
+  },
+  {
+    "id": "0XM149",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and you must exit the vehicle, what is the safest course of action?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور آپ کو گاڑی سے باہر نکلنا پڑے، تو سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Stay inside the vehicle with your seatbelt off to be ready to move quickly if needed",
+        "ur": "گاڑی کے اندر اپنی سیٹ بیلٹ کھولی ہوئی رکھیں تاکہ ضرورت پڑنے پر فوری حرکت کے لیے تیار رہیں۔"
+      },
+      "a": {
+        "en": "Exit the vehicle on the left side away from traffic and wear high-visibility clothing if available",
+        "ur": "گاڑی سے بائیں جانب، ٹریفک سے دور اتریں اور اگر ممکن ہو تو ہائی ویزیبلٹی کپڑے پہنیں۔"
+      },
+      "b": {
+        "en": "Exit the vehicle on the right side to avoid the hard shoulder and stand behind the vehicle",
+        "ur": "گاڑی سے دائیں جانب نکلیں تاکہ ہارڈ شولڈر سے بچا جا سکے اور گاڑی کے پیچھے کھڑے ہوں۔"
+      },
+      "d": {
+        "en": "Place a warning triangle at least 45 metres behind your vehicle on the hard shoulder",
+        "ur": "اپنی گاڑی کے پیچھے کم از کم 45 میٹر فاصلے پر ہارڈ شولڈر پر وارننگ ٹرائینگل رکھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, you should exit the vehicle on the left side away from traffic and wear high-visibility clothing if it is safe to do so; placing warning triangles is not advised on motorways due to safety risks.",
+      "ur": "موٹروے پر، اگر محفوظ ہو تو گاڑی سے ٹریفک سے دور بائیں جانب اترنا چاہیے اور ہائی ویزیبلٹی کپڑے پہننے چاہئیں؛ موٹروے پر حفاظتی خطرات کی وجہ سے وارننگ ٹرائینگلز لگانا تجویز نہیں کیا جاتا۔"
+    }
+  },
+  {
+    "id": "8AOSFG",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving your vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور آپ کے لیے اپنی گاڑی سے باہر نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Move to a place of safety behind the crash barrier on the left side of the motorway and call for help using the nearest emergency telephone.",
+        "ur": "موٹروے کے بائیں جانب حادثے کی رکاوٹ کے پیچھے محفوظ جگہ پر منتقل ہوں اور قریب ترین ایمرجنسی فون کا استعمال کرتے ہوئے مدد طلب کریں۔"
+      },
+      "c": {
+        "en": "Walk along the hard shoulder towards the next exit to find assistance.",
+        "ur": "سہارا لین کے کنارے اگلے اخراجی راستے کی طرف چلیں تاکہ مدد حاصل کی جا سکے۔"
+      },
+      "b": {
+        "en": "Stand on the hard shoulder near your vehicle and wait for breakdown services to arrive.",
+        "ur": "اپنی گاڑی کے قریب سخت کندھے پر کھڑے ہوں اور بریک ڈاؤن سروسز کے پہنچنے کا انتظار کریں۔"
+      },
+      "d": {
+        "en": "Place a warning triangle 45 metres behind your vehicle on the hard shoulder to warn other drivers.",
+        "ur": "اپنی گاڑی کے پیچھے سخت کنارے پر 45 میٹر کی دوری پر وارننگ مثلث رکھیں تاکہ دیگر ڈرائیورز کو خبردار کیا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, after exiting a broken-down vehicle safely on the left side, you should move behind the crash barrier to a place of safety and call for help using an emergency telephone; standing near the vehicle or placing warning triangles on motorways is not advised.",
+      "ur": "موٹروے پر، خراب ہونے والی گاڑی سے بائیں جانب محفوظ طریقے سے نکلنے کے بعد، آپ کو حادثے کی رکاوٹ کے پیچھے محفوظ جگہ پر جانا چاہیے اور ایمرجنسی فون کا استعمال کرتے ہوئے مدد طلب کرنی چاہیے؛ گاڑی کے قریب کھڑے ہونا یا موٹروے پر وارننگ ٹرائینگلز لگانا مشورہ نہیں دیا جاتا۔"
+    }
+  },
+  {
+    "id": "CV2IRZ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving the vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور گاڑی سے نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Place a warning triangle at least 45 metres behind your vehicle on the hard shoulder to warn other drivers.",
+        "ur": "اپنی گاڑی کے کم از کم 45 میٹر پیچھے سخت کندھے پر وارننگ مثلث رکھیں تاکہ دیگر ڈرائیورز کو خبردار کیا جا سکے۔"
+      },
+      "b": {
+        "en": "Stand on the hard shoulder near your vehicle and wait for breakdown services to arrive.",
+        "ur": "اپنی گاڑی کے قریب سخت کندھے پر کھڑے ہوں اور بریک ڈاؤن سروسز کے پہنچنے کا انتظار کریں۔"
+      },
+      "c": {
+        "en": "Cross the carriageway carefully to reach the central reservation and wait there.",
+        "ur": "سڑک پار کرتے وقت احتیاط سے گاڑی چلائیں تاکہ مرکزی جزیرے تک پہنچ سکیں اور وہاں انتظار کریں۔"
+      },
+      "a": {
+        "en": "Move to a place of safety behind the crash barrier on the left side of the carriageway and call for help using the nearest emergency telephone.",
+        "ur": "حادثے کی جگہ سے بائیں جانب، سڑک کے کنارے واقع حفاظتی رکاوٹ کے پیچھے محفوظ جگہ پر منتقل ہو جائیں اور قریبی ایمرجنسی فون کا استعمال کرتے ہوئے مدد طلب کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, if you exit your broken-down vehicle safely, you should move behind the crash barrier on the left side of the carriageway to a place of safety and call for help using the nearest emergency telephone; standing near the vehicle or crossing the carriageway is dangerous, and warning triangles must not be used on motorways.",
+      "ur": "موٹروے پر، اگر آپ اپنی خراب شدہ گاڑی سے محفوظ طریقے سے نکلیں، تو آپ کو گاڑی کے بائیں جانب کرش بیریئر کے پیچھے محفوظ جگہ پر جانا چاہیے اور قریبی ایمرجنسی فون کا استعمال کرتے ہوئے مدد طلب کرنی چاہیے؛ گاڑی کے قریب کھڑا ہونا یا کرریج وے پار کرنا خطرناک ہے، اور موٹروے پر وارننگ ٹرائینگلز استعمال نہیں کیے جا سکتے۔"
+    }
+  },
+  {
+    "id": "AO7AVV",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving your vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور آپ کے لیے گاڑی سے باہر نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Place a warning triangle 45 metres behind your vehicle on the hard shoulder to warn other drivers.",
+        "ur": "اپنی گاڑی سے 45 میٹر پیچھے ہارڈ شولڈر پر وارننگ ٹرائینگل رکھیں تاکہ دیگر ڈرائیورز کو خبردار کیا جا سکے۔"
+      },
+      "b": {
+        "en": "Stand on the hard shoulder near your vehicle while waiting for breakdown assistance to arrive.",
+        "ur": "اپنی گاڑی کے قریب سخت کندھے پر کھڑے ہوں جب تک کہ بریک ڈاؤن امداد نہ پہنچ جائے۔"
+      },
+      "a": {
+        "en": "Move to a place of safety behind the crash barrier on the left side of the carriageway and call for help using the nearest emergency telephone.",
+        "ur": "حادثے کی جگہ سے بائیں جانب، روڈ کے کنارے واقع حفاظتی رکاوٹ کے پیچھے محفوظ مقام پر منتقل ہوں اور قریب ترین ایمرجنسی فون کا استعمال کرتے ہوئے مدد طلب کریں۔"
+      },
+      "c": {
+        "en": "Cross the carriageway carefully to reach the central reservation and wait there for help.",
+        "ur": "سڑک کو احتیاط سے عبور کریں تاکہ مرکزی جزیرے تک پہنچ سکیں اور وہاں مدد کے انتظار میں رک جائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, after exiting a broken-down vehicle safely on the left side, you should move behind the crash barrier to a place of safety and call for help using the nearest emergency telephone; standing near the vehicle or placing warning triangles on motorways is not advised.",
+      "ur": "موٹروے پر، خراب ہو جانے والی گاڑی کو بائیں جانب محفوظ طریقے سے چھوڑنے کے بعد، آپ کو حادثے کی رکاوٹ کے پیچھے محفوظ جگہ پر جانا چاہیے اور قریبی ایمرجنسی فون کا استعمال کرتے ہوئے مدد کے لیے کال کرنی چاہیے؛ گاڑی کے قریب کھڑے ہونا یا موٹروے پر وارننگ ٹرائینگلز لگانا مشورہ نہیں دیا جاتا۔"
+    }
+  },
+  {
+    "id": "995AR9",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving your vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور آپ کے لیے اپنی گاڑی سے باہر نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Place a warning triangle at least 45 metres behind your vehicle on the hard shoulder to warn other drivers.",
+        "ur": "اپنی گاڑی کے کم از کم 45 میٹر پیچھے ہارڈ شولڈر پر وارننگ ٹرائینگل رکھیں تاکہ دوسرے ڈرائیورز کو خبردار کیا جا سکے۔"
+      },
+      "d": {
+        "en": "Cross the central reservation to seek help from the opposite carriageway if no emergency telephone is nearby.",
+        "ur": "اگر قریبی ایمرجنسی فون دستیاب نہ ہو تو مدد کے لیے مرکزی ریزرویشن پار کر کے مخالف سمت کی سڑک پر جائیں۔"
+      },
+      "b": {
+        "en": "Stand on the hard shoulder close to your vehicle while waiting for breakdown services, keeping hazard warning lights on.",
+        "ur": "اپنی گاڑی کے قریب سخت کندھے پر کھڑے ہوں جبکہ بریک ڈاؤن سروسز کے انتظار میں ہوں، اور ہیزرڈ وارننگ لائٹس آن رکھیں۔"
+      },
+      "a": {
+        "en": "Move to a safe place behind the safety barriers, wear high-visibility clothing if available, and call for help using the nearest emergency telephone or your mobile phone.",
+        "ur": "محفوظ رکاوٹوں کے پیچھے کسی محفوظ جگہ پر منتقل ہوں، اگر دستیاب ہو تو ہائی ویزیبلٹی کپڑے پہنیں، اور قریبی ایمرجنسی فون یا اپنے موبائل فون کا استعمال کرتے ہوئے مدد طلب کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On motorways, after exiting a broken-down vehicle safely (preferably on the left side away from traffic), you should move behind safety barriers if possible, wear high-visibility clothing, and call for help using emergency telephones or a mobile phone; placing warning triangles or standing near traffic is unsafe and not permitted.",
+      "ur": "موٹروے پر، خراب ہونے والی گاڑی سے محفوظ طریقے سے نکلنے کے بعد (ترجیحاً بائیں جانب جہاں ٹریفک سے دور ہو)، اگر ممکن ہو تو حفاظتی رکاوٹوں کے پیچھے چلے جائیں، ہائی ویزیبلٹی کپڑے پہنیں، اور ایمرجنسی فون یا موبائل فون کے ذریعے مدد طلب کریں؛ وارننگ ٹرائینگلز لگانا یا ٹریفک کے قریب کھڑا ہونا غیر محفوظ ہے اور اجازت یافتہ نہیں ہے۔"
+    }
+  },
+  {
+    "id": "WYDV29",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and it is safe to do so, what is the correct procedure for exiting the vehicle?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور یہ محفوظ ہو، تو گاڑی سے نکلنے کا صحیح طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Exit on the left side and place a warning triangle behind the vehicle to warn other drivers",
+        "ur": "بائیں جانب نکلیں اور دیگر ڈرائیورز کو خبردار کرنے کے لیے گاڑی کے پیچھے وارننگ ٹرائینگل رکھیں۔"
+      },
+      "a": {
+        "en": "Exit on the left side away from traffic and wear high-visibility clothing if available",
+        "ur": "بائیں جانب ٹریفک سے دور نکلیں اور اگر ممکن ہو تو ہائی ویزیبلٹی کپڑے پہنیں۔"
+      },
+      "c": {
+        "en": "Stay inside the vehicle with the seatbelt on until help arrives, regardless of traffic conditions",
+        "ur": "گاڑی کے اندر سیٹ بیلٹ باندھے ہوئے رہیں جب تک مدد نہ پہنچ جائے، چاہے ٹریفک کی صورتحال کچھ بھی ہو۔"
+      },
+      "b": {
+        "en": "Exit on the right side to avoid the hard shoulder and stand behind the vehicle",
+        "ur": "دائیں جانب سے نکلیں تاکہ ہارڈ شولڈر سے بچا جا سکے اور گاڑی کے پیچھے کھڑے ہوں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On motorways, you should exit the vehicle on the left side away from traffic and wear high-visibility clothing if it is safe to do so; warning triangles must not be used on motorways.",
+      "ur": "موٹروے پر، اگر محفوظ ہو تو آپ کو گاڑی سے بائیں جانب، ٹریفک سے دور نکلنا چاہیے اور ہائی ویزیبلٹی کپڑے پہننے چاہئیں؛ وارننگ ٹرائینگلز موٹروے پر استعمال نہیں کیے جا سکتے۔"
+    }
+  },
+  {
+    "id": "B26LQO",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving your vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور آپ کے لیے اپنی گاڑی سے باہر نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Cross the central reservation to reach the opposite side of the motorway where it is safer",
+        "ur": "مرکزی ریزرویشن کو عبور کریں تاکہ موٹروے کے مخالف جانب پہنچ سکیں جہاں زیادہ محفوظ ہے۔"
+      },
+      "b": {
+        "en": "Stand on the hard shoulder near your vehicle and wait for breakdown services to arrive",
+        "ur": "اپنی گاڑی کے قریب سخت کندھے پر کھڑے ہوں اور بریک ڈاؤن سروسز کے پہنچنے کا انتظار کریں۔"
+      },
+      "a": {
+        "en": "Move to a place of safety behind the crash barrier on the left side of the motorway, wearing high-visibility clothing if available",
+        "ur": "موٹروے کے بائیں جانب حادثے کی رکاوٹ کے پیچھے محفوظ جگہ پر منتقل ہوں، اگر دستیاب ہو تو ہائی ویزیبلٹی کپڑے پہن کر۔"
+      },
+      "d": {
+        "en": "Place a warning triangle 45 metres behind your vehicle on the hard shoulder to warn other drivers",
+        "ur": "اپنی گاڑی کے پیچھے سخت کنارے پر 45 میٹر کی دوری پر وارننگ مثلث رکھیں تاکہ دیگر ڈرائیورز کو خبردار کیا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, after exiting a broken-down vehicle safely on the left side, you should move behind the crash barrier to a place of safety and wear high-visibility clothing if possible; placing warning triangles or crossing the central reservation is prohibited.",
+      "ur": "موٹروے پر، خراب ہونے والی گاڑی کو بائیں جانب محفوظ طریقے سے چھوڑنے کے بعد، آپ کو حادثے کی رکاوٹ کے پیچھے محفوظ جگہ پر جانا چاہیے اور اگر ممکن ہو تو ہائی ویزیبلٹی کپڑے پہننے چاہئیں؛ وارننگ ٹرائینگلز لگانا یا مرکزی ریزرویشن کو عبور کرنا ممنوع ہے۔"
+    }
+  },
+  {
+    "id": "LWJ1ZI",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and you must exit the vehicle, what is the safest course of action?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور آپ کو گاڑی سے باہر نکلنا پڑے، تو سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Exit the vehicle on the right side to avoid the hard shoulder and place a warning triangle behind the vehicle",
+        "ur": "گاڑی سے دائیں جانب نکلیں تاکہ ہارڈ شولڈر سے بچا جا سکے اور گاڑی کے پیچھے وارننگ مثلث رکھیں۔"
+      },
+      "d": {
+        "en": "Exit the vehicle on the left side and immediately attempt to repair the vehicle on the hard shoulder",
+        "ur": "گاڑی سے بائیں جانب اتریں اور فوراً ہارڈ شولڈر پر گاڑی کی مرمت کرنے کی کوشش کریں۔"
+      },
+      "c": {
+        "en": "Stay inside the vehicle with your seatbelt off to be ready to move quickly if needed",
+        "ur": "گاڑی کے اندر اپنی سیٹ بیلٹ کھولی ہوئی رکھیں تاکہ ضرورت پڑنے پر فوری حرکت کے لیے تیار رہیں۔"
+      },
+      "a": {
+        "en": "Exit the vehicle on the left side away from traffic and wear high-visibility clothing if available",
+        "ur": "گاڑی سے بائیں جانب، ٹریفک سے دور اتریں اور اگر ممکن ہو تو ہائی ویزیبلٹی کپڑے پہنیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On motorways, you should exit the vehicle on the left side away from traffic and wear high-visibility clothing if it is safe to do so; placing warning triangles is not permitted on motorways.",
+      "ur": "موٹروے پر، اگر محفوظ ہو تو آپ کو گاڑی سے بائیں جانب، ٹریفک سے دور اترنا چاہیے اور ہائی ویزیبلٹی کپڑے پہننے چاہئیں؛ موٹروے پر وارننگ ٹرائینگلز لگانا منع ہے۔"
+    }
+  },
+  {
+    "id": "O6DVFQ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving your vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور گاڑی سے نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Stand on the hard shoulder near your vehicle wearing a high-visibility jacket and wait for breakdown services to arrive.",
+        "ur": "اپنی گاڑی کے قریب سخت کندھے پر کھڑے ہوں، ہائی ویزیبلٹی جیکٹ پہنیں اور بریک ڈاؤن سروسز کے پہنچنے کا انتظار کریں۔"
+      },
+      "c": {
+        "en": "Place a warning triangle 45 metres behind your vehicle on the hard shoulder and then leave the motorway immediately.",
+        "ur": "اپنی گاڑی سے 45 میٹر پیچھے ہارڈ شولڈر پر وارننگ ٹرائینگل رکھیں اور پھر فوراً موٹروے چھوڑ دیں۔"
+      },
+      "d": {
+        "en": "Exit the vehicle on the right side away from traffic and walk along the hard shoulder to the next emergency refuge area.",
+        "ur": "گاڑی سے دائیں جانب، ٹریفک سے دور اتریں اور ہارڈ شولڈر پر چلتے ہوئے اگلے ایمرجنسی ریفیوج ایریا تک جائیں۔"
+      },
+      "a": {
+        "en": "Move to a place of safety behind the safety barrier, switch on your high-visibility clothing, and call for help using the nearest emergency telephone.",
+        "ur": "محفوظ رکاوٹ کے پیچھے محفوظ جگہ پر منتقل ہوں، اپنی ہائی ویزیبلٹی لباس آن کریں، اور قریبی ایمرجنسی فون کا استعمال کرتے ہوئے مدد طلب کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you should exit on the left side away from traffic, wear high-visibility clothing, move behind safety barriers to a safe place, and call for help using an emergency telephone; standing near the vehicle or placing warning triangles on motorways is unsafe and prohibited.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو ٹریفک سے دور بائیں جانب گاڑی نکالنی چاہیے، ہائی ویزیبلٹی کپڑے پہننے چاہئیں، حفاظتی رکاوٹوں کے پیچھے محفوظ جگہ پر چلے جانا چاہیے، اور ایمرجنسی فون کا استعمال کرتے ہوئے مدد طلب کرنی چاہیے؛ گاڑی کے قریب کھڑے ہونا یا موٹروے پر وارننگ ٹرائینگلز لگانا غیر محفوظ اور ممنوع ہے۔"
+    }
+  },
+  {
+    "id": "6U9TY4",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and it is safe to do so, what is the correct procedure to follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور یہ محفوظ ہو، تو درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pull onto the hard shoulder, switch on hazard lights and sidelights if dark, exit the vehicle on the left side away from traffic, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "سخت کندھے پر گاڑی روکیں، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کریں، گاڑی سے بائیں جانب نکلیں جہاں ٹریفک سے دور ہو، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+      },
+      "c": {
+        "en": "Pull onto the hard shoulder, place a warning triangle 45 metres behind your vehicle, exit on the left side, and call for help using your mobile phone.",
+        "ur": "سخت کندھے پر گاڑی روکیں، اپنی گاڑی سے 45 میٹر پیچھے وارننگ ٹرائینگل لگائیں، بائیں جانب سے گاڑی سے باہر نکلیں، اور موبائل فون سے مدد کے لیے کال کریں۔"
+      },
+      "b": {
+        "en": "Stop in the left lane, switch on hazard lights, exit the vehicle on the right side away from traffic, and wait for breakdown services to arrive.",
+        "ur": "بائیں لین میں گاڑی روکیں، ہیزرڈ لائٹس آن کریں، گاڑی سے دائیں جانب ٹریفک سے دور نکلیں، اور بریک ڈاؤن سروسز کے پہنچنے کا انتظار کریں۔"
+      },
+      "d": {
+        "en": "Stop on the carriageway, switch on hazard lights, stay inside the vehicle with seatbelt on, and wait for emergency services.",
+        "ur": "گاڑی کو سڑک پر روکیں، ہیزرڈ لائٹس آن کریں، سیٹ بیلٹ باندھ کر گاڑی کے اندر ہی رہیں، اور ایمرجنسی سروسز کے آنے کا انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, you must pull onto the hard shoulder or emergency refuge area, switch on hazard lights and sidelights if dark, exit on the left side away from traffic if safe, and call for help using the nearest emergency telephone or mobile phone; placing warning triangles is not allowed on motorways.",
+      "ur": "موٹروے پر، آپ کو ہارڈ شولڈر یا ایمرجنسی ریفیوج ایریا پر گاڑی روکنی چاہیے، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کرنی چاہئیں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی سے باہر نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں؛ موٹروے پر وارننگ ٹرائینگلز لگانا منع ہے۔"
+    }
+  },
+  {
+    "id": "OW2MJD",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving your vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور آپ کے لیے اپنی گاڑی سے باہر نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Move to a place of safety behind the crash barrier on the left side of the carriageway and call for help using the nearest emergency telephone or your mobile phone.",
+        "ur": "حادثے کے بعد سڑک کے بائیں جانب کرش بیریئر کے پیچھے محفوظ جگہ پر منتقل ہوں اور قریبی ایمرجنسی فون یا اپنا موبائل فون استعمال کرتے ہوئے مدد طلب کریں۔"
+      },
+      "c": {
+        "en": "Place a warning triangle at least 45 metres behind your vehicle on the hard shoulder to warn other drivers.",
+        "ur": "اپنی گاڑی کے کم از کم 45 میٹر پیچھے سخت کندھے پر ایک وارننگ مثلث رکھیں تاکہ دوسرے ڈرائیورز کو خبردار کیا جا سکے۔"
+      },
+      "b": {
+        "en": "Stand on the hard shoulder near your vehicle while waiting for breakdown assistance to arrive.",
+        "ur": "اپنی گاڑی کے قریب سخت کندھے پر کھڑے ہوں جب تک کہ بریک ڈاؤن امداد نہ پہنچ جائے۔"
+      },
+      "d": {
+        "en": "Cross the central reservation to reach the opposite side of the motorway where it is safer.",
+        "ur": "مرکزی ریزرویشن کو عبور کریں تاکہ موٹروے کے مخالف جانب پہنچ سکیں جہاں زیادہ محفوظ ہوتا ہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, after exiting your vehicle on the left side, you should move behind the crash barrier to a place of safety and call for help; standing near the vehicle or placing warning triangles on motorways is unsafe and prohibited.",
+      "ur": "موٹروے پر، گاڑی سے بائیں جانب نکلنے کے بعد، آپ کو حادثے کی رکاوٹ کے پیچھے محفوظ جگہ پر جانا چاہیے اور مدد کے لیے کال کرنی چاہیے؛ گاڑی کے قریب کھڑے ہونا یا موٹروے پر وارننگ ٹرائینگلز لگانا غیر محفوظ اور ممنوع ہے۔"
+    }
+  },
+  {
+    "id": "YV2939",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving the vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور گاڑی سے نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Exit on the left side, stand between your vehicle and the traffic to warn other drivers, and wave for assistance",
+        "ur": "گاڑی کے بائیں جانب نکلیں، اپنی گاڑی اور ٹریفک کے درمیان کھڑے ہوں تاکہ دیگر ڈرائیورز کو خبردار کر سکیں، اور مدد کے لیے ہاتھ ہلائیں۔"
+      },
+      "c": {
+        "en": "Stay inside the vehicle with your seatbelt off and call for help using your mobile phone",
+        "ur": "گاڑی کے اندر رہیں، سیٹ بیلٹ کھلی رکھیں اور موبائل فون سے مدد طلب کریں۔"
+      },
+      "b": {
+        "en": "Exit on the right side towards the central reservation, place a warning triangle on the hard shoulder, and wait beside your vehicle",
+        "ur": "دائیں جانب مرکزی ریزرویشن کی طرف نکلیں، ہارڈ شولڈر پر وارننگ مثلث رکھیں، اور اپنی گاڑی کے ساتھ انتظار کریں۔"
+      },
+      "a": {
+        "en": "Exit on the left side away from traffic, wear high-visibility clothing if available, and move behind a safety barrier if possible",
+        "ur": "بائیں جانب ٹریفک سے دور نکلیں، اگر دستیاب ہو تو ہائی ویزیبلٹی کپڑے پہنیں، اور اگر ممکن ہو تو حفاظتی رکاوٹ کے پیچھے چلے جائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you should exit on the left side away from traffic, wear high-visibility clothing if available, and move behind safety barriers to stay safe from passing vehicles.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو ٹریفک سے دور بائیں جانب نکلنا چاہیے، اگر دستیاب ہو تو ہائی ویزیبلٹی کپڑے پہننے چاہئیں، اور گزرنے والی گاڑیوں سے محفوظ رہنے کے لیے حفاظتی رکاوٹوں کے پیچھے چلے جانا چاہیے۔"
+    }
+  },
+  {
+    "id": "KAB8PI",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving your vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور آپ کے لیے اپنی گاڑی سے باہر نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Place a warning triangle 45 metres behind your vehicle on the hard shoulder to warn other drivers.",
+        "ur": "اپنی گاڑی کے پیچھے سخت کنارے پر 45 میٹر کی دوری پر وارننگ مثلث رکھیں تاکہ دیگر ڈرائیورز کو خبردار کیا جا سکے۔"
+      },
+      "a": {
+        "en": "Move to a place of safety behind the crash barrier on the left side of the carriageway and call for help using the nearest emergency telephone.",
+        "ur": "حادثے کی جگہ سے بائیں جانب، روڈ کے کنارے واقع حفاظتی رکاوٹ کے پیچھے محفوظ مقام پر منتقل ہوں اور قریبی ایمرجنسی فون کا استعمال کرتے ہوئے مدد طلب کریں۔"
+      },
+      "b": {
+        "en": "Stand on the hard shoulder near your vehicle and wait for breakdown services to arrive, keeping hazard lights on.",
+        "ur": "اپنی گاڑی کے قریب سخت کندھے پر کھڑے ہوں اور ہیزرڈ لائٹس جلائے رکھیں، پھر بریک ڈاؤن سروسز کے پہنچنے کا انتظار کریں۔"
+      },
+      "c": {
+        "en": "Cross the carriageway carefully to reach the central reservation and wait there for assistance.",
+        "ur": "احتیاط سے روڈ پار کریں تاکہ مرکزی جزیرے تک پہنچ سکیں اور وہاں مدد کے لیے انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, after exiting a broken-down vehicle safely on the left side, you should move behind the crash barrier to a place of safety and use the nearest emergency telephone to call for help; placing warning triangles or standing near the vehicle on the hard shoulder is unsafe and not recommended.",
+      "ur": "موٹروے پر، خراب ہونے والی گاڑی کو بائیں جانب محفوظ طریقے سے چھوڑنے کے بعد، آپ کو حادثے کی رکاوٹ کے پیچھے محفوظ جگہ پر جانا چاہیے اور مدد کے لیے قریبی ایمرجنسی فون کا استعمال کرنا چاہیے؛ وارننگ ٹرائینگلز لگانا یا ہارڈ شولڈر پر گاڑی کے قریب کھڑا ہونا غیر محفوظ ہے اور تجویز نہیں کیا جاتا۔"
+    }
+  },
+  {
+    "id": "9I3XDA",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and it is safe to exit, which of the following is the correct procedure to follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور باہر نکلنا محفوظ ہو، تو درج ذیل میں سے کون سا طریقہ کار درست ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Stay inside the vehicle with your seatbelt on and do not switch on hazard lights until emergency services arrive.",
+        "ur": "گاڑی کے اندر اپنی سیٹ بیلٹ باندھے رہیں اور ہنگامی خدمات کے پہنچنے تک ہیزرڈ لائٹس نہ جلائیں۔"
+      },
+      "a": {
+        "en": "Switch on hazard warning lights and sidelights if dark, exit on the left side away from traffic, then call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "اگر اندھیرا ہو تو ہیزرڈ وارننگ لائٹس اور سائیڈ لائٹس آن کریں، ٹریفک سے دور بائیں جانب گاڑی سے باہر نکلیں، پھر قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+      },
+      "b": {
+        "en": "Place a warning triangle at least 45 metres behind your vehicle, exit on the right side, and wait beside your vehicle for assistance.",
+        "ur": "اپنی گاڑی کے کم از کم 45 میٹر پیچھے وارننگ ٹرائینگل رکھیں، دائیں جانب سے گاڑی سے باہر نکلیں، اور مدد کے لیے اپنی گاڑی کے پاس انتظار کریں۔"
+      },
+      "c": {
+        "en": "Switch off the engine, open the bonnet to check for faults, then stand between your vehicle and the central reservation to warn other drivers.",
+        "ur": "انجن بند کریں، بونٹ کھول کر خرابیوں کی جانچ کریں، پھر اپنی گاڑی اور مرکزی ریزرویشن کے درمیان کھڑے ہو کر دیگر ڈرائیورز کو خبردار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you should switch on hazard lights and sidelights if dark, exit on the left side away from traffic if safe, and call for help using the nearest emergency telephone or mobile phone; warning triangles must not be used on motorways.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کریں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی نکالیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد طلب کریں؛ موٹروے پر وارننگ ٹرائینگل استعمال نہیں کیے جا سکتے۔"
+    }
+  },
+  {
+    "id": "ARAFWE",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving the vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور گاڑی سے باہر نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Exit on the left side away from traffic, wear high-visibility clothing if available, and move behind a safety barrier if possible",
+        "ur": "بائیں طرف ٹریفک سے دور نکلیں، اگر دستیاب ہو تو ہائی ویزیبلٹی کپڑے پہنیں، اور اگر ممکن ہو تو حفاظتی رکاوٹ کے پیچھے چلے جائیں۔"
+      },
+      "d": {
+        "en": "Place a warning triangle at least 45 metres behind your vehicle on the hard shoulder before exiting",
+        "ur": "اپنی گاڑی سے نکلنے سے پہلے سخت کندھے پر کم از کم 45 میٹر پیچھے وارننگ مثلث رکھیں۔"
+      },
+      "c": {
+        "en": "Stay inside the vehicle with your seatbelt off and call for help using your mobile phone",
+        "ur": "گاڑی کے اندر رہیں، سیٹ بیلٹ کھلی رکھیں اور موبائل فون سے مدد طلب کریں۔"
+      },
+      "b": {
+        "en": "Exit on the right side towards the central reservation and wait near the vehicle for assistance",
+        "ur": "دائیں جانب مرکزی ریزرویشن کی طرف نکلیں اور مدد کے لیے گاڑی کے قریب انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, you should exit on the left side away from traffic, wear high-visibility clothing if available, and move behind safety barriers to stay safe from passing vehicles.",
+      "ur": "موٹروے پر، آپ کو ٹریفک سے دور بائیں جانب سے نکلنا چاہیے، اگر دستیاب ہو تو ہائی ویزیبلٹی کپڑے پہنیں، اور گزرنے والی گاڑیوں سے محفوظ رہنے کے لیے حفاظتی رکاوٹوں کے پیچھے چلے جائیں۔"
+    }
+  },
+  {
+    "id": "H24TJ2",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving the vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور گاڑی سے نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Stand on the hard shoulder near your vehicle while waiting for breakdown assistance to arrive.",
+        "ur": "اپنی گاڑی کے قریب سخت کندھے پر کھڑے ہوں جب تک کہ مدد کے عملہ نہ پہنچ جائے۔"
+      },
+      "d": {
+        "en": "Place a warning triangle at least 45 metres behind your vehicle on the hard shoulder to warn other drivers.",
+        "ur": "اپنی گاڑی کے کم از کم 45 میٹر پیچھے ہارڈ شولڈر پر وارننگ ٹرائینگل رکھیں تاکہ دیگر ڈرائیورز کو خبردار کیا جا سکے۔"
+      },
+      "a": {
+        "en": "Move to a place of safety behind the crash barrier on the left side of the motorway and call for help using the nearest emergency telephone.",
+        "ur": "موٹر وے کے بائیں جانب حادثے کی رکاوٹ کے پیچھے محفوظ جگہ پر منتقل ہوں اور قریب ترین ایمرجنسی فون کا استعمال کرتے ہوئے مدد طلب کریں۔"
+      },
+      "c": {
+        "en": "Cross the motorway to the right side to find a safer place away from traffic.",
+        "ur": "موٹروے کو پار کریں اور ٹریفک سے دور محفوظ جگہ کے لیے دائیں طرف جائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, after exiting a broken-down vehicle safely on the left side, you should move behind the crash barrier to a place of safety and call for help using the nearest emergency telephone; placing warning triangles is not permitted on motorways.",
+      "ur": "موٹروے پر، خراب ہونے والی گاڑی سے بائیں جانب محفوظ طریقے سے نکلنے کے بعد، آپ کو حادثے کی رکاوٹ کے پیچھے محفوظ جگہ پر جانا چاہیے اور قریبی ایمرجنسی فون کا استعمال کرتے ہوئے مدد کے لیے کال کرنی چاہیے؛ موٹروے پر وارننگ ٹرائینگلز لگانا اجازت نہیں ہے۔"
+    }
+  },
+  {
+    "id": "WC9SXA",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway hard shoulder at night, what is the correct procedure to ensure your safety?",
+      "ur": "اگر آپ کی گاڑی رات کے وقت موٹروے کے ہارڈ شولڈر پر خراب ہو جائے، تو اپنی حفاظت کو یقینی بنانے کے لیے درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Switch off all lights to avoid dazzling other drivers, exit the vehicle on the right side away from traffic, and attempt minor repairs if safe.",
+        "ur": "تمام لائٹس بند کریں تاکہ دیگر ڈرائیورز کی نظر نہ خراب ہو، گاڑی کے دائیں جانب سے ٹریفک سے دور نکلیں، اور اگر محفوظ ہو تو معمولی مرمت کی کوشش کریں۔"
+      },
+      "d": {
+        "en": "Switch on hazard warning lights and sidelights, stay inside the vehicle with seatbelt on, and wait for a passing patrol vehicle to assist.",
+        "ur": "ہیزرڈ وارننگ لائٹس اور سائیڈ لائٹس آن کریں، گاڑی کے اندر سیٹ بیلٹ باندھ کر رہیں، اور مدد کے لیے گزرنے والی پٹرول گاڑی کا انتظار کریں۔"
+      },
+      "a": {
+        "en": "Switch on hazard warning lights and sidelights, exit the vehicle on the left side away from traffic if safe, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "ہیزرڈ وارننگ لائٹس اور سائیڈ لائٹس آن کریں، اگر محفوظ ہو تو گاڑی سے بائیں جانب ٹریفک سے دور نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون استعمال کرتے ہوئے مدد طلب کریں۔"
+      },
+      "b": {
+        "en": "Switch on hazard warning lights only, place a warning triangle 45 metres behind the vehicle, and wait inside the vehicle with seatbelt on.",
+        "ur": "صرف ہیزرڈ وارننگ لائٹس آن کریں، گاڑی کے پیچھے 45 میٹر کی دوری پر وارننگ مثلث رکھیں، اور سیٹ بیلٹ باندھ کر گاڑی کے اندر انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway hard shoulder at night, you must switch on hazard warning lights and sidelights, exit the vehicle on the left side away from traffic if it is safe to do so, and call for help using the nearest emergency telephone or mobile phone.",
+      "ur": "موٹروے کے ہارڈ شولڈر پر رات کے وقت، آپ کو ہیزرڈ وارننگ لائٹس اور سائیڈ لائٹس آن کرنی چاہئیں، اگر محفوظ ہو تو گاڑی سے ٹریفک سے دور بائیں جانب نکلنا چاہیے، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کرنی چاہیے۔"
+    }
+  },
+  {
+    "id": "G6JDNP",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving your vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور آپ کے لیے اپنی گاڑی سے باہر نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Stand on the hard shoulder near your vehicle while waiting for breakdown assistance, keeping hazard lights on to warn other drivers.",
+        "ur": "اپنی گاڑی کے قریب سخت کندھے پر کھڑے ہوں جب تک کہ مدد نہ پہنچ جائے، اور دوسرے ڈرائیورز کو خبردار کرنے کے لیے ہیزرڈ لائٹس آن رکھیں۔"
+      },
+      "d": {
+        "en": "Cross the central reservation carefully to reach the opposite carriageway where there is less traffic.",
+        "ur": "مرکزی ریزرویشن کو احتیاط سے عبور کریں تاکہ کم ٹریفک والے مخالف سمت کے راستے تک پہنچ سکیں۔"
+      },
+      "a": {
+        "en": "Move to a place of safety behind the safety barrier, wear high-visibility clothing if available, and call for help using the nearest emergency telephone or your mobile phone.",
+        "ur": "محفوظ جگہ پر، حفاظتی رکاوٹ کے پیچھے منتقل ہوں، اگر دستیاب ہو تو ہائی ویزیبلٹی کپڑے پہنیں، اور قریبی ایمرجنسی فون یا اپنے موبائل فون کا استعمال کرتے ہوئے مدد کے لیے کال کریں۔"
+      },
+      "c": {
+        "en": "Place a warning triangle at least 45 metres behind your vehicle on the hard shoulder to alert other drivers of your breakdown.",
+        "ur": "اپنی گاڑی کے پیچھے کم از کم 45 میٹر فاصلے پر ہارڈ شولڈر پر وارننگ ٹرائینگل رکھیں تاکہ دیگر ڈرائیورز کو آپ کی گاڑی خراب ہونے کی اطلاع دی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, after exiting a broken-down vehicle safely on the left side, you should move behind safety barriers to a safe place, wear high-visibility clothing if possible, and call for help using emergency phones or your mobile; standing near the vehicle or placing warning triangles on motorways is unsafe and prohibited.",
+      "ur": "موٹروے پر، خراب ہونے والی گاڑی سے بائیں جانب محفوظ طریقے سے نکلنے کے بعد، آپ کو حفاظتی رکاوٹوں کے پیچھے محفوظ جگہ پر جانا چاہیے، اگر ممکن ہو تو ہائی ویزیبلٹی کپڑے پہننے چاہئیں، اور ایمرجنسی فونز یا اپنے موبائل فون کا استعمال کرتے ہوئے مدد کے لیے کال کرنی چاہیے؛ گاڑی کے قریب کھڑے ہونا یا موٹروے پر وارننگ ٹرائینگلز لگانا غیر محفوظ اور ممنوع ہے۔"
+    }
+  },
+  {
+    "id": "24YDTS",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and you cannot reach a service area or exit, what is the correct procedure to follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور آپ سروس ایریا یا اخراجی راستے تک نہیں پہنچ سکتے، تو درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pull onto the hard shoulder, switch on hazard warning lights and sidelights if dark, exit the vehicle on the left side away from traffic if safe, and call emergency services using the nearest emergency telephone or mobile phone.",
+        "ur": "سخت کندھے پر گاڑی روکیں، ہیزرڈ وارننگ لائٹس اور اگر اندھیرا ہو تو سائیڈ لائٹس آن کریں، اگر محفوظ ہو تو گاڑی سے بائیں جانب ٹریفک سے دور نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے ایمرجنسی سروسز کو کال کریں۔"
+      },
+      "b": {
+        "en": "Stop in the middle lane with hazard lights on, exit the vehicle on the right side, and wait for breakdown services to arrive.",
+        "ur": "وسطی لین میں ہیزرڈ لائٹس آن کر کے گاڑی روکیں، گاڑی کے دائیں جانب سے باہر نکلیں، اور بریک ڈاؤن سروسز کے پہنچنے کا انتظار کریں۔"
+      },
+      "d": {
+        "en": "Reverse carefully to the nearest slip road, switch on hazard lights, and call emergency services from inside the vehicle.",
+        "ur": "احتیاط سے قریبی سلیپ روڈ کی طرف ریورس کریں، ہیزرڈ لائٹس آن کریں، اور گاڑی کے اندر سے ایمرجنسی سروسز کو کال کریں۔"
+      },
+      "c": {
+        "en": "Pull onto the verge, place a warning triangle 45 metres behind the vehicle, and remain inside the vehicle with seatbelt on.",
+        "ur": "گاڑی کو کنارے پر روکیں، گاڑی سے 45 میٹر پیچھے وارننگ ٹرائینگل لگائیں، اور سیٹ بیلٹ باندھے گاڑی کے اندر رہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you must pull onto the hard shoulder or emergency refuge area, switch on hazard lights and sidelights if dark, exit on the left side away from traffic if safe, and call for help using an emergency telephone or mobile phone.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو سخت کندھے یا ہنگامی پناہ گاہ پر گاڑی روکنی چاہیے، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کرنی چاہئیں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی سے باہر نکلنا چاہیے، اور ہنگامی فون یا موبائل فون استعمال کرتے ہوئے مدد کے لیے کال کرنی چاہیے۔"
+    }
+  },
+  {
+    "id": "O4F8CD",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving your vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور آپ کے لیے اپنی گاڑی سے نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Place a warning triangle at least 45 metres behind your vehicle on the hard shoulder",
+        "ur": "اپنی گاڑی کے کم از کم 45 میٹر پیچھے سخت کندھے پر وارننگ ٹرائینگل رکھیں۔"
+      },
+      "a": {
+        "en": "Move to a place of safety behind a barrier or well away from traffic on the left side of the motorway",
+        "ur": "موٹروے کے بائیں جانب ٹریفک سے دور، کسی حفاظتی رکاوٹ کے پیچھے یا محفوظ جگہ پر منتقل ہو جائیں۔"
+      },
+      "b": {
+        "en": "Stand on the hard shoulder close to your vehicle while waiting for help",
+        "ur": "اپنی گاڑی کے قریب سخت کندھے پر کھڑے ہوں جب تک مدد نہ پہنچ جائے۔"
+      },
+      "c": {
+        "en": "Cross the motorway to the right side to wait where you can be seen more easily",
+        "ur": "موٹروے کو پار کریں اور دائیں جانب انتظار کریں جہاں آپ کو آسانی سے دیکھا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "When broken down on a motorway, you should exit on the left side away from traffic and move to a safe place behind barriers or well away from the carriageway to avoid danger; warning triangles must not be used on motorways.",
+      "ur": "اگر آپ کا موٹر وے پر گاڑی خراب ہو جائے تو آپ کو ٹریفک سے دور بائیں جانب نکلنا چاہیے اور حفاظتی رکاوٹوں کے پیچھے یا روڈ سے کافی دور محفوظ جگہ پر جانا چاہیے تاکہ خطرے سے بچا جا سکے؛ موٹر وے پر وارننگ ٹرائینگلز استعمال نہیں کیے جا سکتے۔"
+    }
+  },
+  {
+    "id": "JPPXUG",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway hard shoulder at night, what is the correct procedure to ensure your safety?",
+      "ur": "اگر آپ کی گاڑی رات کے وقت موٹروے کے ہارڈ شولڈر پر خراب ہو جائے، تو اپنی حفاظت کو یقینی بنانے کے لیے درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Switch on hazard warning lights only, exit the vehicle on the right side away from traffic, and place a warning triangle 45 metres behind the vehicle.",
+        "ur": "صرف ہیزرڈ وارننگ لائٹس آن کریں، گاڑی سے دائیں جانب ٹریفک سے دور اتریں، اور گاڑی کے پچھلے حصے سے 45 میٹر پیچھے وارننگ ٹرائینگل رکھیں۔"
+      },
+      "a": {
+        "en": "Switch on hazard warning lights and sidelights, exit the vehicle on the left side away from traffic if safe, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "ہیزرڈ وارننگ لائٹس اور سائیڈ لائٹس آن کریں، اگر محفوظ ہو تو گاڑی سے بائیں جانب ٹریفک سے دور نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون استعمال کرتے ہوئے مدد طلب کریں۔"
+      },
+      "c": {
+        "en": "Switch on sidelights only, stay inside the vehicle with seatbelt on, and wait for help without calling emergency services.",
+        "ur": "صرف سائیڈ لائٹس آن کریں، سیٹ بیلٹ باندھ کر گاڑی کے اندر رہیں، اور ایمرجنسی سروسز کو کال کیے بغیر مدد کے انتظار میں رہیں۔"
+      },
+      "d": {
+        "en": "Switch on hazard warning lights and place a warning triangle on the hard shoulder, then exit the vehicle on the left side and walk along the carriageway to find assistance.",
+        "ur": "ہزارڈ وارننگ لائٹس آن کریں اور ہارڈ شولڈر پر وارننگ ٹرائینگل رکھیں، پھر گاڑی کے بائیں جانب سے باہر نکلیں اور مدد حاصل کرنے کے لیے سڑک کے کنارے چلیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway hard shoulder at night, you must switch on hazard lights and sidelights, exit on the left side away from traffic if it is safe, and call for help using the nearest emergency telephone or mobile phone; warning triangles must not be used on motorways.",
+      "ur": "موٹروے پر رات کے وقت ہارڈ شولڈر پر، آپ کو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کرنی چاہئیں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب نکلنا چاہیے، اور قریب ترین ایمرجنسی فون یا موبائل فون سے مدد طلب کرنی چاہیے؛ موٹروے پر وارننگ ٹرائنگلز استعمال نہیں کیے جا سکتے۔"
+    }
+  },
+  {
+    "id": "4LLTGK",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and it is safe to do so, what is the correct procedure you should follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور یہ محفوظ ہو، تو آپ کو کون سا درست طریقہ کار اختیار کرنا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Move your vehicle to the nearest slip road, place a warning triangle 45 metres behind your vehicle, and call for help.",
+        "ur": "اپنی گاڑی قریبی سلیپ روڈ پر منتقل کریں، اپنی گاڑی سے 45 میٹر پیچھے وارننگ ٹرائینگل رکھیں، اور مدد کے لیے کال کریں۔"
+      },
+      "b": {
+        "en": "Stop on the carriageway with hazard lights on, exit the vehicle on the right side, and wait inside until help arrives.",
+        "ur": "کار روڈ پر ہیزرڈ لائٹس آن کرکے گاڑی روکیں، گاڑی کے دائیں جانب سے باہر نکلیں، اور مدد کے آنے تک گاڑی کے اندر انتظار کریں۔"
+      },
+      "d": {
+        "en": "Remain inside your vehicle with hazard lights off and wait for a passing patrol vehicle to assist you.",
+        "ur": "اپنی گاڑی کے اندر رہیں، ہیزرڈ لائٹس بند رکھیں، اور مدد کے لیے گزرنے والی پولیس گاڑی کا انتظار کریں۔"
+      },
+      "a": {
+        "en": "Pull onto the hard shoulder, switch on hazard warning lights and sidelights if dark, exit the vehicle on the left side away from traffic, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "سخت کندھے پر گاڑی روکیں، ہیزرڈ وارننگ لائٹس اور اگر اندھیرا ہو تو سائیڈ لائٹس آن کریں، گاڑی سے بائیں جانب ٹریفک سے دور نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you should pull onto the hard shoulder or emergency refuge area, switch on hazard lights and sidelights if dark, exit on the left side away from traffic if safe, and call for help using an emergency telephone or mobile phone.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو سخت کندھے یا ایمرجنسی ریفیوج ایریا پر گاڑی روکنی چاہیے، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کرنی چاہئیں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی سے نکلنا چاہیے، اور ایمرجنسی فون یا موبائل فون کے ذریعے مدد کے لیے کال کرنی چاہیے۔"
+    }
+  },
+  {
+    "id": "8Y61H9",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving your vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور آپ کے لیے اپنی گاڑی سے باہر نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Stand on the hard shoulder near your vehicle while waiting for breakdown assistance, keeping hazard lights on.",
+        "ur": "اپنی گاڑی کے قریب ہارڈ شولڈر پر کھڑے ہوں جبکہ بریک ڈاؤن امداد کا انتظار کر رہے ہوں، اور ہیزرڈ لائٹس آن رکھیں۔"
+      },
+      "d": {
+        "en": "Attempt to repair your vehicle quickly on the hard shoulder to avoid blocking traffic.",
+        "ur": "اپنی گاڑی کو جلد از جلد ہارڈ شولڈر پر مرمت کرنے کی کوشش کریں تاکہ ٹریفک میں رکاوٹ نہ بنے۔"
+      },
+      "a": {
+        "en": "Move to a place of safety behind a barrier, wear high-visibility clothing if available, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "محفوظ جگہ پر، کسی رکاوٹ کے پیچھے منتقل ہوں، اگر دستیاب ہو تو ہائی ویزیبلٹی کپڑے پہنیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+      },
+      "c": {
+        "en": "Place a warning triangle at least 45 metres behind your vehicle on the hard shoulder to warn other drivers.",
+        "ur": "اپنی گاڑی کے پیچھے کم از کم 45 میٹر فاصلے پر ہارڈ شولڈر پر ایک وارننگ مثلث رکھیں تاکہ دوسرے ڈرائیورز کو خبردار کیا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, after exiting your vehicle safely on the left side, you should move well away from traffic, ideally behind a safety barrier, wear high-visibility clothing if possible, and call for help using an emergency telephone or mobile phone; placing warning triangles or attempting repairs on the motorway is unsafe and not permitted.",
+      "ur": "موٹروے پر، گاڑی کو بائیں جانب محفوظ طریقے سے روکنے کے بعد، آپ کو ٹریفک سے کافی دور جانا چاہیے، بہتر ہے کہ حفاظتی رکاوٹ کے پیچھے چلے جائیں، اگر ممکن ہو تو ہائی ویزیبلٹی کپڑے پہنیں، اور ہنگامی فون یا موبائل فون سے مدد طلب کریں؛ موٹروے پر وارننگ ٹرائینگلز لگانا یا مرمت کی کوشش کرنا غیر محفوظ ہے اور اجازت یافتہ نہیں ہے۔"
+    }
+  },
+  {
+    "id": "FCG15J",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving the vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور گاڑی سے نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Exit on the left side away from traffic, wear high-visibility clothing, and move behind a safety barrier if possible",
+        "ur": "ٹریفک سے دور بائیں جانب نکلیں، روشن رنگ کے حفاظتی کپڑے پہنیں، اور اگر ممکن ہو تو حفاظتی رکاوٹ کے پیچھے چلے جائیں۔"
+      },
+      "d": {
+        "en": "Exit on the left side, place a warning triangle 45 metres behind the vehicle, and stand on the hard shoulder",
+        "ur": "بائیں جانب نکلیں، گاڑی سے 45 میٹر پیچھے وارننگ مثلث رکھیں، اور ہارڈ شولڈر پر کھڑے ہوں۔"
+      },
+      "c": {
+        "en": "Stay inside the vehicle with your seatbelt on and call for help without exiting",
+        "ur": "گاڑی کے اندر اپنی سیٹ بیلٹ باندھے رہیں اور گاڑی سے باہر نکلے بغیر مدد کے لیے کال کریں۔"
+      },
+      "b": {
+        "en": "Exit on the right side towards the traffic, place a warning triangle on the hard shoulder, and wait near your vehicle",
+        "ur": "دائیں جانب ٹریفک کی طرف نکلیں، ہارڈ شولڈر پر وارننگ مثلث رکھیں، اور اپنی گاڑی کے قریب انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On motorways, you should exit on the left side away from traffic, wear high-visibility clothing if available, and move behind safety barriers to stay safe; warning triangles must not be used on motorways.",
+      "ur": "موٹروے پر، آپ کو ٹریفک سے دور بائیں جانب نکلنا چاہیے، اگر دستیاب ہو تو ہائی ویزیبلٹی کپڑے پہنیں، اور محفوظ رہنے کے لیے حفاظتی رکاوٹوں کے پیچھے چلے جائیں؛ وارننگ ٹرائینگلز موٹروے پر استعمال نہیں کیے جا سکتے۔"
+    }
+  },
+  {
+    "id": "VKVCCI",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving the vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور گاڑی سے نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Cross the motorway to the central reservation to avoid traffic, then call emergency services on your mobile phone.",
+        "ur": "موٹروے کو کراس کر کے مرکزی ریزرویشن تک جائیں تاکہ ٹریفک سے بچا جا سکے، پھر اپنے موبائل فون سے ایمرجنسی سروسز کو کال کریں۔"
+      },
+      "b": {
+        "en": "Stand on the hard shoulder near your vehicle to warn other drivers, keep your hazard lights on, and wait for breakdown services to arrive.",
+        "ur": "اپنی گاڑی کے قریب سخت کندھے پر کھڑے ہوں تاکہ دیگر ڈرائیورز کو خبردار کیا جا سکے، اپنے ہیزرڈ لائٹس آن رکھیں، اور بریک ڈاؤن سروسز کے پہنچنے کا انتظار کریں۔"
+      },
+      "a": {
+        "en": "Move to a place of safety behind the crash barrier on the left side of the motorway, wear high-visibility clothing if available, and call for help using the nearest emergency telephone.",
+        "ur": "موٹروے کے بائیں جانب حادثے کی رکاوٹ کے پیچھے محفوظ جگہ پر منتقل ہوں، اگر دستیاب ہو تو ہائی ویزیبلٹی کپڑے پہنیں، اور قریبی ایمرجنسی فون کا استعمال کرتے ہوئے مدد کے لیے کال کریں۔"
+      },
+      "d": {
+        "en": "Place a warning triangle 45 metres behind your vehicle on the hard shoulder, then stand beside it wearing high-visibility clothing.",
+        "ur": "اپنی گاڑی سے 45 میٹر پیچھے سخت کندھے پر وارننگ ٹرائینگل رکھیں، پھر اس کے ساتھ کھڑے ہو جائیں اور ہائی ویزیبلٹی کپڑے پہنیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you should exit the vehicle on the left side away from traffic, move behind the crash barrier to a place of safety, wear high-visibility clothing if possible, and call for help using the nearest emergency telephone; standing near the vehicle or placing warning triangles on motorways is unsafe and not permitted.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو ٹریفک سے دور بائیں جانب گاڑی سے باہر نکلنا چاہیے، حادثے کی رکاوٹ کے پیچھے محفوظ جگہ پر جانا چاہیے، اگر ممکن ہو تو ہائی ویزیبلٹی کپڑے پہننے چاہئیں، اور قریب ترین ایمرجنسی فون کا استعمال کرتے ہوئے مدد طلب کرنی چاہیے؛ گاڑی کے قریب کھڑے ہونا یا موٹروے پر وارننگ ٹرائینگلز لگانا غیر محفوظ ہے اور اجازت یافتہ نہیں ہے۔"
+    }
+  },
+  {
+    "id": "S59ZBX",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and it is safe to exit, which of the following is the correct procedure to follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور باہر نکلنا محفوظ ہو، تو درج ذیل میں سے کون سا طریقہ کار درست ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Switch off hazard lights, stay inside the vehicle with seatbelt on, and call for help using your mobile phone.",
+        "ur": "ہزارڈ لائٹس بند کریں، سیٹ بیلٹ لگا کر گاڑی کے اندر رہیں، اور موبائل فون سے مدد کے لیے کال کریں۔"
+      },
+      "a": {
+        "en": "Switch on hazard lights and sidelights if dark, exit on the left side away from traffic, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کریں، ٹریفک سے دور بائیں جانب گاڑی سے باہر نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+      },
+      "b": {
+        "en": "Place a warning triangle at least 45 metres behind your vehicle, exit on the right side, and wait beside your vehicle.",
+        "ur": "اپنی گاڑی کے کم از کم 45 میٹر پیچھے وارننگ ٹرائینگل رکھیں، دائیں جانب سے گاڑی سے باہر نکلیں، اور اپنی گاڑی کے پاس انتظار کریں۔"
+      },
+      "d": {
+        "en": "Exit the vehicle immediately on the side nearest to traffic and wait behind the central reservation.",
+        "ur": "گاڑی سے فوراً اُس طرف نکلیں جو ٹریفک کے قریب ہو اور مرکزی ریزرویشن کے پیچھے انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you should switch on hazard lights and sidelights if dark, exit on the left side away from traffic if safe, and call for help using the nearest emergency telephone or mobile phone; placing warning triangles is not allowed on motorways.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کریں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی نکالیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد طلب کریں؛ موٹروے پر وارننگ ٹرائینگلز لگانا منع ہے۔"
+    }
+  },
+  {
+    "id": "BNBT85",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and it is safe to do so, what is the correct procedure you should follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور یہ محفوظ ہو، تو آپ کو کون سا درست طریقہ کار اختیار کرنا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Pull into the nearest lay-by or service area, switch off hazard lights, exit the vehicle on the right side, and place a warning triangle 45 metres behind the vehicle.",
+        "ur": "قریب ترین لینڈنگ یا سروس ایریا میں گاڑی روکیں، ہیزرڈ لائٹس بند کریں، گاڑی کے دائیں جانب سے باہر نکلیں، اور گاڑی سے 45 میٹر پیچھے وارننگ ٹرائینگل رکھیں۔"
+      },
+      "d": {
+        "en": "Stop on the carriageway, switch on hazard warning lights, exit the vehicle on the right side, and attempt to repair the vehicle quickly.",
+        "ur": "گاڑی کو سڑک پر روکیں، ہیزرڈ وارننگ لائٹس آن کریں، گاڑی کے دائیں جانب سے باہر نکلیں، اور گاڑی کی مرمت جلد از جلد کرنے کی کوشش کریں۔"
+      },
+      "a": {
+        "en": "Pull onto the hard shoulder, switch on hazard warning lights and sidelights if dark, exit the vehicle on the left side away from traffic, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "سخت کندھے پر گاڑی روکیں، ہیزرڈ وارننگ لائٹس اور اگر اندھیرا ہو تو سائیڈ لائٹس آن کریں، گاڑی سے بائیں جانب ٹریفک سے دور نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+      },
+      "b": {
+        "en": "Stop in the left lane, switch on hazard warning lights, stay inside the vehicle with seatbelt on, and wait for emergency services to arrive.",
+        "ur": "بائیں لین میں گاڑی روکیں، ہیزرڈ وارننگ لائٹس آن کریں، سیٹ بیلٹ باندھے گاڑی کے اندر رہیں، اور ایمرجنسی سروسز کے پہنچنے کا انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you should pull onto the hard shoulder or emergency refuge area, switch on hazard lights and sidelights if dark, exit on the left side away from traffic if safe, and call for help using emergency telephones or a mobile phone.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو سخت کندھے یا ایمرجنسی ریفیوج ایریا پر گاڑی روکنی چاہیے، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کرنی چاہئیں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی سے نکلنا چاہیے، اور ایمرجنسی فونز یا موبائل فون کا استعمال کرتے ہوئے مدد کے لیے کال کرنی چاہیے۔"
+    }
+  },
+  {
+    "id": "V2MWS7",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and it is safe to do so, what is the correct procedure to follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور یہ محفوظ ہو، تو درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Pull into the emergency refuge area, switch off the engine, exit the vehicle on the right side, and wait beside the vehicle until help arrives.",
+        "ur": "ایمرجنسی ریفیوج ایریا میں گاڑی روکیں، انجن بند کریں، گاڑی کے دائیں جانب سے باہر نکلیں، اور مدد کے آنے تک گاڑی کے ساتھ انتظار کریں۔"
+      },
+      "b": {
+        "en": "Stop in the left lane, switch on hazard warning lights, exit the vehicle on the right side, and place a warning triangle 45 metres behind the vehicle.",
+        "ur": "بائیں لین میں گاڑی روکیں، ہیزرڈ وارننگ لائٹس آن کریں، گاڑی سے دائیں جانب نکلیں، اور گاڑی سے 45 میٹر پیچھے وارننگ ٹرائینگل رکھیں۔"
+      },
+      "d": {
+        "en": "Stop on the carriageway, switch on hazard lights, exit the vehicle on the left side, and attempt to repair the vehicle if possible.",
+        "ur": "گاڑی کو سڑک پر روکیں، ہیزرڈ لائٹس آن کریں، گاڑی کے بائیں جانب سے باہر نکلیں، اور اگر ممکن ہو تو گاڑی کی مرمت کی کوشش کریں۔"
+      },
+      "a": {
+        "en": "Pull onto the hard shoulder, switch on hazard warning lights and sidelights if dark, exit the vehicle on the left side away from traffic, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "سخت کنارے پر گاڑی روکیں، ہیزرڈ وارننگ لائٹس اور اگر اندھیرا ہو تو سائیڈ لائٹس آن کریں، گاڑی سے بائیں جانب ٹریفک سے دور نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, you should pull onto the hard shoulder or emergency refuge area if possible, switch on hazard warning lights and sidelights if dark, exit on the left side away from traffic, and call for help using the nearest emergency telephone or mobile phone.",
+      "ur": "موٹروے پر، اگر ممکن ہو تو ہارڈ شولڈر یا ایمرجنسی ریفیوج ایریا پر گاڑی روکیں، اگر اندھیرا ہو تو ہیزرڈ وارننگ لائٹس اور سائیڈ لائٹس آن کریں، ٹریفک سے دور بائیں جانب گاڑی سے باہر نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+    }
+  },
+  {
+    "id": "SOL3VJ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and it is safe to do so, what is the correct procedure you should follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور یہ محفوظ ہو، تو آپ کو کون سا درست طریقہ کار اپنانا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Pull into the nearest lay-by, switch on hazard lights only, stay inside the vehicle with seatbelt on, and wait for breakdown services to arrive.",
+        "ur": "قریب ترین رکنے کی جگہ پر گاڑی روکیں، صرف ہیزرڈ لائٹس آن کریں، گاڑی کے اندر سیٹ بیلٹ باندھے رہیں، اور بریک ڈاؤن سروسز کے پہنچنے کا انتظار کریں۔"
+      },
+      "a": {
+        "en": "Pull onto the hard shoulder, switch on hazard lights and sidelights if dark, exit the vehicle on the left side away from traffic, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "سخت کندھے پر گاڑی روکیں، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کریں، گاڑی سے بائیں جانب ٹریفک سے دور نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+      },
+      "b": {
+        "en": "Stop in the left lane, switch on hazard lights, exit the vehicle on the right side, and place a warning triangle 45 metres behind the vehicle.",
+        "ur": "بائیں لین میں گاڑی روکیں، ہیزرڈ لائٹس آن کریں، گاڑی سے دائیں جانب نکلیں، اور گاڑی سے 45 میٹر پیچھے وارننگ ٹرائینگل رکھیں۔"
+      },
+      "d": {
+        "en": "Stop on the carriageway, switch on sidelights only, exit the vehicle on the side nearest to traffic, and attempt minor repairs before calling for help.",
+        "ur": "کار روڈ پر گاڑی روکیں، صرف سائیڈ لائٹس آن کریں، گاڑی سے اس طرف نکلیں جو ٹریفک کے قریب ہو، اور مدد طلب کرنے سے پہلے معمولی مرمت کی کوشش کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you should pull onto the hard shoulder or emergency refuge area, switch on hazard and sidelights if dark, exit on the left side away from traffic, and call for help using emergency telephones or a mobile phone.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو ہارڈ شولڈر یا ایمرجنسی ریفیوج ایریا پر گاڑی روکنی چاہیے، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کرنی چاہئیں، ٹریفک سے دور بائیں جانب گاڑی سے اترنا چاہیے، اور ایمرجنسی فونز یا موبائل فون کا استعمال کرتے ہوئے مدد کے لیے کال کرنی چاہیے۔"
+    }
+  },
+  {
+    "id": "YRGV0M",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving your vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور آپ کے لیے اپنی گاڑی سے باہر نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Move to a place of safety behind the crash barrier on the left side of the carriageway and call for help using an emergency telephone or mobile phone",
+        "ur": "حادثے کی جگہ سے بائیں جانب، سڑک کے کنارے واقع حفاظتی رکاوٹ کے پیچھے محفوظ مقام پر منتقل ہوں اور ایمرجنسی فون یا موبائل فون استعمال کرتے ہوئے مدد طلب کریں۔"
+      },
+      "c": {
+        "en": "Place a warning triangle at least 45 metres behind your vehicle on the hard shoulder to warn other drivers",
+        "ur": "اپنی گاڑی سے کم از کم 45 میٹر پیچھے سخت کنارے پر وارننگ مثلث رکھیں تاکہ دیگر ڈرائیورز کو خبردار کیا جا سکے۔"
+      },
+      "b": {
+        "en": "Stand on the hard shoulder near your vehicle and wait for breakdown services to arrive",
+        "ur": "اپنی گاڑی کے قریب سخت کندھے پر کھڑے ہوں اور بریک ڈاؤن سروسز کے پہنچنے کا انتظار کریں۔"
+      },
+      "d": {
+        "en": "Cross the central reservation to reach the nearest emergency telephone on the opposite side",
+        "ur": "مرکزی ریزرویشن پار کریں تاکہ مخالف سمت پر موجود قریبی ایمرجنسی فون تک پہنچ سکیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, after exiting your vehicle safely on the left side, you should move behind the crash barrier to a place of safety and call for help; standing near the vehicle or placing warning triangles on motorways is not advised, and crossing the central reservation is dangerous and prohibited.",
+      "ur": "موٹروے پر، اپنی گاڑی کو بائیں جانب محفوظ طریقے سے روکنے کے بعد، آپ کو حادثے کی رکاوٹ کے پیچھے محفوظ جگہ پر جانا چاہیے اور مدد کے لیے کال کرنی چاہیے؛ گاڑی کے قریب کھڑے ہونا یا موٹروے پر وارننگ ٹرائینگلز لگانا مشورہ نہیں دیا جاتا، اور مرکزی ریزرویشن کو عبور کرنا خطرناک اور ممنوع ہے۔"
+    }
+  },
+  {
+    "id": "YAU1ZC",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and it is safe to do so, what is the correct procedure you should follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور یہ محفوظ ہو، تو آپ کو کون سا درست طریقہ کار اپنانا چاہیے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pull onto the hard shoulder, switch on hazard lights and sidelights if dark, exit the vehicle on the left side away from traffic, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "سخت کندھے پر گاڑی روکیں، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کریں، گاڑی سے بائیں جانب نکلیں جہاں ٹریفک سے دور ہو، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+      },
+      "b": {
+        "en": "Stop in the middle lane, switch on hazard lights, exit the vehicle on the right side, and wait for assistance.",
+        "ur": "درمیانی لین میں گاڑی روکیں، ہیزرڈ لائٹس آن کریں، گاڑی سے دائیں جانب نکلیں، اور مدد کے انتظار میں رہیں۔"
+      },
+      "c": {
+        "en": "Pull onto the hard shoulder, place a warning triangle 45 metres behind your vehicle, exit on the left side, and call for help.",
+        "ur": "سخت کندھے پر گاڑی روکیں، اپنی گاڑی سے 45 میٹر پیچھے وارننگ مثلث رکھیں، بائیں جانب سے گاڑی سے باہر نکلیں، اور مدد کے لیے کال کریں۔"
+      },
+      "d": {
+        "en": "Stop on the verge, switch on sidelights only, stay inside the vehicle with seatbelt on, and wait for emergency services.",
+        "ur": "کنارے پر گاڑی روکیں، صرف سائیڈ لائٹس آن کریں، سیٹ بیلٹ باندھے گاڑی کے اندر رہیں، اور ایمرجنسی سروسز کے آنے کا انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On motorways, you must pull onto the hard shoulder or emergency refuge area, switch on hazard lights and sidelights if dark, exit on the left side away from traffic if safe, and call for help using emergency telephones or a mobile phone.",
+      "ur": "موٹروے پر، آپ کو ہارڈ شولڈر یا ایمرجنسی ریفیوج ایریا پر گاڑی روکنی چاہیے، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کرنی چاہئیں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی سے باہر نکلیں، اور ایمرجنسی فونز یا موبائل فون کا استعمال کرتے ہوئے مدد کے لیے کال کریں۔"
+    }
+  },
+  {
+    "id": "H62HD7",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور آپ کے لیے گاڑی سے باہر نکلنا محفوظ ہے۔ درست طریقہ کار کیا ہے جو آپ کو اپنانا چاہیے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Switch on hazard warning lights and sidelights if dark, exit on the left side away from traffic, then call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "اگر اندھیرا ہو تو ہیزرڈ وارننگ لائٹس اور سائیڈ لائٹس آن کریں، ٹریفک سے دور بائیں جانب گاڑی سے نکلیں، پھر قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+      },
+      "c": {
+        "en": "Switch off hazard warning lights, exit on the right side away from traffic, and attempt to repair the vehicle quickly on the hard shoulder.",
+        "ur": "ہزارڈ وارننگ لائٹس بند کریں، ٹریفک سے دور دائیں جانب گاڑی سے باہر نکلیں، اور ہارڈ شولڈر پر گاڑی کی مرمت جلد از جلد کرنے کی کوشش کریں۔"
+      },
+      "b": {
+        "en": "Place a warning triangle at least 45 metres behind your vehicle, switch on hazard warning lights, and wait inside the vehicle with the seatbelt on.",
+        "ur": "اپنی گاڑی کے کم از کم 45 میٹر پیچھے ایک وارننگ ٹرائینگل رکھیں، ہیزرڈ وارننگ لائٹس آن کریں، اور سیٹ بیلٹ باندھ کر گاڑی کے اندر انتظار کریں۔"
+      },
+      "d": {
+        "en": "Exit the vehicle immediately without switching on hazard warning lights, stand between your vehicle and the central reservation, and call for help.",
+        "ur": "گاڑی سے فوراً باہر نکلیں بغیر ہیزرڈ وارننگ لائٹس آن کیے، اپنی گاڑی اور مرکزی ریزرویشن کے درمیان کھڑے ہوں، اور مدد کے لیے کال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you must switch on hazard warning lights and sidelights if dark, exit on the left side away from traffic if safe, and call for help using the nearest emergency telephone or mobile phone; placing warning triangles or standing near traffic is unsafe and not permitted.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو ہیزرڈ وارننگ لائٹس اور اگر اندھیرا ہو تو سائیڈ لائٹس آن کرنی چاہئیں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی نکالنی چاہیے، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد طلب کرنی چاہیے؛ وارننگ ٹرائینگلز لگانا یا ٹریفک کے قریب کھڑے ہونا غیر محفوظ ہے اور اجازت یافتہ نہیں ہے۔"
+    }
+  },
+  {
+    "id": "9OBU4N",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving your vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور گاڑی سے نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Exit on the right side of the vehicle and stand between your vehicle and the central reservation to warn other drivers",
+        "ur": "گاڑی کے دائیں جانب سے باہر نکلیں اور اپنی گاڑی اور مرکزی ریزرویشن کے درمیان کھڑے ہو جائیں تاکہ دیگر ڈرائیورز کو خبردار کیا جا سکے۔"
+      },
+      "b": {
+        "en": "Place a warning triangle 45 metres behind your vehicle on the hard shoulder, then exit on the right side away from traffic",
+        "ur": "اپنی گاڑی سے 45 میٹر پیچھے ہارڈ شولڈر پر وارننگ ٹرائینگل رکھیں، پھر ٹریفک سے دور دائیں جانب گاڑی سے باہر نکلیں۔"
+      },
+      "a": {
+        "en": "Put on a high-visibility jacket, exit on the left side away from traffic, and move behind the safety barrier if possible",
+        "ur": "اعلیٰ مرئیت والی جیکٹ پہنیں، ٹریفک سے دور بائیں جانب سے گاڑی سے اتریں، اور اگر ممکن ہو تو حفاظتی رکاوٹ کے پیچھے چلے جائیں۔"
+      },
+      "d": {
+        "en": "Stay inside the vehicle with your seatbelt on until breakdown services arrive, regardless of the situation",
+        "ur": "گاڑی کے اندر اپنی سیٹ بیلٹ باندھے رہیں جب تک کہ بریک ڈاؤن سروسز نہ پہنچ جائیں، چاہے صورتحال کچھ بھی ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, you should exit on the left side away from traffic, wear a high-visibility jacket if available, and move behind safety barriers to stay safe from passing vehicles.",
+      "ur": "موٹروے پر، آپ کو ٹریفک سے دور بائیں جانب نکلنا چاہیے، اگر دستیاب ہو تو ہائی ویزیبلٹی جیکٹ پہنیں، اور گزرنے والی گاڑیوں سے محفوظ رہنے کے لیے حفاظتی رکاوٹوں کے پیچھے چلے جائیں۔"
+    }
+  },
+  {
+    "id": "OLYDUM",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving the vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور گاڑی سے نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Exit on the left side away from traffic, wear high-visibility clothing if available, and move behind a safety barrier if possible",
+        "ur": "بائیں جانب ٹریفک سے دور نکلیں، اگر دستیاب ہو تو ہائی ویزیبلٹی کپڑے پہنیں، اور اگر ممکن ہو تو حفاظتی رکاوٹ کے پیچھے چلے جائیں۔"
+      },
+      "d": {
+        "en": "Exit on the left side, immediately begin placing a warning triangle on the hard shoulder, then call emergency services",
+        "ur": "بائیں جانب سے نکلیں، فوراً ہارڈ شولڈر پر وارننگ ٹرائینگل لگانا شروع کریں، پھر ایمرجنسی سروسز کو کال کریں۔"
+      },
+      "b": {
+        "en": "Exit on the right side to avoid traffic, place a warning triangle 45 metres behind the vehicle, and stand near the rear of the vehicle",
+        "ur": "ٹریفک سے بچنے کے لیے دائیں جانب نکلیں، گاڑی سے 45 میٹر پیچھے وارننگ مثلث رکھیں، اور گاڑی کے پچھلے حصے کے قریب کھڑے ہوں۔"
+      },
+      "c": {
+        "en": "Stay inside the vehicle with your seatbelt on until help arrives, keeping hazard lights on",
+        "ur": "گاڑی کے اندر اپنی سیٹ بیلٹ باندھے رہیں جب تک مدد نہ پہنچ جائے، ہیزرڈ لائٹس آن رکھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, you should exit on the left side away from traffic, wear high-visibility clothing if available, and move behind safety barriers to stay safe; warning triangles must not be used on motorways.",
+      "ur": "موٹروے پر، آپ کو ٹریفک سے دور بائیں جانب نکلنا چاہیے، اگر دستیاب ہو تو ہائی ویزیبلٹی کپڑے پہنیں، اور اپنی حفاظت کے لیے سیفٹی بیریئرز کے پیچھے چلے جائیں؛ وارننگ ٹرائینگلز موٹروے پر استعمال نہیں کیے جا سکتے۔"
+    }
+  },
+  {
+    "id": "IPTUC5",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and it is safe to exit, which of the following is the correct procedure to follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور باہر نکلنا محفوظ ہو، تو درج ذیل میں سے کون سا طریقہ کار درست ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Switch off hazard lights, stay inside the vehicle with seatbelt on, and wait for breakdown services to arrive",
+        "ur": "ہزارڈ لائٹس بند کریں، سیٹ بیلٹ باندھے گاڑی کے اندر رہیں، اور بریک ڈاؤن سروسز کے پہنچنے کا انتظار کریں۔"
+      },
+      "a": {
+        "en": "Switch on hazard warning lights, exit the vehicle on the left side away from traffic, and call for help using the nearest emergency telephone or mobile phone",
+        "ur": "ہزارڈ وارننگ لائٹس آن کریں، گاڑی سے بائیں جانب ٹریفک سے دور نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد طلب کریں۔"
+      },
+      "b": {
+        "en": "Place a warning triangle at least 45 metres behind your vehicle, exit on the right side, and wait beside your vehicle",
+        "ur": "اپنی گاڑی کے کم از کم 45 میٹر پیچھے وارننگ ٹرائینگل رکھیں، دائیں جانب سے گاڑی سے باہر نکلیں، اور اپنی گاڑی کے پاس انتظار کریں۔"
+      },
+      "d": {
+        "en": "Exit the vehicle immediately on the side nearest to traffic to warn other drivers, then call emergency services",
+        "ur": "گاڑی سے فوراً اُس طرف نکلیں جو ٹریفک کے قریب ہو تاکہ دوسرے ڈرائیورز کو خبردار کیا جا سکے، پھر ایمرجنسی سروسز کو کال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you should switch on hazard lights, exit on the left side away from traffic if safe, and call for help using an emergency telephone or mobile phone; warning triangles must not be used on motorways.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو ہیزرڈ لائٹس آن کرنی چاہئیں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی نکالنی چاہیے، اور ایمرجنسی فون یا موبائل فون سے مدد طلب کرنی چاہیے؛ موٹروے پر وارننگ ٹرائینگلز استعمال نہیں کیے جا سکتے۔"
+    }
+  },
+  {
+    "id": "0SQFMX",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور گاڑی سے نکلنا محفوظ ہے۔ درست طریقہ کار کیا ہے جو آپ کو اپنانا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Place a warning triangle 45 metres behind your vehicle, exit on the right side, and wait beside your vehicle",
+        "ur": "اپنی گاڑی سے 45 میٹر پیچھے وارننگ ٹرائنگل رکھیں، دائیں جانب گاڑی سے باہر نکلیں، اور اپنی گاڑی کے پاس انتظار کریں۔"
+      },
+      "a": {
+        "en": "Switch on hazard lights, exit on the left side away from traffic, and call for help using the nearest emergency telephone or mobile phone",
+        "ur": "ہیزرڈ لائٹس آن کریں، ٹریفک سے دور بائیں جانب گاڑی سے باہر نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد طلب کریں۔"
+      },
+      "c": {
+        "en": "Switch off hazard lights, stay inside the vehicle with seatbelt on, and wait for breakdown services to arrive",
+        "ur": "ہزارڈ لائٹس بند کریں، سیٹ بیلٹ باندھے گاڑی کے اندر رہیں، اور بریک ڈاؤن سروسز کے پہنچنے کا انتظار کریں۔"
+      },
+      "d": {
+        "en": "Exit on the left side immediately without switching on hazard lights, then walk along the hard shoulder to find help",
+        "ur": "بغیر ہیزرڈ لائٹس آن کیے فوراً بائیں جانب سے نکلیں، پھر مدد حاصل کرنے کے لیے ہارڈ شولڈر کے ساتھ چلیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you should switch on hazard lights, exit on the left side away from traffic if safe, and call for help using the nearest emergency telephone or mobile phone to ensure your safety and alert others.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو ہیزرڈ لائٹس آن کرنی چاہئیں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی نکالنی چاہیے، اور اپنی حفاظت کو یقینی بنانے اور دوسروں کو خبردار کرنے کے لیے قریبی ایمرجنسی فون یا موبائل فون سے مدد طلب کرنی چاہیے۔"
+    }
+  },
+  {
+    "id": "K8S2TN",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving the vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور گاڑی سے نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Place a warning triangle 45 metres behind your vehicle on the hard shoulder and then stand beside your vehicle",
+        "ur": "اپنی گاڑی کے 45 میٹر پیچھے ہارڈ شولڈر پر وارننگ ٹرائینگل رکھیں اور پھر اپنی گاڑی کے ساتھ کھڑے ہو جائیں۔"
+      },
+      "a": {
+        "en": "Put on a high-visibility jacket, exit on the left side away from traffic, and stand behind a safety barrier if possible",
+        "ur": "اعلیٰ دید پذیری والا جیکٹ پہنیں، ٹریفک سے دور بائیں جانب سے گاڑی سے باہر نکلیں، اور اگر ممکن ہو تو حفاظتی رکاوٹ کے پیچھے کھڑے ہوں۔"
+      },
+      "d": {
+        "en": "Switch off hazard lights, leave the vehicle through the nearest exit, and wait on the central reservation",
+        "ur": "ہزارڈ لائٹس بند کریں، گاڑی سے قریب ترین خروجی راستے سے باہر نکلیں، اور مرکزی ریزرویشن پر انتظار کریں۔"
+      },
+      "c": {
+        "en": "Exit on the right side away from traffic and wait on the hard shoulder near your vehicle",
+        "ur": "ٹریفک سے دور دائیں جانب نکلیں اور اپنی گاڑی کے قریب ہارڈ شولڈر پر انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you should wear a high-visibility jacket, exit on the left side away from traffic, and stand behind safety barriers if possible to ensure maximum safety.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو ہائی ویزیبلٹی جیکٹ پہننی چاہیے، ٹریفک سے دور بائیں جانب گاڑی سے اترنا چاہیے، اور اگر ممکن ہو تو زیادہ سے زیادہ حفاظت کے لیے سیفٹی بیریئرز کے پیچھے کھڑا ہونا چاہیے۔"
+    }
+  },
+  {
+    "id": "BPUEG7",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and you cannot reach a service area or exit, what is the correct procedure to follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور آپ سروس ایریا یا اخراجی راستہ تک نہیں پہنچ سکتے، تو درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Pull onto the hard shoulder, place a warning triangle 45 metres behind the vehicle, exit on the right side, and call emergency services using a mobile phone.",
+        "ur": "گاڑی کو ہارڈ شولڈر پر روکیں، گاڑی سے 45 میٹر پیچھے وارننگ ٹرائینگل رکھیں، دائیں جانب سے گاڑی سے باہر نکلیں، اور موبائل فون کا استعمال کرتے ہوئے ایمرجنسی سروسز کو کال کریں۔"
+      },
+      "d": {
+        "en": "Drive slowly to the next exit while hazard lights are on, then stop safely and call for help.",
+        "ur": "آگے والے اگلے اخراجی راستے تک ہیزرڈ لائٹس جلائے ہوئے آہستہ گاڑی چلائیں، پھر محفوظ طریقے سے گاڑی روکیں اور مدد کے لیے کال کریں۔"
+      },
+      "a": {
+        "en": "Pull onto the hard shoulder, switch on hazard warning lights and sidelights if dark, exit the vehicle on the left side away from traffic if safe, and call emergency services using the nearest emergency telephone.",
+        "ur": "سخت کندھے پر گاڑی روکیں، ہیزرڈ وارننگ لائٹس اور اگر اندھیرا ہو تو سائیڈ لائٹس آن کریں، اگر محفوظ ہو تو گاڑی سے بائیں جانب ٹریفک سے دور نکلیں، اور قریبی ایمرجنسی فون کا استعمال کرتے ہوئے ایمرجنسی سروسز کو کال کریں۔"
+      },
+      "b": {
+        "en": "Stop in the middle lane with hazard lights on, stay inside the vehicle with seatbelt fastened, and wait for breakdown services to arrive.",
+        "ur": "درمیانی لین میں ہیزرڈ لائٹس آن کر کے گاڑی روکیں، سیٹ بیلٹ باندھے گاڑی کے اندر ہی رہیں، اور بریک ڈاؤن سروسز کے پہنچنے کا انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, if you cannot reach a service area or exit, you must pull onto the hard shoulder, switch on hazard lights and sidelights if dark, exit on the left side away from traffic if safe, and call emergency services using the nearest emergency telephone.",
+      "ur": "موٹروے پر، اگر آپ کسی سروس ایریا یا خروجی تک نہیں پہنچ سکتے، تو آپ کو ہارڈ شولڈر پر گاڑی روکنی چاہیے، ہیزرڈ لائٹس اور اگر اندھیرا ہو تو سائیڈ لائٹس آن کرنی چاہئیں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی سے نکلنا چاہیے، اور قریبی ایمرجنسی فون کا استعمال کرتے ہوئے ایمرجنسی سروسز کو کال کرنی چاہیے۔"
+    }
+  },
+  {
+    "id": "5FNTVL",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and it is safe to do so, what is the correct procedure you should follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور یہ محفوظ ہو، تو آپ کو کون سا درست طریقہ کار اپنانا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Pull onto the hard shoulder, place a warning triangle 45 metres behind your vehicle, exit on the right side, and call for help using your mobile phone.",
+        "ur": "سخت کندھے پر گاڑی روکیں، اپنی گاڑی سے 45 میٹر پیچھے وارننگ مثلث رکھیں، دائیں جانب سے گاڑی سے باہر نکلیں، اور موبائل فون سے مدد کے لیے کال کریں۔"
+      },
+      "a": {
+        "en": "Pull onto the hard shoulder, switch on hazard lights and sidelights if dark, exit the vehicle on the left side away from traffic, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "سخت کندھے پر گاڑی روکیں، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کریں، گاڑی سے بائیں جانب ٹریفک سے دور نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+      },
+      "b": {
+        "en": "Stop in the left lane, switch on hazard lights, exit the vehicle on the right side away from traffic, and wait for assistance.",
+        "ur": "بائیں لین میں گاڑی روکیں، ہیزرڈ لائٹس آن کریں، گاڑی سے دائیں جانب ٹریفک سے دور نکلیں، اور مدد کے انتظار میں رہیں۔"
+      },
+      "d": {
+        "en": "Stop on the carriageway, switch on hazard lights, stay inside the vehicle with seatbelt on, and wait for emergency services.",
+        "ur": "گاڑی کو سڑک پر روکیں، ہیزرڈ لائٹس آن کریں، سیٹ بیلٹ باندھ کر گاڑی کے اندر رہیں، اور ایمرجنسی سروسز کے آنے کا انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On motorways, you must pull onto the hard shoulder or emergency refuge area, switch on hazard lights and sidelights if dark, exit the vehicle on the left side away from traffic if safe, and call for help using the nearest emergency telephone or mobile phone.",
+      "ur": "موٹروے پر، آپ کو ہارڈ شولڈر یا ایمرجنسی ریفیوج ایریا پر گاڑی روکنی چاہیے، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس آن کرنی چاہئیں، اگر محفوظ ہو تو گاڑی سے بائیں جانب ٹریفک سے دور نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+    }
+  },
+  {
+    "id": "TIGXY6",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving the vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور گاڑی سے نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Cross the carriageway carefully to reach the central reservation and wait there for help.",
+        "ur": "احتیاط سے روڈ کراس کریں تاکہ مرکزی جزیرے تک پہنچ سکیں اور وہاں مدد کے لیے انتظار کریں۔"
+      },
+      "a": {
+        "en": "Move to a place of safety behind the crash barrier on the left side of the carriageway and call for help using the nearest emergency telephone.",
+        "ur": "حادثے کی جگہ سے بائیں جانب، روڈ کے کنارے واقع حفاظتی رکاوٹ کے پیچھے محفوظ جگہ پر منتقل ہو جائیں اور قریب ترین ایمرجنسی فون کا استعمال کرتے ہوئے مدد طلب کریں۔"
+      },
+      "d": {
+        "en": "Place a warning triangle 45 metres behind your vehicle on the hard shoulder to warn other drivers.",
+        "ur": "اپنی گاڑی کے 45 میٹر پیچھے سخت کنارے پر وارننگ ٹرائینگل رکھیں تاکہ دیگر ڈرائیورز کو خبردار کیا جا سکے۔"
+      },
+      "b": {
+        "en": "Stand on the hard shoulder near your vehicle while waiting for breakdown assistance to arrive.",
+        "ur": "اپنی گاڑی کے قریب سخت کندھے پر کھڑے ہوں جب تک کہ مدد کے لیے امدادی گاڑی نہ پہنچ جائے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, if you exit your broken-down vehicle, you should move to a place of safety behind the crash barrier on the left side and call for help using the nearest emergency telephone; standing near the vehicle or placing warning triangles on motorways is unsafe and not permitted.",
+      "ur": "موٹروے پر، اگر آپ کی گاڑی خراب ہو جائے اور آپ اسے چھوڑ کر نکلیں، تو آپ کو حادثے کی رکاوٹ کے پیچھے بائیں جانب محفوظ جگہ پر جانا چاہیے اور قریب ترین ایمرجنسی فون سے مدد طلب کرنی چاہیے؛ گاڑی کے قریب کھڑے ہونا یا موٹروے پر وارننگ ٹرائینگلز لگانا غیر محفوظ ہے اور اجازت یافتہ نہیں ہے۔"
+    }
+  },
+  {
+    "id": "357JBX",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and you cannot reach a service area or exit, what is the correct procedure to follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور آپ سروس ایریا یا اخراجی راستے تک نہیں پہنچ سکتے، تو درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pull onto the hard shoulder, switch on hazard warning lights and sidelights if dark, exit the vehicle on the left side away from traffic if safe, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "سخت کندھے پر گاڑی روکیں، ہیزرڈ وارننگ لائٹس اور اگر اندھیرا ہو تو سائیڈ لائٹس آن کریں، اگر محفوظ ہو تو گاڑی سے بائیں جانب ٹریفک سے دور نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+      },
+      "b": {
+        "en": "Stop in the middle lane, switch on hazard warning lights, exit the vehicle on the right side, and wait for assistance.",
+        "ur": "درمیانی لین میں گاڑی روکیں، ہیزرڈ وارننگ لائٹس آن کریں، گاڑی سے دائیں جانب نکلیں، اور مدد کے انتظار میں رہیں۔"
+      },
+      "d": {
+        "en": "Stop on the verge, switch on sidelights only, remain inside the vehicle with seatbelt on, and wait for breakdown services.",
+        "ur": "کنارے پر گاڑی روکیں، صرف سائیڈ لائٹس آن کریں، سیٹ بیلٹ باندھ کر گاڑی کے اندر ہی رہیں، اور بریک ڈاؤن سروسز کے آنے کا انتظار کریں۔"
+      },
+      "c": {
+        "en": "Pull onto the hard shoulder, place a warning triangle 45 metres behind your vehicle, exit on the right side, and call emergency services immediately.",
+        "ur": "سخت کندھے پر گاڑی روکیں، اپنی گاڑی سے 45 میٹر پیچھے وارننگ مثلث رکھیں، دائیں جانب سے گاڑی سے باہر نکلیں، اور فوری طور پر ایمرجنسی سروسز کو کال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you must pull onto the hard shoulder, use hazard lights and sidelights if dark, exit on the left side away from traffic if safe, and call for help using emergency phones or a mobile phone.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو ہارڈ شولڈر پر گاڑی روکنی چاہیے، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس استعمال کریں، اگر محفوظ ہو تو ٹریفک سے دور بائیں جانب گاڑی سے نکلیں، اور ایمرجنسی فونز یا موبائل فون کے ذریعے مدد کے لیے کال کریں۔"
+    }
+  },
+  {
+    "id": "GUUSFK",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving your vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور آپ کے لیے اپنی گاڑی سے باہر نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Put on a high-visibility jacket, exit on the left side away from traffic, and stand behind a safety barrier if possible",
+        "ur": "ہائی وِزِیبِلٹی جیکٹ پہنیں، ٹریفک سے دور بائیں جانب نکلیں، اور اگر ممکن ہو تو حفاظتی رکاوٹ کے پیچھے کھڑے ہوں۔"
+      },
+      "d": {
+        "en": "Stay inside the vehicle with your seatbelt on until help arrives, regardless of the situation",
+        "ur": "اپنی سیٹ بیلٹ باندھے گاڑی کے اندر ہی رہیں جب تک مدد نہ پہنچ جائے، چاہے صورتحال کچھ بھی ہو۔"
+      },
+      "b": {
+        "en": "Place a warning triangle 45 metres behind your vehicle on the hard shoulder and wait nearby",
+        "ur": "اپنی گاڑی سے 45 میٹر پیچھے ہارڈ شولڈر پر وارننگ ٹرائنگل رکھیں اور قریب ہی انتظار کریں۔"
+      },
+      "c": {
+        "en": "Exit on the right side to avoid traffic and stand close to your vehicle to keep it under observation",
+        "ur": "ٹریفک سے بچنے کے لیے دائیں جانب نکلیں اور اپنی گاڑی کے قریب کھڑے ہوں تاکہ اسے زیرِ نگرانی رکھ سکیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway, if you must exit your vehicle, you should wear high-visibility clothing, leave the vehicle on the left side away from traffic, and stand behind safety barriers if possible to stay safe.",
+      "ur": "موٹروے پر، اگر آپ کو اپنی گاڑی سے باہر نکلنا ضروری ہو تو آپ کو ہائی ویزیبلٹی کپڑے پہننے چاہئیں، گاڑی کو ٹریفک سے دور بائیں جانب کھڑا کرنا چاہیے، اور اگر ممکن ہو تو حفاظتی رکاوٹوں کے پیچھے کھڑا ہونا چاہیے تاکہ محفوظ رہا جا سکے۔"
+    }
+  },
+  {
+    "id": "HLXRNL",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "If your vehicle breaks down on a motorway and it is safe to do so, what is the correct procedure to follow?",
+      "ur": "اگر آپ کی گاڑی موٹروے پر خراب ہو جائے اور یہ محفوظ ہو، تو درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Stop on the carriageway, switch on hazard warning lights, exit the vehicle on the right side, and wait for assistance.",
+        "ur": "گاڑی کو سڑک پر روکیں، ہیزرڈ وارننگ لائٹس آن کریں، گاڑی کے دائیں جانب سے باہر نکلیں، اور مدد کے انتظار میں رہیں۔"
+      },
+      "d": {
+        "en": "Remain inside your vehicle with seatbelt on, switch off the engine, and wait for emergency services to arrive without using hazard lights.",
+        "ur": "اپنی گاڑی کے اندر سیٹ بیلٹ لگا کر رہیں، انجن بند کریں، اور ہنگامی خدمات کے پہنچنے تک ہیزرڈ لائٹس استعمال کیے بغیر انتظار کریں۔"
+      },
+      "c": {
+        "en": "Move your vehicle to the central reservation, place a warning triangle behind your vehicle, and call for help.",
+        "ur": "اپنی گاڑی کو مرکزی جزیرے کی طرف لے جائیں، اپنی گاڑی کے پیچھے وارننگ مثلث رکھیں، اور مدد کے لیے کال کریں۔"
+      },
+      "a": {
+        "en": "Pull onto the hard shoulder, switch on hazard warning lights and sidelights if dark, exit the vehicle on the left side away from traffic, and call for help using the nearest emergency telephone or mobile phone.",
+        "ur": "سخت کندھے پر گاڑی روکیں، ہیزرڈ وارننگ لائٹس اور اگر اندھیرا ہو تو سائیڈ لائٹس آن کریں، گاڑی سے بائیں جانب ٹریفک سے دور نکلیں، اور قریبی ایمرجنسی فون یا موبائل فون سے مدد کے لیے کال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you should pull onto the hard shoulder if possible, use hazard lights and sidelights if dark, exit on the left side away from traffic, and call for help using emergency phones or a mobile phone.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، اگر ممکن ہو تو ہارڈ شولڈر پر گاڑی روکیں، اگر اندھیرا ہو تو ہیزرڈ لائٹس اور سائیڈ لائٹس استعمال کریں، ٹریفک سے دور بائیں جانب گاڑی نکالیں، اور ایمرجنسی فونز یا موبائل فون کے ذریعے مدد طلب کریں۔"
+    }
+  },
+  {
+    "id": "PO7RP6",
+    "file_id": "null",
+    "video": "null",
+    "topic": "tema 2",
+    "question": {
+      "en": "You have broken down on a motorway and it is safe to exit your vehicle. What is the correct procedure to follow after leaving the vehicle?",
+      "ur": "آپ موٹروے پر گاڑی خراب ہو گئی ہے اور گاڑی سے نکلنا محفوظ ہے۔ گاڑی سے نکلنے کے بعد درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Exit on the left side away from traffic, wear high-visibility clothing if available, and move behind a safety barrier if possible",
+        "ur": "بائیں جانب ٹریفک سے دور نکلیں، اگر دستیاب ہو تو ہائی ویزیبلٹی کپڑے پہنیں، اور اگر ممکن ہو تو حفاظتی رکاوٹ کے پیچھے چلے جائیں۔"
+      },
+      "c": {
+        "en": "Exit on the left side away from traffic, immediately attempt to repair the vehicle, and call for help using your mobile phone",
+        "ur": "ٹریفک سے دور بائیں جانب نکلیں، فوراً گاڑی کی مرمت کی کوشش کریں، اور موبائل فون سے مدد طلب کریں۔"
+      },
+      "b": {
+        "en": "Exit on the right side towards the hard shoulder, place a warning triangle 45 metres behind the vehicle, and wait beside your vehicle",
+        "ur": "دائیں جانب ہارڈ شولڈر کی طرف نکلیں، گاڑی سے 45 میٹر پیچھے وارننگ مثلث رکھیں، اور اپنی گاڑی کے ساتھ انتظار کریں۔"
+      },
+      "d": {
+        "en": "Exit on the left side away from traffic, stand between your vehicle and the central reservation, and switch off hazard warning lights",
+        "ur": "بائیں جانب ٹریفک سے دور نکلیں، اپنی گاڑی اور مرکزی ریزرویشن کے درمیان کھڑے ہوں، اور ہیزرڈ وارننگ لائٹس بند کر دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "On a motorway breakdown, you should exit on the left side away from traffic, wear high-visibility clothing if available, and move behind safety barriers to stay safe from passing vehicles.",
+      "ur": "موٹروے پر گاڑی خراب ہونے کی صورت میں، آپ کو ٹریفک سے دور بائیں جانب نکلنا چاہیے، اگر دستیاب ہو تو ہائی ویزیبلٹی کپڑے پہننے چاہئیں، اور گزرنے والی گاڑیوں سے محفوظ رہنے کے لیے حفاظتی رکاوٹوں کے پیچھے چلے جانا چاہیے۔"
+    }
+  }
+]

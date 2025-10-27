@@ -1,0 +1,652 @@
+[
+  {
+    "question": "What is the key principle of being calm and patient while driving?",
+    "options": {
+      "A": "Being aggressive",
+      "B": "Reacting with frustration",
+      "C": "Avoiding reacting with anger or frustration",
+      "D": "Reacting with anger"
+    },
+    "correct_answer": "D",
+    "explanation": "The key principle of being calm and patient while driving is to avoid reacting with anger or frustration if other drivers make mistakes.",
+    "topic": "Key Principles of Attitude",
+    "id": 51
+  },
+  {
+    "question": "How should drivers treat vulnerable or inexperienced road users?",
+    "options": {
+      "A": "Be aggressive",
+      "B": "Be impatient",
+      "C": "Ignore them",
+      "D": "Be extra patient"
+    },
+    "correct_answer": "D",
+    "explanation": "Drivers should be extra patient around vulnerable or inexperienced road users such as learner drivers, children, older adults, disabled people, cyclists, motorcyclists, and horse riders.",
+    "topic": "Key Principles of Attitude",
+    "id": 52
+  },
+  {
+    "question": "What should drivers avoid when it comes to signals and road positioning?",
+    "options": {
+      "A": "Using signals correctly",
+      "B": "Misusing signals or gestures",
+      "C": "Not using signals at all",
+      "D": "Using signals to express frustration"
+    },
+    "correct_answer": "B",
+    "explanation": "Drivers should avoid misusing signals or gestures and should communicate their intentions clearly.",
+    "topic": "Key Principles of Attitude",
+    "id": 53
+  },
+  {
+    "question": "What is the recommended safe following distance behind the vehicle in front under normal conditions?",
+    "options": {
+      "A": "Two-second gap",
+      "B": "One second gap",
+      "C": "Three-second gap",
+      "D": "Four-second gap"
+    },
+    "correct_answer": "A",
+    "explanation": "The recommended safe following distance behind the vehicle in front under normal conditions is at least a two-second gap.",
+    "topic": "Detailed Guidance on Attitude and Behaviour",
+    "id": 54
+  },
+  {
+    "question": "When should drivers increase the following distance in poor visibility conditions?",
+    "options": {
+      "A": "In wet, icy, foggy, or poor visibility conditions",
+      "B": "Only in foggy conditions",
+      "C": "Only in icy conditions",
+      "D": "Never"
+    },
+    "correct_answer": "A",
+    "explanation": "Drivers should increase the following distance in wet, icy, foggy, or poor visibility conditions to ensure safety.",
+    "topic": "Detailed Guidance on Attitude and Behaviour",
+    "id": 55
+  },
+  {
+    "question": "What should drivers avoid doing with their horn and headlights?",
+    "options": {
+      "A": "Using them responsibly",
+      "B": "Using them to alert others to your presence",
+      "C": "Using them to express frustration or anger",
+      "D": "Using them only at night"
+    },
+    "correct_answer": "C",
+    "explanation": "Drivers should avoid using their horn and headlights to express frustration or anger and should only use them to alert others to their presence.",
+    "topic": "Detailed Guidance on Attitude and Behaviour",
+    "id": 56
+  },
+  {
+    "question": "What should drivers do at zebra crossings?",
+    "options": {
+      "A": "Speed up",
+      "B": "Cut across cyclists",
+      "C": "Ignore pedestrians",
+      "D": "Give way to pedestrians"
+    },
+    "correct_answer": "D",
+    "explanation": "Drivers should give way to pedestrians at zebra crossings to ensure their safety.",
+    "topic": "Detailed Guidance on Attitude and Behaviour",
+    "id": 57
+  },
+  {
+    "question": "How should drivers behave towards cyclists, horse riders, and horse-drawn vehicles?",
+    "options": {
+      "A": "Cut across them",
+      "B": "Ignore them",
+      "C": "Intimidate them",
+      "D": "Wait for them to pass"
+    },
+    "correct_answer": "D",
+    "explanation": "Drivers should wait for cyclists, horse riders, and horse-drawn vehicles to pass when turning or changing lanes to avoid accidents.",
+    "topic": "Detailed Guidance on Attitude and Behaviour",
+    "id": 8
+  },
+  {
+    "question": "What should drivers do when using cycle lanes or tracks at junctions?",
+    "options": {
+      "A": "Wait for cyclists to pass",
+      "B": "Cut across cyclists",
+      "C": "Speed up",
+      "D": "Ignore cyclists"
+    },
+    "correct_answer": "A",
+    "explanation": "Drivers should wait for cyclists to pass at junctions, including when using cycle lanes or tracks, to ensure their safety.",
+    "topic": "Detailed Guidance on Attitude and Behaviour",
+    "id": 9
+  },
+  {
+    "question": "How should drivers allow others to merge or overtake?",
+    "options": {
+      "A": "Allow others to merge or overtake safely",
+      "B": "Speed up",
+      "C": "Block or intimidate them",
+      "D": "Ignore them"
+    },
+    "correct_answer": "A",
+    "explanation": "Drivers should allow others to merge or overtake safely and should not block or intimidate other road users.",
+    "topic": "Detailed Guidance on Attitude and Behaviour",
+    "id": 10
+  },
+  {
+    "question": "What should drivers not do with pedestrians at crossings?",
+    "options": {
+      "A": "Ignore them",
+      "B": "Wave them across",
+      "C": "Speed up",
+      "D": "Cut across them"
+    },
+    "correct_answer": "B",
+    "explanation": "Drivers should not wave pedestrians across as this may be unsafe; instead, they should let them cross when it is safe.",
+    "topic": "Detailed Guidance on Attitude and Behaviour",
+    "id": 11
+  },
+  {
+    "question": "What is the minimum distance to give cyclists when overtaking at speeds up to 30 mph?",
+    "options": {
+      "A": "1 meter",
+      "B": "2.5 meters",
+      "C": "2 meters",
+      "D": "1.5 meters"
+    },
+    "correct_answer": "D",
+    "explanation": "The excerpt states that cyclists should be given a minimum of 1.5 meters of room when overtaking at speeds up to 30 mph.",
+    "topic": "Overtaking",
+    "id": 12
+  },
+  {
+    "question": "When should you overtake a vehicle according to the excerpt?",
+    "options": {
+      "A": "When it is convenient",
+      "B": "When it is safe and legal",
+      "C": "When it is fast",
+      "D": "When it is dark"
+    },
+    "correct_answer": "B",
+    "explanation": "The excerpt mentions that overtaking should only be done when it is safe and legal.",
+    "topic": "Overtaking",
+    "id": 13
+  },
+  {
+    "question": "What should you do around pedestrian crossings?",
+    "options": {
+      "A": "Give way to pedestrians",
+      "B": "Wave pedestrians across",
+      "C": "Rev the engine",
+      "D": "Intimidate pedestrians"
+    },
+    "correct_answer": "A",
+    "explanation": "The excerpt advises giving way to pedestrians on zebra and parallel crossings and not intimidating them.",
+    "topic": "Pedestrian Crossings",
+    "id": 14
+  },
+  {
+    "question": "What is the attitude recommended towards learners and slower vehicles?",
+    "options": {
+      "A": "Be patient",
+      "B": "Be aggressive",
+      "C": "Tailgate",
+      "D": "Speed up"
+    },
+    "correct_answer": "A",
+    "explanation": "The excerpt suggests being patient towards learners and slower vehicles.",
+    "topic": "Responsible Driver’s Attitude",
+    "id": 15
+  },
+  {
+    "question": "What should you prioritise according to the summary?",
+    "options": {
+      "A": "Convenience",
+      "B": "Safety",
+      "C": "Speed",
+      "D": "Courtesy"
+    },
+    "correct_answer": "C",
+    "explanation": "The summary emphasises prioritising safety first over speed or convenience.",
+    "topic": "Responsible Driver’s Attitude",
+    "id": 16
+  },
+  {
+    "question": "What is one key principle of attitude highlighted in the text?",
+    "options": {
+      "A": "Using signals and road positioning correctly",
+      "B": "Being aggressive and competitive",
+      "C": "Tailgating other vehicles",
+      "D": "Misusing signals or gestures"
+    },
+    "correct_answer": "A",
+    "explanation": "The key principle highlighted in the text is to use signals and road positioning correctly to communicate intentions clearly.",
+    "topic": "Key Principles of Attitude",
+    "id": 17
+  },
+  {
+    "question": "When should you use your horn and headlights according to the text?",
+    "options": {
+      "A": "To intimidate other road users",
+      "B": "To alert others to your presence",
+      "C": "To express frustration or anger",
+      "D": "To show off your vehicle"
+    },
+    "correct_answer": "C",
+    "explanation": "The text states that you should only use your horn and headlights to alert others to your presence, not to express frustration or anger.",
+    "topic": "Detailed Guidance on Attitude and Behaviour",
+    "id": 18
+  },
+  {
+    "question": "What is the recommended safe following distance behind the vehicle in front under normal conditions?",
+    "options": {
+      "A": "One-second gap",
+      "B": "Three-second gap",
+      "C": "Two-second gap",
+      "D": "Four-second gap"
+    },
+    "correct_answer": "C",
+    "explanation": "The text recommends maintaining at least a two-second gap behind the vehicle in front under normal conditions.",
+    "topic": "Detailed Guidance on Attitude and Behaviour",
+    "id": 19
+  },
+  {
+    "question": "What should you do when turning at junctions according to the text?",
+    "options": {
+      "A": "Wait for cyclists to pass",
+      "B": "Cut across cyclists",
+      "C": "Block other road users",
+      "D": "Intimidate pedestrians"
+    },
+    "correct_answer": "A",
+    "explanation": "The text advises waiting for cyclists to pass before turning at junctions, including when using cycle lanes or tracks.",
+    "topic": "Detailed Guidance on Attitude and Behaviour",
+    "id": 20
+  },
+  {
+    "question": "How should you behave around vulnerable or inexperienced road users according to the text?",
+    "options": {
+      "A": "Be aggressive and competitive",
+      "B": "Tailgate them",
+      "C": "Be extra patient",
+      "D": "Use horn and headlights irresponsibly"
+    },
+    "correct_answer": "C",
+    "explanation": "The text recommends being extra patient around vulnerable or inexperienced road users such as learner drivers, children, older adults, disabled people, cyclists, motorcyclists, and horse riders.",
+    "topic": "Key Principles of Attitude",
+    "id": 21
+  },
+  {
+    "question": "When should you use hazard warning lights?",
+    "options": {
+      "A": "To warn of obstruction when stationary",
+      "B": "While driving on motorways",
+      "C": "To signal 'go ahead'",
+      "D": "To make yourself visible in poor weather"
+    },
+    "correct_answer": "A",
+    "explanation": "Hazard warning lights should only be used when stationary to warn of obstruction, or on motorways/unrestricted dual carriageways to warn of hazards ahead.",
+    "topic": "Signals and Communication",
+    "id": 22
+  },
+  {
+    "question": "What should you do if another driver behaves badly?",
+    "options": {
+      "A": "React aggressively",
+      "B": "Flash lights aggressively",
+      "C": "Pull over and calm down",
+      "D": "Competitive driving"
+    },
+    "correct_answer": "C",
+    "explanation": "If another driver behaves badly, it is recommended to pull over and calm down before continuing.",
+    "topic": "Dealing with Mistakes and Aggression",
+    "id": 23
+  },
+  {
+    "question": "When should you use your horn according to the excerpt?",
+    "options": {
+      "A": "Aggressively",
+      "B": "To warn others of your presence",
+      "C": "To signal 'go ahead'",
+      "D": "To make yourself visible in poor weather"
+    },
+    "correct_answer": "B",
+    "explanation": "The horn should only be used to warn others of your presence and never aggressively.",
+    "topic": "Signals and Communication",
+    "id": 24
+  },
+  {
+    "question": "What should you do when driving behind large vehicles?",
+    "options": {
+      "A": "Drive very close to improve visibility",
+      "B": "Flash your headlights aggressively",
+      "C": "Overtake them quickly",
+      "D": "Drop back to improve visibility"
+    },
+    "correct_answer": "D",
+    "explanation": "When driving behind large vehicles, it is advisable to drop back to improve visibility and allow them space to manoeuvre.",
+    "topic": "Road Positioning and Lane Discipline",
+    "id": 25
+  },
+  {
+    "question": "How should you behave around vulnerable road users according to the excerpt?",
+    "options": {
+      "A": "Drive very close to them",
+      "B": "Flash your headlights aggressively",
+      "C": "Compete with them on the road",
+      "D": "Be extra patient and cautious"
+    },
+    "correct_answer": "D",
+    "explanation": "According to the excerpt, it is important to be extra patient and cautious around vulnerable road users such as learners, children, cyclists, etc.",
+    "topic": "Patience Around Vulnerable Road Users",
+    "id": 26
+  },
+  {
+    "question": "What is the recommended attitude towards pedestrians at crossings?",
+    "options": {
+      "A": "Wave them across",
+      "B": "Give way",
+      "C": "Rev the engine",
+      "D": "Ignore them"
+    },
+    "correct_answer": "B",
+    "explanation": "The text advises drivers to give way to pedestrians at crossings, without waving them across or intimidating them.",
+    "topic": "Pedestrian Crossings",
+    "id": 27
+  },
+  {
+    "question": "What should drivers do in slow-moving traffic to allow emergency vehicles to pass?",
+    "options": {
+      "A": "Maintain a safe gap",
+      "B": "Close the gap",
+      "C": "Speed up",
+      "D": "Ignore the emergency vehicles"
+    },
+    "correct_answer": "A",
+    "explanation": "Drivers should maintain a safe gap in slow-moving traffic to allow emergency vehicles to pass, as mentioned in the excerpt.",
+    "topic": "Slow Moving Traffic",
+    "id": 28
+  },
+  {
+    "question": "Which of the following is NOT part of the summary for the safe, responsible driver's attitude?",
+    "options": {
+      "A": "Safety first",
+      "B": "Stay calm",
+      "C": "Maintain control",
+      "D": "Drive aggressively"
+    },
+    "correct_answer": "D",
+    "explanation": "The summary of the safe, responsible driver's attitude includes prioritising safety, staying calm, being courteous, communicating clearly, being patient, and maintaining control. Driving aggressively is not part of this attitude.",
+    "topic": "Safe, Responsible Driver's Attitude",
+    "id": 29
+  },
+  {
+    "question": "What is the minimum distance that should be given to cyclists when overtaking at speeds up to 30 mph?",
+    "options": {
+      "A": "1 meter",
+      "B": "2.5 meters",
+      "C": "2 meters",
+      "D": "1.5 meters"
+    },
+    "correct_answer": "D",
+    "explanation": "The excerpt states that vulnerable road users, such as cyclists, should be given plenty of room, with a minimum of 1.5 meters when overtaking at speeds up to 30 mph.",
+    "topic": "When Overtaking",
+    "id": 30
+  },
+  {
+    "question": "What should a driver do when approaching pedestrian crossings?",
+    "options": {
+      "A": "Give way to pedestrians",
+      "B": "Speed up to pass quickly",
+      "C": "Honk the horn to alert pedestrians",
+      "D": "Wave pedestrians to cross"
+    },
+    "correct_answer": "A",
+    "explanation": "Drivers should give way to pedestrians on zebra and parallel crossings, as mentioned in the excerpt.",
+    "topic": "Around Pedestrian Crossings",
+    "id": 31
+  },
+  {
+    "question": "What is the key principle mentioned for safe and responsible driving in the summary?",
+    "options": {
+      "A": "Courtesy first",
+      "B": "Speed first",
+      "C": "Impatience first",
+      "D": "Aggressive behaviour first"
+    },
+    "correct_answer": "A",
+    "explanation": "The summary emphasises the importance of being courteous and respecting all road users, especially the vulnerable.",
+    "topic": "Summary: The Safe, Responsible Driver’s Attitude",
+    "id": 32
+  },
+  {
+    "question": "What should drivers be aware of in slow-moving traffic according to the excerpt?",
+    "options": {
+      "A": "Maintain a close gap to emergency vehicles",
+      "B": "Allow vehicles to merge safely",
+      "C": "Ignore cyclists filtering through traffic",
+      "D": "Prevent vehicles from merging"
+    },
+    "correct_answer": "B",
+    "explanation": "In slow-moving traffic, drivers should allow vehicles to merge safely, as stated in the excerpt.",
+    "topic": "In Slow Moving Traffic",
+    "id": 33
+  },
+  {
+    "question": "What is an important consideration for theory test preparation based on the additional notes?",
+    "options": {
+      "A": "Speeding and overtaking",
+      "B": "Tailgating dangers",
+      "C": "Aggressive behaviour",
+      "D": "Horn and light misuse"
+    },
+    "correct_answer": "D",
+    "explanation": "The additional notes highlight the importance of understanding the legal restrictions on horn and light use for theory test preparation.",
+    "topic": "Additional Notes for Theory Test Preparation",
+    "id": 34
+  },
+  {
+    "question": "When should you increase the following distance behind the vehicle in front?",
+    "options": {
+      "A": "In foggy conditions",
+      "B": "During sunny weather",
+      "C": "At night",
+      "D": "During rush hour"
+    },
+    "correct_answer": "A",
+    "explanation": "The following distance should be increased in wet, icy, foggy, or poor visibility conditions, such as in foggy conditions.",
+    "topic": "Safe Following Distance",
+    "id": 35
+  },
+  {
+    "question": "What should you avoid doing with your horn and headlights according to the text?",
+    "options": {
+      "A": "Using them to greet other drivers",
+      "B": "Using them to alert others to your presence",
+      "C": "Using them to communicate intentions",
+      "D": "Using them to express frustration"
+    },
+    "correct_answer": "D",
+    "explanation": "The text advises to only use the horn and headlights to alert others to your presence, never to express frustration or anger.",
+    "topic": "Use of Horn and Lights",
+    "id": 36
+  },
+  {
+    "question": "What is the guidance regarding giving way to pedestrians on zebra crossings?",
+    "options": {
+      "A": "Give way to pedestrians on zebra crossings",
+      "B": "Give way only if they are children",
+      "C": "Do not give way",
+      "D": "Give way to cyclists only"
+    },
+    "correct_answer": "A",
+    "explanation": "Drivers should give way to pedestrians on zebra crossings according to the guidance provided in the text.",
+    "topic": "Priority and Courtesy",
+    "id": 37
+  },
+  {
+    "question": "Why is it important to be extra patient around vulnerable or inexperienced road users?",
+    "options": {
+      "A": "To show off your driving skills",
+      "B": "To intimidate other road users",
+      "C": "To speed up their learning process",
+      "D": "To ensure their safety"
+    },
+    "correct_answer": "D",
+    "explanation": "Being extra patient around vulnerable or inexperienced road users is important to ensure their safety on the road.",
+    "topic": "Key Principles of Attitude",
+    "id": 38
+  },
+  {
+    "question": "How should you behave around vulnerable road users?",
+    "options": {
+      "A": "Drive very close to them",
+      "B": "Flash your headlights aggressively",
+      "C": "Compete with them on the road",
+      "D": "Be extra patient and cautious"
+    },
+    "correct_answer": "D",
+    "explanation": "Around vulnerable road users, it is important to be extra patient and cautious to ensure their safety.",
+    "topic": "Patience Around Vulnerable Road Users",
+    "id": 39
+  },
+  {
+    "question": "When should you use hazard warning lights according to the excerpt?",
+    "options": {
+      "A": "When overtaking a slow-moving vehicle",
+      "B": "When signaling to turn into a side road",
+      "C": "When driving in poor weather conditions",
+      "D": "When warning of obstruction while stationary"
+    },
+    "correct_answer": "D",
+    "explanation": "The excerpt states that hazard warning lights should be used when stationary to warn of obstruction or on motorways/dual carriageways to warn of hazards ahead.",
+    "topic": "Signals and Communication",
+    "id": 40
+  },
+  {
+    "question": "What should you do if another driver behaves badly according to the excerpt?",
+    "options": {
+      "A": "React aggressively",
+      "B": "Compete with the other driver",
+      "C": "Flash your headlights aggressively",
+      "D": "Pull over and calm down"
+    },
+    "correct_answer": "D",
+    "explanation": "The excerpt advises to pull over and calm down before continuing if another driver behaves badly, rather than reacting aggressively.",
+    "topic": "Dealing with Mistakes and Aggression",
+    "id": 41
+  },
+  {
+    "question": "What should you do when driving behind large vehicles according to the excerpt?",
+    "options": {
+      "A": "Drive very close to improve visibility",
+      "B": "Overtake them quickly",
+      "C": "Flash your headlights to signal them to move faster",
+      "D": "Drop back to improve visibility"
+    },
+    "correct_answer": "D",
+    "explanation": "The excerpt recommends dropping back when driving behind large vehicles to improve visibility and allow them space to manoeuvre.",
+    "topic": "Road Positioning and Lane Discipline",
+    "id": 42
+  },
+  {
+    "question": "What should you do when approaching junctions according to the excerpt?",
+    "options": {
+      "A": "Cut across cyclists and horse riders",
+      "B": "Ignore other road users",
+      "C": "Weave between lanes unnecessarily",
+      "D": "Give way to pedestrians"
+    },
+    "correct_answer": "D",
+    "explanation": "The excerpt advises always giving way to pedestrians at junctions, demonstrating consideration for vulnerable road users.",
+    "topic": "Practical Scenarios and Attitude Applications",
+    "id": 43
+  },
+  {
+    "question": "When overtaking, what is the minimum distance you should give cyclists at speeds up to 30 mph?",
+    "options": {
+      "A": "1.5 meters",
+      "B": "1 meter",
+      "C": "0.5 meters",
+      "D": "2 meters"
+    },
+    "correct_answer": "A",
+    "explanation": "The correct answer is 1.5 meters. It is important to give vulnerable road users, such as cyclists, plenty of room when overtaking to ensure their safety.",
+    "topic": "Overtaking",
+    "id": 44
+  },
+  {
+    "question": "What should you do when approaching pedestrian crossings?",
+    "options": {
+      "A": "Speed up to cross quickly",
+      "B": "Wave pedestrians to cross",
+      "C": "Honk to alert pedestrians",
+      "D": "Give way to pedestrians"
+    },
+    "correct_answer": "D",
+    "explanation": "The correct answer is to give way to pedestrians. It is important to be patient and allow pedestrians to cross safely without rushing them.",
+    "topic": "Pedestrian Crossings",
+    "id": 45
+  },
+  {
+    "question": "What is a key principle to follow when driving in slow-moving traffic?",
+    "options": {
+      "A": "Tailgate other vehicles",
+      "B": "Ignore cyclists and motorcyclists",
+      "C": "Speed up to get ahead",
+      "D": "Maintain a safe gap"
+    },
+    "correct_answer": "D",
+    "explanation": "The correct answer is to maintain a safe gap. This allows for emergency vehicles to pass and ensures the safety of all road users.",
+    "topic": "Slow Moving Traffic",
+    "id": 46
+  },
+  {
+    "question": "Which attitude should a responsible driver have towards other road users?",
+    "options": {
+      "A": "Aggressive behaviour",
+      "B": "Respect and courtesy",
+      "C": "Impatience",
+      "D": "Road rage"
+    },
+    "correct_answer": "B",
+    "explanation": "The correct answer is respect and courtesy. It is important for drivers to show consideration for all road users, especially the vulnerable.",
+    "topic": "Responsible Driver’s Attitude",
+    "id": 47
+  },
+  {
+    "question": "What should drivers be prepared to do in scenario-based questions?",
+    "options": {
+      "A": "Choose the safest and most polite option",
+      "B": "Speed up",
+      "C": "Ignore other road users",
+      "D": "Disregard road signs"
+    },
+    "correct_answer": "A",
+    "explanation": "The correct answer is to choose the safest and most polite option. This demonstrates a responsible and safe approach to driving.",
+    "topic": "Theory Test Preparation",
+    "id": 48
+  },
+  {
+    "question": "What is one key principle of attitude highlighted in the DVSA UK Driving Theory Study Guide?",
+    "options": {
+      "A": "Being aggressive and competitive",
+      "B": "Tailgating and road rage",
+      "C": "Using signals and road positioning incorrectly",
+      "D": "Being calm and patient"
+    },
+    "correct_answer": "D",
+    "explanation": "Being calm and patient is emphasized as an important principle of attitude in the UK driving theory test, according to the DVSA study guide.",
+    "topic": "Key Principles of Attitude",
+    "id": 49
+  },
+  {
+    "question": "When should you use hazard warning lights according to the information provided?",
+    "options": {
+      "A": "When driving on a motorway",
+      "B": "When overtaking a vehicle",
+      "C": "When stationary to warn of obstruction",
+      "D": "When changing lanes"
+    },
+    "correct_answer": "C",
+    "explanation": "According to the text, hazard warning lights should be used only when stationary to warn of obstruction, or on motorways/unrestricted dual carriageways to warn of hazards ahead.",
+    "topic": "Signals and Communication",
+    "id": 50
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "question": "What is the goal of hazard awareness?",
+    "options": {
+      "A": "To increase speed",
+      "B": "To ignore potential dangers",
+      "C": "To drive recklessly",
+      "D": "To notice risks and take action early"
+    },
+    "correct_answer": "D",
+    "explanation": "The goal of hazard awareness is to notice other vehicles, pedestrians, cyclists, road signs, or road conditions that could pose a risk and take action early.",
+    "topic": "Understanding the goal of hazard awareness",
+    "id": 1
+  },
+  {
+    "question": "What factors can reduce your alertness while driving?",
+    "options": {
+      "A": "Other drivers' behaviour",
+      "B": "Loud music and bright lights",
+      "C": "Clear road conditions",
+      "D": "Distractions, fatigue, alcohol, and poor weather"
+    },
+    "correct_answer": "D",
+    "explanation": "Factors like distractions, fatigue, alcohol, and poor weather can reduce your alertness while driving.",
+    "topic": "Factors reducing alertness while driving",
+    "id": 2
+  },
+  {
+    "question": "What does hazard perception involve?",
+    "options": {
+      "A": "Speeding up",
+      "B": "Ignoring potential dangers",
+      "C": "Not paying attention to road signs",
+      "D": "Spotting developing hazards in time"
+    },
+    "correct_answer": "D",
+    "explanation": "Hazard perception involves spotting developing hazards in time to anticipate problems before they develop.",
+    "topic": "Understanding hazard perception",
+    "id": 3
+  },
+  {
+    "question": "What should you do when you recognise a hazard while driving?",
+    "options": {
+      "A": "Ignore it and continue driving",
+      "B": "Speed up to get away from it",
+      "C": "Close your eyes and hope for the best",
+      "D": "Take action early by adjusting speed or position"
+    },
+    "correct_answer": "D",
+    "explanation": "When you recognise a hazard while driving, you should take action early by adjusting speed or position.",
+    "topic": "Responding to recognised hazards",
+    "id": 4
+  },
+  {
+    "question": "How is hazard awareness tested?",
+    "options": {
+      "A": "In the video-based Hazard Perception test",
+      "B": "Through written essays",
+      "C": "By observing other drivers",
+      "D": "By listening to music while driving"
+    },
+    "correct_answer": "A",
+    "explanation": "Hazard awareness is tested in the video-based Hazard Perception test.",
+    "topic": "Testing hazard awareness",
+    "id": 5
+  },
+  {
+    "question": "What should you do if you notice a potential hazard on the road?",
+    "options": {
+      "A": "Ignore it and continue driving as usual",
+      "B": "Close your eyes and hope for the best",
+      "C": "Take action early by adjusting speed or position",
+      "D": "Increase your speed to pass the hazard quickly"
+    },
+    "correct_answer": "C",
+    "explanation": "If you notice a potential hazard on the road, you should take action early by adjusting speed or position to ensure safety.",
+    "topic": "End",
+    "id": 6
+  },
+  {
+    "question": "What is tested in the Hazard Perception test?",
+    "options": {
+      "A": "Knowledge of road signs only",
+      "B": "Ability to drive at high speeds",
+      "C": "Reaction time to loud noises",
+      "D": "Hazard perception skills in spotting developing hazards"
+    },
+    "correct_answer": "D",
+    "explanation": "The Hazard Perception test assesses your hazard perception skills in spotting developing hazards on the road.",
+    "topic": "End",
+    "id": 7
+  },
+  {
+    "question": "What is considered a hazard on the road?",
+    "options": {
+      "A": "Smooth road conditions",
+      "B": "Any situation that might make you slow down, change direction or stop",
+      "C": "Sunny weather",
+      "D": "Loud music in the car"
+    },
+    "correct_answer": "B",
+    "explanation": "A hazard on the road is any situation that might make you slow down, change direction, or stop.",
+    "topic": "Recognising hazards on the road",
+    "id": 8
+  },
+  {
+    "question": "What is included in practising hazard perception skills?",
+    "options": {
+      "A": "Ignoring road signs",
+      "B": "Speeding up when approaching a pedestrian crossing",
+      "C": "Spotting developing hazards in time",
+      "D": "Not adjusting speed or position"
+    },
+    "correct_answer": "C",
+    "explanation": "Practising hazard perception skills involves spotting developing hazards in time.",
+    "topic": "Practising hazard perception skills",
+    "id": 9
+  },
+  {
+    "question": "How can distractions affect hazard awareness?",
+    "options": {
+      "A": "Reduce alertness",
+      "B": "Have no impact",
+      "C": "Improve alertness",
+      "D": "Enhance hazard perception skills"
+    },
+    "correct_answer": "A",
+    "explanation": "Distractions can reduce alertness, making it harder to notice potential dangers on the road.",
+    "topic": "Understanding the impact of distractions on hazard awareness",
+    "id": 10
+  },
+  {
+    "question": "What skills are important for hazard perception?",
+    "options": {
+      "A": "Spotting developing hazards in time",
+      "B": "Ignoring road signs",
+      "C": "Speeding up",
+      "D": "Driving recklessly"
+    },
+    "correct_answer": "A",
+    "explanation": "Hazard perception skills involve spotting developing hazards in time to take appropriate action.",
+    "topic": "Practising hazard perception skills",
+    "id": 11
+  },
+  {
+    "question": "Why is it important to take action early when faced with a potential hazard?",
+    "options": {
+      "A": "To avoid the hazard",
+      "B": "To increase the risk",
+      "C": "To speed up",
+      "D": "To ignore the hazard"
+    },
+    "correct_answer": "A",
+    "explanation": "Taking action early when faced with a potential hazard is crucial to avoid the risk and ensure safety on the road.",
+    "topic": "Importance of taking early action in hazard situations",
+    "id": 12
+  },
+  {
+    "question": "What factors can reduce your alertness on the road?",
+    "options": {
+      "A": "Ignoring road signs",
+      "B": "Loud music and bright lights",
+      "C": "Talking to passengers and eating while driving",
+      "D": "Distractions, fatigue, alcohol, and poor weather"
+    },
+    "correct_answer": "D",
+    "explanation": "Factors like distractions, fatigue, alcohol, and poor weather can reduce your alertness while driving.",
+    "topic": "Middle",
+    "id": 13
+  },
+  {
+    "question": "What should you do when you notice a potential hazard?",
+    "options": {
+      "A": "Ignore it and continue driving as usual",
+      "B": "Use your phone to take a picture of the hazard",
+      "C": "Close your eyes and hope for the best",
+      "D": "Take action early, such as adjusting speed or position"
+    },
+    "correct_answer": "D",
+    "explanation": "When you notice a potential hazard, you should take action early, such as adjusting speed or position to avoid accidents.",
+    "topic": "End",
+    "id": 14
+  },
+  {
+    "question": "What factors can reduce your alertness according to the text?",
+    "options": {
+      "A": "Distractions, fatigue, alcohol, and poor weather",
+      "B": "Eating healthy food",
+      "C": "Regular exercise",
+      "D": "Listening to music while driving"
+    },
+    "correct_answer": "A",
+    "explanation": "Factors like distractions, fatigue, alcohol, and poor weather can reduce your alertness while driving.",
+    "topic": "Hazard Awareness",
+    "id": 15
+  },
+  {
+    "question": "How is hazard awareness knowledge tested?",
+    "options": {
+      "A": "In multiple-choice questions and the Hazard Perception test",
+      "B": "Through written essays",
+      "C": "By memorising road signs",
+      "D": "By driving recklessly"
+    },
+    "correct_answer": "A",
+    "explanation": "Hazard awareness knowledge is tested both in multiple-choice questions and the video-based Hazard Perception test.",
+    "topic": "Hazard Awareness",
+    "id": 16
+  },
+  {
+    "question": "What skills are involved in hazard perception?",
+    "options": {
+      "A": "Spotting developing hazards in time",
+      "B": "Ignoring road conditions",
+      "C": "Speeding up",
+      "D": "Not paying attention to other vehicles"
+    },
+    "correct_answer": "A",
+    "explanation": "Hazard perception skills involve spotting developing hazards in time.",
+    "topic": "Practising hazard perception skills",
+    "id": 17
+  },
+  {
+    "question": "How can you respond to hazards on the road?",
+    "options": {
+      "A": "Take action early by adjusting speed or position",
+      "B": "Ignore them",
+      "C": "Increase distractions",
+      "D": "Drive faster towards them"
+    },
+    "correct_answer": "A",
+    "explanation": "You can respond to hazards on the road by taking action early, such as adjusting speed or position.",
+    "topic": "Knowing how to respond to hazards on the road",
+    "id": 18
+  },
+  {
+    "question": "Which factors can reduce alertness according to the text?",
+    "options": {
+      "A": "Fatigue",
+      "B": "Excitement",
+      "C": "Clear weather",
+      "D": "Good road conditions"
+    },
+    "correct_answer": "A",
+    "explanation": "Factors like distractions, fatigue, alcohol, or poor weather can reduce alertness while driving.",
+    "topic": "Identifying factors that reduce alertness",
+    "id": 19
+  },
+  {
+    "question": "What is a hazard?",
+    "options": {
+      "A": "A safe situation",
+      "B": "A situation that might make you speed up",
+      "C": "A situation to ignore",
+      "D": "Any situation that might make you slow down, change direction or stop"
+    },
+    "correct_answer": "D",
+    "explanation": "A hazard is defined as any situation that might make you slow down, change direction, or stop while driving.",
+    "topic": "Defining a hazard",
+    "id": 20
+  },
+  {
+    "question": "How can you respond to hazards according to the text?",
+    "options": {
+      "A": "By ignoring them",
+      "B": "By being distracted",
+      "C": "By speeding up",
+      "D": "By taking early action like adjusting speed or position"
+    },
+    "correct_answer": "D",
+    "explanation": "The text mentions responding to hazards by taking early action, such as adjusting speed or position to avoid risks.",
+    "topic": "Understanding how to respond to hazards",
+    "id": 21
+  },
+  {
+    "question": "What are some factors that can reduce alertness on the road?",
+    "options": {
+      "A": "Eating healthy snacks",
+      "B": "Listening to music",
+      "C": "Distractions, fatigue, alcohol, poor weather",
+      "D": "Exercising regularly"
+    },
+    "correct_answer": "C",
+    "explanation": "Factors like distractions, fatigue, alcohol, and poor weather can reduce alertness while driving.",
+    "topic": "Factors that reduce alertness on the road",
+    "id": 22
+  },
+  {
+    "question": "What does hazard awareness cover?",
+    "options": {
+      "A": "Recognising road signs",
+      "B": "Learning how to drive",
+      "C": "Avoiding distractions",
+      "D": "Anticipating problems"
+    },
+    "correct_answer": "D",
+    "explanation": "Hazard awareness covers being alert to potential dangers on the road and knowing how to respond to them, including anticipating problems before they develop.",
+    "topic": "Understanding Hazard Awareness",
+    "id": 23
+  },
+  {
+    "question": "What is the goal of practising hazard perception skills?",
+    "options": {
+      "A": "To drive faster",
+      "B": "To avoid pedestrians",
+      "C": "To ignore road signs",
+      "D": "To spot developing hazards in time"
+    },
+    "correct_answer": "D",
+    "explanation": "The goal of practising hazard perception skills is to spot developing hazards in time while driving.",
+    "topic": "Hazard Perception Skills",
+    "id": 24
+  },
+  {
+    "question": "Which of the following factors can reduce alertness while driving?",
+    "options": {
+      "A": "Fatigue and distractions",
+      "B": "Listening to calming music",
+      "C": "Eating a healthy snack",
+      "D": "Regular exercise"
+    },
+    "correct_answer": "A",
+    "explanation": "Factors like fatigue and distractions can reduce alertness while driving, making it important to be aware of these risks.",
+    "topic": "Factors Affecting Alertness",
+    "id": 25
+  },
+  {
+    "question": "What should you do to practice hazard perception skills?",
+    "options": {
+      "A": "Close your eyes while driving",
+      "B": "Spot developing hazards in time",
+      "C": "Avoid scanning the road ahead",
+      "D": "Ignore road signs"
+    },
+    "correct_answer": "B",
+    "explanation": "To practice hazard perception skills, you should focus on spotting developing hazards in time to anticipate and respond to them effectively while driving.",
+    "topic": "Practising hazard perception skills",
+    "id": 26
+  },
+  {
+    "question": "What should you do when you notice a potential risk on the road?",
+    "options": {
+      "A": "Ignore it",
+      "B": "Take action early (e.g. adjusting speed or position)",
+      "C": "Speed up",
+      "D": "Continue as normal"
+    },
+    "correct_answer": "B",
+    "explanation": "When you notice a potential risk on the road, you should take action early, such as adjusting speed or position.",
+    "topic": "Responding to Risks",
+    "id": 27
+  },
+  {
+    "question": "How can distractions affect your alertness on the road?",
+    "options": {
+      "A": "They improve your focus",
+      "B": "They reduce your alertness",
+      "C": "They have no impact",
+      "D": "They make you more aware"
+    },
+    "correct_answer": "B",
+    "explanation": "Distractions can reduce your alertness on the road, making it harder to notice potential hazards.",
+    "topic": "Understanding the impact of distractions on alertness",
+    "id": 28
+  },
+  {
+    "question": "What is a hazard while driving?",
+    "options": {
+      "A": "A situation that might make you speed up",
+      "B": "A situation that requires you to overtake other vehicles",
+      "C": "A situation that requires you to honk your horn",
+      "D": "A situation that might make you slow down, change direction or stop"
+    },
+    "correct_answer": "D",
+    "explanation": "A hazard while driving is any situation that might make you slow down, change direction or stop.",
+    "topic": "Understanding Hazards",
+    "id": 29
+  },
+  {
+    "question": "What should you do if you notice a potential risk while driving?",
+    "options": {
+      "A": "Ignore it and continue driving as usual",
+      "B": "Close your eyes and hope for the best",
+      "C": "Speed up to get away from the risk",
+      "D": "Take action early by adjusting speed or position"
+    },
+    "correct_answer": "D",
+    "explanation": "If you notice a potential risk while driving, you should take action early by adjusting speed or position.",
+    "topic": "Responding to Hazards",
+    "id": 30
+  },
+  {
+    "question": "How is knowledge of hazards tested in driving exams?",
+    "options": {
+      "A": "Through practical driving tests only",
+      "B": "Through written essays",
+      "C": "Through multiple-choice questions and the Hazard Perception test",
+      "D": "Through group discussions"
+    },
+    "correct_answer": "C",
+    "explanation": "Knowledge of hazards is tested in driving exams through multiple-choice questions and the Hazard Perception test.",
+    "topic": "Testing Hazard Awareness",
+    "id": 31
+  },
+  {
+    "question": "What are distractions, fatigue, alcohol, and poor weather examples of?",
+    "options": {
+      "A": "Factors that increase alertness",
+      "B": "Factors that improve hazard perception",
+      "C": "Factors that reduce alertness",
+      "D": "Factors that don't affect driving"
+    },
+    "correct_answer": "C",
+    "explanation": "Distractions, fatigue, alcohol, and poor weather are examples of factors that can reduce alertness while driving.",
+    "topic": "Identifying factors that reduce alertness",
+    "id": 32
+  },
+  {
+    "question": "What should you do when you recognise a hazard on the road?",
+    "options": {
+      "A": "Take action early, such as adjusting speed or position",
+      "B": "Ignore it and continue driving",
+      "C": "Speed up to get past it quickly",
+      "D": "Stop immediately"
+    },
+    "correct_answer": "A",
+    "explanation": "When you recognise a hazard on the road, you should take action early, such as adjusting speed or position, to avoid potential risks.",
+    "topic": "Knowing how to respond to hazards",
+    "id": 33
+  },
+  {
+    "question": "What does hazard awareness include?",
+    "options": {
+      "A": "Ignoring potential dangers",
+      "B": "Driving recklessly",
+      "C": "Recognising hazards and anticipating problems",
+      "D": "Not being alert on the road"
+    },
+    "correct_answer": "C",
+    "explanation": "Hazard awareness includes recognising hazards (situations that might make you slow down, change direction, or stop) and anticipating problems before they develop.",
+    "topic": "Components of hazard awareness",
+    "id": 34
+  },
+  {
+    "question": "How can you respond to potential dangers on the road?",
+    "options": {
+      "A": "Take action early by adjusting speed or position",
+      "B": "Ignore them and continue driving as usual",
+      "C": "Close your eyes and hope for the best",
+      "D": "Increase distractions to stay alert"
+    },
+    "correct_answer": "A",
+    "explanation": "You can respond to potential dangers on the road by taking action early, such as adjusting speed or position.",
+    "topic": "Knowing how to respond to potential dangers",
+    "id": 35
+  },
+  {
+    "question": "What is the definition of a hazard according to the text?",
+    "options": {
+      "A": "Any situation that might make you slow down, change direction or stop",
+      "B": "Any situation that might make you speed up",
+      "C": "Any situation that might make you honk your horn",
+      "D": "Any situation that might make you change lanes"
+    },
+    "correct_answer": "A",
+    "explanation": "The text defines a hazard as any situation that might make you slow down, change direction or stop.",
+    "topic": "Understanding Hazards",
+    "id": 36
+  },
+  {
+    "question": "What is the goal of practising hazard perception skills according to the text?",
+    "options": {
+      "A": "To ignore potential dangers on the road",
+      "B": "To drive faster in hazardous conditions",
+      "C": "To spot developing hazards in time",
+      "D": "To take unnecessary risks"
+    },
+    "correct_answer": "C",
+    "explanation": "The text states that the goal of practising hazard perception skills is to spot developing hazards in time.",
+    "topic": "Hazard Perception Skills",
+    "id": 37
+  },
+  {
+    "question": "What should you do if you notice other vehicles, pedestrians, cyclists, road signs or road conditions that could pose a risk according to the text?",
+    "options": {
+      "A": "Take action early by adjusting speed or position",
+      "B": "Ignore them and continue driving as usual",
+      "C": "Close your eyes and hope for the best",
+      "D": "Speed up to avoid the risk"
+    },
+    "correct_answer": "A",
+    "explanation": "According to the text, if you notice potential risks, you should take action early by adjusting speed or position.",
+    "topic": "Taking Action to Reduce Risks",
+    "id": 38
+  },
+  {
+    "question": "How is knowledge of hazard awareness tested according to the text?",
+    "options": {
+      "A": "Through multiple-choice questions and the Hazard Perception test",
+      "B": "Through practical driving tests only",
+      "C": "Through written essays",
+      "D": "Through physical fitness tests"
+    },
+    "correct_answer": "A",
+    "explanation": "The text mentions that knowledge of hazard awareness is tested through multiple-choice questions and the Hazard Perception test.",
+    "topic": "Testing Hazard Awareness Knowledge",
+    "id": 39
+  },
+  {
+    "question": "How should you respond to potential hazards according to the text?",
+    "options": {
+      "A": "Take action early",
+      "B": "Ignore them",
+      "C": "Speed up towards them",
+      "D": "Wait for them to develop fully"
+    },
+    "correct_answer": "A",
+    "explanation": "According to the text, you should take action early when you notice potential hazards on the road.",
+    "topic": "Proper response to potential hazards",
+    "id": 40
+  },
+  {
+    "question": "Why is it important to adjust speed or position when driving?",
+    "options": {
+      "A": "To increase risks",
+      "B": "To drive recklessly",
+      "C": "To avoid hazards",
+      "D": "To be distracted"
+    },
+    "correct_answer": "C",
+    "explanation": "It is important to adjust speed or position when driving to avoid hazards and ensure safety on the road.",
+    "topic": "Importance of adjusting speed or position while driving",
+    "id": 41
+  },
+  {
+    "question": "Why is it important to anticipate problems while driving?",
+    "options": {
+      "A": "To increase speed",
+      "B": "To drive recklessly",
+      "C": "To ignore road signs",
+      "D": "To avoid hazards before they develop"
+    },
+    "correct_answer": "D",
+    "explanation": "Anticipating problems while driving helps in avoiding hazards before they develop, ensuring a safe driving experience.",
+    "topic": "Hazard Awareness",
+    "id": 42
+  },
+  {
+    "question": "What should you do when you spot a developing hazard?",
+    "options": {
+      "A": "Take action early, such as adjusting speed or position",
+      "B": "Take immediate action",
+      "C": "Wait for it to resolve itself",
+      "D": "Ignore it and continue driving"
+    },
+    "correct_answer": "A",
+    "explanation": "When you spot a developing hazard, it is important to take action early, such as adjusting your speed or position, to prevent any potential risks on the road.",
+    "topic": "Responding to developing hazards",
+    "id": 43
+  },
+  {
+    "question": "Why is it important to anticipate problems on the road?",
+    "options": {
+      "A": "To increase distractions",
+      "B": "To drive recklessly",
+      "C": "To avoid potential dangers",
+      "D": "To ignore road signs"
+    },
+    "correct_answer": "C",
+    "explanation": "Anticipating problems on the road is important to avoid potential dangers and ensure safety while driving.",
+    "topic": "Importance of anticipating problems",
+    "id": 44
+  },
+  {
+    "question": "What are hazards in the context of driving?",
+    "options": {
+      "A": "Situations that make you speed up",
+      "B": "Situations that make you stop",
+      "C": "Situations that make you change direction",
+      "D": "Situations that are not important"
+    },
+    "correct_answer": "B",
+    "explanation": "Hazards are any situations that might make you slow down, change direction, or stop while driving.",
+    "topic": "Defining hazards in driving",
+    "id": 45
+  },
+  {
+    "question": "How can distractions affect your alertness while driving?",
+    "options": {
+      "A": "They can reduce your alertness",
+      "B": "They can have no impact on your alertness",
+      "C": "They can increase your alertness",
+      "D": "They can improve your hazard perception skills"
+    },
+    "correct_answer": "A",
+    "explanation": "Distractions can reduce your alertness while driving, making it harder to notice potential hazards on the road.",
+    "topic": "Understanding the impact of distractions on alertness",
+    "id": 46
+  },
+  {
+    "question": "What is one factor that can reduce your alertness while driving?",
+    "options": {
+      "A": "Fatigue",
+      "B": "Drinking water",
+      "C": "Eating a healthy snack",
+      "D": "Listening to calming music"
+    },
+    "correct_answer": "A",
+    "explanation": "Fatigue is one factor that can reduce your alertness while driving, making it important to stay well-rested before getting behind the wheel.",
+    "topic": "Identifying factors that reduce alertness",
+    "id": 47
+  },
+  {
+    "question": "How can you improve your hazard perception skills?",
+    "options": {
+      "A": "By closing your eyes while driving",
+      "B": "By spotting developing hazards in time",
+      "C": "By driving faster than the speed limit",
+      "D": "By ignoring road signs"
+    },
+    "correct_answer": "B",
+    "explanation": "You can improve your hazard perception skills by practising spotting developing hazards in time, which helps you anticipate problems before they develop.",
+    "topic": "Enhancing hazard perception skills",
+    "id": 48
+  },
+  {
+    "question": "What is the goal of hazard awareness according to the text?",
+    "options": {
+      "A": "To ignore potential dangers on the road",
+      "B": "To react only after a hazard has fully developed",
+      "C": "To drive faster when hazards are present",
+      "D": "To recognize hazards and anticipate problems before they develop"
+    },
+    "correct_answer": "D",
+    "explanation": "The text mentions that the goal of hazard awareness is to recognize hazards and anticipate problems before they develop.",
+    "topic": "Understanding the goal of hazard awareness",
+    "id": 49
+  },
+  {
+    "question": "What does hazard awareness involve?",
+    "options": {
+      "A": "Learning how to drive at high speeds",
+      "B": "Recognising potential dangers on the road and knowing how to respond to them",
+      "C": "Ignoring road signs and road conditions",
+      "D": "Speeding up to avoid hazards"
+    },
+    "correct_answer": "B",
+    "explanation": "Hazard awareness involves recognising potential dangers on the road and knowing how to respond to them, including factors like distractions, fatigue, alcohol, and poor weather.",
+    "topic": "Hazard Awareness",
+    "id": 50
+  }
+]

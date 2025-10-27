@@ -1,0 +1,171 @@
+[
+  {
+    "id": "Q3KREE",
+    "question": "Esta señal indica...",
+    "options": {
+      "a": "La prohibición de entrada a todos los automóviles.",
+      "b": "El fin de una vía reservada para automóviles.",
+      "c": "Una vía reservada a turismos."
+    },
+    "correct_answer": "",
+    "explanation": "Esta señal indica que la vía está reservada para turismos, es decir, vehículos particulares. No prohíbe la entrada a todos los automóviles ni indica el fin de una vía reservada. / Этот знак указывает, что дорога предназначена для легковых автомобилей. Он не запрещает въезд всем автомобилям и не означает конец дороги с ограниченным доступом.",
+    "file_id": "tema4_015",
+    "topic": "Señales de indicación"
+  },
+  {
+    "id": "QSTH5G",
+    "question": "Esta señal indica que los carriles sobre los que están situadas las señales de velocidad mínima...",
+    "options": {
+      "a": "Sólo para vehículos rápidos y el carril situado más a la derecha es para vehículos lentos.",
+      "b": "Sólo puede utilizarlos si circula a una velocidad inferior a la indicada.",
+      "c": "Sólo puede utilizarlos si circula a una velocidad igual o superior a la indicada."
+    },
+    "correct_answer": "c",
+    "explanation": "Esta señal indica que los carriles señalizados con velocidad mínima sólo pueden ser utilizados por vehículos que circulen a una velocidad igual o superior a la indicada. Это означает, что минимальная скорость обязательна для использования этих полос, и транспортные средства должны двигаться не медленнее указанной скорости. Таким образом, вариант c является правильным, так как он соответствует смыслу знака.",
+    "file_id": "tema4_014",
+    "topic": "Señales de indicación"
+  },
+  {
+    "id": "QCJ8B4",
+    "question": "Esta señal indica la situación de...",
+    "options": {
+      "a": "Un cambio de dirección.",
+      "b": "Un apartadero en un túnel.",
+      "c": "Un lugar reservado para ambulancias."
+    },
+    "correct_answer": "b",
+    "explanation": "Esta señal indica un apartadero en un túnel, un lugar donde los vehículos pueden detenerse para dejar pasar a otros. Это знак указывает на обочину в туннеле, место, где транспортные средства могут остановиться, чтобы пропустить другие. Es importante conocer esta señal para mantener la seguridad y fluidez del tráfico en túneles.",
+    "file_id": "tema4_017",
+    "topic": "Señales de indicación"
+  },
+  {
+    "id": "QPN5TB",
+    "question": "Circula a 70 km/h, ¿Qué carril debe utilizar?",
+    "options": {
+      "a": "El de la izquierda.",
+      "b": "El central.",
+      "c": "El de la derecha."
+    },
+    "correct_answer": "c",
+    "explanation": "Cuando se circula a una velocidad moderada como 70 km/h en una vía con varios carriles, se debe utilizar el carril de la derecha para permitir que los vehículos más rápidos adelanten por la izquierda. Esto mejora la fluidez del tráfico y la seguridad. / При движении со скоростью 70 км/ч на дороге с несколькими полосами следует использовать правую полосу, чтобы более быстрые автомобили могли обгонять слева. Это улучшает поток движения и безопасность.",
+    "file_id": "tema4_013",
+    "topic": "Señales de indicación"
+  },
+  {
+    "id": "QP5JES",
+    "question": "¿Alguna de estas señales indica que finaliza un carril destinado a la circulación?",
+    "options": {
+      "a": "Sí, la señal A.",
+      "b": "Sí, la señal B.",
+      "c": "No, ninguna de las dos."
+    },
+    "correct_answer": "a",
+    "explanation": "La señal A indica el fin de un carril destinado a la circulación, lo que significa que los conductores deben incorporarse al carril contiguo. La señal B no indica esta situación. Таким образом, правильный ответ — вариант A, так как этот знак обозначает окончание полосы движения.",
+    "file_id": "tema4_012",
+    "topic": "Señales de indicación"
+  },
+  {
+    "id": "QZMR8B",
+    "question": "El día 2 de cada mes, delante de esta señal, ¿Está permitido parar?",
+    "options": {
+      "a": "No, ni parar ni estacionar.",
+      "b": "No.",
+      "c": "Sí."
+    },
+    "correct_answer": "",
+    "explanation": "En este caso, no se indica explícitamente cuál es la respuesta correcta. Sin embargo, normalmente, delante de señales específicas puede estar prohibido parar o estacionar en ciertos días. Без дополнительной информации из знака нельзя точно определить правильный ответ.",
+    "file_id": "tema3_050",
+    "topic": "Señales verticales"
+  },
+  {
+    "id": "QXZD0B",
+    "question": "Circula a 90 km/h, ¿Por cuál carril debe hacerlo con esta señal?",
+    "options": {
+      "a": "Por el carril central porque circula a más de 70 km/h.",
+      "b": "Por carril derecho, siempre que sea posible.",
+      "c": "Por el carril izquierdo."
+    },
+    "correct_answer": "b",
+    "explanation": "La señal indica que debe circular por el carril derecho siempre que sea posible para no entorpecer el tráfico más rápido. En español, esta norma busca mantener la fluidez y seguridad en la vía. По-русски: знак указывает, что нужно ехать по правому ряду, если это возможно, чтобы не мешать более быстрому движению. Это правило обеспечивает безопасность и плавность движения.",
+    "file_id": "tema4_005",
+    "topic": "Señales de indicación"
+  },
+  {
+    "id": "QE08SD",
+    "question": "Esta señal...",
+    "options": {
+      "a": "Prohíbe a los camiones adelantar salvo a motocicletas de dos ruedas.",
+      "b": "Prohíbe a los camiones de más de 3.500 kg de MMA adelantar, salvo a motocicletas de dos ruedas si no invaden el sentido contrario.",
+      "c": "Prohíbe a los camiones adelantar a todos los vehículos."
+    },
+    "correct_answer": "",
+    "explanation": "La señal indica una prohibición específica para camiones, generalmente relacionada con su peso y la posibilidad de adelantar a motocicletas sin invadir el sentido contrario. Esta restricción busca mejorar la seguridad vial y evitar accidentes. Знак запрещает обгон грузовикам определённого веса, разрешая обгон мотоциклов при условии, что они не выезжают на встречную полосу. Это правило направлено на повышение безопасности на дороге.",
+    "file_id": "tema3_021",
+    "topic": "Señales verticales"
+  },
+  {
+    "id": "QRZHP2",
+    "question": "Esta señal de peligro, ¿Qué indica?",
+    "options": {
+      "a": "Paso a nivel con barreras.",
+      "b": "Paso a nivel sin barreras.",
+      "c": "Paso a nivel sin barreras con más de una vía férrea."
+    },
+    "correct_answer": "",
+    "explanation": "Esta señal indica un paso a nivel sin barreras, pero no especifica si hay más de una vía férrea. Por lo tanto, la respuesta correcta es la opción b. Эта дорожная опасность предупреждает о железнодорожном переезде без шлагбаума. Вариант b наиболее точно описывает ситуацию, так как отсутствует указание на наличие нескольких путей.",
+    "file_id": "tema3_018",
+    "topic": "Señales verticales"
+  },
+  {
+    "id": "Q71SBK",
+    "question": "Si estando en posesión del permiso B conduce un camión que tiene la MMA para dicho permiso, ¿Le afecta esta señal?",
+    "options": {
+      "a": "No.",
+      "b": "Sí.",
+      "c": "Sí, pero únicamente cuando la MMA sea el doble de la tara."
+    },
+    "correct_answer": "",
+    "explanation": "Esta señal afecta a los vehículos que superan ciertos límites de MMA (Masa Máxima Autorizada). Si el camión tiene la MMA permitida para el permiso B, normalmente no le afecta esta señal. Esta señal está destinada a restringir vehículos con MMA superior a la permitida. / Этот знак влияет на транспортные средства, превышающие определённые пределы максимальной разрешённой массы (MMA). Если грузовик имеет MMA, разрешённую для категории B, обычно этот знак на него не распространяется. Знак предназначен для ограничения движения транспортных средств с MMA выше разрешённой.",
+    "file_id": "tema3_027",
+    "topic": "Señales verticales"
+  },
+  {
+    "id": "Q2Q2GA",
+    "question": "¿Qué indican estas señales?",
+    "options": {
+      "a": "Obligan a circular a 30 km/h en las curvas.",
+      "b": "Prohíben circular a más de 30 km/h en las curvas.",
+      "c": "Aconsejan no circular a más de 30 km/h en las curvas."
+    },
+    "correct_answer": "c",
+    "explanation": "Estas señales aconsejan no circular a más de 30 km/h en las curvas para garantizar la seguridad. No son señales de obligación ni prohibición, sino recomendaciones para evitar accidentes. Estas indicaciones ayudan a los conductores a adaptar su velocidad en zonas peligrosas. / Эти знаки советуют не превышать скорость 30 км/ч на поворотах для обеспечения безопасности. Это не обязательные или запрещающие знаки, а рекомендации для предотвращения аварий. Такие указания помогают водителям адаптировать скорость в опасных зонах.",
+    "file_id": "tema3_039",
+    "topic": "Señales verticales"
+  },
+  {
+    "id": "Q4BFPG",
+    "question": "Conduciendo su turismo, esta señal le indica que para circular es obligatorio el uso de cadenas o neumáticos especiales a una velocidad máxima de...",
+    "options": {
+      "a": "80 km/h.",
+      "b": "60 km/h.",
+      "c": "30 km/h."
+    },
+    "correct_answer": "",
+    "explanation": "Esta señal indica la obligación de usar cadenas o neumáticos especiales y limita la velocidad máxima permitida. La velocidad máxima suele ser baja para garantizar la seguridad en condiciones adversas. Водителю необходимо использовать цепи или специальные шины и соблюдать ограничение скорости для безопасности на скользкой дороге.",
+    "file_id": "tema4_037",
+    "topic": "Señales de indicación"
+  },
+  {
+    "id": "QD2U7B",
+    "question": "Está señal, ¿Obliga a detenerse?",
+    "options": {
+      "a": "No.",
+      "b": "Sí, siempre.",
+      "c": "Sí, cuando un vehículo que circule en sentido contrario dificulte el paso a ambos vehículos."
+    },
+    "correct_answer": "c",
+    "explanation": "Esta señal obliga a detenerse solo cuando un vehículo que circula en sentido contrario dificulte el paso a ambos vehículos. Это означает, что остановка обязательна только в случае, если встречный транспорт затрудняет проезд обоим транспортным средствам. Таким образом, знак регулирует приоритет проезда в узких местах.",
+    "file_id": "tema3_058",
+    "topic": "Señales verticales"
+  }
+]

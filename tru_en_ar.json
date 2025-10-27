@@ -1,0 +1,629 @@
+[
+    {
+        "id": "23",
+        "file_id": "null",
+        "video": "null",
+        "topic": "13. Vulnerable road users",
+        "question": {
+            "en": "Why is it important to listen for traffic when crossing the road?",
+            "ar": "لماذا من المهم الاستماع إلى حركة المرور عند عبور الطريق؟"
+        },
+        "options": {
+            "A": {
+                "en": "To enjoy the sounds of traffic",
+                "ar": "للاستمتاع بأصوات حركة المرور"
+            },
+            "B": {
+                "en": "To know the direction of traffic",
+                "ar": "لمعرفة اتجاه حركة المرور"
+            },
+            "C": {
+                "en": "To avoid traffic",
+                "ar": "لتجنب الازدحام المروري"
+            },
+            "D": {
+                "en": "To increase traffic noise",
+                "ar": "لزيادة ضوضاء المرور"
+            }
+        },
+        "correct_answer": "B",
+        "explanation": {
+            "en": "Listening for traffic is important because traffic could come from any direction, and you can sometimes hear it before you see it.",
+            "ar": "الاستماع إلى حركة المرور مهم لأن الحركة قد تأتي من أي اتجاه، وأحيانًا يمكنك سماعها قبل أن تراها."
+        }
+    },
+    {
+        "id": "24",
+        "file_id": "null",
+        "video": "null",
+        "topic": "Hazard awareness",
+        "question": {
+            "en": "What should you do if traffic is coming when you want to cross the road?",
+            "ar": "ماذا يجب أن تفعل إذا كانت هناك حركة مرور قادمة عندما تريد عبور الطريق؟"
+        },
+        "options": {
+            "A": {
+                "en": "Cross immediately",
+                "ar": "اعبر فورًا"
+            },
+            "B": {
+                "en": "Cross diagonally",
+                "ar": "اعبر بشكل قطري"
+            },
+            "C": {
+                "en": "Run across quickly",
+                "ar": "اجري بسرعة"
+            },
+            "D": {
+                "en": "Let it pass and wait for a safe gap",
+                "ar": "دعه يمر وانتظر فجوة آمنة."
+            }
+        },
+        "correct_answer": "D",
+        "explanation": {
+            "en": "If traffic is coming, you should let it pass and wait for a safe gap before crossing, ensuring there is plenty of time.",
+            "ar": "إذا كان هناك مرور قادم، يجب عليك السماح له بالمرور والانتظار حتى وجود فجوة آمنة قبل العبور، مع التأكد من وجود وقت كافٍ."
+        }
+    },
+    {
+        "id": "25",
+        "file_id": "null",
+        "video": "null",
+        "topic": "Rules of the road",
+        "question": {
+            "en": "What should you do when crossing at a junction?",
+            "ar": "ماذا يجب أن تفعل عند عبور تقاطع؟"
+        },
+        "options": {
+            "A": {
+                "en": "Look out for traffic and cross where drivers can see you",
+                "ar": "احرص على مراقبة حركة المرور وعبُر الطريق في الأماكن التي يمكن للسائقين رؤيتك فيها."
+            },
+            "B": {
+                "en": "Ignore other traffic",
+                "ar": "تجاهل باقي حركة المرور"
+            },
+            "C": {
+                "en": "Cross without checking for turning traffic",
+                "ar": "عبور الطريق دون التحقق من حركة المرور القادمة عند الانعطاف"
+            },
+            "D": {
+                "en": "Cross quickly without waiting for traffic",
+                "ar": "اعبر بسرعة دون الانتظار لحركة المرور"
+            }
+        },
+        "correct_answer": "A",
+        "explanation": {
+            "en": "When crossing at a junction, you should look out for traffic and cross at a place where drivers can see you, especially watching for traffic turning into the road.",
+            "ar": "عند عبور التقاطع، يجب أن تنتبه لحركة المرور وتعبر من مكان يمكن للسائقين رؤيتك فيه، مع الانتباه بشكل خاص لحركة المرور التي تنعطف إلى الطريق."
+        }
+    },
+    {
+        "id": "26",
+        "file_id": "null",
+        "video": "null",
+        "topic": "Vulnerable road users",
+        "question": {
+            "en": "What should you do when there are pedestrian safety barriers?",
+            "ar": "ماذا يجب أن تفعل عندما تكون هناك حواجز أمان للمشاة؟"
+        },
+        "options": {
+            "A": {
+                "en": "Cross at any point",
+                "ar": "اعبر في أي نقطة"
+            },
+            "B": {
+                "en": "Cross quickly without looking",
+                "ar": "اعبر بسرعة دون النظر"
+            },
+            "C": {
+                "en": "Cross at a place where drivers can see you",
+                "ar": "اعبر في مكان يمكن للسائقين رؤيتك فيه"
+            },
+            "D": {
+                "en": "Cross where barriers are present",
+                "ar": "اعبر حيث توجد حواجز"
+            }
+        },
+        "correct_answer": "C",
+        "explanation": {
+            "en": "When there are barriers, you should cross at a place where drivers can see you, ensuring your safety.",
+            "ar": "عندما تكون هناك حواجز، يجب أن تعبر في مكان يمكن للسائقين رؤيتك فيه، لضمان سلامتك."
+        }
+    },
+    {
+        "id": "27",
+        "file_id": "null",
+        "video": "null",
+        "topic": "8. Road and traffic signs",
+        "question": {
+            "en": "What purpose do raised surfaces like studs and bars serve in tactile paving?",
+            "ar": "ما الغرض من الأسطح المرتفعة مثل النتوءات والقضبان في الأرصفة اللمسية؟"
+        },
+        "options": {
+            "A": {
+                "en": "To mark parking spaces",
+                "ar": "لتحديد أماكن وقوف السيارات"
+            },
+            "B": {
+                "en": "To make the road surface smoother",
+                "ar": "لجعل سطح الطريق أكثر نعومة"
+            },
+            "C": {
+                "en": "To slow down traffic",
+                "ar": "لإبطاء حركة المرور"
+            },
+            "D": {
+                "en": "To provide warning and guidance to blind or partially sighted people",
+                "ar": "تقديم التحذير والإرشاد للأشخاص المكفوفين أو ضعاف البصر"
+            }
+        },
+        "correct_answer": "D",
+        "explanation": {
+            "en": "Raised surfaces like studs and bars in tactile paving are used to provide warning and guidance to blind or partially sighted people.",
+            "ar": "تُستخدم الأسطح المرتفعة مثل النتوءات والقضبان في الأرصفة اللمسية لتوفير التحذير والإرشاد للأشخاص المكفوفين أو ضعيفي البصر."
+        }
+    },
+    {
+        "id": "28",
+        "file_id": "null",
+        "video": "null",
+        "topic": "13. Vulnerable road users",
+        "question": {
+            "en": "What should pedestrians be cautious of when crossing bus and cycle lanes?",
+            "ar": "بماذا يجب أن يكون المشاة حذرين عند عبور ممرات الحافلات والدراجات؟"
+        },
+        "options": {
+            "A": {
+                "en": "Pedestrians walking slowly",
+                "ar": "المشاة يمشون ببطء"
+            },
+            "B": {
+                "en": "Traffic moving faster than in other lanes",
+                "ar": "المرور يتحرك بسرعة أكبر من باقي الحارات"
+            },
+            "C": {
+                "en": "Cyclists stopping frequently",
+                "ar": "توقف الدراجين بشكل متكرر"
+            },
+            "D": {
+                "en": "No need for caution",
+                "ar": "لا حاجة للحذر"
+            }
+        },
+        "correct_answer": "B",
+        "explanation": {
+            "en": "Pedestrians should be cautious of traffic moving faster than in other lanes when crossing bus and cycle lanes.",
+            "ar": "يجب على المشاة توخي الحذر من حركة المرور التي تسير بسرعة أكبر مقارنة بالممرات الأخرى عند عبور ممرات الحافلات والدراجات."
+        }
+    },
+    {
+        "id": "29",
+        "file_id": "null",
+        "video": "null",
+        "topic": "8. Road and traffic signs",
+        "question": {
+            "en": "What feature may separate cycle tracks from footpaths or pavements?",
+            "ar": "ما هي الميزة التي قد تفصل مسارات الدراجات عن الأرصفة أو الممشى؟"
+        },
+        "options": {
+            "A": {
+                "en": "Billboards",
+                "ar": "لوحات الإعلانات"
+            },
+            "B": {
+                "en": "Traffic lights",
+                "ar": "إشارات المرور"
+            },
+            "C": {
+                "en": "Change of material",
+                "ar": "تغيير المادة"
+            },
+            "D": {
+                "en": "Street signs",
+                "ar": "علامات الشوارع"
+            }
+        },
+        "correct_answer": "C",
+        "explanation": {
+            "en": "A change of material may separate cycle tracks from footpaths or pavements.",
+            "ar": "يمكن أن يفصل تغيير المادة مسارات الدراجات عن الأرصفة أو الممرات."
+        }
+    },
+    {
+        "id": "30",
+        "file_id": "null",
+        "video": "null",
+        "topic": "8. Road and traffic signs",
+        "question": {
+            "en": "What pattern of tactile paving bars indicates the pedestrian side of a shared route with cyclists?",
+            "ar": "ما هو نمط قضبان الأرضيات اللمسية الذي يشير إلى جانب المشاة في مسار مشترك مع راكبي الدراجات؟"
+        },
+        "options": {
+            "A": {
+                "en": "Zigzag pattern",
+                "ar": "نمط متعرج"
+            },
+            "B": {
+                "en": "Tramline pattern",
+                "ar": "نمط خطوط الترام"
+            },
+            "C": {
+                "en": "Ladder pattern",
+                "ar": "نمط السلم"
+            },
+            "D": {
+                "en": "Checkerboard pattern",
+                "ar": "نمط رقعة الشطرنج"
+            }
+        },
+        "correct_answer": "C",
+        "explanation": {
+            "en": "The ladder pattern of tactile paving bars indicates the pedestrian side of a shared route with cyclists.",
+            "ar": "نمط السلم لأشرطة الأرصفة اللمسية يشير إلى جانب المشاة في مسار مشترك مع راكبي الدراجات."
+        }
+    },
+    {
+        "id": "31",
+        "file_id": "null",
+        "video": "null",
+        "topic": "13. Vulnerable road users",
+        "question": {
+            "en": "What should pedestrians do before crossing a one-way street?",
+            "ar": "ماذا يجب على المشاة أن يفعلوا قبل عبور شارع باتجاه واحد؟"
+        },
+        "options": {
+            "A": {
+                "en": "Cross without looking",
+                "ar": "اعبر بدون أن تنظر"
+            },
+            "B": {
+                "en": "Close their eyes and walk",
+                "ar": "أغمض عينيك وامشِ"
+            },
+            "C": {
+                "en": "Check which way the traffic is moving",
+                "ar": "تحقق من اتجاه حركة المرور"
+            },
+            "D": {
+                "en": "Run across quickly",
+                "ar": "اجري بسرعة"
+            }
+        },
+        "correct_answer": "C",
+        "explanation": {
+            "en": "Pedestrians should check which way the traffic is moving before crossing a one-way street.",
+            "ar": "يجب على المشاة التحقق من اتجاه حركة المرور قبل عبور شارع ذو اتجاه واحد."
+        }
+    },
+    {
+        "id": "32",
+        "file_id": "null",
+        "video": "null",
+        "topic": "13. Vulnerable road users",
+        "question": {
+            "en": "According to Rule 62, what should cyclists do to ensure safety?",
+            "ar": "وفقًا للقاعدة 62، ماذا يجب على راكبي الدراجات القيام به لضمان السلامة؟"
+        },
+        "options": {
+            "A": {
+                "en": "Endanger pedestrians",
+                "ar": "تعريض المشاة للخطر"
+            },
+            "B": {
+                "en": "Obstruct pedestrians",
+                "ar": "إعاقة المشاة"
+            },
+            "C": {
+                "en": "Respect pedestrians",
+                "ar": "احترم المشاة"
+            },
+            "D": {
+                "en": "Ignore pedestrians",
+                "ar": "تجاهل المشاة"
+            }
+        },
+        "correct_answer": "C",
+        "explanation": {
+            "en": "Cyclists should respect pedestrian safety according to Rule 62.",
+            "ar": "يجب على راكبي الدراجات احترام سلامة المشاة وفقًا للقاعدة 62."
+        }
+    },
+    {
+        "id": "33",
+        "file_id": "null",
+        "video": "null",
+        "topic": "13. Vulnerable road users",
+        "question": {
+            "en": "What should you do when crossing between parked vehicles?",
+            "ar": "ماذا يجب أن تفعل عند عبور المسافة بين السيارات المتوقفة؟"
+        },
+        "options": {
+            "A": {
+                "en": "Cross behind a vehicle with its engine running",
+                "ar": "التجاوز من الخلف لمركبة محركها يعمل"
+            },
+            "B": {
+                "en": "Cross quickly without looking around",
+                "ar": "اعبر بسرعة دون أن تنظر حولك"
+            },
+            "C": {
+                "en": "Use the outside edges as if they were the kerb",
+                "ar": "استخدم الحواف الخارجية كما لو كانت الرصيف."
+            },
+            "D": {
+                "en": "Ignore the parked vehicles",
+                "ar": "تجاهل المركبات المتوقفة."
+            }
+        },
+        "correct_answer": "C",
+        "explanation": {
+            "en": "When crossing between parked vehicles, use the outside edges as if they were the kerb.",
+            "ar": "عند العبور بين المركبات المتوقفة، استخدم الحواف الخارجية كما لو كانت الرصيف."
+        }
+    },
+    {
+        "id": "34",
+        "file_id": "null",
+        "video": "null",
+        "topic": "Hazard awareness",
+        "question": {
+            "en": "What should you do if there is no pedestrian crossing nearby at night?",
+            "ar": "ماذا يجب أن تفعل إذا لم يكن هناك ممر مشاة قريب في الليل؟"
+        },
+        "options": {
+            "A": {
+                "en": "Cross the road quickly",
+                "ar": "اعبر الطريق بسرعة"
+            },
+            "B": {
+                "en": "Ignore safety precautions",
+                "ar": "تجاهل احتياطات السلامة"
+            },
+            "C": {
+                "en": "Wear something reflective",
+                "ar": "ارتدِ شيئًا عاكسًا للضوء"
+            },
+            "D": {
+                "en": "Cross behind a reversing vehicle",
+                "ar": "التجاوز من خلف مركبة تتحرك إلى الخلف"
+            }
+        },
+        "correct_answer": "C",
+        "explanation": {
+            "en": "If there is no pedestrian crossing nearby at night, wear something reflective to make it easier for others to see you.",
+            "ar": "إذا لم يكن هناك ممر للمشاة قريبًا في الليل، ارتدِ شيئًا عاكسًا لتسهيل رؤيتك من قبل الآخرين."
+        }
+    },
+    {
+        "id": "35",
+        "file_id": "null",
+        "video": "null",
+        "topic": "Incidents, accidents and emergencies",
+        "question": {
+            "en": "According to Law RTA 1988 sect 26, what MUST NOT be done with moving vehicles?",
+            "ar": "وفقًا لقانون RTA لعام 1988، القسم 26، ما الذي لا يجب فعله مع المركبات المتحركة؟"
+        },
+        "options": {
+            "A": {
+                "en": "Cross in front of them",
+                "ar": "اعبر أمامهم"
+            },
+            "B": {
+                "en": "Ignore their presence",
+                "ar": "تجاهل وجودهم"
+            },
+            "C": {
+                "en": "Get onto or hold onto them",
+                "ar": "تمسك بهم أو تمسك عليهم"
+            },
+            "D": {
+                "en": "Follow closely behind them",
+                "ar": "تابعهم عن كثب من الخلف"
+            }
+        },
+        "correct_answer": "C",
+        "explanation": {
+            "en": "According to Law RTA 1988 sect 26, you MUST NOT get onto or hold onto a moving vehicle.",
+            "ar": "وفقًا لقانون الطرق السريعة لعام 1988، المادة 26، يجب ألا تصعد على مركبة متحركة أو تتمسك بها."
+        }
+    },
+    {
+        "id": "36",
+        "file_id": "null",
+        "video": "null",
+        "topic": "Hazard awareness",
+        "question": {
+            "en": "When should you never cross behind a vehicle?",
+            "ar": "متى يجب ألا تعبر أبدًا خلف مركبة؟"
+        },
+        "options": {
+            "A": {
+                "en": "When it is moving slowly",
+                "ar": "عندما يتحرك ببطء"
+            },
+            "B": {
+                "en": "When it is stationary",
+                "ar": "عندما يكون ثابتًا"
+            },
+            "C": {
+                "en": "When it is reversing",
+                "ar": "متى يكون في حالة الرجوع؟"
+            },
+            "D": {
+                "en": "When it is parked",
+                "ar": "عندما يكون متوقفًا (عند ركنه)"
+            }
+        },
+        "correct_answer": "C",
+        "explanation": {
+            "en": "You should never cross behind a vehicle which is reversing, showing white reversing lights or sounding a warning.",
+            "ar": "يجب ألا تعبر أبدًا خلف مركبة تقوم بالرجوع إلى الخلف، والتي تظهر أضواء الرجوع البيضاء أو تصدر صوت تحذيري."
+        }
+    },
+    {
+        "id": "37",
+        "file_id": "null",
+        "video": "null",
+        "topic": "Hazard awareness",
+        "question": {
+            "en": "What should you do before crossing at any type of crossing?",
+            "ar": "ماذا يجب أن تفعل قبل عبور أي نوع من المعابر؟"
+        },
+        "options": {
+            "A": {
+                "en": "Ignore the traffic",
+                "ar": "تجاهل حركة المرور"
+            },
+            "B": {
+                "en": "Cross at the side of the crossing",
+                "ar": "اعبر عند جانب المعبر"
+            },
+            "C": {
+                "en": "Loiter on the crossing",
+                "ar": "التسكع عند المعبر"
+            },
+            "D": {
+                "en": "Check that the traffic has stopped",
+                "ar": "تحقق من توقف حركة المرور."
+            }
+        },
+        "correct_answer": "D",
+        "explanation": {
+            "en": "Before crossing at any type of crossing, you should always check that the traffic has stopped.",
+            "ar": "قبل عبور أي نوع من المعابر، يجب عليك دائمًا التأكد من توقف حركة المرور."
+        }
+    },
+    {
+        "id": "38",
+        "file_id": "null",
+        "video": "null",
+        "topic": "Vulnerable road users",
+        "question": {
+            "en": "What should you do when using a zebra crossing?",
+            "ar": "ماذا يجب أن تفعل عند استخدام ممر المشاة المخطط (ممر الحمار الوحشي)؟"
+        },
+        "options": {
+            "A": {
+                "en": "Cross at the side of the crossing",
+                "ar": "اعبر عند جانب المعبر"
+            },
+            "B": {
+                "en": "Wait until traffic has stopped from both directions",
+                "ar": "انتظر حتى يتوقف المرور من كلا الاتجاهين."
+            },
+            "C": {
+                "en": "Loiter on the crossing",
+                "ar": "تسكع عند المعبر"
+            },
+            "D": {
+                "en": "Ignore the zebra markings",
+                "ar": "تجاهل علامات الحمار الوحشي"
+            }
+        },
+        "correct_answer": "B",
+        "explanation": {
+            "en": "When using a zebra crossing, you should wait until traffic has stopped from both directions before crossing.",
+            "ar": "عند استخدام ممر المشاة، يجب عليك الانتظار حتى تتوقف حركة المرور من كلا الاتجاهين قبل العبور."
+        }
+    },
+    {
+        "id": "39",
+        "file_id": "null",
+        "video": "null",
+        "topic": "Hazard awareness",
+        "question": {
+            "en": "What should you do if there is an island in the middle of a zebra crossing?",
+            "ar": "ماذا يجب أن تفعل إذا كان هناك جزيرة في منتصف ممر المشاة المخصص لعبور الحمار الوحشي؟"
+        },
+        "options": {
+            "A": {
+                "en": "Loiter on the crossing",
+                "ar": "تسكع عند المعبر"
+            },
+            "B": {
+                "en": "Cross without waiting",
+                "ar": "اعبر دون انتظار"
+            },
+            "C": {
+                "en": "Wait on the island and follow Rule 19",
+                "ar": "انتظر في الجزيرة واتبع القاعدة 19"
+            },
+            "D": {
+                "en": "Ignore the island",
+                "ar": "تجاهل الجزيرة"
+            }
+        },
+        "correct_answer": "C",
+        "explanation": {
+            "en": "If there is an island in the middle of a zebra crossing, you should wait on the island and follow Rule 19 before crossing the second half of the road.",
+            "ar": "إذا كان هناك جزيرة في منتصف ممر المشاة المخطط كخطوط حمار الوحش، يجب عليك الانتظار على الجزيرة واتباع القاعدة 19 قبل عبور النصف الثاني من الطريق."
+        }
+    },
+    {
+        "id": "40",
+        "file_id": "null",
+        "video": "null",
+        "topic": "Vulnerable road users",
+        "question": {
+            "en": "What should drivers and riders do at zebra crossings?",
+            "ar": "ماذا يجب على السائقين والركاب فعله عند ممرات المشاة؟"
+        },
+        "options": {
+            "A": {
+                "en": "Ignore pedestrians waiting to cross",
+                "ar": "تجاهل المشاة الذين ينتظرون عبور الطريق"
+            },
+            "B": {
+                "en": "Give way to pedestrians on the crossing",
+                "ar": "أفسح الطريق للمشاة عند الممر المخصص لهم."
+            },
+            "C": {
+                "en": "Speed up to pass the crossing quickly",
+                "ar": "سارع لتجاوز المعبر بسرعة"
+            },
+            "D": {
+                "en": "Stop only if they feel like it",
+                "ar": "توقف فقط إذا شعروا بذلك."
+            }
+        },
+        "correct_answer": "B",
+        "explanation": {
+            "en": "Drivers and riders should give way to pedestrians on a zebra crossing and must give way to pedestrians waiting to cross.",
+            "ar": "يجب على السائقين والركاب إعطاء الأولوية للمشاة على ممر المشاة المخطط (ممر الحمار الوحشي) ويجب عليهم أيضًا إعطاء الأولوية للمشاة الذين ينتظرون عبور الطريق."
+        }
+    },
+    {
+        "id": "41",
+        "file_id": "null",
+        "video": "null",
+        "topic": "Hazard awareness",
+        "question": {
+            "en": "Why is it dangerous to cross at the side of a crossing or on zig-zag lines?",
+            "ar": "لماذا من الخطير عبور الطريق من جانب ممر المشاة أو على الخطوط المتعرجة؟"
+        },
+        "options": {
+            "A": {
+                "en": "It is more convenient for pedestrians",
+                "ar": "إنه أكثر ملاءمة للمشاة"
+            },
+            "B": {
+                "en": "It is safer than crossing between studs",
+                "ar": "إنه أكثر أمانًا من العبور بين الأعمدة."
+            },
+            "C": {
+                "en": "It is faster to cross that way",
+                "ar": "من الأسرع عبور الطريق بهذه الطريقة."
+            },
+            "D": {
+                "en": "It can be dangerous due to traffic",
+                "ar": "يمكن أن يكون ذلك خطيرًا بسبب حركة المرور."
+            }
+        },
+        "correct_answer": "D",
+        "explanation": {
+            "en": "Crossing at the side of a crossing or on zig-zag lines can be dangerous because it may not be as visible to traffic, leading to potential accidents.",
+            "ar": "العبور عند جانب ممر المشاة أو على الخطوط المتعرجة يمكن أن يكون خطيرًا لأنه قد لا يكون مرئيًا بشكل كافٍ لحركة المرور، مما قد يؤدي إلى حوادث محتملة."
+        }
+    }
+]

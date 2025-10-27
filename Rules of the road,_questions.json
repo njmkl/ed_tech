@@ -1,0 +1,3005 @@
+[
+  {
+    "id": "L2BILC",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کی نشاندہی کے بغیر نشان زدہ چوراہے کے قریب پہنچیں تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Proceed with caution and give way to traffic on your right if necessary to avoid a collision.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور اگر تصادم سے بچنے کے لیے ضروری ہو تو دائیں جانب آنے والی گاڑیوں کو راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop completely and only proceed when the road is clear in all directions.",
+        "ur": "مکمل طور پر رکیں اور صرف تب آگے بڑھیں جب تمام سمتوں میں راستہ خالی ہو۔"
+      },
+      "d": {
+        "en": "Give way to any vehicle that is turning right.",
+        "ur": "دائیں طرف مڑنے والی کسی بھی گاڑی کو راستہ دیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your left.",
+        "ur": "ہمیشہ بائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way to traffic on your right if necessary to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور اگر تصادم سے بچنے کے لیے ضروری ہو تو دائیں جانب سے آنے والی گاڑیوں کو راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "0001YB",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کی نشاندہی کے غیر نشان زدہ چوراہے کے قریب پہنچیں تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Stop and wait for all other vehicles to pass before proceeding.",
+        "ur": "رکیں اور آگے بڑھنے سے پہلے تمام دیگر گاڑیوں کے گزرنے کا انتظار کریں۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly to avoid blocking it.",
+        "ur": "چوراہے کو بلاک کرنے سے بچنے کے لیے جلدی سے رفتار بڑھائیں اور چوراہے سے نکل جائیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right.",
+        "ur": "ہمیشہ اپنے دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "6SHYE5",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کے نشانات کے غیر نشان زدہ چوراہے کے قریب پہنچیں تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe.",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "d": {
+        "en": "Give way to all vehicles regardless of their direction.",
+        "ur": "تمام گاڑیوں کو راستہ دیں چاہے وہ کسی بھی سمت سے آ رہی ہوں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right.",
+        "ur": "ہمیشہ اپنے دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "U1UK7T",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر کسی نشان یا سڑک کی نشاندہی کے غیر نشان زدہ چوراہے کے قریب پہنچیں تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Give way to traffic on the main road only",
+        "ur": "مین روڈ پر آنے والی گاڑیوں کو راستہ دیں فقط۔"
+      },
+      "c": {
+        "en": "Proceed without slowing down as you have priority",
+        "ur": "بغیر رفتار کم کیے آگے بڑھیں کیونکہ آپ کو ترجیح حاصل ہے۔"
+      },
+      "a": {
+        "en": "Give way to traffic coming from your right and proceed only when safe",
+        "ur": "دائیں جانب سے آنے والی گاڑیوں کو راستہ دیں اور صرف تب ہی آگے بڑھیں جب راستہ محفوظ ہو۔"
+      },
+      "b": {
+        "en": "Stop completely and wait for other vehicles to move first",
+        "ur": "مکمل طور پر رکیں اور دوسرے گاڑیوں کے پہلے حرکت کرنے کا انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must give way to traffic approaching from your right and proceed only when it is safe to do so.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو دائیں جانب سے آنے والی گاڑیوں کو راستہ دینا ہوگا اور صرف تب ہی آگے بڑھنا چاہیے جب یہ محفوظ ہو۔"
+    }
+  },
+  {
+    "id": "DUB5FC",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر کسی نشان یا سڑک کے نشانات کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly to avoid blocking it",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں تاکہ اسے بلاک کرنے سے بچا جا سکے۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed cautiously and give way if needed to prevent collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "MJATUC",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کے نشانات کے غیر نشان زدہ چوراہے کے قریب پہنچیں تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Stop and wait for other vehicles to move first",
+        "ur": "رکیں اور دوسرے گاڑیوں کو پہلے حرکت کرنے دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط سے آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "WBTV8Z",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کی نشاندہی کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Proceed with caution and give way to traffic from the right if necessary to avoid a collision.",
+        "ur": "احتیاط سے آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر دائیں جانب سے آنے والی گاڑیوں کو راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop completely and only move when the road is clear in all directions.",
+        "ur": "بالکل رک جائیں اور صرف تب ہی حرکت کریں جب تمام سمتوں میں راستہ صاف ہو۔"
+      },
+      "b": {
+        "en": "Always give way to traffic coming from your left before proceeding.",
+        "ur": "ہمیشہ آگے بڑھنے سے پہلے بائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate through the junction to clear it quickly and avoid blocking traffic.",
+        "ur": "چوراہے سے تیزی سے گزر کر اسے جلدی خالی کریں تاکہ ٹریفک میں رکاوٹ نہ ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way to traffic from the right if necessary to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور اگر تصادم سے بچنے کے لیے ضروری ہو تو دائیں جانب سے آنے والی گاڑیوں کو راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "M2VZ71",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کی نشاندہی کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Accelerate to clear the junction quickly to avoid blocking it",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں تاکہ اسے بلاک کرنے سے بچا جا سکے۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط سے آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to prevent accidents.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور حادثات سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "LT06H7",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب آپ بغیر نشان یا سڑک کی نشاندہی کے بغیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح عمل کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Always give way to traffic approaching from the right.",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions.",
+        "ur": "احتیاط سے آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe.",
+        "ur": "سفید لائن کے پیچھے رُکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly to avoid blocking traffic.",
+        "ur": "ٹریفک کو بلاک کرنے سے بچنے کے لیے چوراہے سے جلدی نکلنے کے لیے رفتار بڑھائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to prevent accidents.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور حادثات سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "VE9U6L",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads, which of the following is the correct action to take?",
+      "ur": "جب بغیر نشان والے چوراہے کے قریب پہنچیں، تو درج ذیل میں سے کون سا عمل درست ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe.",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right.",
+        "ur": "ہمیشہ اپنے دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Give priority to vehicles turning right across your path.",
+        "ur": "اپنے راستے میں دائیں طرف مڑنے والی گاڑیوں کو ترجیح دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way if necessary to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "VBR5OH",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر کسی نشان یا سڑک کے نشانات کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Always give way to traffic approaching from your right.",
+        "ur": "ہمیشہ اپنی دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way to any traffic if necessary to avoid a collision.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر کسی بھی ٹریفک کو راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe.",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly before other vehicles arrive.",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں تاکہ دوسرے گاڑیوں کے آنے سے پہلے راستہ خالی ہو جائے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way to other traffic if necessary to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور اگر تصادم سے بچنے کے لیے ضروری ہو تو دوسرے ٹریفک کو راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "5XVGZQ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads, which of the following is the correct action to take?",
+      "ur": "جب بغیر نشان والے چوراہے کے قریب پہنچیں، تو درج ذیل میں سے کون سا عمل درست ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Give way to all vehicles turning right",
+        "ur": "تمام گاڑیوں کو جو دائیں مڑ رہی ہوں راستہ دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way if necessary to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص حق تقدم نہیں ہوتا، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "INC0L9",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کے نشانات کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں۔"
+      },
+      "c": {
+        "en": "Stop and wait for other vehicles to move first",
+        "ur": "رکیں اور دوسرے گاڑیوں کو پہلے حرکت کرنے دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "10BCFK",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب آپ بغیر نشان یا سڑک کی نشاندہی کے بغیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe.",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right.",
+        "ur": "ہمیشہ اپنے دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly to avoid blocking it.",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں تاکہ اسے بلاک کرنے سے بچا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to prevent accidents.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور حادثات سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "49BHP0",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب آپ بغیر نشان یا سڑک کے نشانات کے ایک غیر نشان زدہ چوراہے کے قریب پہنچیں، تو درست کارروائی کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Stop and wait for all other vehicles to pass before proceeding",
+        "ur": "رکیں اور آگے بڑھنے سے پہلے تمام دیگر گاڑیوں کے گزرنے کا انتظار کریں۔"
+      },
+      "d": {
+        "en": "Accelerate through the junction to clear it quickly",
+        "ur": "چوراہے سے تیزی سے گزر کر اسے جلدی خالی کریں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "VCNDTO",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads, what is the correct procedure according to the Highway Code?",
+      "ur": "جب بغیر نشان کے چوراہے کے قریب پہنچیں، تو ہائی وے کوڈ کے مطابق صحیح طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Give priority to vehicles turning right",
+        "ur": "دائیں مڑنے والی گاڑیوں کو ترجیح دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way if necessary to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "4L3QQ0",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads, which of the following is the correct action to take?",
+      "ur": "جب بغیر نشان کے چوراہے کے قریب پہنچیں، تو درج ذیل میں سے کون سا عمل درست ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Always give way to traffic approaching from your right.",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe.",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "d": {
+        "en": "Give priority to vehicles turning right across your path.",
+        "ur": "اپنے راستے کو کاٹ کر دائیں مڑنے والی گاڑیوں کو ترجیح دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority; drivers must proceed with caution and give way if necessary to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی؛ ڈرائیورز کو احتیاط سے آگے بڑھنا چاہیے اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "5FBU4V",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر کسی نشان یا سڑک کے نشانات کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Stop and wait for other vehicles to move first",
+        "ur": "رکیں اور دوسرے گاڑیوں کو پہلے حرکت کرنے دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Give way only to pedestrians crossing the road",
+        "ur": "صرف پیدل چلنے والوں کو راستہ دیں جو سڑک پار کر رہے ہوں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "X5CV1T",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب آپ بغیر نشان یا سڑک کی نشاندہی کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Always give way to vehicles coming from your left before proceeding.",
+        "ur": "ہمیشہ آگے بڑھنے سے پہلے بائیں جانب سے آنے والی گاڑیوں کو راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop completely and only move forward when you are sure the road is clear in all directions.",
+        "ur": "بالکل رک جائیں اور صرف اس وقت آگے بڑھیں جب آپ کو یقین ہو کہ ہر طرف سے راستہ خالی ہے۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way to any vehicle on your right if necessary to avoid a collision.",
+        "ur": "احتیاط سے آگے بڑھیں اور اگر تصادم سے بچنے کے لیے ضروری ہو تو اپنی دائیں جانب آنے والی کسی بھی گاڑی کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate through the crossroads to clear it quickly and avoid blocking traffic.",
+        "ur": "چوراہے سے تیزی سے گزر کر اسے جلدی خالی کریں اور ٹریفک کو بلاک ہونے سے بچائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way to traffic on your right if necessary to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور اگر تصادم سے بچنے کے لیے ضروری ہو تو دائیں جانب سے آنے والی گاڑیوں کو راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "1UBCIO",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کے نشانات کے غیر نشان زدہ چوراہے کے قریب پہنچیں تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Give way to traffic approaching from your right and proceed only when safe",
+        "ur": "دائیں جانب سے آنے والی ٹریفک کو راستہ دیں اور صرف تب ہی آگے بڑھیں جب یہ محفوظ ہو۔"
+      },
+      "b": {
+        "en": "Stop behind the white line and wait for a safe gap before proceeding",
+        "ur": "سفید لائن کے پیچھے رکیں اور آگے بڑھنے سے پہلے محفوظ وقفے کا انتظار کریں۔"
+      },
+      "c": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "d": {
+        "en": "Always give way to vehicles turning right at the crossroads",
+        "ur": "ہمیشہ چوراہے پر دائیں مڑنے والی گاڑیوں کو راستہ دیں۔"
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you should proceed with caution and give way if necessary to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "Y4P760",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب بغیر کسی نشان یا سڑک کے نشانات کے غیر نشان زدہ چوراہے کے قریب پہنچیں تو درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Stop and wait for other vehicles to move first",
+        "ur": "رکیں اور دوسرے گاڑیوں کو پہلے حرکت کرنے دیں۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly to avoid blocking traffic",
+        "ur": "ٹریفک کو روکنے سے بچنے کے لیے چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ اپنے دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to prevent accidents.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور حادثات سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "2FJBQK",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب بغیر کسی نشان یا سڑک کی نشاندہی کے بغیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "d": {
+        "en": "Give priority to vehicles turning right onto the main road.",
+        "ur": "اہم سڑک پر دائیں مڑنے والی گاڑیوں کو ترجیح دیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from the right.",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe.",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed cautiously and give way if needed to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "YDHHRB",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب آپ بغیر نشان یا روڈ مارکنگ کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Stop and wait for all other vehicles to pass before proceeding.",
+        "ur": "رکیں اور آگے بڑھنے سے پہلے تمام دیگر گاڑیوں کے گزرنے کا انتظار کریں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions.",
+        "ur": "احتیاط سے آگے بڑھیں اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate through the crossroads to clear it quickly.",
+        "ur": "چوراہے سے تیزی سے گزر کر اسے جلدی خالی کریں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right.",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "OZH830",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کی نشاندہی کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Give way to traffic coming from the left, as they have priority.",
+        "ur": "بائیں جانب سے آنے والی گاڑیوں کو راستہ دیں، کیونکہ ان کی ترجیح ہے۔"
+      },
+      "b": {
+        "en": "Always stop and wait for other vehicles to pass before proceeding.",
+        "ur": "ہمیشہ رکیں اور آگے بڑھنے سے پہلے دیگر گاڑیوں کے گزرنے کا انتظار کریں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way to traffic coming from your right if necessary.",
+        "ur": "احتیاط سے آگے بڑھیں اور اگر ضروری ہو تو دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate through the crossroads to clear it quickly and avoid confusion.",
+        "ur": "چوراہے سے تیزی سے گزر کر اسے جلدی صاف کریں اور الجھن سے بچیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way to traffic from your right if necessary to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور اگر تصادم سے بچنے کے لیے ضروری ہو تو دائیں جانب سے آنے والی گاڑیوں کو راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "MMLJ5S",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا روڈ مارکنگ کے غیر نشان زدہ چوراہے کے قریب پہنچیں تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop and wait for other vehicles to move first",
+        "ur": "رکیں اور دوسرے گاڑیوں کو پہلے حرکت کرنے دیں۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "G55WCL",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کی نشاندہی کے ایک غیر نشان زدہ چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Always give way to traffic approaching from the left.",
+        "ur": "ہمیشہ بائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop completely and only move when the road is clear in all directions.",
+        "ur": "مکمل طور پر رکیں اور صرف اس وقت حرکت کریں جب تمام سمتوں میں راستہ صاف ہو۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way to traffic from the right if necessary to avoid a collision.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر دائیں جانب سے آنے والی گاڑیوں کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly to avoid blocking traffic.",
+        "ur": "ٹریفک کو روکنے سے بچنے کے لیے چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed cautiously and give way to traffic from the right if needed to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور اگر تصادم سے بچنا ہو تو دائیں جانب سے آنے والی گاڑیوں کو راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "85JJXR",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب بغیر کسی نشان یا سڑک کی نشاندہی کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Stop completely and only move forward when the road is clear in all directions.",
+        "ur": "بالکل رک جائیں اور صرف تب آگے بڑھیں جب تمام سمتوں میں راستہ صاف ہو۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your left before proceeding.",
+        "ur": "ہمیشہ آگے بڑھنے سے پہلے بائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way to any traffic coming from the right if necessary to avoid a collision.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور اگر تصادم سے بچنے کے لیے ضروری ہو تو دائیں جانب سے آنے والی کسی بھی گاڑی کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate through the crossroads to clear it quickly and avoid blocking traffic.",
+        "ur": "چوراہے سے تیزی سے گزر کر اسے جلدی خالی کریں اور ٹریفک کو بلاک ہونے سے بچائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way if necessary to traffic coming from the right to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور اگر ضروری ہو تو دائیں جانب سے آنے والی گاڑیوں کو راستہ دینا چاہیے تاکہ تصادم سے بچا جا سکے۔"
+    }
+  },
+  {
+    "id": "BBLM2D",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب آپ بغیر نشان یا سڑک کے نشانات کے غیر نشان زدہ چوراہے کے قریب پہنچیں تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Proceed with caution and give way to traffic coming from the right if necessary to avoid a collision.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور اگر تصادم سے بچنے کے لیے ضروری ہو تو دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from the left before proceeding.",
+        "ur": "ہمیشہ بائیں جانب سے آنے والی ٹریفک کو راستہ دیں اس سے پہلے کہ آپ آگے بڑھیں۔"
+      },
+      "d": {
+        "en": "Accelerate through the crossroads to clear it quickly and avoid blocking traffic.",
+        "ur": "چوراہے سے تیزی سے گزر کر اسے جلدی خالی کریں تاکہ ٹریفک میں رکاوٹ نہ ہو۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only move forward when the road is clear.",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف اس وقت آگے بڑھیں جب راستہ صاف ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way to traffic from the right if needed to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، لہٰذا آپ کو احتیاط سے آگے بڑھنا چاہیے اور تصادم سے بچنے کے لیے ضرورت پڑنے پر دائیں جانب سے آنے والی گاڑیوں کو راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "I0AQTG",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب بغیر نشان یا روڈ مارکنگ کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Give way only to vehicles coming from your left.",
+        "ur": "صرف ان گاڑیوں کو راستہ دیں جو آپ کے بائیں طرف سے آ رہی ہوں۔"
+      },
+      "d": {
+        "en": "Accelerate through the crossroads to clear it quickly and avoid confusion.",
+        "ur": "چوراہے سے تیزی سے گزر کر اسے جلدی خالی کریں اور الجھن سے بچیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way to traffic on your right if necessary to avoid a collision.",
+        "ur": "احتیاط سے آگے بڑھیں اور اگر تصادم سے بچنے کے لیے ضروری ہو تو دائیں جانب آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "b": {
+        "en": "Always stop and wait for other vehicles to pass before proceeding.",
+        "ur": "ہمیشہ رکیں اور آگے بڑھنے سے پہلے دیگر گاڑیوں کے گزرنے کا انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way to traffic on your right if necessary to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور اگر تصادم سے بچنے کے لیے ضروری ہو تو دائیں جانب سے آنے والی گاڑیوں کو راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "UZJSYF",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کے نشانات کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly before other vehicles arrive.",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے تیز رفتاری اختیار کریں تاکہ دوسرے گاڑیوں کے آنے سے پہلے راستہ خالی ہو جائے۔"
+      },
+      "b": {
+        "en": "Stop completely and wait for other vehicles to move first.",
+        "ur": "بالکل رک جائیں اور دوسرے گاڑیوں کے پہلے حرکت کرنے کا انتظار کریں۔"
+      },
+      "a": {
+        "en": "Give way to traffic approaching from your right and proceed only when safe.",
+        "ur": "دائیں جانب سے آنے والی ٹریفک کو راستہ دیں اور صرف تب ہی آگے بڑھیں جب راستہ محفوظ ہو۔"
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority; you should proceed with caution and give way if necessary to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی؛ آپ کو احتیاط سے آگے بڑھنا چاہیے اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "JBGYS6",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads, which of the following is the correct action to take?",
+      "ur": "جب بغیر نشان والے چوراہے کے قریب پہنچیں، تو درج ذیل میں سے کون سا عمل درست ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط سے آگے بڑھیں اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Give way to all vehicles turning right",
+        "ur": "تمام گاڑیوں کو جو دائیں مڑ رہی ہوں راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way if necessary to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "67Y655",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کی نشاندہی کے غیر نشان زدہ چوراہے کے قریب پہنچیں تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate through the junction to clear it quickly",
+        "ur": "چوراہے سے تیزی سے گزر کر اسے جلدی خالی کریں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop and wait for all other vehicles to pass before proceeding",
+        "ur": "رکیں اور آگے بڑھنے سے پہلے تمام دیگر گاڑیوں کے گزرنے کا انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص حق تقدم نہیں ہوتا، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "Q5W0C4",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب بغیر کسی نشان یا روڈ مارکنگ کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right.",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe.",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly to avoid blocking it.",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں تاکہ اسے بلاک کرنے سے بچا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to prevent accidents.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور حادثات سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "568WK7",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کی نشاندہی کے بغیر نشان زدہ چوراہے کے قریب پہنچیں تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Give way to vehicles turning right onto the main road",
+        "ur": "اہم سڑک پر دائیں مڑنے والے گاڑیوں کو راستہ دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط سے آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "XUJLQH",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کے نشانات کے ایک غیر نشان زدہ چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Stop and wait for other vehicles to move first",
+        "ur": "رکیں اور دیگر گاڑیوں کو پہلے حرکت کرنے دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic coming from your right",
+        "ur": "ہمیشہ اپنے دائیں جانب سے آنے والی گاڑیوں کو راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way if necessary to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور اگر ضرورت ہو تو ٹکراؤ سے بچنے کے لیے راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "CTD1MD",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کے نشانات کے ایک غیر نشان زدہ چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Always give way to traffic coming from your right",
+        "ur": "ہمیشہ اپنے دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں۔"
+      },
+      "c": {
+        "en": "Stop and wait for other vehicles to move first",
+        "ur": "رکیں اور دیگر گاڑیوں کو پہلے حرکت کرنے دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed cautiously and give way if necessary to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "XX9X32",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب آپ بغیر نشان یا روڈ مارکنگ کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Always give way to traffic approaching from your right.",
+        "ur": "ہمیشہ اپنے دائیں جانب سے آنے والی گاڑیوں کو راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe.",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly to avoid blocking it.",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں تاکہ اسے بلاک کرنے سے بچا جا سکے۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to prevent accidents.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور حادثات سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "GIJ1OV",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کی نشاندہی کے بغیر نشان زدہ چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Proceed with caution and give way to traffic only if necessary to avoid a collision.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور ٹکر سے بچنے کے لیے صرف ضرورت پڑنے پر ہی دوسرے راستے دیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic coming from your right.",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop and wait for other vehicles to move first.",
+        "ur": "رکیں اور دیگر گاڑیوں کو پہلے حرکت کرنے دیں۔"
+      },
+      "d": {
+        "en": "Give way to any vehicle approaching at a higher speed.",
+        "ur": "زیادہ رفتار سے آنے والی کسی بھی گاڑی کو راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you should proceed with caution and give way only if necessary to avoid a collision.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور صرف ٹکر سے بچنے کے لیے راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "5Q82V9",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب آپ بغیر نشان یا سڑک کے نشانات کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Accelerate to clear the junction quickly to avoid blocking it.",
+        "ur": "چوراہے کو بلاک کرنے سے بچنے کے لیے جلدی سے رفتار بڑھائیں اور چوراہے سے نکل جائیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your left.",
+        "ur": "ہمیشہ بائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when the road is clear.",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف اس وقت آگے بڑھیں جب راستہ خالی ہو۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way to traffic on your right if necessary to avoid a collision.",
+        "ur": "احتیاط سے آگے بڑھیں اور اگر تصادم سے بچنے کے لیے ضروری ہو تو دائیں جانب آنے والی ٹریفک کو راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way to traffic on your right if necessary to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور اگر تصادم سے بچنے کے لیے ضروری ہو تو دائیں جانب سے آنے والی گاڑیوں کو راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "1BAE7Y",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب بغیر نشان یا سڑک کے نشانات کے ایک غیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Accelerate to clear the junction quickly to avoid blocking it",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں تاکہ اسے بلاک کرنے سے بچا جا سکے۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط سے آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to prevent collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "E8VOB4",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب آپ بغیر نشان یا سڑک کے نشانات کے ایک غیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Proceed with caution and give way if necessary to avoid a collision",
+        "ur": "احتیاط سے آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "a": {
+        "en": "Give way to traffic coming from your right only if they are faster than you",
+        "ur": "اگر آپ سے دائیں طرف سے آنے والی گاڑیاں آپ سے تیز رفتار ہوں تو انہیں راستہ دیں۔"
+      },
+      "d": {
+        "en": "Give way to all vehicles approaching from any direction regardless of their speed",
+        "ur": "تمام گاڑیوں کو جو کسی بھی سمت سے آ رہی ہوں، ان کی رفتار سے قطع نظر راستہ دیں۔"
+      },
+      "c": {
+        "en": "Always stop and wait for other vehicles to pass before proceeding",
+        "ur": "ہمیشہ گاڑی روکیں اور آگے بڑھنے سے پہلے دوسری گاڑیوں کے گزرنے کا انتظار کریں۔"
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way if necessary to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "RK3S7S",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب بغیر نشان یا سڑک کے نشانات کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe.",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right.",
+        "ur": "ہمیشہ اپنے دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly to avoid blocking it.",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں تاکہ اسے بلاک کرنے سے بچا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to prevent accidents.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور حادثات سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "U9ZNA7",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب آپ بغیر کسی نشان یا روڈ مارکنگ کے غیر نشان زدہ چوراہے کے قریب پہنچ رہے ہوں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Stop completely and only proceed when the road is clear in all directions.",
+        "ur": "بالکل رک جائیں اور صرف اس وقت آگے بڑھیں جب تمام سمتوں میں راستہ صاف ہو۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way to any traffic coming from the right if necessary to avoid a collision.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور اگر تصادم سے بچنے کے لیے ضروری ہو تو دائیں جانب سے آنے والی کسی بھی گاڑی کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate through the crossroads to clear it quickly and avoid blocking traffic.",
+        "ur": "چوراہے سے تیزی سے گزر کر اسے جلدی خالی کریں اور ٹریفک کو بلاک ہونے سے بچائیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your left, as they have priority.",
+        "ur": "ہمیشہ بائیں جانب سے آنے والی ٹریفک کو راستہ دیں، کیونکہ ان کی ترجیح ہوتی ہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way if necessary to avoid collisions, especially to traffic approaching from the right.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، لہٰذا آپ کو احتیاط سے آگے بڑھنا چاہیے اور اگر ضروری ہو تو راستہ دینا چاہیے تاکہ تصادم سے بچا جا سکے، خاص طور پر دائیں جانب سے آنے والی گاڑیوں کو۔"
+    }
+  },
+  {
+    "id": "NABMUW",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب بغیر نشان یا سڑک کے نشانات کے بغیر نشان زدہ چوراہے کے قریب پہنچیں تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Give priority to vehicles turning right.",
+        "ur": "دائیں مڑنے والی گاڑیوں کو ترجیح دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe.",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from the right.",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to avoid accidents.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور حادثات سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "1E6NKQ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا روڈ مارکنگ کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Give way to vehicles turning right at the crossroads",
+        "ur": "چوراہے پر دائیں مڑنے والی گاڑیوں کو راستہ دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way to traffic only if necessary to avoid a collision",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور ٹکر سے بچنے کے لیے صرف ضروری ہونے پر ہی دیگر گاڑیوں کو راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop and wait for all other vehicles to pass before proceeding",
+        "ur": "رکیں اور آگے بڑھنے سے پہلے تمام دیگر گاڑیوں کے گزرنے کا انتظار کریں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you should proceed carefully and give way only if necessary to avoid a collision.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص حق تقدم نہیں ہوتا، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور صرف تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "4WEC0C",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا روڈ مارکنگ کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Give way to vehicles turning right only",
+        "ur": "صرف دائیں مڑنے والی گاڑیوں کو راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop and wait for all other vehicles to pass before proceeding",
+        "ur": "رکیں اور آگے بڑھنے سے پہلے تمام دیگر گاڑیوں کے گزرنے کا انتظار کریں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way to traffic only if necessary to avoid a collision",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور ٹکر سے بچنے کے لیے صرف ضرورت پڑنے پر ہی دوسرے ٹریفک کو راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you should proceed carefully and give way only if necessary to avoid a collision.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور صرف تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "A4NSRW",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب آپ بغیر کسی نشان یا سڑک کے نشانات کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو درست طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Give way to traffic approaching from your right only if they are already on the crossroads.",
+        "ur": "اگر ٹریفک آپ کے دائیں جانب سے کراس روڈ پر موجود ہو تو ہی اسے راستہ دیں۔"
+      },
+      "d": {
+        "en": "Give way to all vehicles approaching from any direction regardless of their position.",
+        "ur": "تمام گاڑیوں کو جو کسی بھی سمت سے آ رہی ہوں، ان کی جگہ کے فرق سے قطع نظر راستہ دیں۔"
+      },
+      "b": {
+        "en": "Proceed with caution and be prepared to give way to avoid collisions, as no specific priority applies.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور ٹکراؤ سے بچنے کے لیے راستہ دینے کے لیے تیار رہیں، کیونکہ کوئی خاص ترجیح لاگو نہیں ہوتی۔"
+      },
+      "c": {
+        "en": "Always stop and wait for other vehicles to pass before proceeding.",
+        "ur": "ہمیشہ رکیں اور آگے بڑھنے سے پہلے دوسرے گاڑیوں کے گزرنے کا انتظار کریں۔"
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way if necessary to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "XR1216",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب آپ بغیر نشان یا سڑک کی نشان دہی کے بغیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Proceed with caution and give way to traffic coming from the right if necessary to avoid a collision.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور اگر تصادم سے بچنے کے لیے ضروری ہو تو دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from the left before proceeding.",
+        "ur": "ہمیشہ بائیں جانب سے آنے والی ٹریفک کو راستہ دیں اس سے پہلے کہ آپ آگے بڑھیں۔"
+      },
+      "d": {
+        "en": "Accelerate through the junction to clear it quickly and avoid blocking traffic.",
+        "ur": "چوراہے سے تیزی سے گزر کر اسے جلدی خالی کریں اور ٹریفک کو بلاک ہونے سے بچائیں۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when the road is clear.",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف اس وقت آگے بڑھیں جب راستہ خالی ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way to traffic from the right if necessary to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور اگر تصادم سے بچنے کے لیے ضروری ہو تو دائیں جانب سے آنے والی گاڑیوں کو راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "P1M83W",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر کسی نشان یا سڑک کے نشانات کے غیر نشان زدہ چوراہے کے قریب پہنچیں تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Accelerate to clear the junction quickly before other vehicles arrive.",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں تاکہ دوسرے گاڑیوں کے آنے سے پہلے راستہ صاف ہو جائے۔"
+      },
+      "c": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "a": {
+        "en": "Give way to traffic approaching from your right and proceed only when safe.",
+        "ur": "دائیں جانب سے آنے والی گاڑیوں کو راستہ دیں اور صرف تب ہی آگے بڑھیں جب راستہ محفوظ ہو۔"
+      },
+      "b": {
+        "en": "Stop behind the white line and wait for all other vehicles to pass.",
+        "ur": "سفید لائن کے پیچھے رکیں اور تمام دیگر گاڑیوں کے گزرنے کا انتظار کریں۔"
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you should proceed with caution and give way if necessary to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط کے ساتھ آگے بڑھنا چاہیے اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "50MXTG",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کی نشاندہی کے بغیر نشان زدہ چوراہے کے قریب پہنچیں تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe.",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "d": {
+        "en": "Give way to traffic on the main road.",
+        "ur": "مین روڈ پر آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right.",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed cautiously and give way if necessary to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، لہٰذا آپ کو احتیاط سے آگے بڑھنا چاہیے اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "X3ZRNO",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کی نشاندہی کے ایک غیر نشان زدہ چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Stop behind the white line and proceed only when safe.",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way to traffic only if necessary to avoid a collision.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور ٹکر سے بچنے کے لیے صرف ضروری ہونے پر ہی دوسرے راستے کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Give way to all vehicles before proceeding.",
+        "ur": "تمام گاڑیوں کو راستہ دیں پھر آگے بڑھیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right.",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you should proceed carefully and give way only if needed to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور صرف ٹکراؤ سے بچنے کے لیے راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "PTDS5C",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب بغیر کسی نشان یا سڑک کی نشاندہی کے بغیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Accelerate to clear the junction quickly to avoid blocking it.",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں تاکہ اسے بلاک کرنے سے بچا جا سکے۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way to traffic coming from the right if necessary.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور اگر ضروری ہو تو دائیں جانب سے آنے والی گاڑیوں کو راستہ دیں۔"
+      },
+      "b": {
+        "en": "Always stop and wait for other vehicles to pass before proceeding.",
+        "ur": "ہمیشہ رکیں اور آگے بڑھنے سے پہلے دیگر گاڑیوں کے گزرنے کا انتظار کریں۔"
+      },
+      "c": {
+        "en": "Give way to traffic on the main road only if there is a Give Way sign.",
+        "ur": "اگر صرف \"Give Way\" کا نشان موجود ہو تو مرکزی سڑک پر آنے والی گاڑیوں کو راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way if necessary to avoid collisions, especially to traffic approaching from the right.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور اگر ضروری ہو تو راستہ دینا چاہیے تاکہ تصادم سے بچا جا سکے، خاص طور پر دائیں جانب سے آنے والی ٹریفک کو۔"
+    }
+  },
+  {
+    "id": "H0OWCJ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کی نشاندہی کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "d": {
+        "en": "Give way to all vehicles turning right",
+        "ur": "تمام گاڑیوں کو جو دائیں مڑ رہی ہوں راستہ دیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط سے آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to avoid accidents.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور حادثات سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "SOM69S",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کے نشانات کے ایک غیر نشان زدہ چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Accelerate to clear the junction quickly",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic coming from your right",
+        "ur": "ہمیشہ دائیں طرف سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط سے آگے بڑھیں اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop and wait for other vehicles to move first",
+        "ur": "رکیں اور دوسرے گاڑیوں کو پہلے حرکت کرنے دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "TLXBNX",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads where two vehicles arrive at the same time, which of the following is the correct course of action?",
+      "ur": "جب آپ ایک غیر نشان زد چوراہے پر پہنچیں جہاں دو گاڑیاں ایک ہی وقت پر پہنچتی ہیں، تو درج ذیل میں سے کون سا عمل درست ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Stop and wait for the other vehicle to move first, regardless of its position",
+        "ur": "رکیں اور دوسرے گاڑی کے پہلے حرکت کرنے کا انتظار کریں، چاہے وہ کسی بھی جگہ پر ہو۔"
+      },
+      "a": {
+        "en": "Give way to the vehicle on your right and proceed only when safe",
+        "ur": "دائیں جانب آنے والی گاڑی کو راستہ دیں اور صرف تب ہی آگے بڑھیں جب راستہ محفوظ ہو۔"
+      },
+      "b": {
+        "en": "Proceed first if you are turning right, as you have priority",
+        "ur": "اگر آپ دائیں مڑ رہے ہیں تو پہلے جائیں، کیونکہ آپ کو ترجیح حاصل ہے۔"
+      },
+      "d": {
+        "en": "Accelerate through the crossroads to avoid blocking the junction",
+        "ur": "چوراہے سے گزرنے کے دوران رفتار بڑھائیں تاکہ چوراہا بلاک نہ ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must give way to the vehicle on your right and only proceed when it is safe to do so.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو دائیں جانب آنے والی گاڑی کو راستہ دینا چاہیے اور صرف تب ہی آگے بڑھنا چاہیے جب یہ محفوظ ہو۔"
+    }
+  },
+  {
+    "id": "PNWOCG",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب آپ بغیر نشان یا سڑک کی نشاندہی کے بغیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط سے آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop and wait for other vehicles to move first",
+        "ur": "رکیں اور دوسرے گاڑیوں کو پہلے حرکت کرنے دیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی گاڑیوں کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the crossroads quickly",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "4UJELW",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب آپ بغیر نشان یا سڑک کی نشاندہی کے بغیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Proceed with caution and be prepared to give way to other vehicles or pedestrians to avoid collisions.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے دیگر گاڑیوں یا پیدل چلنے والوں کو راستہ دینے کے لیے تیار رہیں۔"
+      },
+      "c": {
+        "en": "Always stop and wait for other vehicles to pass before proceeding.",
+        "ur": "ہمیشہ روکیں اور آگے بڑھنے سے پہلے دیگر گاڑیوں کے گزرنے کا انتظار کریں۔"
+      },
+      "a": {
+        "en": "Give way to traffic approaching from your right only if they are already on the crossroads.",
+        "ur": "اگر ٹریفک آپ کے دائیں جانب سے آ رہی ہو تو صرف اسی صورت میں راستہ دیں جب وہ پہلے ہی چوراہے پر موجود ہوں۔"
+      },
+      "d": {
+        "en": "Give priority to vehicles coming from the left, as they have right of way.",
+        "ur": "بائیں جانب سے آنے والی گاڑیوں کو ترجیح دیں، کیونکہ ان کا راستہ پہلے ہے۔"
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way if necessary to avoid collisions with other road users.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور اگر ضروری ہو تو دوسرے سڑک استعمال کرنے والوں کو راستہ دینا چاہیے تاکہ ٹکراؤ سے بچا جا سکے۔"
+    }
+  },
+  {
+    "id": "N1ZQA3",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا روڈ مارکنگ کے غیر نشان زدہ چوراہے کے قریب پہنچیں تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Always give way to traffic approaching from your left.",
+        "ur": "ہمیشہ بائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way to traffic from the right if necessary to avoid a collision.",
+        "ur": "احتیاط سے آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر دائیں جانب سے آنے والی گاڑیوں کو راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop and wait for all other vehicles to pass before proceeding.",
+        "ur": "رکیں اور آگے بڑھنے سے پہلے تمام دیگر گاڑیوں کے گزرنے کا انتظار کریں۔"
+      },
+      "d": {
+        "en": "Accelerate through the junction to clear it quickly and avoid confusion.",
+        "ur": "چوراہے سے تیزی سے گزر کر اسے جلدی خالی کریں تاکہ الجھن سے بچا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way to traffic from the right if necessary to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، لہٰذا آپ کو احتیاط سے آگے بڑھنا چاہیے اور اگر تصادم سے بچنے کے لیے ضروری ہو تو دائیں جانب سے آنے والی گاڑیوں کو راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "I2XSWU",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب بغیر نشان یا سڑک کی نشاندہی کے بغیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Accelerate to clear the junction quickly to avoid blocking it.",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں تاکہ اسے بلاک کرنے سے بچا جا سکے۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from the left before proceeding.",
+        "ur": "ہمیشہ بائیں جانب سے آنے والی ٹریفک کو راستہ دیں اس سے پہلے کہ آپ آگے بڑھیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way to traffic from the right if necessary to avoid collisions.",
+        "ur": "احتیاط سے آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when the road is clear.",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف اس وقت آگے بڑھیں جب راستہ خالی ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way to traffic from the right if necessary to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور اگر ضروری ہو تو ٹکراؤ سے بچنے کے لیے دائیں جانب سے آنے والی گاڑیوں کو راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "3CJATZ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر کسی نشان یا سڑک کی نشاندہی کے غیر نشان زدہ چوراہے کے قریب پہنچیں تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Give way to vehicles turning right",
+        "ur": "دائیں طرف مڑنے والی گاڑیوں کو راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ اپنے دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way if necessary to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور اگر ضرورت ہو تو ٹکراؤ سے بچنے کے لیے راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "UABYVI",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کے نشانات کے غیر نشان زد چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Stop and wait for all other vehicles to pass before proceeding",
+        "ur": "رکیں اور آگے بڑھنے سے پہلے تمام دیگر گاڑیوں کے گزرنے کا انتظار کریں۔"
+      },
+      "d": {
+        "en": "Give way to vehicles turning right at the crossroads",
+        "ur": "چوراہے پر دائیں مڑنے والی گاڑیوں کو راستہ دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way to traffic only if necessary to avoid a collision",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور ٹکر سے بچنے کے لیے صرف ضروری ہونے پر ہی دوسرے راستے کو راستہ دیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic coming from your right",
+        "ur": "ہمیشہ دائیں طرف سے آنے والی گاڑیوں کو راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you should proceed carefully and give way only if necessary to avoid a collision.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور صرف تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "4TBSUV",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب آپ بغیر نشان یا سڑک کے نشانات کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe.",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from the right.",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the crossroads quickly to avoid blocking traffic.",
+        "ur": "ٹریفک کو روکنے سے بچنے کے لیے چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to prevent accidents.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور حادثات سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "TZDK2N",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کے نشانات کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Stop and wait for all other vehicles to pass before proceeding",
+        "ur": "رکیں اور آگے بڑھنے سے پہلے تمام دیگر گاڑیوں کے گزرنے کا انتظار کریں۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly to avoid confusion",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں تاکہ الجھن سے بچا جا سکے۔"
+      },
+      "b": {
+        "en": "Always give way to traffic coming from your right",
+        "ur": "ہمیشہ اپنے دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "E0ZW6Z",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب بغیر کسی نشان یا سڑک کے نشانات کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Always stop and wait for other vehicles to pass before proceeding.",
+        "ur": "ہمیشہ رکیں اور آگے بڑھنے سے پہلے دیگر گاڑیوں کے گزرنے کا انتظار کریں۔"
+      },
+      "b": {
+        "en": "Proceed with caution and be prepared to give way to avoid a collision.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے راستہ دینے کے لیے تیار رہیں۔"
+      },
+      "a": {
+        "en": "Give way to traffic approaching from your right only if they are already on the crossroads.",
+        "ur": "اگر ٹریفک آپ کے دائیں جانب سے آ رہی ہو تو صرف اسی صورت میں راستہ دیں جب وہ پہلے ہی چوراہے پر موجود ہوں۔"
+      },
+      "d": {
+        "en": "Give way to all vehicles regardless of their direction before moving off.",
+        "ur": "تمام گاڑیوں کو ان کی سمت سے قطع نظر راستہ دیں اس سے پہلے کہ آپ حرکت کریں۔"
+      }
+    },
+    "correct_answer": "b",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way if necessary to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "1BDD36",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب آپ بغیر نشان یا سڑک کی نشاندہی کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Proceed with caution and give way to traffic from the right if necessary to avoid a collision.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور ٹکر سے بچنے کے لیے ضرورت پڑنے پر دائیں جانب سے آنے والی گاڑیوں کو راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop completely and only move forward when the road is clear in all directions.",
+        "ur": "بالکل رکیں اور صرف اس وقت آگے بڑھیں جب ہر سمت سے راستہ صاف ہو۔"
+      },
+      "d": {
+        "en": "Accelerate through the crossroads to clear it quickly and avoid confusion.",
+        "ur": "چوراہے سے تیزی سے گزر کر اسے جلدی صاف کریں اور الجھن سے بچیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic coming from your left before proceeding.",
+        "ur": "ہمیشہ آگے بڑھنے سے پہلے بائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way to traffic from the right if necessary to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور اگر تصادم سے بچنے کے لیے ضروری ہو تو دائیں جانب سے آنے والی گاڑیوں کو راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "90CBJ7",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر کسی نشان یا روڈ مارکنگ کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Stop and wait for other vehicles to proceed first",
+        "ur": "رکیں اور دوسرے گاڑیوں کو پہلے جانے دیں۔"
+      },
+      "d": {
+        "en": "Give way to vehicles turning right across your path",
+        "ur": "اپنے راستے میں دائیں طرف مڑنے والی گاڑیوں کو راستہ دیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way to traffic only if necessary to avoid a collision",
+        "ur": "احتیاط سے آگے بڑھیں اور ٹکر سے بچنے کے لیے صرف ضروری ہونے پر ہی دوسرے راستے کو راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you should proceed carefully and give way only if needed to avoid a collision.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور صرف اس صورت میں راستہ دینا چاہیے جب ٹکراؤ سے بچنے کے لیے ضروری ہو۔"
+    }
+  },
+  {
+    "id": "NGKW4J",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads, which of the following is the correct course of action?",
+      "ur": "جب بغیر نشان والے چوراہے کے قریب پہنچیں، تو درج ذیل میں سے کون سا عمل درست ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ اپنے دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Give way to all vehicles turning right",
+        "ur": "تمام گاڑیوں کو جو دائیں مڑ رہی ہوں راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "HCNSVR",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب آپ بغیر نشان یا سڑک کی نشاندہی کے بغیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly to avoid blocking traffic",
+        "ur": "ٹریفک کو روکنے سے بچنے کے لیے چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way to any traffic if necessary to avoid a collision",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر کسی بھی ٹریفک کو راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way to other vehicles if necessary to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر دوسرے گاڑیوں کو راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "PTBYW9",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کے نشانات کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Stop and wait for other vehicles to move first.",
+        "ur": "رکیں اور دوسرے گاڑیوں کو پہلے حرکت کرنے دیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic coming from your right.",
+        "ur": "ہمیشہ اپنی دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way to traffic only if necessary to avoid a collision.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور ٹکر سے بچنے کے لیے صرف ضروری ہونے پر ہی دوسرے راستے کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Give way to traffic on the main road.",
+        "ur": "مین روڈ پر آنے والی گاڑیوں کو راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you should proceed carefully and give way only if needed to avoid a collision.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور صرف تصادم سے بچنے کے لیے راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "NTUDR4",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر کسی نشان یا سڑک کی نشاندہی کے غیر نشان زدہ چوراہے کے قریب پہنچیں تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Always give way to traffic approaching from the left.",
+        "ur": "ہمیشہ بائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate through the crossroads to clear it quickly.",
+        "ur": "چوراہے سے تیزی سے گزر کر اسے جلدی خالی کریں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and be prepared to give way to traffic from your right if necessary.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور اگر ضروری ہو تو دائیں جانب سے آنے والی گاڑیوں کو راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop and wait for all other vehicles to pass before proceeding.",
+        "ur": "رکیں اور آگے بڑھنے سے پہلے تمام دیگر گاڑیوں کے گزرنے کا انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way to traffic from your right if needed to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور اگر تصادم سے بچنے کے لیے ضروری ہو تو دائیں جانب سے آنے والی گاڑیوں کو راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "QCH4WR",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads, which of the following is the correct action to take?",
+      "ur": "جب بغیر نشان والے چوراہے کے قریب پہنچیں، تو درج ذیل میں سے کون سا عمل درست ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe.",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right.",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Give priority to pedestrians crossing or waiting to cross only if they are on a zebra crossing.",
+        "ur": "پیدل چلنے والوں کو ترجیح دیں جو زیبرا کراسنگ پر چل رہے ہوں یا کراسنگ کا انتظار کر رہے ہوں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way if necessary to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور اگر ضرورت ہو تو ٹکراؤ سے بچنے کے لیے راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "K5YJQI",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کی نشاندہی کے بغیر نشان زدہ چوراہے کے قریب پہنچیں تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Give way to vehicles turning right at the crossroads",
+        "ur": "چوراہے پر دائیں مڑنے والی گاڑیوں کو راستہ دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way to traffic only if necessary to avoid a collision",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور ٹکر سے بچنے کے لیے صرف ضرورت پڑنے پر ہی دوسرے راستے کو راستہ دیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop and wait for all other vehicles to pass before proceeding",
+        "ur": "رکیں اور آگے بڑھنے سے پہلے تمام دیگر گاڑیوں کے گزرنے کا انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you should proceed carefully and give way only if needed to avoid a collision.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور صرف تصادم سے بچنے کے لیے راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "XOV5H9",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر کسی نشان یا سڑک کی نشان دہی کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Always give way to traffic coming from your right.",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe.",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly to avoid blocking it.",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں تاکہ اسے بلاک کرنے سے بچا جا سکے۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions.",
+        "ur": "احتیاط سے آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way if necessary to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، لہٰذا آپ کو احتیاط سے آگے بڑھنا چاہیے اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "O7QSUY",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کی نشاندہی کے بغیر نشان زدہ چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Stop and wait for all other vehicles to pass before proceeding",
+        "ur": "رکیں اور آگے بڑھنے سے پہلے تمام دیگر گاڑیوں کے گزرنے کا انتظار کریں۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly to avoid blocking traffic",
+        "ur": "ٹریفک کو روکنے سے بچنے کے لیے چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں۔"
+      },
+      "c": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "a": {
+        "en": "Give way to traffic approaching from your right and proceed only when safe",
+        "ur": "دائیں جانب سے آنے والی گاڑیوں کو راستہ دیں اور صرف تب ہی آگے بڑھیں جب راستہ محفوظ ہو۔"
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you should proceed with caution and give way if necessary to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "0AY1HD",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب آپ بغیر کسی نشان یا روڈ مارکنگ کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح طریقہ کار کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe",
+        "ur": "سفید لائن کے پیچھے رُکیں اور صرف اس وقت آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from the right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "d": {
+        "en": "Give way to traffic on the main road",
+        "ur": "مین روڈ پر آنے والی گاڑیوں کو راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to avoid accidents.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور حادثات سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "JVWZHQ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads, which of the following is the correct action to take?",
+      "ur": "جب بغیر نشان والے چوراہے کے قریب پہنچیں، تو درج ذیل میں سے کون سا عمل درست ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "d": {
+        "en": "Give way to all vehicles turning right",
+        "ur": "تمام گاڑیوں کو جو دائیں مڑ رہی ہوں راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way if necessary to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "3HTJHS",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب آپ بغیر نشان یا سڑک کے نشانات کے بغیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly to avoid confusion",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں تاکہ الجھن سے بچا جا سکے۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from the right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way if necessary to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "CSP0QR",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کی نشاندہی کے بغیر نشان زدہ چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Stop completely and wait for other vehicles to move first.",
+        "ur": "مکمل طور پر رکیں اور دیگر گاڑیوں کے پہلے حرکت کرنے کا انتظار کریں۔"
+      },
+      "c": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "a": {
+        "en": "Give way to traffic on your right and proceed only when safe.",
+        "ur": "دائیں جانب آنے والی گاڑیوں کو راستہ دیں اور صرف تب ہی آگے بڑھیں جب راستہ محفوظ ہو۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly before other vehicles arrive.",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں تاکہ دوسرے گاڑیوں کے آنے سے پہلے راستہ خالی ہو جائے۔"
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you should proceed with caution and give way if necessary to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص حق تقدم نہیں ہوتا، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "678LKD",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کے نشانات کے ایک غیر نشان زدہ چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "d": {
+        "en": "Give way only to pedestrians crossing the road you are turning into",
+        "ur": "صرف پیدل چلنے والوں کو راستہ دیں جو آپ جس سڑک پر مڑ رہے ہیں وہاں عبور کر رہے ہوں۔"
+      },
+      "c": {
+        "en": "Stop and wait for other vehicles to pass before proceeding",
+        "ur": "رکیں اور آگے بڑھنے سے پہلے دیگر گاڑیوں کے گزرنے کا انتظار کریں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "125EA9",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر کسی نشان یا سڑک کے نشانات کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Give way to traffic on the main road",
+        "ur": "مین روڈ پر آنے والی ٹریفک کو راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "TYL14Y",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کی نشاندہی کے غیر نشان زدہ چوراہے کے قریب پہنچیں تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط سے آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly to avoid blocking it",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں تاکہ اسے بلاک کرنے سے بچا جا سکے۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop and wait for all other vehicles to pass before proceeding",
+        "ur": "رکیں اور آگے بڑھنے سے پہلے تمام دیگر گاڑیوں کے گزرنے کا انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "FVYP5G",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب آپ بغیر نشان یا سڑک کے نشانات کے ایک غیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Always give way to traffic approaching from the right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop and wait for other vehicles to move first",
+        "ur": "رکیں اور دوسرے گاڑیوں کو پہلے حرکت کرنے دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط سے آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly to avoid confusion",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں تاکہ الجھن سے بچا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "92JZE0",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct action to take?",
+      "ur": "جب آپ بغیر نشان یا سڑک کے نشانات کے ایک غیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح اقدام کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe.",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right.",
+        "ur": "ہمیشہ اپنے دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions.",
+        "ur": "احتیاط سے آگے بڑھیں اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly to avoid blocking it.",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں تاکہ اسے بلاک کرنے سے بچا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way if necessary to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، لہٰذا آپ کو احتیاط سے آگے بڑھنا چاہیے اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "KPHUIG",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب بغیر نشان یا سڑک کی نشاندہی کے بغیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop behind the white line and only proceed when safe.",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف تب ہی آگے بڑھیں جب محفوظ ہو۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right.",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly to avoid blocking traffic.",
+        "ur": "ٹریفک کو روکنے سے بچنے کے لیے چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to prevent accidents.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور حادثات سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "T6T5VB",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا روڈ مارکنگ کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Accelerate to clear the junction quickly to avoid blocking it.",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں تاکہ اسے بلاک کرنے سے بچا جا سکے۔"
+      },
+      "b": {
+        "en": "Always give way to traffic coming from your left.",
+        "ur": "ہمیشہ بائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and be prepared to give way to traffic from the right if necessary.",
+        "ur": "احتیاط سے آگے بڑھیں اور اگر ضروری ہو تو دائیں جانب سے آنے والی گاڑیوں کو راستہ دینے کے لیے تیار رہیں۔"
+      },
+      "c": {
+        "en": "Stop and wait for all other vehicles to pass before proceeding.",
+        "ur": "رکیں اور آگے بڑھنے سے پہلے تمام دیگر گاڑیوں کے گزرنے کا انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way if necessary to avoid collisions, especially to traffic approaching from the right.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور اگر ضروری ہو تو راستہ دینا چاہیے تاکہ تصادم سے بچا جا سکے، خاص طور پر دائیں جانب سے آنے والی ٹریفک کو۔"
+    }
+  },
+  {
+    "id": "L8L7B2",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب آپ بغیر کسی نشان یا سڑک کے نشانات کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح عمل کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Stop behind the white line and only proceed when the road is clear.",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف اس وقت آگے بڑھیں جب راستہ خالی ہو۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your left before proceeding.",
+        "ur": "ہمیشہ آگے بڑھنے سے پہلے بائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate through the crossroads to avoid blocking the junction.",
+        "ur": "چوراہے پر ٹریفک کو روکنے سے بچنے کے لیے رفتار بڑھائیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way to traffic from the right if necessary to avoid a collision.",
+        "ur": "احتیاط سے آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر دائیں جانب سے آنے والی گاڑیوں کو راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way to traffic from the right if necessary to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص حق تقدم نہیں ہوتا، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور اگر تصادم سے بچنے کے لیے ضروری ہو تو دائیں جانب سے آنے والی گاڑیوں کو راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "2U6CLQ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads where two vehicles arrive at the same time, which of the following is the correct course of action?",
+      "ur": "جب آپ بغیر نشان کے چوراہے پر پہنچیں جہاں دو گاڑیاں ایک ہی وقت پر پہنچتی ہیں، تو درج ذیل میں سے کون سا عمل درست ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Wait for the other vehicle to move first, regardless of its position",
+        "ur": "دوسری گاڑی کے پہلے حرکت کرنے کا انتظار کریں، اس کی جگہ سے قطع نظر۔"
+      },
+      "a": {
+        "en": "Give way to the vehicle on your right and proceed only when safe",
+        "ur": "دائیں جانب آنے والی گاڑی کو راستہ دیں اور صرف تب ہی آگے بڑھیں جب راستہ محفوظ ہو۔"
+      },
+      "b": {
+        "en": "Proceed first if you are turning left, regardless of the other vehicle's position",
+        "ur": "اگر آپ بائیں مڑ رہے ہیں تو پہلے روانہ ہوں، چاہے دوسری گاڑی کی پوزیشن کچھ بھی ہو۔"
+      },
+      "c": {
+        "en": "Sound your horn to indicate your intention to proceed first",
+        "ur": "اپنی بتی بجا کر اپنی ترجیح ظاہر کریں کہ آپ پہلے آگے بڑھنا چاہتے ہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you should give way to the vehicle on your right and only proceed when it is safe to do so.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو دائیں جانب آنے والی گاڑی کو راستہ دینا چاہیے اور صرف تب ہی آگے بڑھنا چاہیے جب یہ محفوظ ہو۔"
+    }
+  },
+  {
+    "id": "UJ6WCO",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب آپ بغیر کسی نشان یا سڑک کی نشاندہی کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Stop behind the white line and only proceed when the road is clear.",
+        "ur": "سفید لائن کے پیچھے رکیں اور صرف اس وقت آگے بڑھیں جب راستہ خالی ہو۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from the left, as they have priority.",
+        "ur": "ہمیشہ بائیں جانب سے آنے والی ٹریفک کو راستہ دیں، کیونکہ ان کی ترجیح ہوتی ہے۔"
+      },
+      "d": {
+        "en": "Accelerate through the crossroads to clear it quickly and avoid blocking traffic.",
+        "ur": "چوراہے سے تیزی سے گزر کر اسے جلدی خالی کریں اور ٹریفک کو بلاک ہونے سے بچائیں۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way to traffic coming from the right if necessary to avoid a collision.",
+        "ur": "احتیاط سے آگے بڑھیں اور اگر تصادم سے بچنے کے لیے ضروری ہو تو دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way to traffic from the right if necessary to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور اگر ضروری ہو تو ٹکراؤ سے بچنے کے لیے دائیں جانب سے آنے والی گاڑیوں کو راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "V428DP",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کی نشاندہی کے بغیر نشان زدہ چوراہے کے قریب پہنچیں تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Proceed with caution and give way if necessary to avoid collisions",
+        "ur": "احتیاط سے آگے بڑھیں اور تصادم سے بچنے کے لیے ضرورت پڑنے پر راستہ دیں۔"
+      },
+      "d": {
+        "en": "Give way only to vehicles turning right across your path",
+        "ur": "صرف ان گاڑیوں کو راستہ دیں جو آپ کے راستے میں دائیں طرف مڑ رہی ہوں۔"
+      },
+      "b": {
+        "en": "Always give way to traffic approaching from your right",
+        "ur": "ہمیشہ دائیں جانب سے آنے والی ٹریفک کو راستہ دیں۔"
+      },
+      "c": {
+        "en": "Stop and wait for all other vehicles to pass before proceeding",
+        "ur": "رکیں اور آگے بڑھنے سے پہلے تمام دیگر گاڑیوں کے گزرنے کا انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed carefully and give way if needed to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور ٹکراؤ سے بچنے کے لیے ضرورت پڑنے پر راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "8CL3DP",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what is the correct course of action?",
+      "ur": "جب بغیر نشان یا روڈ مارکنگ کے غیر نشان زدہ چوراہے کے قریب پہنچیں، تو صحیح کارروائی کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Stop completely and wait for other vehicles to proceed before moving off.",
+        "ur": "مکمل طور پر رکیں اور حرکت کرنے سے پہلے دیگر گاڑیوں کو گزرنے دیں۔"
+      },
+      "c": {
+        "en": "Give way only to vehicles coming from your left, as they have priority.",
+        "ur": "صرف ان گاڑیوں کو راستہ دیں جو آپ کی بائیں طرف سے آ رہی ہوں، کیونکہ ان کو ترجیح حاصل ہے۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way to traffic on your right if necessary to avoid collisions.",
+        "ur": "احتیاط کے ساتھ آگے بڑھیں اور اگر تصادم سے بچنے کے لیے ضروری ہو تو دائیں جانب آنے والی گاڑیوں کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate through the junction to clear it quickly and avoid blocking traffic.",
+        "ur": "چوراہے سے تیزی سے گزر کر اسے جلدی خالی کریں تاکہ ٹریفک بلاک نہ ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way to traffic on your right if necessary to avoid collisions.",
+      "ur": "بغیر نشان والے چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور اگر تصادم سے بچنے کے لیے ضروری ہو تو دائیں جانب سے آنے والی گاڑیوں کو راستہ دینا چاہیے۔"
+    }
+  },
+  {
+    "id": "DP3PXO",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Rules of the road,",
+    "question": {
+      "en": "When approaching an unmarked crossroads with no signs or road markings, what should you do?",
+      "ur": "جب آپ بغیر نشان یا سڑک کے نشانات کے غیر نشان زدہ چوراہے کے قریب پہنچیں تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Always stop and wait for other vehicles to pass before proceeding",
+        "ur": "ہمیشہ رکیں اور آگے بڑھنے سے پہلے دیگر گاڑیوں کے گزرنے کا انتظار کریں۔"
+      },
+      "c": {
+        "en": "Give way to traffic on the main road only",
+        "ur": "مین روڈ پر آنے والی ٹریفک کو راستہ دیں فقط۔"
+      },
+      "a": {
+        "en": "Proceed with caution and give way to traffic coming from your right if necessary",
+        "ur": "احتیاط سے آگے بڑھیں اور اگر ضروری ہو تو دائیں جانب سے آنے والی گاڑیوں کو راستہ دیں۔"
+      },
+      "d": {
+        "en": "Accelerate to clear the junction quickly to avoid blocking it",
+        "ur": "چوراہے کو جلدی عبور کرنے کے لیے رفتار بڑھائیں تاکہ اسے بلاک کرنے سے بچا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "At unmarked crossroads, there is no specific priority, so you must proceed with caution and give way to traffic from your right if necessary to avoid collisions.",
+      "ur": "غیر نشان زدہ چوراہوں پر کوئی خاص ترجیح نہیں ہوتی، اس لیے آپ کو احتیاط سے آگے بڑھنا چاہیے اور اگر تصادم سے بچنے کے لیے ضروری ہو تو دائیں جانب سے آنے والی گاڑیوں کو راستہ دینا چاہیے۔"
+    }
+  }
+]

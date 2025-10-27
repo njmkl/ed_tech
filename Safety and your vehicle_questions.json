@@ -1,0 +1,398 @@
+[
+  {
+    "id": "KEFE0C",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Safety and your vehicle",
+    "question": {
+      "en": "If your vehicle’s tyres are under-inflated, which of the following is NOT a likely consequence?",
+      "ur": "اگر آپ کی گاڑی کے ٹائروں میں ہوا کم ہو، تو درج ذیل میں سے کون سا نتیجہ ممکنہ طور پر نہیں ہوگا؟"
+    },
+    "options": {
+      "c": {
+        "en": "Improved fuel efficiency",
+        "ur": "بہتر ایندھن کی کارکردگی"
+      },
+      "b": {
+        "en": "Reduced steering control",
+        "ur": "کم شدہ سٹیئرنگ کنٹرول"
+      },
+      "a": {
+        "en": "Increased stopping distances",
+        "ur": "زیادہ شدہ رکنے کے فاصلے"
+      },
+      "d": {
+        "en": "Excessive tyre wear",
+        "ur": "ٹائر کا زیادہ استعمال"
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "en": "Under-inflated tyres increase stopping distances, reduce steering control, and cause excessive tyre wear, but they do not improve fuel efficiency; in fact, they increase fuel consumption.",
+      "ur": "کم ہوا والے ٹائر رکنے کی دوری کو بڑھاتے ہیں، سٹیئرنگ کنٹرول کو کمزور کرتے ہیں، اور ٹائر کے زیادہ خراب ہونے کا باعث بنتے ہیں، لیکن یہ ایندھن کی بچت نہیں کرتے؛ درحقیقت، یہ ایندھن کے استعمال میں اضافہ کرتے ہیں۔"
+    }
+  },
+  {
+    "id": "T3XW6I",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Safety and your vehicle",
+    "question": {
+      "en": "If your vehicle’s anti-lock braking system (ABS) warning light stays on while driving, what should you do?",
+      "ur": "اگر آپ کی گاڑی کا اینٹی لاک بریکنگ سسٹم (ABS) وارننگ لائٹ ڈرائیونگ کے دوران روشن رہ جائے، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Drive more slowly and avoid using the brakes",
+        "ur": "زیادہ آہستہ گاڑی چلائیں اور بریک کا استعمال کم کریں۔"
+      },
+      "b": {
+        "en": "Stop immediately and switch off the engine",
+        "ur": "فوری طور پر رکیں اور انجن بند کریں۔"
+      },
+      "a": {
+        "en": "Continue driving but have the ABS checked as soon as possible",
+        "ur": "ڈرائیونگ جاری رکھیں لیکن جتنا جلد ممکن ہو ABS کی جانچ کروائیں۔"
+      },
+      "c": {
+        "en": "Pump the brakes repeatedly to reactivate the ABS",
+        "ur": "بریک کو بار بار دبا کر ABS کو دوبارہ فعال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If the ABS warning light stays on, the ABS may not be working but normal brakes will still function; you should continue driving carefully and have the system checked promptly.",
+      "ur": "اگر ABS وارننگ لائٹ روشن رہتی ہے تو ممکن ہے کہ ABS کام نہ کر رہا ہو، لیکن عام بریکس پھر بھی کام کریں گے؛ آپ کو احتیاط سے گاڑی چلانی چاہیے اور نظام کو جلد از جلد چیک کروانا چاہیے۔"
+    }
+  },
+  {
+    "id": "84AE2U",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Safety and your vehicle",
+    "question": {
+      "en": "If your vehicle’s tyres are over-inflated, what is the most likely effect on your driving?",
+      "ur": "اگر آپ کی گاڑی کے ٹائر زیادہ ہوا سے بھرے ہوئے ہوں، تو آپ کی ڈرائیونگ پر سب سے زیادہ ممکنہ اثر کیا ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Increased fuel consumption and longer stopping distances",
+        "ur": "ایندھن کا زیادہ استعمال اور رکنے کے فاصلے میں اضافہ"
+      },
+      "d": {
+        "en": "Better braking performance but reduced ride comfort",
+        "ur": "بہتر بریکنگ کارکردگی لیکن کم آرام دہ سواری"
+      },
+      "c": {
+        "en": "Improved steering control but increased risk of tyre bursts",
+        "ur": "بہتر سٹیئرنگ کنٹرول لیکن ٹائر پھٹنے کا خطرہ بڑھ گیا ہے۔"
+      },
+      "a": {
+        "en": "Reduced grip and uneven tyre wear",
+        "ur": "کمزور گرفت اور ٹائروں کا غیر مساوی پہننا"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Over-inflated tyres reduce the contact patch with the road, causing reduced grip and uneven tyre wear, which can negatively affect safety.",
+      "ur": "زیادہ ہوا بھرے ہوئے ٹائر سڑک کے ساتھ رابطے کے رقبے کو کم کر دیتے ہیں، جس کی وجہ سے گرفت کم ہوتی ہے اور ٹائر کی غیر مساوی گھساؤ پیدا ہوتا ہے، جو حفاظت پر منفی اثر ڈال سکتا ہے۔"
+    }
+  },
+  {
+    "id": "TAJBPL",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Safety and your vehicle",
+    "question": {
+      "en": "After driving through deep water, what is the best way to ensure your brakes are working properly?",
+      "ur": "گہرے پانی میں گاڑی چلانے کے بعد، یہ یقینی بنانے کا بہترین طریقہ کیا ہے کہ آپ کے بریک صحیح طریقے سے کام کر رہے ہیں؟"
+    },
+    "options": {
+      "c": {
+        "en": "Drive at high speed for a short distance to heat the brakes and evaporate the water",
+        "ur": "بریکس کو گرم کرنے اور پانی کو بخارات میں تبدیل کرنے کے لیے مختصر فاصلے پر تیز رفتار سے گاڑی چلائیں۔"
+      },
+      "d": {
+        "en": "Stop and pump the brake pedal repeatedly until it feels firm again",
+        "ur": "بریک پیڈل کو بار بار دبا کر چھوڑیں جب تک کہ یہ دوبارہ سخت محسوس نہ ہو جائے۔"
+      },
+      "a": {
+        "en": "Test the brakes gently at the first safe opportunity and dry them by light braking while driving slowly",
+        "ur": "پہلے محفوظ موقع پر ہلکے انداز میں بریک چیک کریں اور آہستہ گاڑی چلاتے ہوئے ہلکی بریکنگ سے انہیں خشک کریں۔"
+      },
+      "b": {
+        "en": "Apply the handbrake firmly several times to dry the brakes immediately",
+        "ur": "ہینڈ بریک کو فوراً خشک کرنے کے لیے مضبوطی سے کئی بار لگائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "After driving through deep water, brakes may be less effective, so testing them gently and drying them by light braking while driving slowly helps restore their effectiveness safely.",
+      "ur": "گہرے پانی میں گاڑی چلانے کے بعد، بریک کم مؤثر ہو سکتے ہیں، اس لیے انہیں ہلکے انداز میں آزمانا اور آہستہ گاڑی چلاتے ہوئے ہلکی بریکنگ سے خشک کرنا ان کی مؤثریت کو محفوظ طریقے سے بحال کرنے میں مدد دیتا ہے۔"
+    }
+  },
+  {
+    "id": "M0W3Z1",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Safety and your vehicle",
+    "question": {
+      "en": "If your vehicle’s anti-lock braking system (ABS) warning light stays on while driving, what should you do?",
+      "ur": "اگر آپ کی گاڑی کا اینٹی لاک بریکنگ سسٹم (ABS) وارننگ لائٹ ڈرائیونگ کے دوران روشن رہ جائے، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Pump the brakes repeatedly to restore ABS function",
+        "ur": "بریک کو بار بار دبا کر ABS کا فنکشن بحال کریں۔"
+      },
+      "a": {
+        "en": "Continue driving normally but have the ABS checked as soon as possible",
+        "ur": "عام طور پر گاڑی چلانا جاری رکھیں لیکن جتنا جلدی ممکن ہو ABS کی جانچ کروائیں۔"
+      },
+      "b": {
+        "en": "Stop immediately and switch off the engine to reset the system",
+        "ur": "فوری طور پر گاڑی روکیں اور نظام کو ری سیٹ کرنے کے لیے انجن بند کریں۔"
+      },
+      "d": {
+        "en": "Ignore it if the brakes feel normal, as ABS is only a convenience feature",
+        "ur": "اگر بریک معمول کے مطابق محسوس ہوں تو اسے نظر انداز کریں، کیونکہ ABS صرف ایک سہولت کی خصوصیت ہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If the ABS warning light stays on, the ABS may not be working, but normal braking will still function; you should drive carefully and have the system checked promptly.",
+      "ur": "اگر ABS وارننگ لائٹ روشن رہتی ہے تو ممکن ہے کہ ABS کام نہ کر رہا ہو، لیکن عام بریکنگ پھر بھی کام کرے گی؛ آپ کو احتیاط سے گاڑی چلانی چاہیے اور نظام کو جلد از جلد چیک کروانا چاہیے۔"
+    }
+  },
+  {
+    "id": "49VOJK",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Safety and your vehicle",
+    "question": {
+      "en": "If your vehicle’s anti-lock braking system (ABS) warning light stays on while driving, what should you do?",
+      "ur": "اگر آپ کی گاڑی کا اینٹی لاک بریکنگ سسٹم (ABS) وارننگ لائٹ ڈرائیونگ کے دوران روشن رہتی ہے، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Drive faster to clear any moisture affecting the system",
+        "ur": "نظام پر اثر انداز ہونے والی نمی کو دور کرنے کے لیے گاڑی کی رفتار بڑھائیں۔"
+      },
+      "a": {
+        "en": "Continue driving but have the ABS checked as soon as possible",
+        "ur": "ڈرائیونگ جاری رکھیں لیکن جتنا جلد ممکن ہو ABS کی جانچ کروائیں۔"
+      },
+      "c": {
+        "en": "Pump the brakes firmly to reset the ABS",
+        "ur": "بریکوں کو مضبوطی سے دبا کر ABS کو ری سیٹ کریں۔"
+      },
+      "b": {
+        "en": "Stop immediately and switch off the engine",
+        "ur": "فوری طور پر رکیں اور انجن بند کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If the ABS warning light stays on, the ABS may not be working, but normal brakes will still function; you should continue driving carefully and have the system checked promptly.",
+      "ur": "اگر ABS وارننگ لائٹ روشن رہتی ہے تو ممکن ہے کہ ABS کام نہ کر رہا ہو، لیکن عام بریکس پھر بھی کام کریں گے؛ آپ کو احتیاط سے گاڑی چلانا جاری رکھنا چاہیے اور نظام کو جلد از جلد چیک کروانا چاہیے۔"
+    }
+  },
+  {
+    "id": "GINX2I",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Safety and your vehicle",
+    "question": {
+      "en": "If your vehicle’s tyres are under-inflated, which of the following is NOT a likely effect?",
+      "ur": "اگر آپ کی گاڑی کے ٹائر کم ہوا والے ہوں، تو درج ذیل میں سے کون سا اثر ممکنہ طور پر نہیں ہوگا؟"
+    },
+    "options": {
+      "c": {
+        "en": "Improved fuel efficiency",
+        "ur": "بہتر ایندھن کی کارکردگی"
+      },
+      "a": {
+        "en": "Increased stopping distances",
+        "ur": "زیادہ شدہ رکنے کے فاصلے"
+      },
+      "b": {
+        "en": "Reduced steering control",
+        "ur": "کم شدہ اسٹیئرنگ کنٹرول"
+      },
+      "d": {
+        "en": "Excessive tyre wear",
+        "ur": "ٹائروں کا زیادہ خراب ہونا"
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "en": "Under-inflated tyres increase stopping distances, reduce steering control, and cause excessive tyre wear, but they do not improve fuel efficiency; in fact, they increase fuel consumption.",
+      "ur": "کم ہوا والے ٹائر رُکنے کی دوری کو بڑھاتے ہیں، سٹیئرنگ کنٹرول کو کمزور کرتے ہیں، اور ٹائر کے زیادہ خراب ہونے کا سبب بنتے ہیں، لیکن یہ ایندھن کی بچت نہیں کرتے؛ بلکہ، یہ ایندھن کے استعمال میں اضافہ کرتے ہیں۔"
+    }
+  },
+  {
+    "id": "LZ4W9L",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Safety and your vehicle",
+    "question": {
+      "en": "If your vehicle’s anti-lock braking system (ABS) warning light stays on while driving, what should you do?",
+      "ur": "اگر آپ کی گاڑی کا اینٹی لاک بریکنگ سسٹم (ABS) وارننگ لائٹ ڈرائیونگ کے دوران روشن رہتی ہے، تو آپ کو کیا کرنا چاہیے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Pump the brakes repeatedly to restore ABS function",
+        "ur": "بریک کو بار بار دبا کر ABS کا فنکشن بحال کریں۔"
+      },
+      "d": {
+        "en": "Ignore it if the brakes feel normal",
+        "ur": "اگر بریک معمول کے مطابق محسوس ہوں تو اسے نظر انداز کریں۔"
+      },
+      "b": {
+        "en": "Stop immediately and switch off the engine",
+        "ur": "فوری طور پر رکیں اور انجن بند کریں۔"
+      },
+      "a": {
+        "en": "Continue driving but have the system checked as soon as possible",
+        "ur": "ڈرائیونگ جاری رکھیں لیکن نظام کو جتنا جلدی ممکن ہو چیک کروائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "If the ABS warning light stays on, the ABS system is not working, but normal brakes will still function; you should continue driving carefully and have the system checked promptly.",
+      "ur": "اگر ABS وارننگ لائٹ روشن رہتی ہے تو ABS سسٹم کام نہیں کر رہا، لیکن عام بریکس پھر بھی کام کریں گے؛ آپ کو احتیاط سے گاڑی چلانی چاہیے اور جلد از جلد سسٹم کی جانچ کروانی چاہیے۔"
+    }
+  },
+  {
+    "id": "89XC50",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Safety and your vehicle",
+    "question": {
+      "en": "If your vehicle’s tyres are under-inflated, which of the following is NOT a likely effect?",
+      "ur": "اگر آپ کی گاڑی کے ٹائر کم ہوا والے ہوں، تو درج ذیل میں سے کون سا اثر ممکنہ طور پر نہیں ہوگا؟"
+    },
+    "options": {
+      "b": {
+        "en": "Reduced steering control",
+        "ur": "کمزور سٹیئرنگ کنٹرول"
+      },
+      "c": {
+        "en": "Improved fuel efficiency",
+        "ur": "بہتر ایندھن کی کارکردگی"
+      },
+      "a": {
+        "en": "Increased stopping distances",
+        "ur": "زیادہ شدہ رکنے کے فاصلے"
+      },
+      "d": {
+        "en": "Excessive tyre wear",
+        "ur": "زیادہ ٹائر کا گھسنا"
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "en": "Under-inflated tyres increase rolling resistance, which reduces fuel efficiency rather than improving it.",
+      "ur": "کم ہوا والے ٹائر رگڑ میں اضافہ کرتے ہیں، جو ایندھن کی کارکردگی کو بہتر بنانے کے بجائے کم کر دیتا ہے۔"
+    }
+  },
+  {
+    "id": "NP4Z3O",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Safety and your vehicle",
+    "question": {
+      "en": "If your vehicle’s tyres are under-inflated, which of the following is NOT a likely consequence?",
+      "ur": "اگر آپ کی گاڑی کے ٹائر کم ہوا سے بھرے ہوں، تو درج ذیل میں سے کون سا نتیجہ ممکنہ طور پر نہیں ہوگا؟"
+    },
+    "options": {
+      "a": {
+        "en": "Increased stopping distances",
+        "ur": "زیادہ شدہ رکنے کے فاصلے"
+      },
+      "c": {
+        "en": "Improved fuel efficiency",
+        "ur": "بہتر ایندھن کی کارکردگی"
+      },
+      "b": {
+        "en": "Reduced steering control",
+        "ur": "کمزور سٹیرنگ کنٹرول"
+      },
+      "d": {
+        "en": "Excessive tyre wear",
+        "ur": "ٹائروں کا زیادہ گھساؤ"
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "en": "Under-inflated tyres increase rolling resistance, which reduces fuel efficiency rather than improving it.",
+      "ur": "کم ہوا والے ٹائر رولنگ ریزسٹنس کو بڑھاتے ہیں، جو ایندھن کی کارکردگی کو بہتر بنانے کے بجائے کم کر دیتا ہے۔"
+    }
+  },
+  {
+    "id": "GRGDM2",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Safety and your vehicle",
+    "question": {
+      "en": "If your vehicle's tyres are under-inflated, which of the following is NOT a likely consequence?",
+      "ur": "اگر آپ کی گاڑی کے ٹائر کم ہوا والے ہوں، تو درج ذیل میں سے کون سا نتیجہ ممکنہ طور پر نہیں ہوگا؟"
+    },
+    "options": {
+      "d": {
+        "en": "Excessive tyre wear",
+        "ur": "ٹائروں کا زیادہ خراب ہونا"
+      },
+      "b": {
+        "en": "Reduced steering control",
+        "ur": "کم شدہ اسٹیئرنگ کنٹرول"
+      },
+      "a": {
+        "en": "Increased stopping distances",
+        "ur": "زیادہ شدہ رکنے کا فاصلہ"
+      },
+      "c": {
+        "en": "Improved fuel efficiency",
+        "ur": "بہتر ایندھن کی کارکردگی"
+      }
+    },
+    "correct_answer": "c",
+    "explanation": {
+      "en": "Under-inflated tyres increase stopping distances, reduce steering control, and cause excessive tyre wear, but they do not improve fuel efficiency; in fact, they increase fuel consumption.",
+      "ur": "کم ہوا والے ٹائر رکنے کی دوری بڑھاتے ہیں، سٹیئرنگ کنٹرول کو کمزور کرتے ہیں، اور ٹائر کے زیادہ خراب ہونے کا سبب بنتے ہیں، لیکن یہ ایندھن کی بچت نہیں کرتے؛ بلکہ، یہ ایندھن کے استعمال میں اضافہ کرتے ہیں۔"
+    }
+  },
+  {
+    "id": "KHFUIC",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Safety and your vehicle",
+    "question": {
+      "en": "If your vehicle is fitted with ABS, what is the correct way to brake in an emergency situation?",
+      "ur": "اگر آپ کی گاڑی میں اے بی ایس (ABS) نصب ہے، تو ہنگامی صورتحال میں بریک لگانے کا صحیح طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Pump the brakes rapidly to prevent wheel lock",
+        "ur": "بریک کو تیزی سے دہرائیں تاکہ پہیے لاک ہونے سے بچ سکیں۔"
+      },
+      "a": {
+        "en": "Apply firm, continuous pressure to the brake pedal without releasing it",
+        "ur": "بریک پیڈل پر مضبوط اور مسلسل دباؤ ڈالیں بغیر اسے چھوڑے۔"
+      },
+      "d": {
+        "en": "Apply the handbrake gradually while braking with the foot",
+        "ur": "ہاتھ بریک کو آہستہ آہستہ لگائیں جبکہ پاؤں سے بریک لگائی جا رہی ہو۔"
+      },
+      "c": {
+        "en": "Brake lightly and repeatedly to maintain control",
+        "ur": "ہلکے اور بار بار بریک لگائیں تاکہ کنٹرول برقرار رکھا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "ABS prevents the wheels from locking, so in an emergency you should apply firm, continuous pressure to the brake pedal without releasing it to maintain steering control.",
+      "ur": "ABS پہیوں کے لاک ہونے سے روکتا ہے، اس لیے ہنگامی صورتحال میں آپ کو بریک پیڈل پر مضبوط اور مسلسل دباؤ ڈالنا چاہیے بغیر اسے چھوڑے تاکہ سٹیرنگ کنٹرول برقرار رکھا جا سکے۔"
+    }
+  }
+]

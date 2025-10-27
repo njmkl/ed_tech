@@ -1,0 +1,54 @@
+[
+  {
+    "id": "Q429XC",
+    "question": "¿Cuándo sabremos que el motor está siendo lubricado correctamente?",
+    "options": {
+      "a": "Cuando el indicador luminoso de aceite está encendido.",
+      "b": "Cuando el indicador luminoso de aceite está apagado.",
+      "c": "No se puede saber."
+    },
+    "correct_answer": "b",
+    "explanation": "El motor está correctamente lubricado cuando el indicador luminoso de aceite está apagado, ya que su encendido indica falta de presión de aceite.",
+    "file_id": "tema15_032",
+    "topic": "Conocimiento del automóvil II"
+  },
+  {
+    "id": "Q8ZPZT",
+    "question": "La edad avanzada, ¿Puede ser un factor que distraiga al volante?",
+    "options": {
+      "a": "Sí, si no se toman las debidas precauciones.",
+      "b": "Sí, siempre.",
+      "c": "No."
+    },
+    "correct_answer": "",
+    "explanation": "La edad avanzada puede distraer si no se toman precauciones adecuadas.",
+    "file_id": "tema18_005",
+    "topic": "Viajes, civismo vial y accidentes"
+  },
+  {
+    "id": "QE4ELW",
+    "question": "Un vehículo que dispone de la última tecnología, ¿Puede sufrir un accidente?",
+    "options": {
+      "a": "Sí, porque la tecnología no aumenta la seguridad, sino la comodidad en la conducción.",
+      "b": "Sí, cuando no se hace un uso adecuado.",
+      "c": "No."
+    },
+    "correct_answer": "b",
+    "explanation": "Aunque la tecnología ayuda, un accidente puede ocurrir si no se usa adecuadamente.",
+    "file_id": "tema18_011",
+    "topic": "Viajes, civismo vial y accidentes"
+  },
+  {
+    "id": "QX69V8",
+    "question": "Cuando sea obligatorio el uso del alumbrado, el conductor de una bicicleta, ¿Debe llevar alguna prenda o elemento reflectante?",
+    "options": {
+      "a": "No.",
+      "b": "Sí, cuando circule por vías urbanas e interurbanas.",
+      "c": "Sólo cuando circule por vías interurbanas."
+    },
+    "correct_answer": "c",
+    "explanation": "El uso de prendas o elementos reflectantes es obligatorio para mejorar la visibilidad del ciclista cuando se usa alumbrado, especialmente en vías interurbanas.",
+    "file_id": "tema6_064",
+    "topic": "Alumbrado y señalización en el vehículo"
+  }
+]

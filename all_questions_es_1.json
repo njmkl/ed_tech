@@ -1,0 +1,171 @@
+[
+  {
+    "id": "QP6Z7R",
+    "question": "Esta señal indica...",
+    "options": {
+      "a": "La prohibición de entrada a todos los automóviles.",
+      "b": "El fin de una vía reservada para automóviles.",
+      "c": "Una vía reservada a turismos."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "tema4_015",
+    "topic": "Señales de indicación"
+  },
+  {
+    "id": "QHVJHV",
+    "question": "Esta señal indica que los carriles sobre los que están situadas las señales de velocidad mínima...",
+    "options": {
+      "a": "Sólo para vehículos rápidos y el carril situado más a la derecha es para vehículos lentos.",
+      "b": "Sólo puede utilizarlos si circula a una velocidad inferior a la indicada.",
+      "c": "Sólo puede utilizarlos si circula a una velocidad igual o superior a la indicada."
+    },
+    "correct_answer": "c",
+    "explanation": "La señal de velocidad mínima indica que sólo se puede circular por esos carriles si se mantiene una velocidad igual o superior a la indicada.",
+    "file_id": "tema4_014",
+    "topic": "Señales de indicación"
+  },
+  {
+    "id": "Q961IU",
+    "question": "Esta señal indica la situación de...",
+    "options": {
+      "a": "Un cambio de dirección.",
+      "b": "Un apartadero en un túnel.",
+      "c": "Un lugar reservado para ambulancias."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "tema4_017",
+    "topic": "Señales de indicación"
+  },
+  {
+    "id": "Q79EPG",
+    "question": "Circula a 70 km/h, ¿Qué carril debe utilizar?",
+    "options": {
+      "a": "El de la izquierda.",
+      "b": "El central.",
+      "c": "El de la derecha."
+    },
+    "correct_answer": "c",
+    "explanation": "A 70 km/h debe utilizar el carril de la derecha para no entorpecer el tráfico más rápido.",
+    "file_id": "tema4_013",
+    "topic": "Señales de indicación"
+  },
+  {
+    "id": "QZPHUO",
+    "question": "¿Alguna de estas señales indica que finaliza un carril destinado a la circulación?",
+    "options": {
+      "a": "Sí, la señal A.",
+      "b": "Sí, la señal B.",
+      "c": "No, ninguna de las dos."
+    },
+    "correct_answer": "a",
+    "explanation": "La señal A indica el fin de un carril destinado a la circulación.",
+    "file_id": "tema4_012",
+    "topic": "Señales de indicación"
+  },
+  {
+    "id": "QVUD5G",
+    "question": "El día 2 de cada mes, delante de esta señal, ¿Está permitido parar?",
+    "options": {
+      "a": "No, ni parar ni estacionar.",
+      "b": "No.",
+      "c": "Sí."
+    },
+    "correct_answer": "",
+    "explanation": "La pregunta se refiere a la prohibición específica indicada por la señal, pero no se proporciona información suficiente para determinar la respuesta correcta.",
+    "file_id": "tema3_050",
+    "topic": "Señales verticales"
+  },
+  {
+    "id": "Q9JMI3",
+    "question": "Circula a 90 km/h, ¿Por cuál carril debe hacerlo con esta señal?",
+    "options": {
+      "a": "Por el carril central porque circula a más de 70 km/h.",
+      "b": "Por carril derecho, siempre que sea posible.",
+      "c": "Por el carril izquierdo."
+    },
+    "correct_answer": "b",
+    "explanation": "Con esta señal, debe circular por el carril derecho siempre que sea posible para no entorpecer el tráfico más rápido.",
+    "file_id": "tema4_005",
+    "topic": "Señales de indicación"
+  },
+  {
+    "id": "QAWYY5",
+    "question": "Esta señal...",
+    "options": {
+      "a": "Prohíbe a los camiones adelantar salvo a motocicletas de dos ruedas.",
+      "b": "Prohíbe a los camiones de más de 3.500 kg de MMA adelantar, salvo a motocicletas de dos ruedas si no invaden el sentido contrario.",
+      "c": "Prohíbe a los camiones adelantar a todos los vehículos."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "tema3_021",
+    "topic": "Señales verticales"
+  },
+  {
+    "id": "QYSOFG",
+    "question": "Esta señal de peligro, ¿Qué indica?",
+    "options": {
+      "a": "Paso a nivel con barreras.",
+      "b": "Paso a nivel sin barreras.",
+      "c": "Paso a nivel sin barreras con más de una vía férrea."
+    },
+    "correct_answer": "",
+    "explanation": "La señal indica un paso a nivel sin barreras, pero no se especifica si hay más de una vía.",
+    "file_id": "tema3_018",
+    "topic": "Señales verticales"
+  },
+  {
+    "id": "QR4B7A",
+    "question": "Si estando en posesión del permiso B conduce un camión que tiene la MMA para dicho permiso, ¿Le afecta esta señal?",
+    "options": {
+      "a": "No.",
+      "b": "Sí.",
+      "c": "Sí, pero únicamente cuando la MMA sea el doble de la tara."
+    },
+    "correct_answer": "",
+    "explanation": "La señal afecta según la masa máxima autorizada (MMA) y el permiso del conductor, pero no se especifica claramente en el texto.",
+    "file_id": "tema3_027",
+    "topic": "Señales verticales"
+  },
+  {
+    "id": "QWFDQ8",
+    "question": "¿Qué indican estas señales?",
+    "options": {
+      "a": "Obligan a circular a 30 km/h en las curvas.",
+      "b": "Prohíben circular a más de 30 km/h en las curvas.",
+      "c": "Aconsejan no circular a más de 30 km/h en las curvas."
+    },
+    "correct_answer": "",
+    "explanation": "Estas señales indican una recomendación de velocidad máxima en las curvas, no una obligación ni prohibición.",
+    "file_id": "tema3_039",
+    "topic": "Señales verticales"
+  },
+  {
+    "id": "Q8VF33",
+    "question": "Conduciendo su turismo, esta señal le indica que para circular es obligatorio el uso de cadenas o neumáticos especiales a una velocidad máxima de...",
+    "options": {
+      "a": "80 km/h.",
+      "b": "60 km/h.",
+      "c": "30 km/h."
+    },
+    "correct_answer": "",
+    "explanation": "La señal indica la obligación de usar cadenas o neumáticos especiales y limita la velocidad máxima permitida, que suele ser baja para garantizar la seguridad.",
+    "file_id": "tema4_037",
+    "topic": "Señales de indicación"
+  },
+  {
+    "id": "QA23HA",
+    "question": "Está señal, ¿Obliga a detenerse?",
+    "options": {
+      "a": "No.",
+      "b": "Sí, siempre.",
+      "c": "Sí, cuando un vehículo que circule en sentido contrario dificulte el paso a ambos vehículos."
+    },
+    "correct_answer": "",
+    "explanation": "",
+    "file_id": "tema3_058",
+    "topic": "Señales verticales"
+  }
+]

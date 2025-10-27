@@ -1,0 +1,3236 @@
+[
+  {
+    "id": "BS5S57",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو برقرار رکھنے اور بریک کے کمزور پڑنے (بریک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the brakes",
+        "ur": "نیوٹرل میں گاڑی کو بغیر گئیر لگائے چلائیں تاکہ انجن پر دباؤ کم ہو اور بریکس پر انحصار کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کا بریک مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فیڈ سے بچاؤ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "58HRUF",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control of your vehicle and avoid brake fade?",
+      "ur": "ڈھلوان پر لمبے نیچے کی ڈرائیونگ کرتے وقت، اپنی گاڑی پر کنٹرول برقرار رکھنے اور بریک فیڈ سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine resistance and use the footbrake frequently",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن کی مزاحمت کم ہو اور فٹ بریک کا بار بار استعمال کریں۔"
+      },
+      "c": {
+        "en": "Apply the footbrake firmly and continuously to maintain a steady speed",
+        "ur": "پاؤں کا بریک مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کو مستحکم رکھا جا سکے۔"
+      },
+      "a": {
+        "en": "Use a lower gear to apply engine braking and avoid relying solely on the footbrake",
+        "ur": "انجن بریکنگ کے لیے نچلی گیئر استعمال کریں اور صرف فٹ بریک پر انحصار کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کو کنٹرول کرنے میں فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using a lower gear applies engine braking, which helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "کم گیئر استعمال کرنے سے انجن بریکنگ لگتی ہے، جو رفتار کو کنٹرول کرنے میں مدد دیتی ہے بغیر بریکس کو زیادہ گرم کیے، اس طرح لمبے نیچے کی ڈھلوانوں پر بریک فیڈ سے بچاؤ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "CZ9YK0",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی سڑک پر گاڑی چلاتے وقت، کنٹرول برقرار رکھنے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and repeatedly to keep speed under control",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور بار بار دبائیں تاکہ رفتار قابو میں رہے۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in slowing the vehicle",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد سے گاڑی کی رفتار کم کی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill slopes.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کے زیادہ گرم ہونے کے، جو لمبے نیچے کی ڈھلوانوں پر بریک فیڈ کو روکتا ہے۔"
+    }
+  },
+  {
+    "id": "LX2KKS",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, which of the following is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، کن میں سے کون سا طریقہ سب سے محفوظ ہے تاکہ گاڑی پر قابو رکھا جا سکے اور بریک کا اثر کم نہ ہو؟"
+    },
+    "options": {
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، کم گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کنٹرول کرنے کے لیے فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      },
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine resistance and rely on the footbrake",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن کی مزاحمت کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "c": {
+        "en": "Apply the footbrake firmly and continuously to maintain a steady speed",
+        "ur": "پاؤں کا بریک مضبوطی اور مسلسل دبائیں تاکہ رفتار کو مستحکم رکھا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade that can occur with excessive footbrake use.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، اس طرح فٹ بریک کے زیادہ استعمال سے ہونے والی بریک فیڈ سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "7IX1JE",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (بریک فیڈ) سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Keep the footbrake pressed lightly while driving in neutral to reduce speed",
+        "ur": "نیوٹرل میں گاڑی چلاتے ہوئے رفتار کم کرنے کے لیے فٹ بریک کو ہلکا دبائے رکھیں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Coast with the clutch pressed down to reduce engine strain and control speed",
+        "ur": "کلچ دبا کر گاڑی کو کوسٹ کریں تاکہ انجن پر دباؤ کم ہو اور رفتار کنٹرول میں رہے۔"
+      },
+      "c": {
+        "en": "Apply the footbrake firmly and repeatedly to maintain a steady speed",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور بار بار دبائیں تاکہ رفتار کو مستحکم رکھا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade; coasting or riding the brakes can reduce control or cause brake failure.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کے زیادہ گرم ہونے کے، جس سے بریک فیڈنگ سے بچا جا سکتا ہے؛ گاڑی کو نیچے سلائیڈ کرنا یا بریکس کو مسلسل دبائے رکھنا کنٹرول کم کر سکتا ہے یا بریک فیل ہونے کا سبب بن سکتا ہے۔"
+    }
+  },
+  {
+    "id": "EKV65U",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, which method is best to help maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، کنٹرول برقرار رکھنے اور بریک کے کمزور پڑنے سے بچنے کے لیے کون سا طریقہ سب سے بہتر ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "c": {
+        "en": "Brake firmly and repeatedly to maintain a slow speed",
+        "ur": "پابندی سے اور بار بار بریک لگائیں تاکہ رفتار کم اور مستحکم رہے۔"
+      },
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine resistance and rely on the footbrake",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن کی مزاحمت کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade that can occur with excessive footbrake use.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کے زیادہ گرم ہونے کے، جو کہ زیادہ فٹ بریک کے استعمال سے بریک فیڈ کا باعث بن سکتا ہے۔"
+    }
+  },
+  {
+    "id": "8JX5PQ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے فیل ہونے سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کا بریک مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو چلائیں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overusing the footbrake, which can overheat and cause brake fade, reducing braking effectiveness.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر فٹ بریک کو زیادہ استعمال کیے، کیونکہ زیادہ استعمال سے بریک گرم ہو سکتا ہے اور بریک فیڈ ہو کر بریکنگ کی کارکردگی کم ہو جاتی ہے۔"
+    }
+  },
+  {
+    "id": "KOYCQ8",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے ہوئے، گاڑی پر کنٹرول برقرار رکھنے اور بریک فیڈ سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کو کنٹرول کرنے میں فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake when needed",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور ضرورت پڑنے پر فٹ بریک کا استعمال کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پیڈل بریک کو مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overusing the footbrake, which can overheat and cause brake fade on long downhill slopes.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر فٹ بریک کو زیادہ استعمال کیے، کیونکہ زیادہ استعمال سے بریک گرم ہو سکتے ہیں اور لمبے نیچے کی ڈھلوانوں پر بریک فیڈ ہو سکتا ہے۔"
+    }
+  },
+  {
+    "id": "ESLS48",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and avoid brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (بریک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Brake firmly and continuously to maintain a steady slow speed",
+        "ur": "پابندی سے اور مسلسل بریک لگائیں تاکہ رفتار کو آہستہ اور مستحکم رکھا جا سکے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن پر دباؤ کم ہو اور فوٹ بریک پر انحصار کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کو کنٹرول کرنے میں فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overusing the footbrake, preventing brake fade and maintaining vehicle control on long downhill slopes.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر فٹ بریک کو زیادہ استعمال کیے، جس سے بریک فیڈ سے بچاؤ ہوتا ہے اور لمبے نیچے کی ڈھلوانوں پر گاڑی پر قابو برقرار رہتا ہے۔"
+    }
+  },
+  {
+    "id": "5DB06R",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, which of the following is the safest method to help maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی ڈرائیونگ کرتے ہوئے، کن میں سے کون سا طریقہ سب سے محفوظ ہے تاکہ کنٹرول برقرار رکھا جا سکے اور بریک فید سے بچا جا سکے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور گاڑی کو روکنے کے لیے فٹ بریک استعمال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overusing the footbrake, which can overheat and cause brake fade on long downhill slopes.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر فٹ بریک کو زیادہ استعمال کیے، کیونکہ زیادہ استعمال سے بریک گرم ہو سکتے ہیں اور لمبے نیچے کی ڈھلوانوں پر بریک فیڈ ہو سکتا ہے۔"
+    }
+  },
+  {
+    "id": "8VJKTR",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو برقرار رکھنے اور بریک فید سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and repeatedly to keep speed under control",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور بار بار دبائیں تاکہ رفتار قابو میں رہے۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in slowing the vehicle",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد سے گاڑی کو سست کیا جا سکے۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake when needed",
+        "ur": "نیوٹرل میں گاڑی کو بغیر گئیر لگائے چلائیں تاکہ انجن پر دباؤ کم ہو اور ضرورت پڑنے پر فٹ بریک کا استعمال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فیڈ سے بچاؤ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "9B107V",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گئیر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو سلائیڈ کرو تاکہ انجن پر دباؤ کم ہو اور فٹ بریک پر انحصار کرو۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کا بریک مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فیڈ سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "RKG2Z6",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبے نیچے کی ڈرائیونگ کے دوران، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (بریک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو چلائیں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "رفتار کم رکھنے کے لیے فٹ بریک کو مضبوطی سے اور مسلسل دبائیں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، کم گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو قابو میں رکھنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فیڈ سے بچاؤ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "WD1TDG",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and avoid brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake when needed",
+        "ur": "نیوٹرل میں گاڑی کو بغیر گئیر لگائے چلائیں تاکہ انجن پر دباؤ کم ہو اور ضرورت پڑنے پر فٹ بریک کا استعمال کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کو کنٹرول کرنے میں فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کر کے اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کا بریک مضبوطی اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overusing the footbrake, which can overheat and cause brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر فٹ بریک کو زیادہ استعمال کیے، کیونکہ زیادہ استعمال سے بریک گرم ہو سکتے ہیں اور لمبے نیچے کی ڈھلوانوں پر بریک فیڈ کا خطرہ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "UV7U0N",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Apply the footbrake firmly and continuously to maintain a steady speed",
+        "ur": "پاؤں کا بریک مضبوطی اور مسلسل دبائیں تاکہ رفتار کو مستحکم رکھا جا سکے۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کو کنٹرول کرنے میں فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      },
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill slopes.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فیڈ سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "GR801R",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best way to maintain control and avoid brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the brakes",
+        "ur": "نیوٹرل میں گاڑی کو سلائیڈ کرو تاکہ انجن پر دباؤ کم ہو اور بریکس پر انحصار کیا جا سکے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، کم گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کا بریک مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overusing the footbrake, preventing brake fade caused by overheating brakes on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے کم گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر فٹ بریک کو زیادہ استعمال کیے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک کے زیادہ گرم ہونے کی وجہ سے بریک فید ہونے سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "XKN3AY",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبے نیچے اترتے ہوئے گاڑی کو کنٹرول میں رکھنے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فیڈ سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "Z8B4L0",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best method to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کے لیے بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو بغیر گیس دیے چلائیں تاکہ انجن پر دباؤ کم ہو اور رفتار کم کرنے کے لیے فٹ بریک استعمال کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کا بریک مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کر کے، اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فیڈ سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "YN59MS",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی سڑک پر گاڑی چلاتے وقت، کنٹرول برقرار رکھنے اور بریک کے کمزور پڑنے (بریک فیڈ) سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the brakes",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور بریکس پر انحصار کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کے بریک کو مضبوطی اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overusing the footbrake, which can cause brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر فٹ بریک کا زیادہ استعمال کیے، کیونکہ زیادہ استعمال سے لمبے نیچے کی ڈھلوانوں پر بریک فید ہو سکتا ہے۔"
+    }
+  },
+  {
+    "id": "HFO9QH",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best method to maintain control and avoid brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (بریک فیڈ) سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and repeatedly to keep speed under control",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور بار بار دبائیں تاکہ رفتار قابو میں رہے۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist with slowing the vehicle",
+        "ur": "گاڑی کی رفتار کم کرنے میں مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فیڈ سے بچاؤ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "OT3M9W",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبے نیچے کی ڈرائیونگ کے دوران، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Keep the car in neutral to reduce engine strain and rely on the footbrake for speed control",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن پر دباؤ کم ہو اور رفتار کنٹرول کے لیے فٹ بریک پر انحصار کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Apply the footbrake firmly and continuously to maintain a steady speed",
+        "ur": "پاؤں کا بریک مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کو مستحکم رکھا جا سکے۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کو کنٹرول کرنے میں فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے کم گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فیڈ سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "8NSFBV",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبے نیچے کی ڈرائیونگ کے دوران، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Apply the footbrake firmly and repeatedly to keep speed under control",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور بار بار دبائیں تاکہ رفتار قابو میں رہے۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid overusing the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the brakes",
+        "ur": "نیوٹرل میں گاڑی کو سلائیڈ کرو تاکہ انجن پر دباؤ کم ہو اور بریکس پر انحصار کیا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے کم گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کے زیادہ گرم ہوئے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فیڈ سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "3XM3GS",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت کنٹرول برقرار رکھنے اور بریک فیڈ سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Drive in neutral to reduce engine resistance and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی چلائیں تاکہ انجن کی مزاحمت کم ہو اور بریک کے لیے فٹ بریک پر انحصار کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کنٹرول کرنے کے لیے فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed and reduces reliance on the footbrake, preventing brake fade on long downhill slopes.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے اور فٹ بریک پر انحصار کم کرتا ہے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فید ہونے سے بچاؤ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "BCW620",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and avoid brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی سڑک پر گاڑی چلاتے وقت، کنٹرول برقرار رکھنے اور بریک فید سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کنٹرول کرنے کے لیے فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      },
+      "c": {
+        "en": "Apply the footbrake firmly and repeatedly to maintain a slow speed",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور بار بار دبائیں تاکہ رفتار کم رہے۔"
+      },
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine strain and use the footbrake frequently",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک کا بار بار استعمال کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade which can occur from excessive footbrake use.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے کم گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کے زیادہ گرم ہونے کے، اس طرح بریک فیڈ سے بچاؤ ہوتا ہے جو کہ زیادہ فٹ بریک کے استعمال سے ہو سکتا ہے۔"
+    }
+  },
+  {
+    "id": "ZFQLFH",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Use the handbrake intermittently to supplement the footbrake",
+        "ur": "ہاتھ بریک کو وقتاً فوقتاً استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کا بریک مضبوطی اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور رفتار کم کرنے کے لیے فٹ بریک کا استعمال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے کم گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کے زیادہ گرم ہونے کے، جو لمبے نیچے کی ڈھلوانوں پر بریک فیڈ کو روکنے میں مددگار ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "N1B2TL",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best way to maintain control and prevent brake fade?",
+      "ur": "لمبے ڈھلوان پر نیچے گاڑی چلاتے وقت، کنٹرول برقرار رکھنے اور بریک فید سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کا بریک مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور گاڑی کو روکنے کے لیے فٹ بریک کا استعمال کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو قابو میں رکھنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فیڈ سے بچاؤ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "SFKKEO",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, which of the following is the safest way to maintain control and avoid brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کے دوران، کن میں سے کون سا طریقہ سب سے محفوظ ہے تاکہ گاڑی پر قابو برقرار رکھا جا سکے اور بریک فید سے بچا جا سکے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine resistance and rely on the footbrake",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن کی مزاحمت کم ہو اور فوٹ بریک پر انحصار کریں۔"
+      },
+      "c": {
+        "en": "Brake firmly and continuously to maintain a steady speed",
+        "ur": "پابندی سے اور مسلسل بریک لگائیں تاکہ رفتار کو مستحکم رکھا جا سکے۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill slopes.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فیڈ سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "6BKLDZ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کو کنٹرول کرنے میں فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں یعنی نچلی گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Apply the footbrake firmly and continuously to maintain a steady speed",
+        "ur": "پاؤں کا بریک مضبوطی اور مسلسل دبائیں تاکہ رفتار کو مستحکم رکھا جا سکے۔"
+      },
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine resistance and rely on the footbrake",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن کی مزاحمت کم ہو اور فٹ بریک پر انحصار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overusing the footbrake, preventing brake fade and maintaining better vehicle control on long downhill slopes.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر فٹ بریک کو زیادہ استعمال کیے، جو بریک فیڈ کو روکتا ہے اور لمبے نیچے کی ڈھلوانوں پر گاڑی پر بہتر کنٹرول برقرار رکھتا ہے۔"
+    }
+  },
+  {
+    "id": "JHGB3P",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and avoid brake fade?",
+      "ur": "لمبے نیچے کی ڈھلوان پر گاڑی چلاتے وقت، گاڑی پر قابو برقرار رکھنے اور بریک کے کمزور پڑنے سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in slowing the vehicle",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد سے گاڑی کو سست کیا جا سکے۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and repeatedly to keep speed under control",
+        "ur": "پیڈل بریک کو مضبوطی سے اور بار بار دبائیں تاکہ رفتار قابو میں رہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed and reduces reliance on the footbrake, preventing brake fade caused by overheating brakes on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے اور فٹ بریک پر انحصار کم کرتا ہے، جس سے لمبے نیچے کی ڈھلوان پر بریک کے زیادہ گرم ہونے کی وجہ سے بریک فید ہونے سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "JO8FSL",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control of your vehicle and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، اپنی گاڑی پر کنٹرول برقرار رکھنے اور بریک فید سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو چلائیں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade which can occur from excessive footbrake use on long downhill slopes.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کے زیادہ گرم ہونے کے، اس سے بریک فیڈ روکتی ہے جو کہ لمبے نیچے کی ڈھلوانوں پر فٹ بریک کے زیادہ استعمال سے ہو سکتی ہے۔"
+    }
+  },
+  {
+    "id": "39DPK4",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Apply the footbrake firmly and repeatedly to keep speed under control",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور بار بار دبائیں تاکہ رفتار قابو میں رہے۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in slowing the vehicle",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد سے گاڑی کو سست کیا جا سکے۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور رفتار کم کرنے کے لیے فٹ بریک کا استعمال کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فیدنگ سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "Q35DPO",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (بریک فیڈ) سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کے بریک کو مضبوطی اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور بریک کے لیے فٹ بریک پر انحصار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade; continuous heavy braking can cause brakes to overheat and become less effective.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے بریک فیڈ سے بچا جا سکتا ہے؛ مسلسل شدید بریک لگانے سے بریکس زیادہ گرم ہو سکتے ہیں اور کم مؤثر ہو جاتے ہیں۔"
+    }
+  },
+  {
+    "id": "A9TSX4",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best method to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (بریک فیڈ) سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور بریک کے لیے فٹ بریک پر انحصار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فیڈ سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "39PU00",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and avoid brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو برقرار رکھنے اور بریک کے کمزور پڑنے سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کو کنٹرول کرنے کے لیے فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      },
+      "c": {
+        "en": "Apply the footbrake firmly and continuously to maintain a steady speed",
+        "ur": "پاؤں کے بریک کو مضبوطی اور مسلسل دبائیں تاکہ رفتار کو مستحکم رکھا جا سکے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک پر انحصار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overusing the footbrake, preventing brake fade caused by overheating brakes on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر فٹ بریک کو زیادہ استعمال کیے، جس سے لمبے نیچے کی ڈھلوان پر بریک کے زیادہ گرم ہونے کی وجہ سے بریک فیڈ ہونے سے بچاؤ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "W4G0W7",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (بریک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کا بریک مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      },
+      "a": {
+        "en": "Use a lower gear to apply engine braking and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کے لیے نچلی گیئر استعمال کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "c": {
+        "en": "Select neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل منتخب کریں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک پر انحصار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using a lower gear applies engine braking, helping to control speed without overusing the footbrake, which can overheat and cause brake fade on long downhill stretches.",
+      "ur": "کم گیئر استعمال کرنے سے انجن بریکنگ فعال ہوتی ہے، جو رفتار کو کنٹرول کرنے میں مدد دیتی ہے بغیر فٹ بریک کو زیادہ استعمال کیے، کیونکہ زیادہ استعمال سے بریک گرم ہو سکتے ہیں اور لمبے نیچے کی ڈھلوان پر بریک کی کارکردگی کم ہو سکتی ہے۔"
+    }
+  },
+  {
+    "id": "9ITDTL",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best way to maintain control and avoid brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (بریک فیڈ) سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "رفتار کم رکھنے کے لیے فٹ بریک کو مضبوطی سے اور مسلسل دبائیں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the brakes",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور بریکس پر انحصار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overusing the footbrake, which can cause brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر فٹ بریک کو زیادہ استعمال کیے، کیونکہ طویل نیچے کی ڈھلوان پر فٹ بریک کا زیادہ استعمال بریک فیڈ کا سبب بن سکتا ہے۔"
+    }
+  },
+  {
+    "id": "59MAX9",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best method to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (بریک فیڈ) سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Apply the footbrake firmly and repeatedly to keep speed under control",
+        "ur": "پیڈل بریک کو مضبوطی سے اور بار بار دبائیں تاکہ رفتار قابو میں رہے۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in slowing the vehicle",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد سے گاڑی کی رفتار کم کی جا سکے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake for stopping",
+        "ur": "انجن پر دباؤ کم کرنے کے لیے گاڑی نیوٹرل میں چلائیں اور گاڑی روکنے کے لیے فٹ بریک کا استعمال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill slopes.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فید ہونے سے بچاؤ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "J5FMHL",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "لمبے ڈھلوان پر نیچے گاڑی چلاتے وقت، کنٹرول برقرار رکھنے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Use the handbrake intermittently to control speed without overheating the footbrake",
+        "ur": "رفتار کنٹرول کرنے کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک زیادہ گرم نہ ہو جائے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو بغیر گئیر لگائے چلائیں تاکہ انجن پر دباؤ کم ہو اور گاڑی کو روکنے کے لیے فٹ بریک کا استعمال کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کا بریک مضبوطی اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed and reduces reliance on the footbrake, preventing brake fade caused by overheating during prolonged braking.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر کا انتخاب رفتار کو کنٹرول کرنے میں مدد دیتا ہے اور فٹ بریک پر انحصار کم کرتا ہے، جس سے طویل بریکنگ کے دوران زیادہ گرم ہونے کی وجہ سے بریک فِیڈ سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "NWB4VJ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر کنٹرول برقرار رکھنے اور بریک فیڈ سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Brake firmly and continuously to maintain a slow speed",
+        "ur": "پابندی سے اور مسلسل بریک لگائیں تاکہ رفتار کم رکھی جا سکے۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine resistance and rely on the footbrake",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن کی مزاحمت کم ہو اور فٹ بریک پر انحصار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade that can occur with excessive footbrake use.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے کم گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، اس طرح فٹ بریک کے زیادہ استعمال سے ہونے والی بریک فیڈ سے بچاؤ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "XQQ16I",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control of your vehicle and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، اپنی گاڑی پر قابو برقرار رکھنے اور بریک کے کمزور پڑنے سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کو کنٹرول کرنے میں فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "c": {
+        "en": "Apply the footbrake firmly and continuously to maintain a steady speed",
+        "ur": "پاؤں کے بریک کو مضبوطی اور مسلسل دبائیں تاکہ رفتار کو مستحکم رکھا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کے زیادہ گرم ہونے کے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فیڈ سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "L0QGSZ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت کنٹرول برقرار رکھنے اور بریک فیڈ سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and repeatedly to keep speed under control",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور بار بار دبائیں تاکہ رفتار قابو میں رہے۔"
+      },
+      "d": {
+        "en": "Keep the clutch pressed down to allow smoother braking",
+        "ur": "کلچ کو دبا کر رکھیں تاکہ بریکنگ ہموار ہو سکے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overusing the footbrake, preventing brake fade caused by overheating brakes on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے کم گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر فٹ بریک کو زیادہ استعمال کیے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک کے زیادہ گرم ہونے کی وجہ سے بریک فیدنگ سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "4BT417",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and avoid brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (بریک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Brake firmly and continuously to maintain a slow speed",
+        "ur": "پابندی سے اور مسلسل بریک لگائیں تاکہ رفتار کم رہے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade and maintaining vehicle control.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کے زیادہ گرم ہونے کے، جس سے بریک فیڈ سے بچاؤ ہوتا ہے اور گاڑی پر قابو برقرار رہتا ہے۔"
+    }
+  },
+  {
+    "id": "BQCANW",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (بریک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو بغیر گئیر لگائے چلائیں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کا بریک مضبوطی اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو قابو میں رکھنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فیڈ سے بچاؤ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "YOIB9Z",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and avoid brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (بریک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کنٹرول کرنے میں فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      },
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "c": {
+        "en": "Apply the footbrake firmly and continuously to maintain a steady speed",
+        "ur": "پاؤں کے بریک کو مضبوطی اور مسلسل دبائیں تاکہ رفتار کو مستحکم رکھا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کے زیادہ گرم ہونے کے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فیڈ سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "BVFI0N",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and avoid brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو برقرار رکھنے اور بریک کے کمزور پڑنے سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Drive in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی چلائیں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist with slowing the vehicle",
+        "ur": "گاڑی کی رفتار کم کرنے میں مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کا بریک مضبوطی اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade and maintaining vehicle control on long downhill slopes.",
+      "ur": "انجن بریکنگ استعمال کرنے کے لیے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے بریک فیڈ سے بچاؤ ہوتا ہے اور لمبے نیچے کی ڈھلوانوں پر گاڑی پر قابو برقرار رہتا ہے۔"
+    }
+  },
+  {
+    "id": "MVK6R9",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, which of the following is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، کن میں سے کون سا طریقہ سب سے محفوظ ہے تاکہ گاڑی پر قابو برقرار رکھا جا سکے اور بریک فید سے بچا جا سکے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کا بریک مضبوطی اور مسلسل دبائیں تاکہ رفتار کم رہے۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist with slowing the vehicle",
+        "ur": "گاڑی کی رفتار کم کرنے میں مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      },
+      "c": {
+        "en": "Drive in neutral to reduce engine resistance and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی چلائیں تاکہ انجن کی مزاحمت کم ہو اور فوٹ بریک پر انحصار کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade; continuous heavy footbrake use can cause brakes to overheat and become less effective.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے بریک فیڈ سے بچا جا سکتا ہے؛ مسلسل بھاری فٹ بریک کا استعمال بریکس کو زیادہ گرم کر کے ان کی کارکردگی کم کر سکتا ہے۔"
+    }
+  },
+  {
+    "id": "2GDXT9",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کے دوران، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو بغیر گئیر لگائے چلائیں تاکہ انجن پر دباؤ کم ہو اور بریک کے لیے فٹ بریک پر انحصار کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and repeatedly to keep the vehicle slow",
+        "ur": "پاؤں کا بریک مضبوطی سے اور بار بار دبائیں تاکہ گاڑی کی رفتار کم رہے۔"
+      },
+      "a": {
+        "en": "Use a lower gear to apply engine braking and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کے لیے نچلی گیئر استعمال کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using a lower gear applies engine braking, which helps control speed and reduces reliance on the footbrake, preventing brake fade on long downhill stretches.",
+      "ur": "کم گیئر استعمال کرنے سے انجن بریکنگ ہوتی ہے، جو رفتار کو کنٹرول کرنے میں مدد دیتی ہے اور فٹ بریک پر انحصار کم کرتی ہے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک کے کمزور پڑنے (بریک فیڈ) سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "L9KSG3",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی سڑک پر گاڑی چلاتے وقت، کنٹرول برقرار رکھنے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کر کے، اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in slowing the vehicle",
+        "ur": "گاڑی کو سست کرنے میں فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake for stopping",
+        "ur": "نیوٹرل میں گاڑی کو بغیر گئیر لگائے چلائیں تاکہ انجن پر دباؤ کم ہو اور گاڑی روکنے کے لیے فٹ بریک پر انحصار کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and repeatedly to keep speed under control",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور بار بار دبائیں تاکہ رفتار قابو میں رہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed and reduces reliance on the footbrake, preventing brake fade caused by overheating brakes on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے اور فٹ بریک پر انحصار کم کرتا ہے، جس سے لمبے نیچے کی طرف ڈھلوانوں پر بریک کے زیادہ گرم ہونے کی وجہ سے بریک فیڈ سے بچاؤ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "J4T9IO",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبے نیچے کی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے فیل ہونے سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو بغیر گئیر لگائے چلائیں تاکہ انجن پر دباؤ کم ہو اور بریک کے لیے فٹ بریک پر انحصار کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کا بریک مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے کم گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کے زیادہ گرم ہونے کے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فیڈ سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "DDWBE0",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی سڑک پر گاڑی چلاتے وقت، کنٹرول برقرار رکھنے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the brakes",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور بریکس پر انحصار کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کے بریک کو مضبوطی اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overusing the footbrake, which can overheat and cause brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر فٹ بریک کو زیادہ استعمال کیے، کیونکہ زیادہ استعمال سے بریک زیادہ گرم ہو سکتے ہیں اور لمبے نیچے کی ڈھلوان پر بریک کی کارکردگی کم ہو سکتی ہے۔"
+    }
+  },
+  {
+    "id": "7XSIBX",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best method to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in slowing the vehicle",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد سے گاڑی کو سست کیا جا سکے۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو بغیر گئیر لگائے چلائیں تاکہ انجن پر دباؤ کم ہو اور بریک کے لیے فٹ بریک پر انحصار کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and repeatedly to keep speed under control",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور بار بار دبائیں تاکہ رفتار قابو میں رہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کے زیادہ گرم ہونے کے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فیڈ سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "RBR2BL",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Apply the footbrake firmly and continuously to maintain a steady speed",
+        "ur": "پاؤں کا بریک مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کو مستحکم رکھا جا سکے۔"
+      },
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine resistance and rely on the footbrake",
+        "ur": "گاڑی کو نیوٹرل گیئر میں رکھیں تاکہ انجن کی مزاحمت کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کو کنٹرول کرنے میں فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فیدنگ سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "98TPZP",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبے نیچے کی ڈرائیونگ کے دوران، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Apply the footbrake firmly and continuously to maintain a steady speed",
+        "ur": "پاؤں کا بریک مضبوطی اور مسلسل دبائیں تاکہ رفتار کو مستحکم رکھا جا سکے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کر کے، اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine strain and use the footbrake frequently",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک کا بار بار استعمال کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کو کنٹرول کرنے میں فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overusing the footbrake, which can overheat and cause brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر فٹ بریک کو زیادہ استعمال کیے، کیونکہ زیادہ استعمال سے بریک گرم ہو سکتے ہیں اور لمبے نیچے کی ڈھلوان پر بریک کی کارکردگی کم ہو سکتی ہے۔"
+    }
+  },
+  {
+    "id": "2IL2B2",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر کنٹرول برقرار رکھنے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "c": {
+        "en": "Apply the footbrake firmly and continuously to maintain a steady speed",
+        "ur": "پاؤں کے بریک کو مضبوطی اور مسلسل دبائیں تاکہ رفتار کو مستحکم رکھا جا سکے۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کنٹرول کرنے میں فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed and reduces reliance on the footbrake, preventing brake fade caused by overheating brakes on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے اور فٹ بریک پر انحصار کم کرتا ہے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک کے زیادہ گرم ہونے کی وجہ سے بریک فید ہونے سے بچاؤ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "OC006G",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو برقرار رکھنے اور بریک فید سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake when needed",
+        "ur": "نیوٹرل میں گاڑی کو بغیر گئیر لگائے چلائیں تاکہ انجن پر دباؤ کم ہو اور ضرورت پڑنے پر فٹ بریک کا استعمال کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کو کنٹرول کرنے میں فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فیڈ سے بچاؤ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "Z2PANW",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest method to prevent brake fade and maintain control of your vehicle?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، بریک فیڈ کو روکنے اور اپنی گاڑی پر قابو برقرار رکھنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Apply the footbrake firmly and repeatedly to keep your speed low",
+        "ur": "اپنے رفتار کو کم رکھنے کے لیے فٹ بریک کو مضبوطی سے اور بار بار دبائیں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کنٹرول کرنے کے لیے فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake when necessary",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور ضرورت پڑنے پر فٹ بریک کا استعمال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade and maintaining better vehicle control on long downhill slopes.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کے زیادہ گرم ہونے کے، جس سے بریک فیڈ سے بچاؤ ہوتا ہے اور لمبے نیچے کی ڈھلوانوں پر گاڑی پر بہتر کنٹرول برقرار رہتا ہے۔"
+    }
+  },
+  {
+    "id": "6DN0YO",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best way to maintain control and avoid brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی سڑک پر گاڑی چلاتے وقت، کنٹرول برقرار رکھنے اور بریک کے کمزور پڑنے سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in slowing the vehicle",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد سے گاڑی کی رفتار کم کی جا سکے۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and repeatedly to keep speed under control",
+        "ur": "پیڈل بریک کو مضبوطی سے اور بار بار دبائیں تاکہ رفتار قابو میں رہے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور بریک کے لیے فٹ بریک پر انحصار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill slopes.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فیڈ سے بچاؤ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "SPU033",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، کنٹرول برقرار رکھنے اور بریک فیڈ سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "رفتار کم رکھنے کے لیے فٹ بریک کو مضبوطی سے اور مسلسل دبائیں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "c": {
+        "en": "Drive in neutral to reduce engine resistance and rely on the footbrake",
+        "ur": "نیوٹرل میں ڈرائیو کریں تاکہ انجن کی مزاحمت کم ہو اور فٹ بریک پر انحصار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade that can occur with excessive footbrake use.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، اس طرح فٹ بریک کے زیادہ استعمال سے ہونے والی بریک فیڈ سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "RRXPJS",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (بریک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Brake firmly and continuously to maintain a steady slow speed",
+        "ur": "پابندی سے اور مسلسل بریک لگائیں تاکہ رفتار کو آہستہ اور مستحکم رکھا جا سکے۔"
+      },
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine resistance and rely on the footbrake",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن کی مزاحمت کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کو کنٹرول کرنے میں فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed and reduces reliance on the footbrake, preventing brake fade caused by overheating during prolonged braking.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے اور فٹ بریک پر انحصار کم کرتا ہے، جس سے طویل بریکنگ کے دوران زیادہ گرم ہونے کی وجہ سے بریک کے کمزور پڑنے (بریک فیڈ) سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "UJN186",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and avoid brake fade?",
+      "ur": "ڈھلوان پر لمبے نیچے کی ڈرائیونگ کے دوران، گاڑی پر قابو برقرار رکھنے اور بریک فیڈ سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Apply the footbrake firmly and repeatedly to keep speed under control",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور بار بار دبائیں تاکہ رفتار قابو میں رہے۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake when needed",
+        "ur": "نیوٹرل میں گاڑی کو بغیر گئیر لگائے چلائیں تاکہ انجن پر دباؤ کم ہو اور ضرورت پڑنے پر فٹ بریک کا استعمال کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کو کنٹرول کرنے میں فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overusing the footbrake, which can overheat and cause brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر فٹ بریک کا زیادہ استعمال کیے، کیونکہ زیادہ استعمال سے بریک گرم ہو سکتے ہیں اور لمبے نیچے کی ڈھلوانوں پر بریک فیڈ ہو سکتا ہے۔"
+    }
+  },
+  {
+    "id": "G31TSD",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے ہوئے، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کے بریک کو مضبوطی اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the brakes",
+        "ur": "نیوٹرل میں گاڑی کو سلائیڈ کرو تاکہ انجن پر دباؤ کم ہو اور بریکس پر انحصار کیا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overusing the footbrake, which can overheat and cause brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر فٹ بریک کو زیادہ استعمال کیے، کیونکہ زیادہ استعمال سے بریک گرم ہو سکتے ہیں اور لمبے نیچے کی ڈھلوانوں پر بریک فیڈ ہو سکتا ہے۔"
+    }
+  },
+  {
+    "id": "2MBPV9",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (بریک فیڈ) سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "c": {
+        "en": "Drive in neutral to reduce engine resistance and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی چلائیں تاکہ انجن کی مزاحمت کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overusing the footbrake, which can overheat and cause brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر فٹ بریک کو زیادہ استعمال کیے، کیونکہ زیادہ استعمال سے بریک گرم ہو سکتے ہیں اور لمبے نیچے کی ڈھلوان پر بریک فیڈ ہو سکتا ہے۔"
+    }
+  },
+  {
+    "id": "UU334S",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control of your vehicle and avoid brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے ہوئے، اپنی گاڑی پر کنٹرول برقرار رکھنے اور بریک فیڈ سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Use a lower gear to apply engine braking and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کے لیے نچلی گیئر استعمال کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to supplement the footbrake",
+        "ur": "ہاتھ بریک کو وقتاً فوقتاً استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and repeatedly to keep your speed low",
+        "ur": "اپنے رفتار کو کم رکھنے کے لیے فٹ بریک کو مضبوطی سے اور بار بار دبائیں۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور بریک کے لیے فٹ بریک پر انحصار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using a lower gear applies engine braking, which helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "کم گیئر استعمال کرنے سے انجن بریکنگ لگتی ہے، جو رفتار کو کنٹرول کرنے میں مدد دیتی ہے بغیر بریکس کو زیادہ گرم کیے، اور لمبے نیچے کی ڈھلوانوں پر بریک فید کو روکتی ہے۔"
+    }
+  },
+  {
+    "id": "8P7MVC",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best method to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبے نیچے اترنے کے دوران گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کے لیے بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and repeatedly to keep speed under control",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور بار بار دبائیں تاکہ رفتار قابو میں رہے۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine resistance and save fuel",
+        "ur": "نیوٹرل میں گاڑی کو کوسٹ کریں تاکہ انجن کی مزاحمت کم ہو اور ایندھن کی بچت ہو۔"
+      },
+      "a": {
+        "en": "Use a lower gear to apply engine braking and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کے لیے نچلی گیئر استعمال کریں اور فٹ بریک کے زیادہ استعمال سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using a lower gear applies engine braking, which helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "کم گیئر استعمال کرنے سے انجن بریکنگ فعال ہوتی ہے، جو رفتار کو کنٹرول کرنے میں مدد دیتی ہے بغیر بریکس کو زیادہ گرم کیے، اور لمبے نیچے کی ڈھلوانوں پر بریک فیڈ کو روکتی ہے۔"
+    }
+  },
+  {
+    "id": "2OVR51",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (بریک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کو کنٹرول کرنے میں فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "c": {
+        "en": "Apply the footbrake firmly and continuously to maintain a slow speed",
+        "ur": "پاؤں کے بریک کو مضبوطی اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed and reduces reliance on the footbrake, preventing brake fade caused by overheating during prolonged braking.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے اور فٹ بریک پر انحصار کم کرتا ہے، جس سے طویل بریکنگ کے دوران زیادہ گرم ہونے کی وجہ سے بریک کے کمزور پڑنے (بریک فیڈ) سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "31NOKI",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best way to maintain control and avoid brake fade?",
+      "ur": "ڈھلوان پر لمبے نیچے کی ڈرائیونگ کے دوران کنٹرول برقرار رکھنے اور بریک فیڈ سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Brake firmly and repeatedly to maintain a slow speed",
+        "ur": "پابندی سے اور بار بار بریک لگائیں تاکہ رفتار کم اور مستحکم رہے۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine resistance and rely on the footbrake",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن کی مزاحمت کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو قابو میں رکھنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فیدنگ سے بچاؤ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "3RHW0Q",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، کنٹرول برقرار رکھنے اور بریک فیڈ سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and repeatedly to keep speed under control",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور بار بار دبائیں تاکہ رفتار قابو میں رہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جو لمبے نیچے کی ڈھلوانوں پر بریک فیڈ کو روکتا ہے۔"
+    }
+  },
+  {
+    "id": "UFGTE7",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control of your vehicle and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی سڑک پر گاڑی چلاتے وقت، اپنی گاڑی پر کنٹرول برقرار رکھنے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake when necessary",
+        "ur": "نیوٹرل میں گاڑی کو بغیر گئیر لگائے چلائیں تاکہ انجن پر دباؤ کم ہو اور جب ضرورت ہو تو فٹ بریک کا استعمال کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کنٹرول کرنے میں فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed under control",
+        "ur": "پاؤں کا بریک مضبوطی سے اور مسلسل دبائیں تاکہ رفتار قابو میں رہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overusing the footbrake, preventing brake fade and maintaining better vehicle control on long downhill slopes.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر فٹ بریک کو زیادہ استعمال کیے، جس سے بریک فیڈ سے بچاؤ ہوتا ہے اور لمبے نیچے کی ڈھلوانوں پر گاڑی پر بہتر کنٹرول برقرار رہتا ہے۔"
+    }
+  },
+  {
+    "id": "R9NL0F",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control of your vehicle and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبے نیچے کی ڈرائیونگ کے دوران، اپنی گاڑی پر کنٹرول برقرار رکھنے اور بریک فید سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو چلائیں تاکہ انجن پر دباؤ کم ہو اور بریک کے لیے فٹ بریک پر انحصار کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and repeatedly to keep your speed low",
+        "ur": "اپنے رفتار کو کم رکھنے کے لیے فٹ بریک کو مضبوطی سے اور بار بار دبائیں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in slowing the vehicle",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد سے گاڑی کو سست کیا جا سکے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade; relying heavily on the footbrake can cause it to overheat and become less effective.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے بریک فیڈ سے بچا جا سکتا ہے؛ صرف فٹ بریک پر انحصار کرنے سے بریک زیادہ گرم ہو سکتے ہیں اور ان کی کارکردگی کم ہو جاتی ہے۔"
+    }
+  },
+  {
+    "id": "4ZQMIA",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control of your vehicle and avoid brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، اپنی گاڑی پر قابو پانے اور بریک فیڈ سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن پر دباؤ کم ہو اور فوٹ بریک پر انحصار کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Brake firmly and continuously to maintain a slow speed",
+        "ur": "پابندی سے اور مسلسل بریک لگائیں تاکہ رفتار کم رہے۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed and reduces reliance on the footbrake, preventing brake fade caused by overheating brakes on long downhill stretches.",
+      "ur": "انجن بریکنگ استعمال کرنے کے لیے نچلی گیئر منتخب کرنا رفتار کنٹرول کرنے میں مدد دیتا ہے اور فٹ بریک پر انحصار کم کرتا ہے، جس سے طویل نیچے کی ڈھلوان پر بریک کے زیادہ گرم ہونے کی وجہ سے بریک فیدنگ سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "2T7YAS",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی سڑک پر گاڑی چلاتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن پر دباؤ کم ہو اور فوٹ بریک پر انحصار کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کو کنٹرول کرنے میں فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      },
+      "c": {
+        "en": "Apply the footbrake firmly and continuously to maintain a steady speed",
+        "ur": "پاؤں کے بریک کو مضبوطی اور مسلسل دبائیں تاکہ رفتار کو مستحکم رکھا جا سکے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overusing the footbrake, which can overheat and cause brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر فٹ بریک کو زیادہ استعمال کیے، کیونکہ زیادہ استعمال سے بریک گرم ہو سکتے ہیں اور لمبے نیچے کی ڈھلوان پر بریک فید ہو سکتا ہے۔"
+    }
+  },
+  {
+    "id": "XBI2YW",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best method to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبے نیچے اترنے کے دوران گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کنٹرول کرنے میں فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep your speed low",
+        "ur": "اپنے رفتار کو کم رکھنے کے لیے فٹ بریک کو مضبوطی سے اور مسلسل دبائیں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake when needed",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور ضرورت پڑنے پر فٹ بریک کا استعمال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overusing the footbrake, preventing brake fade and maintaining better control on long downhill slopes.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر فٹ بریک کو زیادہ استعمال کیے، جس سے بریک فیڈ سے بچاؤ ہوتا ہے اور لمبے نیچے کی ڈھلوانوں پر بہتر کنٹرول برقرار رہتا ہے۔"
+    }
+  },
+  {
+    "id": "NOF937",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبے نیچے اترتے ہوئے گاڑی کو قابو میں رکھنے اور بریک کے کمزور پڑنے سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Drive in neutral to reduce engine resistance and save fuel",
+        "ur": "نیوٹرل میں گاڑی چلائیں تاکہ انجن کی مزاحمت کم ہو اور ایندھن کی بچت ہو۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overusing the footbrake, which can overheat and cause brake fade.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر فٹ بریک کو زیادہ استعمال کیے، کیونکہ زیادہ استعمال سے بریک گرم ہو سکتے ہیں اور بریک فیڈ کا خطرہ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "C3ZH3C",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کو کنٹرول کرنے میں فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      },
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine resistance and rely on the footbrake",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن کی مزاحمت کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Apply the footbrake firmly and continuously to maintain a steady speed",
+        "ur": "پاؤں کا بریک مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کو مستحکم رکھا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade that can occur with excessive footbrake use.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو قابو میں رکھنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے فٹ بریک کے زیادہ استعمال سے پیدا ہونے والی بریک فیڈ سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "C07NMZ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control of your vehicle and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، اپنی گاڑی پر کنٹرول برقرار رکھنے اور بریک کے فیل ہونے سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine strain and rely on the footbrake for speed control",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن پر دباؤ کم ہو اور رفتار کنٹرول کے لیے فٹ بریک پر انحصار کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کو کنٹرول کرنے میں فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      },
+      "c": {
+        "en": "Brake firmly and repeatedly to maintain a slow speed throughout the descent",
+        "ur": "نیچے اترتے ہوئے رفتار کو کم رکھنے کے لیے بریک کو مضبوطی سے اور بار بار دبائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed on long downhill slopes and prevents the brakes from overheating and fading, which can reduce their effectiveness.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا لمبے نیچے کی ڈھلوانوں پر رفتار کو کنٹرول کرنے میں مدد دیتا ہے اور بریکس کے زیادہ گرم ہونے اور کمزور پڑنے سے بچاتا ہے، جو ان کی کارکردگی کو کم کر سکتا ہے۔"
+    }
+  },
+  {
+    "id": "0CE5MY",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, which of the following is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی ڈرائیونگ کرتے ہوئے، کن میں سے کون سا طریقہ سب سے محفوظ ہے تاکہ گاڑی پر قابو رکھا جا سکے اور بریک کا کمزور پڑنا (برییک فیڈ) روکا جا سکے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake when necessary",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور جب ضرورت ہو تو فٹ بریک کا استعمال کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and repeatedly to keep speed under control",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور بار بار دبائیں تاکہ رفتار قابو میں رہے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in slowing the vehicle",
+        "ur": "گاڑی کو سست کرنے میں فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade and maintaining better vehicle control on long downhill slopes.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کے زیادہ گرم ہونے کے، جس سے بریک فیڈ سے بچاؤ ہوتا ہے اور لمبے نیچے کی ڈھلوانوں پر گاڑی پر بہتر کنٹرول برقرار رہتا ہے۔"
+    }
+  },
+  {
+    "id": "WFV38X",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Apply the footbrake firmly and repeatedly to maintain a steady speed",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور بار بار دبائیں تاکہ رفتار کو مستحکم رکھا جا سکے۔"
+      },
+      "c": {
+        "en": "Drive in neutral to allow the vehicle to slow naturally and use the footbrake as needed",
+        "ur": "نیوٹرل میں گاڑی چلائیں تاکہ گاڑی قدرتی طور پر سست ہو سکے اور ضرورت کے مطابق فٹ بریک استعمال کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Keep the clutch pressed down to reduce engine strain and rely on the footbrake",
+        "ur": "کلچ کو دبا کر رکھیں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک پر انحصار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed and reduces reliance on the footbrake, preventing brake fade caused by overheating brakes on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے اور فٹ بریک پر انحصار کم کرتا ہے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک کے زیادہ گرم ہونے کی وجہ سے بریک فید ہونے سے بچاؤ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "HXJQE3",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبے نیچے اترتے ہوئے گاڑی کو کنٹرول میں رکھنے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کر کے، اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور صرف فٹ بریک پر انحصار کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "رفتار کم رکھنے کے لیے فٹ بریک کو مضبوطی سے اور مسلسل دبائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فید ہونے سے بچاؤ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "5M4RYF",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best way to maintain control and avoid brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت کنٹرول برقرار رکھنے اور بریک فیڈ سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو سلائیڈ کریں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and repeatedly to keep speed under control",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور بار بار دبائیں تاکہ رفتار قابو میں رہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed and reduces reliance on the footbrake, preventing brake fade caused by overheating brakes on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے اور فٹ بریک پر انحصار کم کرتا ہے، جس سے لمبے نیچے کی ڈھلوان پر بریک کے زیادہ گرم ہونے کی وجہ سے بریک فید ہونے سے بچاؤ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "UGYDRD",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبے نیچے کی ڈرائیونگ کے دوران، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Brake firmly and repeatedly to maintain a slow speed",
+        "ur": "پابندی سے اور بار بار بریک لگائیں تاکہ رفتار کم اور مستحکم رہے۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed and reduces reliance on the footbrake, preventing brake fade caused by overheating brakes on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے اور فٹ بریک پر انحصار کم کرتا ہے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک کے زیادہ گرم ہونے کی وجہ سے بریک فید ہونے سے بچاؤ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "3AMU42",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, which of the following is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبے نیچے اترتے ہوئے، کن میں سے کون سا طریقہ گاڑی پر قابو پانے اور بریک کے کمزور پڑنے سے بچنے کے لیے سب سے محفوظ ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Brake firmly and continuously to maintain a slow speed",
+        "ur": "پابندی سے اور مسلسل بریک لگائیں تاکہ رفتار کم رہے۔"
+      },
+      "a": {
+        "en": "Use a lower gear to apply engine braking and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کے لیے نچلی گیئر استعمال کریں اور فٹ بریک کے زیادہ استعمال سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine resistance and rely on the footbrake",
+        "ur": "گاڑی کو نیوٹرل گیئر میں رکھیں تاکہ انجن کی مزاحمت کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using a lower gear applies engine braking, which helps control speed without overheating the brakes, preventing brake fade on long downhill slopes.",
+      "ur": "کم گیئر استعمال کرنے سے انجن بریکنگ لگتی ہے، جو رفتار کو کنٹرول کرنے میں مدد دیتی ہے بغیر بریکس کو زیادہ گرم کیے، اور لمبے نیچے کی ڈھلوانوں پر بریک فیڈ کو روکتی ہے۔"
+    }
+  },
+  {
+    "id": "PTS2SZ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to control your speed and avoid brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کے دوران اپنی رفتار کو کنٹرول کرنے اور بریک کے فیل ہونے سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Apply the footbrake firmly and repeatedly to maintain a steady speed",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور بار بار دبائیں تاکہ رفتار مستحکم رہے۔"
+      },
+      "b": {
+        "en": "Keep the clutch pressed down to reduce engine power and rely on the footbrake",
+        "ur": "کلچ کو دبا کر رکھیں تاکہ انجن کی طاقت کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Drive in neutral to allow the vehicle to slow naturally and use the footbrake as needed",
+        "ur": "گاڑی کو نیوٹرل میں چلائیں تاکہ گاڑی قدرتی طور پر سست ہو سکے اور ضرورت کے مطابق فٹ بریک استعمال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed and reduces reliance on the footbrake, preventing brake fade caused by overheating brakes on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے اور فٹ بریک پر انحصار کم کرتا ہے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک کے زیادہ گرم ہونے کی وجہ سے بریک فید ہونے سے بچاؤ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "HURNZC",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کے دوران، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو بغیر گئیر لگائے چلائیں تاکہ انجن پر دباؤ کم ہو اور رفتار کم کرنے کے لیے فٹ بریک کا استعمال کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overusing the footbrake, preventing brake fade and maintaining better vehicle control on long downhill slopes.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر فٹ بریک کا زیادہ استعمال کیے، جو بریک فیڈ کو روکتا ہے اور لمبے نیچے کی ڈھلوانوں پر گاڑی پر بہتر کنٹرول برقرار رکھتا ہے۔"
+    }
+  },
+  {
+    "id": "B8ID61",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control of your vehicle and avoid brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، اپنی گاڑی پر کنٹرول برقرار رکھنے اور بریک فیڈ سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو چلائیں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کنٹرول کرنے کے لیے فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کا بریک مضبوطی اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade that can occur from excessive footbrake use on long downhill slopes.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے کم گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جو کہ لمبے نیچے کی ڈھلوانوں پر فٹ بریک کے زیادہ استعمال سے بریک فیڈ ہونے سے بچاتا ہے۔"
+    }
+  },
+  {
+    "id": "3HBSCV",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to control your speed and avoid brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچے کی ڈرائیونگ کرتے ہوئے اپنی رفتار کو کنٹرول کرنے اور بریک کے کمزور پڑنے سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Use the handbrake intermittently to supplement the footbrake",
+        "ur": "ہاتھ بریک کو وقتاً فوقتاً استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and repeatedly to maintain a steady speed",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور بار بار دبائیں تاکہ رفتار کو مستحکم رکھا جا سکے۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine resistance and save fuel",
+        "ur": "نیوٹرل میں گاڑی کو چلائیں تاکہ انجن کی مزاحمت کم ہو اور ایندھن کی بچت ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فیڈ سے بچاؤ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "2SJ585",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک فیڈ سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Drive in neutral to reduce engine resistance and rely on the footbrake",
+        "ur": "نیوٹرل میں ڈرائیو کریں تاکہ انجن کی مزاحمت کم ہو اور فوٹ بریک پر انحصار کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade and maintaining vehicle control on long downhill slopes.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے بریک فیڈ سے بچاؤ ہوتا ہے اور لمبے نیچے کی ڈھلوانوں پر گاڑی پر قابو برقرار رہتا ہے۔"
+    }
+  },
+  {
+    "id": "0IT1YC",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control of your vehicle and avoid brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی سڑک پر گاڑی چلاتے وقت، اپنی گاڑی پر کنٹرول برقرار رکھنے اور بریک فیڈ سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو چلائیں تاکہ انجن پر دباؤ کم ہو اور فوٹ بریک پر انحصار کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کے بریک کو مضبوطی اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کے زیادہ گرم ہونے کے، جو لمبے نیچے کی ڈھلوانوں پر بریک فیڈ کو روکتا ہے۔"
+    }
+  },
+  {
+    "id": "LBCZKH",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (بریک فیڈ) سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and repeatedly to keep speed under control",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور بار بار دبائیں تاکہ رفتار قابو میں رہے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فیڈ سے بچا جا سکتا ہے۔"
+    }
+  },
+  {
+    "id": "NVURY4",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to control your speed and avoid brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی سڑک پر گاڑی چلاتے وقت اپنی رفتار کو کنٹرول کرنے اور بریک کے فیل ہونے سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and use the footbrake as needed",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور ضرورت کے مطابق فٹ بریک استعمال کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کو کنٹرول کرنے میں فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and repeatedly to maintain a steady speed",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور بار بار دبائیں تاکہ رفتار کو مستحکم رکھا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overusing the footbrake, which prevents brake fade caused by overheating brakes on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر فٹ بریک کو زیادہ استعمال کیے، جو کہ لمبے نیچے کی ڈھلوانوں پر بریک کے زیادہ گرم ہونے کی وجہ سے بریک فید کو روکتا ہے۔"
+    }
+  },
+  {
+    "id": "LAR5H3",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (بریک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کا بریک مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور رفتار کم کرنے کے لیے فٹ بریک کا استعمال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade; continuous heavy braking can cause brakes to overheat and lose effectiveness.",
+      "ur": "انجن بریکنگ استعمال کرنے کے لیے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے بریک فیڈنگ روکتی ہے؛ مسلسل سخت بریک لگانے سے بریکس زیادہ گرم ہو سکتے ہیں اور ان کی کارکردگی متاثر ہو جاتی ہے۔"
+    }
+  },
+  {
+    "id": "BLNIBB",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and avoid brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (بریک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake when necessary",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور جب ضرورت ہو تو فٹ بریک کا استعمال کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کو کنٹرول کرنے میں فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and repeatedly to keep speed under control",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور بار بار دبائیں تاکہ رفتار قابو میں رہے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade that can occur from excessive footbrake use on long downhill slopes.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کے زیادہ گرم ہونے کے، جو کہ طویل نیچے کی ڈھلوانوں پر فٹ بریک کے زیادہ استعمال سے بریک فیڈ ہونے سے بچاتا ہے۔"
+    }
+  },
+  {
+    "id": "5JP6OE",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control of your vehicle and avoid brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی سڑک پر گاڑی چلاتے وقت، اپنی گاڑی پر کنٹرول برقرار رکھنے اور بریک فیڈ سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine resistance and rely on the footbrake",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن کی مزاحمت کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "c": {
+        "en": "Brake firmly and repeatedly to maintain a slow speed",
+        "ur": "پابندی سے اور بار بار بریک لگائیں تاکہ رفتار کم اور مستحکم رہے۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade that can occur from excessive footbrake use on long downhill slopes.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جو کہ طویل نیچے کی ڈھلوانوں پر زیادہ فٹ بریک کے استعمال سے بریک فیڈ ہونے سے بچاتا ہے۔"
+    }
+  },
+  {
+    "id": "3X5E6Z",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو رکھنے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کم رکھی جا سکے۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو بغیر پاور کے چلائیں تاکہ انجن پر دباؤ کم ہو اور بریک کے لیے فٹ بریک پر انحصار کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overusing the footbrake, preventing brake fade and maintaining better vehicle control.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر فٹ بریک کو زیادہ استعمال کیے، جس سے بریک فیدنگ سے بچاؤ ہوتا ہے اور گاڑی پر بہتر کنٹرول برقرار رہتا ہے۔"
+    }
+  },
+  {
+    "id": "CHUOVU",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the best way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (بریک فیڈ) سے بچنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "c": {
+        "en": "Coast in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "نیوٹرل میں گاڑی کو سلائیڈ کریں تاکہ انجن پر دباؤ کم ہو اور فٹ بریک پر انحصار کریں۔"
+      },
+      "b": {
+        "en": "Apply the footbrake firmly and continuously to keep speed low",
+        "ur": "رفتار کم رکھنے کے لیے فٹ بریک کو مضبوطی سے اور مسلسل دبائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overusing the footbrake, which can overheat and cause brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر فٹ بریک کو زیادہ استعمال کیے، کیونکہ زیادہ استعمال سے بریک گرم ہو سکتے ہیں اور لمبے نیچے کی ڈھلوانوں پر بریک فیڈ کا سبب بن سکتے ہیں۔"
+    }
+  },
+  {
+    "id": "EEN6DS",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, which of the following is the safest way to maintain control and avoid brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، کن میں سے کون سا طریقہ سب سے محفوظ ہے تاکہ گاڑی پر قابو برقرار رکھا جا سکے اور بریک فید سے بچا جا سکے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن پر دباؤ کم ہو اور فوٹ بریک پر انحصار کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Brake firmly and continuously to maintain a slow speed",
+        "ur": "پابندی سے اور مسلسل بریک لگائیں تاکہ رفتار کم اور مستحکم رہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overusing the footbrake, preventing brake fade and maintaining better vehicle control on long downhill slopes.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر فٹ بریک کو زیادہ استعمال کیے، جس سے بریک فیڈ سے بچاؤ ہوتا ہے اور لمبے نیچے کی ڈھلوانوں پر گاڑی پر بہتر کنٹرول برقرار رہتا ہے۔"
+    }
+  },
+  {
+    "id": "2QAVTG",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی ڈرائیونگ کرتے وقت، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake",
+        "ur": "ہاتھ بریک کو وقفے وقفے سے استعمال کریں تاکہ فٹ بریک کی مدد کی جا سکے۔"
+      },
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن پر دباؤ کم ہو اور فوٹ بریک پر انحصار کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Brake firmly and continuously to maintain a slow speed",
+        "ur": "پابندی سے اور مسلسل بریک لگائیں تاکہ رفتار کم رہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed and reduces reliance on the footbrake, preventing brake fade caused by overheating during prolonged braking.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نیچے گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے اور فٹ بریک پر انحصار کم کرتا ہے، جس سے طویل بریکنگ کے دوران زیادہ گرم ہونے کی وجہ سے بریک فید ہونے سے بچاؤ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "ZMTH93",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, which of the following is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی نیچی سڑک پر گاڑی چلاتے ہوئے، کن میں سے کون سا طریقہ سب سے محفوظ ہے تاکہ کنٹرول برقرار رکھا جا سکے اور بریک فید سے بچا جا سکے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Apply the footbrake firmly and continuously to maintain a steady speed",
+        "ur": "پاؤں کا بریک مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کو مستحکم رکھا جا سکے۔"
+      },
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine strain and rely on the footbrake for speed control",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن پر دباؤ کم ہو اور رفتار کنٹرول کے لیے فٹ بریک پر انحصار کریں۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ کا استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کنٹرول کرنے کے لیے فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overheating the brakes, preventing brake fade on long downhill stretches.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر بریکس کو زیادہ گرم کیے، جس سے لمبے نیچے کی ڈھلوانوں پر بریک فیڈ سے بچاؤ ہوتا ہے۔"
+    }
+  },
+  {
+    "id": "WBYXGO",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vehicle handling",
+    "question": {
+      "en": "When driving downhill on a long slope, what is the safest way to maintain control and prevent brake fade?",
+      "ur": "ڈھلوان پر لمبی ڈرائیونگ کے دوران، گاڑی پر قابو پانے اور بریک کے کمزور پڑنے (برییک فیڈ) سے بچنے کا سب سے محفوظ طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Use the handbrake intermittently to assist the footbrake in controlling speed",
+        "ur": "رفتار کنٹرول کرنے کے لیے فٹ بریک کی مدد کے لیے ہینڈ بریک کو وقفے وقفے سے استعمال کریں۔"
+      },
+      "c": {
+        "en": "Apply the footbrake firmly and continuously to maintain a steady speed",
+        "ur": "پاؤں کے بریک کو مضبوطی سے اور مسلسل دبائیں تاکہ رفتار کو مستحکم رکھا جا سکے۔"
+      },
+      "a": {
+        "en": "Use engine braking by selecting a lower gear and avoid excessive use of the footbrake",
+        "ur": "انجن بریکنگ استعمال کریں، نیچے گیئر منتخب کریں اور فٹ بریک کا ضرورت سے زیادہ استعمال کرنے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Keep the vehicle in neutral to reduce engine strain and rely on the footbrake",
+        "ur": "گاڑی کو نیوٹرل میں رکھیں تاکہ انجن پر دباؤ کم ہو اور فوٹ بریک پر انحصار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Using engine braking by selecting a lower gear helps control speed without overusing the footbrake, which can overheat and cause brake fade on long downhill slopes.",
+      "ur": "انجن بریکنگ کا استعمال کرتے ہوئے نچلی گیئر منتخب کرنا رفتار کو کنٹرول کرنے میں مدد دیتا ہے بغیر فٹ بریک کو زیادہ استعمال کیے، کیونکہ زیادہ استعمال سے بریک گرم ہو سکتے ہیں اور لمبے نیچے کی ڈھلوانوں پر بریک کی کارکردگی کم ہو سکتی ہے۔"
+    }
+  }
+]

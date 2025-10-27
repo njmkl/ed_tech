@@ -1,0 +1,3104 @@
+[
+  {
+    "id": "FD8XLL",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn gently to alert the horse rider before passing closely",
+        "ur": "گھوڑے سوار کو قریب سے گزرنے سے پہلے ہلکی سی ہارن بجا کر خبردار کریں۔"
+      },
+      "d": {
+        "en": "Overtake only if the horse rider signals you to do so, otherwise wait behind",
+        "ur": "صرف اس صورت میں اوورٹیک کریں جب گھڑ سوار آپ کو اشارہ دے، ورنہ پیچھے انتظار کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse, but keep at least 1 metre distance",
+        "ur": "تیزی سے گزر جائیں تاکہ گھوڑے کے قریب گزارا گیا وقت کم سے کم ہو، لیکن کم از کم 1 میٹر فاصلہ برقرار رکھیں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with at least 2 metres of space and avoid loud noises like horns or engine revving to prevent frightening the horse.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو کم از کم ۲ میٹر کی دوری رکھتے ہوئے آہستہ آہستہ گزرنا چاہیے اور گھوڑے کو ڈرانے سے بچنے کے لیے ہارن بجانے یا انجن کی آواز بلند کرنے جیسے شور سے پرہیز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "W765GN",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Overtake closely but at normal speed to avoid holding up traffic behind you",
+        "ur": "قریب سے اوورٹیک کریں لیکن معمول کی رفتار پر تاکہ آپ کے پیچھے ٹریفک رک نہ جائے۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گذریں، کم از کم 2 میٹر کا فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Wait until the horse rider moves onto the pavement before passing at normal speed",
+        "ur": "انتظار کریں جب تک گھڑ سوار فٹ پاتھ پر نہ چلا جائے، پھر معمول کی رفتار سے گزریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you must pass slowly with plenty of space (at least 2 metres) and avoid loud noises like horns or engine revving to keep both rider and horse calm and safe.",
+      "ur": "گھوڑے آسانی سے گھبراتے ہیں، اس لیے آپ کو آہستہ آہستہ کم از کم ۲ میٹر فاصلہ رکھتے ہوئے گزرنا چاہیے اور ہارن بجانے یا انجن کی آواز بلند کرنے جیسے شور سے گریز کرنا چاہیے تاکہ سوار اور گھوڑا دونوں پرسکون اور محفوظ رہیں۔"
+    }
+  },
+  {
+    "id": "180KRZ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space without sounding your horn",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کا فاصلہ رکھیں، ہارن نہ بجائیں۔"
+      },
+      "d": {
+        "en": "Pass at normal speed but flash your headlights to alert the rider",
+        "ur": "معمول کی رفتار سے اوورٹیک کریں لیکن سوار کو خبردار کرنے کے لیے ہیڈلائٹس فلیش کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to avoid startling the horse and sound your horn to warn the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کو ڈرانے سے بچا جا سکے اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "c": {
+        "en": "Wait behind the horse until the road widens, then overtake closely to avoid holding up traffic",
+        "ur": "گھوڑے کے پیچھے انتظار کریں جب تک کہ سڑک کشادہ نہ ہو جائے، پھر ٹریفک کو روکنے سے بچنے کے لیے قریبی طور پر اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly, give at least 2 metres of space, and avoid using your horn to keep the horse calm and ensure everyone's safety.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے، کم از کم 2 میٹر کا فاصلہ رکھنا چاہیے، اور گھوڑے کو پرسکون رکھنے اور سب کی حفاظت کو یقینی بنانے کے لیے ہارن استعمال کرنے سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "IB9BHF",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب ایک تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn gently to alert the horse rider before passing closely",
+        "ur": "گھوڑے سوار کو قریب سے گزرنے سے پہلے ہلکی سی ہارن بجا کر خبردار کریں۔"
+      },
+      "d": {
+        "en": "Overtake the horse rider on the left side at normal speed, as horses are used to traffic",
+        "ur": "گھڑ سوار کو بائیں جانب معمول کی رفتار سے اوورٹیک کریں، کیونکہ گھوڑے ٹریفک کے عادی ہوتے ہیں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse, but keep a safe distance",
+        "ur": "تیزی سے گزر جائیں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو، لیکن محفوظ فاصلہ برقرار رکھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with at least 2 metres of space and avoid using your horn or revving your engine to prevent frightening the animal.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو کم از کم 2 میٹر کی دوری رکھتے ہوئے آہستہ گاڑی چلانی چاہیے اور جانور کو ڈرانے سے بچنے کے لیے ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "6KQWJ8",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی گزاریں، کم از کم 2 میٹر فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزرے تاکہ گھوڑے کے قریب گزارا جانے والا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "d": {
+        "en": "Stop your vehicle and wait for the horse rider to move off the road before proceeding",
+        "ur": "اپنی گاڑی روکیں اور گھڑ سوار کے سڑک سے ہٹنے کا انتظار کریں، پھر آگے بڑھیں۔"
+      },
+      "c": {
+        "en": "Overtake closely but at normal speed to avoid holding up traffic behind you",
+        "ur": "قریب سے اوورٹیک کریں لیکن معمول کی رفتار پر تاکہ آپ کے پیچھے ٹریفک رکے نہ۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly and widely (at least 2 metres), avoiding loud noises like horns or engine revving to prevent frightening the horse.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو آہستہ اور وسیع فاصلے سے (کم از کم 2 میٹر) گزرنا چاہیے، اور گھوڑے کو ڈرانے سے بچنے کے لیے ہارن بجانے یا انجن کی آواز بلند کرنے جیسے شور سے پرہیز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "L2NZ5Z",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "d": {
+        "en": "Pass as close as possible on the offside to avoid startling the horse with your vehicle",
+        "ur": "اپنے گاڑی کے ساتھ گھوڑے کو ڈراۓ بغیر، آف سائیڈ پر جتنا ممکن ہو قریب سے گزریں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر کا فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Overtake only when the horse rider signals you to do so, but you may rev your engine to warn the horse",
+        "ur": "صرف اسی وقت اوورٹیک کریں جب گھڑ سوار آپ کو اشارہ دے، لیکن آپ گھوڑے کو خبردار کرنے کے لیے انجن کی آواز بڑھا سکتے ہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should pass horses slowly and widely (at least 2 metres) without sounding your horn or revving your engine, as horses are easily startled and unpredictable.",
+      "ur": "آپ کو گھوڑوں کو آہستہ اور وسیع فاصلے سے (کم از کم 2 میٹر) پار کرنا چاہیے، بغیر ہارن بجائے یا انجن کی رفتار بڑھائے، کیونکہ گھوڑے آسانی سے گھبرا جاتے ہیں اور غیر متوقع حرکت کر سکتے ہیں۔"
+    }
+  },
+  {
+    "id": "GLU70J",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Wait behind the horse until it moves onto a wider section of road, then accelerate past",
+        "ur": "گھوڑے کے پیچھے رُکیں جب تک کہ وہ سڑک کے وسیع حصے پر نہ پہنچ جائے، پھر تیز ہو کر اسے عبور کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to avoid startling the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کو ڈر نہ لگے اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "c": {
+        "en": "Overtake closely but at normal speed to reduce the time spent beside the horse",
+        "ur": "قریب سے اوورٹیک کریں لیکن معمول کی رفتار پر تاکہ گھوڑے کے ساتھ گزارا گیا وقت کم ہو جائے۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر کا فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Passing horses slowly with at least 2 metres of space and avoiding loud noises helps prevent startling the horse, ensuring safety for both the rider and yourself.",
+      "ur": "گھوڑوں کو کم از کم 2 میٹر کی دوری رکھتے ہوئے آہستہ آہستہ پار کرنا اور تیز آوازوں سے گریز کرنا گھوڑے کو ڈرانے سے بچاتا ہے، جو سوار اور آپ دونوں کی حفاظت کو یقینی بناتا ہے۔"
+    }
+  },
+  {
+    "id": "C2LBA5",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "d": {
+        "en": "Wait behind the horse until you reach a wider section of road, then overtake at normal speed",
+        "ur": "گھوڑے کے پیچھے انتظار کریں جب تک کہ آپ سڑک کے چوڑے حصے تک نہ پہنچ جائیں، پھر معمول کی رفتار سے اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر کا فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Maintain your speed but move closer to the centre of the road to prevent the horse from moving unpredictably",
+        "ur": "اپنی رفتار برقرار رکھیں لیکن گھوڑے کے غیر متوقع حرکت کرنے سے بچنے کے لیے سڑک کے مرکز کے قریب چلیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with plenty of space (at least 2 metres) and avoid loud noises like horns or engine revving to prevent frightening the horse.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے اور گھوڑے سے کم از کم ۲ میٹر کا فاصلہ رکھنا چاہیے۔ ہارن بجانے یا انجن کی آواز بلند کرنے جیسے شور سے گریز کریں تاکہ گھوڑے کو ڈرانے سے بچایا جا سکے۔"
+    }
+  },
+  {
+    "id": "L6W215",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب آپ ایک تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچ رہے ہوں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب گزارا جانے والا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "c": {
+        "en": "Maintain your speed but flash your headlights to warn the horse rider of your presence",
+        "ur": "اپنی رفتار برقرار رکھیں لیکن گھڑ سوار کو اپنی موجودگی سے آگاہ کرنے کے لیے ہیڈلائٹس چمکائیں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Stop behind the horse and wait for the rider to signal you to pass",
+        "ur": "گھوڑے کے پیچھے رکیں اور سوار کے سگنل کرنے کا انتظار کریں تاکہ آپ گزر سکیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with plenty of space (at least 2 metres) and avoid loud noises like horns or engine revving to prevent frightening the horse.",
+      "ur": "گھوڑے آسانی سے گھبراتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے اور گھوڑے سے کم از کم ۲ میٹر کا فاصلہ رکھنا چاہیے۔ ہارن بجانے یا انجن کی آواز بلند کرنے جیسے شور سے گریز کریں تاکہ گھوڑے کو ڈرانے سے بچایا جا سکے۔"
+    }
+  },
+  {
+    "id": "TYXJLC",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Maintain your speed but move slightly to the left to give some space",
+        "ur": "اپنی رفتار برقرار رکھیں لیکن کچھ جگہ دینے کے لیے ہلکا سا بائیں طرف منتقل ہو جائیں۔"
+      },
+      "b": {
+        "en": "Pass quickly to avoid startling the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کو ڈر نہ لگے اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "d": {
+        "en": "Stop behind the horse and wait for the rider to signal when it is safe to pass",
+        "ur": "گھوڑے کے پیچھے رکیں اور سوار کے اشارہ کرنے کا انتظار کریں جب گزرنا محفوظ ہو۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space without sounding your horn",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم ۲ میٹر کی جگہ دیں بغیر ہارن بجائے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always pass horses slowly and give at least 2 metres of space without sounding your horn, as horses are easily startled and sudden noises or close passing can cause unpredictable reactions.",
+      "ur": "آپ کو ہمیشہ گھوڑوں کو آہستہ آہستہ پار کرنا چاہیے اور کم از کم 2 میٹر کا فاصلہ دینا چاہیے بغیر ہارن بجائے، کیونکہ گھوڑے آسانی سے گھبرا جاتے ہیں اور اچانک آوازیں یا قریب سے گزرنا غیر متوقع ردعمل کا باعث بن سکتا ہے۔"
+    }
+  },
+  {
+    "id": "8Q3M88",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Overtake closely but at low speed to minimise time alongside the horse",
+        "ur": "قریب سے مگر کم رفتار پر اوورٹیک کریں تاکہ گھوڑے کے ساتھ وقت کم سے کم ہو۔"
+      },
+      "b": {
+        "en": "Pass quickly to avoid startling the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کو خوفزدہ نہ کریں اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid using your horn or revving the engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر فاصلہ رکھیں، اور ہارن بجانے یا انجن کی رفتار بڑھانے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Wait behind the horse until it moves onto a wider section of road before overtaking",
+        "ur": "گھوڑے کے پیچھے انتظار کریں جب تک کہ وہ سڑک کے چوڑے حصے پر نہ پہنچ جائے، پھر اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should pass horses slowly and widely (at least 2 metres) without using your horn or revving the engine, as sudden noises or close passing can startle them and cause unpredictable behaviour.",
+      "ur": "آپ کو گھوڑوں کو آہستہ اور وسیع جگہ سے (کم از کم 2 میٹر دوری پر) گزرنا چاہیے، بغیر ہارن بجائے یا انجن کی آواز بڑھائے، کیونکہ اچانک شور یا قریب سے گزرنا انہیں گھبرا سکتا ہے اور غیر متوقع رویہ پیدا کر سکتا ہے۔"
+    }
+  },
+  {
+    "id": "HKUUFP",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب آپ ایک تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچ رہے ہوں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب وقت کم سے کم گزارا جائے اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "c": {
+        "en": "Pass as close as possible to the horse to avoid oncoming traffic and flash your headlights to warn the rider",
+        "ur": "گھوڑے کے قریب سے جتنا ممکن ہو گزریں تاکہ سامنے سے آنے والی ٹریفک سے بچا جا سکے اور سوار کو خبردار کرنے کے لیے اپنی ہیڈلائٹس فلیش کریں۔"
+      },
+      "d": {
+        "en": "Stop and wait behind the horse rider until they move onto a wider section of road before overtaking",
+        "ur": "رکیں اور گھڑ سوار کے پیچھے انتظار کریں جب تک کہ وہ سڑک کے چوڑے حصے پر نہ پہنچ جائیں، اس کے بعد ہی اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with plenty of space (at least 2 metres) and avoid loud noises like horns or engine revving to keep both rider and horse calm.",
+      "ur": "گھوڑے آسانی سے گھبراتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے اور گھوڑے اور سوار کے درمیان کم از کم 2 میٹر کا فاصلہ رکھنا چاہیے۔ ہارن بجانے یا انجن کی آواز بلند کرنے جیسے شور سے گریز کریں تاکہ دونوں، سوار اور گھوڑا، پرسکون رہیں۔"
+    }
+  },
+  {
+    "id": "6AOP9I",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space without sounding your horn",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کی جگہ دیں، ہارن نہ بجائیں۔"
+      },
+      "d": {
+        "en": "Pass closely but at a steady speed to avoid startling the horse",
+        "ur": "قریب سے گزریں لیکن رفتار کو مستحکم رکھیں تاکہ گھوڑے کو ڈرانے سے بچا جا سکے۔"
+      },
+      "b": {
+        "en": "Overtake quickly to minimise the time spent near the horse",
+        "ur": "گھوڑے کے قریب وقت کم سے کم کرنے کے لیے جلدی سے اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn gently to alert the horse rider before passing",
+        "ur": "گزرنے سے پہلے گھوڑے سوار کو خبردار کرنے کے لیے ہارن ہلکی آواز میں بجائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly, give at least 2 metres of space, and avoid using your horn to prevent frightening the horse.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے، کم از کم ۲ میٹر کا فاصلہ رکھنا چاہیے، اور گھوڑے کو ڈرانے سے بچنے کے لیے ہارن استعمال کرنے سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "9IMMHG",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Stop behind the horse and wait for the rider to signal when it is safe to pass",
+        "ur": "گھوڑے کے پیچھے رکیں اور سواری کے اشارہ کرنے تک انتظار کریں کہ گزرنا محفوظ ہے۔"
+      },
+      "c": {
+        "en": "Overtake closely but at a steady speed to avoid startling the horse with sudden movements",
+        "ur": "قریب سے اوورٹیک کریں لیکن رفتار کو مستحکم رکھیں تاکہ اچانک حرکتوں سے گھوڑے کو خوفزدہ نہ کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزر جائیں تاکہ گھوڑے کے قریب گزارا گیا وقت کم سے کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر کا فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always pass horses slowly and widely (at least 2 metres) without using your horn or revving your engine, as horses are easily startled and unpredictable.",
+      "ur": "آپ کو ہمیشہ گھوڑوں کو آہستہ اور وسیع جگہ سے (کم از کم 2 میٹر دوری پر) پار کرنا چاہیے، بغیر ہارن بجائے یا انجن کی رفتار بڑھائے، کیونکہ گھوڑے آسانی سے گھبرا جاتے ہیں اور غیر متوقع ہوتے ہیں۔"
+    }
+  },
+  {
+    "id": "SG3R7A",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Pass quickly to avoid startling the horse and sound your horn to warn the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کو ڈر نہ لگے اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space without sounding your horn",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کی جگہ دیں بغیر ہارن بجائے۔"
+      },
+      "c": {
+        "en": "Overtake closely but maintain your speed to avoid holding up traffic",
+        "ur": "قریب سے اوورٹیک کریں لیکن اپنی رفتار برقرار رکھیں تاکہ ٹریفک کو روکنے سے بچا جا سکے۔"
+      },
+      "d": {
+        "en": "Stop behind the horse and wait for the rider to signal you to pass",
+        "ur": "گھوڑے کے پیچھے رکیں اور سوار کے سگنل کرنے کا انتظار کریں تاکہ آپ گزر سکیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should pass horses slowly and give at least 2 metres of space without sounding your horn, as horses are easily startled and sudden noises or close passing can cause unpredictable reactions.",
+      "ur": "آپ کو گھوڑوں کو آہستہ آہستہ پاس کرنا چاہیے اور کم از کم 2 میٹر کی جگہ دینی چاہیے بغیر ہارن بجائے، کیونکہ گھوڑے آسانی سے گھبراتے ہیں اور اچانک آوازیں یا قریب سے گزرنا غیر متوقع ردعمل کا باعث بن سکتا ہے۔"
+    }
+  },
+  {
+    "id": "9KDW32",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Pass as close as possible to the horse to prevent it from moving unpredictably",
+        "ur": "گھوڑے کے قریب سے جتنا ممکن ہو گزریں تاکہ وہ غیر متوقع حرکت نہ کرے۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گذریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "d": {
+        "en": "Stop and wait for the horse rider to move off the road before proceeding",
+        "ur": "رکیں اور گھڑ سوار کے سڑک سے ہٹنے کا انتظار کریں پھر آگے بڑھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Passing horses slowly and widely (at least 2 metres) without using the horn or revving the engine helps prevent startling the horse, ensuring safety for both the rider and yourself.",
+      "ur": "گھوڑوں کو آہستہ اور وسیع انداز میں (کم از کم 2 میٹر دوری پر) پار کرنا، بغیر ہارن بجائے یا انجن کی آواز بڑھائے، گھوڑے کو خوفزدہ ہونے سے بچاتا ہے، جو سوار اور آپ دونوں کی حفاظت کو یقینی بناتا ہے۔"
+    }
+  },
+  {
+    "id": "LB75RO",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Pass quickly to avoid startling the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کو ڈر نہ لگے اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "d": {
+        "en": "Pass closely but at low speed, using your horn gently to warn the horse",
+        "ur": "قریب سے گزریں لیکن کم رفتار سے، گھوڑے کو خبردار کرنے کے لیے ہارن ہلکے سے بجائیں۔"
+      },
+      "c": {
+        "en": "Wait until the horse rider signals you to pass, then overtake at normal speed",
+        "ur": "انتظار کریں جب گھڑ سوار آپ کو گزرنے کا اشارہ دے، پھر معمول کی رفتار سے اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space without sounding your horn",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کا فاصلہ رکھیں، ہارن نہ بجائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always pass horses slowly and give at least 2 metres of space without sounding your horn, as horses are easily startled and sudden noises or close passing can cause them to react unpredictably.",
+      "ur": "آپ کو ہمیشہ گھوڑوں کو آہستہ آہستہ پاس کرنا چاہیے اور کم از کم 2 میٹر کی جگہ دینی چاہیے بغیر ہارن بجائے، کیونکہ گھوڑے آسانی سے گھبراتے ہیں اور اچانک آوازیں یا قریب سے گزرنا ان کے غیر متوقع ردعمل کا باعث بن سکتا ہے۔"
+    }
+  },
+  {
+    "id": "I1Y429",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب آپ ایک تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچ رہے ہوں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Stop and wait for the horse rider to move off the road before passing",
+        "ur": "رکیں اور گھڑ سوار کے سڑک سے ہٹنے کا انتظار کریں پھر آگے بڑھیں۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space without sounding your horn",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کی جگہ دیں بغیر ہارن بجائے۔"
+      },
+      "c": {
+        "en": "Overtake closely but maintain your speed to avoid holding up traffic",
+        "ur": "قریبی اوورٹیک کریں لیکن اپنی رفتار برقرار رکھیں تاکہ ٹریفک کو روکنے سے بچا جا سکے۔"
+      },
+      "b": {
+        "en": "Pass quickly to avoid startling the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کو ڈر نہ لگے اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Passing slowly and giving at least 2 metres of space without sounding your horn helps prevent startling the horse, ensuring the safety of both the rider and yourself.",
+      "ur": "آہستہ گاڑی چلانا اور کم از کم ۲ میٹر کی جگہ دینا، بغیر ہارن بجائے، گھوڑے کو خوفزدہ ہونے سے بچاتا ہے، جس سے سوار اور آپ دونوں کی حفاظت یقینی بنتی ہے۔"
+    }
+  },
+  {
+    "id": "Y6Q3LE",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Stop and wait behind the horse rider until they move off the road",
+        "ur": "رکیں اور گھڑ سوار کے پیچھے انتظار کریں جب تک کہ وہ سڑک سے ہٹ نہ جائیں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر کا فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزر جائیں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "c": {
+        "en": "Maintain your speed but flash your headlights to warn the horse rider of your presence",
+        "ur": "اپنی رفتار برقرار رکھیں لیکن گھڑ سوار کو اپنی موجودگی سے آگاہ کرنے کے لیے ہیڈلائٹس چمکائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with plenty of space (at least 2 metres) and avoid loud noises like horns or engine revving to prevent frightening the horse.",
+      "ur": "گھوڑے آسانی سے گھبراتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے اور گھوڑے سے کم از کم ۲ میٹر کا فاصلہ رکھنا چاہیے۔ ہارن بجانے یا انجن کی آواز بلند کرنے جیسے شور سے گریز کریں تاکہ گھوڑے کو ڈرنے سے بچایا جا سکے۔"
+    }
+  },
+  {
+    "id": "DS6PZ5",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزرے تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "c": {
+        "en": "Overtake closely but at a steady speed to avoid startling the horse with sudden movements",
+        "ur": "قریب سے اوورٹیک کریں لیکن رفتار کو مستحکم رکھیں تاکہ اچانک حرکتوں سے گھوڑے کو ڈر نہ لگے۔"
+      },
+      "d": {
+        "en": "Wait behind the horse until you reach a wider section of road, then accelerate past carefully",
+        "ur": "گھوڑے کے پیچھے انتظار کریں جب تک کہ آپ سڑک کے چوڑے حصے تک نہ پہنچ جائیں، پھر احتیاط سے رفتار بڑھاتے ہوئے آگے نکلیں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you must pass slowly with at least 2 metres of space and avoid loud noises like horns or engine revving to keep both rider and horse safe.",
+      "ur": "گھوڑے آسانی سے گھبراتے ہیں، اس لیے آپ کو کم از کم ۲ میٹر کی دوری برقرار رکھتے ہوئے آہستہ گزرنا چاہیے اور سوار اور گھوڑے دونوں کی حفاظت کے لیے ہارن بجانے یا انجن کی آواز بلند کرنے جیسے شور سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "2CCXIF",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Wait behind the horse rider until you reach a wide section of road, then accelerate past carefully",
+        "ur": "گھڑ سوار کے پیچھے انتظار کریں جب تک کہ آپ سڑک کے چوڑے حصے تک نہ پہنچ جائیں، پھر احتیاط سے رفتار بڑھاتے ہوئے اسے عبور کریں۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space, avoiding sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کا فاصلہ رکھیں، ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "c": {
+        "en": "Overtake closely to avoid holding up traffic, but do not exceed the speed limit",
+        "ur": "ٹریفک کو روکنے سے بچنے کے لیے قریبی اوورٹیک کریں، لیکن رفتار کی حد سے تجاوز نہ کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with at least 2 metres of space and avoid loud noises like horns or engine revving to prevent frightening the animal.",
+      "ur": "گھوڑے آسانی سے گھبراتے ہیں، اس لیے آپ کو کم از کم ۲ میٹر کی دوری برقرار رکھتے ہوئے آہستہ گاڑی چلانی چاہیے اور جانور کو ڈرانے سے بچنے کے لیے ہارن یا انجن کی آوازیں بلند کرنے سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "QPUC19",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space, avoiding sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کا فاصلہ رکھیں، ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse, but keep at least 1 metre distance",
+        "ur": "تیز رفتاری سے گزرے تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو، لیکن کم از کم 1 میٹر کا فاصلہ برقرار رکھیں۔"
+      },
+      "d": {
+        "en": "Wait until the horse rider moves to the verge, then pass closely to avoid holding up traffic",
+        "ur": "انتظار کریں جب تک گھڑ سوار کنارے پر نہ چلا جائے، پھر قریب سے گزریں تاکہ ٹریفک میں رکاوٹ نہ ہو۔"
+      },
+      "c": {
+        "en": "Sound your horn gently to alert the horse rider before overtaking at normal speed",
+        "ur": "آہستہ رفتار سے اوورٹیک کرتے ہوئے گھڑ سوار کو خبردار کرنے کے لیے ہارن ہلکی آواز میں بجائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you must pass slowly and give at least 2 metres of space without using your horn or revving the engine to avoid frightening them.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو آہستہ گزرنا چاہیے اور کم از کم ۲ میٹر کی جگہ دینی چاہیے، بغیر ہارن بجائے یا انجن کی آواز بڑھائے تاکہ انہیں ڈرانے سے بچایا جا سکے۔"
+    }
+  },
+  {
+    "id": "JATWT3",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب دیہی تنگ سڑک پر گھڑ سوار کے قریب پہنچیں تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Pass closely but at a steady speed to avoid startling the horse",
+        "ur": "قریب سے گزریں لیکن رفتار کو مستحکم رکھیں تاکہ گھوڑے کو ڈر نہ لگے۔"
+      },
+      "b": {
+        "en": "Overtake quickly to reduce the time spent near the horse",
+        "ur": "گھوڑے کے قریب وقت کم کرنے کے لیے جلدی اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space without sounding your horn",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کی جگہ دیں بغیر ہارن بجائے۔"
+      },
+      "c": {
+        "en": "Sound your horn gently to alert the horse of your presence before passing",
+        "ur": "اپنی موجودگی سے گھوڑے کو آگاہ کرنے کے لیے ہارن ہلکے سے بجائیں قبل اس کے کہ آپ اسے پار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly, give at least 2 metres of space, and avoid using your horn to keep the horse calm and safe.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے، کم از کم ۲ میٹر کی جگہ دینی چاہیے، اور گھوڑے کو پرسکون اور محفوظ رکھنے کے لیے ہارن استعمال کرنے سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "K8077C",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space, avoiding sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کی جگہ دیں، ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گذریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "d": {
+        "en": "Stop and wait for the horse rider to move off the road before proceeding",
+        "ur": "رکیں اور گھڑ سوار کے سڑک سے ہٹنے کا انتظار کریں، پھر آگے بڑھیں۔"
+      },
+      "c": {
+        "en": "Overtake closely but at normal speed to avoid holding up traffic behind you",
+        "ur": "قریب سے اوورٹیک کریں لیکن معمول کی رفتار پر تاکہ آپ کے پیچھے آنے والی گاڑیوں کا راستہ نہ روکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly and give at least 2 metres of space without using your horn or revving the engine to avoid frightening the animal.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے اور کم از کم 2 میٹر کا فاصلہ رکھنا چاہیے، نیز جانور کو ڈرانے سے بچنے کے لیے ہارن استعمال نہ کریں اور انجن کی رفتار بھی نہ بڑھائیں۔"
+    }
+  },
+  {
+    "id": "7A6JOG",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب دیہی تنگ سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Overtake closely but at normal speed to avoid holding up traffic",
+        "ur": "قریب سے اوورٹیک کریں لیکن معمول کی رفتار پر تاکہ ٹریفک کو روکنے سے بچا جا سکے۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space without sounding your horn",
+        "ur": "آہستہ گاڑی گزاریں اور کم از کم 2 میٹر کی جگہ دیں بغیر ہارن بجائے۔"
+      },
+      "b": {
+        "en": "Pass quickly to avoid startling the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کو ڈر نہ لگے اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "d": {
+        "en": "Stop behind the horse and wait for the rider to signal you to pass",
+        "ur": "گھوڑے کے پیچھے رکیں اور سوار کے سگنل کرنے تک انتظار کریں کہ آپ گزر سکیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always pass horses slowly and give at least 2 metres of space without sounding your horn, as horses are easily startled and sudden noises or close passing can cause unpredictable reactions.",
+      "ur": "آپ کو ہمیشہ گھوڑوں کو آہستہ آہستہ پاس کرنا چاہیے اور کم از کم 2 میٹر کی جگہ دینی چاہیے بغیر ہارن بجائے، کیونکہ گھوڑے آسانی سے گھبرا جاتے ہیں اور اچانک آوازیں یا قریب سے گزرنا غیر متوقع ردعمل کا باعث بن سکتا ہے۔"
+    }
+  },
+  {
+    "id": "1FW4W5",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب آپ ایک تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچ رہے ہوں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر کا فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Stop and wait for the horse rider to move off the road before proceeding",
+        "ur": "رکیں اور گھڑ سوار کے سڑک سے ہٹنے کا انتظار کریں، پھر آگے بڑھیں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گاڑی چلائیں تاکہ گھوڑے کے قریب گزارا گیا وقت کم سے کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "c": {
+        "en": "Pass as close as possible to the horse to prevent it from moving unpredictably",
+        "ur": "گھوڑے کے قریب سے جتنا ممکن ہو گزریں تاکہ وہ غیر متوقع حرکت نہ کرے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should pass horses slowly and widely (at least 2 metres) without using your horn or revving the engine, as horses are easily startled and unpredictable.",
+      "ur": "آپ کو گھوڑوں کو آہستہ اور وسیع جگہ (کم از کم 2 میٹر) سے گزرنا چاہیے، بغیر ہارن بجائے یا انجن کی رفتار بڑھائے، کیونکہ گھوڑے آسانی سے گھبرا جاتے ہیں اور غیر متوقع ہوتے ہیں۔"
+    }
+  },
+  {
+    "id": "T4YC9N",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Pass as close as possible to the horse to avoid oncoming traffic on the narrow road",
+        "ur": "تنگ سڑک پر آنے والی ٹریفک سے بچنے کے لیے گھوڑے کے جتنا قریب ممکن ہو گزریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse, but keep at least 1 metre distance",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم سے کم ہو، لیکن کم از کم 1 میٹر فاصلہ برقرار رکھیں۔"
+      },
+      "c": {
+        "en": "Sound your horn gently to alert the horse before passing at normal speed",
+        "ur": "گھوڑے کو خبردار کرنے کے لیے ہارن ہلکے سے بجائیں جب معمول کی رفتار سے گزر رہے ہوں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گذریں، کم از کم 2 میٹر فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with at least 2 metres of space and avoid using your horn or revving the engine to prevent frightening them.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو کم از کم 2 میٹر کی دوری رکھتے ہوئے آہستہ گاڑی چلانی چاہیے اور انہیں ڈرانے سے بچنے کے لیے ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "JH7R7N",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn gently to alert the horse rider of your presence before passing",
+        "ur": "اپنی موجودگی سے گھڑ سوار کو آگاہ کرنے کے لیے ہارن کو نرم آواز میں بجائیں قبل اس کے کہ آپ اسے پار کریں۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space without sounding your horn",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر فاصلہ رکھیں، ہارن نہ بجائیں۔"
+      },
+      "d": {
+        "en": "Pass as close as possible to the horse to avoid oncoming traffic",
+        "ur": "گھوڑے کے قریب سے جتنا ممکن ہو گزریں تاکہ سامنے آنے والی ٹریفک سے بچا جا سکے۔"
+      },
+      "b": {
+        "en": "Overtake quickly to reduce the time spent near the horse",
+        "ur": "گھوڑے کے قریب وقت کم کرنے کے لیے جلدی اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly and give at least 2 metres of space without sounding your horn to avoid frightening them.",
+      "ur": "گھوڑے آسانی سے گھبراتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے اور کم از کم ۲ میٹر کا فاصلہ رکھنا چاہیے، نیز انہیں ڈرانے سے بچنے کے لیے ہارن استعمال نہ کریں۔"
+    }
+  },
+  {
+    "id": "U703G7",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Wait behind the horse rider until they move onto the pavement before overtaking",
+        "ur": "گھڑ سوار کے پیچھے انتظار کریں جب تک کہ وہ فٹ پاتھ پر نہ چلے جائیں، اس کے بعد ہی اوور ٹیک کریں۔"
+      },
+      "c": {
+        "en": "Overtake closely but at low speed to avoid startling the horse with engine noise",
+        "ur": "قریب سے مگر کم رفتار پر اوورٹیک کریں تاکہ گھوڑے کو انجن کی آواز سے ڈر نہ لگے۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزر جائیں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر کا فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should pass horses slowly and widely (at least 2 metres) and avoid using your horn or revving your engine, as horses are easily startled and unpredictable.",
+      "ur": "آپ کو گھوڑوں کو آہستہ اور وسیع جگہ سے (کم از کم 2 میٹر) گزرنا چاہیے اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کرنا چاہیے، کیونکہ گھوڑے آسانی سے گھبرا جاتے ہیں اور غیر متوقع ہوتے ہیں۔"
+    }
+  },
+  {
+    "id": "XWNEGT",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "d": {
+        "en": "Stop behind the horse rider and wait for them to move off before overtaking at normal speed",
+        "ur": "گھڑ سوار کے پیچھے رکیں اور ان کے روانہ ہونے کا انتظار کریں، پھر معمول کی رفتار سے اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Maintain your speed but flash your headlights to warn the horse rider of your presence",
+        "ur": "اپنی رفتار برقرار رکھیں لیکن گھڑ سوار کو اپنی موجودگی کی اطلاع دینے کے لیے ہیڈلائٹس چمکائیں۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space, avoiding sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کی جگہ دیں، ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with at least 2 metres of space and avoid loud noises like horns or engine revving to prevent frightening the horse.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو کم از کم ۲ میٹر کی دوری رکھتے ہوئے آہستہ گاڑی چلانی چاہیے اور گھوڑے کو ڈرانے سے بچنے کے لیے ہارن یا انجن کی آوازیں بلند کرنے سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "2L7HBG",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn gently to alert the rider before overtaking at normal speed",
+        "ur": "اپنی ہارن کو ہلکے سے بجائیں تاکہ معمول کی رفتار سے اوورٹیک کرنے سے پہلے سوار کو خبردار کیا جا سکے۔"
+      },
+      "d": {
+        "en": "Wait behind the horse until the road widens, then overtake at a normal speed giving minimal space",
+        "ur": "گھوڑے کے پیچھے انتظار کریں جب تک کہ سڑک چوڑی نہ ہو جائے، پھر معمول کی رفتار سے کم سے کم فاصلہ دیتے ہوئے اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to avoid startling the horse, but keep as close as possible to the edge of the road",
+        "ur": "تیزی سے گزر جائیں تاکہ گھوڑے کو ڈر نہ لگے، لیکن سڑک کے کنارے کے جتنا قریب ممکن ہو رہیں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر کا فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you must pass slowly and widely (at least 2 metres), avoiding loud noises like horns or engine revving to keep the horse and rider safe.",
+      "ur": "گھوڑے آسانی سے گھبراتے ہیں، اس لیے آپ کو آہستہ اور وسیع فاصلے سے (کم از کم 2 میٹر) گزرنا چاہیے، اور گھوڑے اور سوار کی حفاظت کے لیے ہارن بجانے یا انجن کی آواز بلند کرنے جیسے شور سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "GDJHRJ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space, avoiding sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کا فاصلہ رکھیں، ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Overtake closely but at low speed to avoid startling the horse with engine noise",
+        "ur": "قریب سے مگر کم رفتار پر اوورٹیک کریں تاکہ گھوڑے کو انجن کی آواز سے ڈر نہ لگے۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "d": {
+        "en": "Wait behind the horse until there is a wide section of road, then accelerate past carefully",
+        "ur": "گھوڑے کے پیچھے انتظار کریں جب تک کہ سڑک کا چوڑا حصہ نہ آ جائے، پھر احتیاط سے رفتار بڑھاتے ہوئے آگے نکلیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with at least 2 metres of space and avoid loud noises like horns or engine revving to keep both rider and horse safe.",
+      "ur": "گھوڑے آسانی سے گھبراتے ہیں، اس لیے آپ کو کم از کم ۲ میٹر کی دوری رکھتے ہوئے آہستہ گاڑی چلانی چاہیے اور سوار اور گھوڑے دونوں کی حفاظت کے لیے ہارن بجانے یا انجن کی آواز بلند کرنے سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "G7SASF",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Stop and wait for the horse rider to move off the road before proceeding",
+        "ur": "رکیں اور گھڑ سوار کے سڑک سے ہٹنے کا انتظار کریں، پھر آگے بڑھیں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب گزارا جانے والا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "c": {
+        "en": "Maintain your speed but flash your headlights to warn the horse rider of your presence",
+        "ur": "اپنی رفتار برقرار رکھیں لیکن گھڑ سوار کو اپنی موجودگی سے آگاہ کرنے کے لیے ہیڈلائٹس چمکائیں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid using your horn",
+        "ur": "آہستہ گذریں، کم از کم 2 میٹر کا فاصلہ رکھیں، اور ہارن استعمال کرنے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should pass horses slowly and widely (at least 2 metres) without using your horn, as sudden noises or fast movements can startle horses and cause unpredictable reactions.",
+      "ur": "آپ کو گھوڑوں کو آہستہ اور وسیع جگہ سے (کم از کم 2 میٹر) پار کرنا چاہیے بغیر ہارن بجائے، کیونکہ اچانک آوازیں یا تیز حرکتیں گھوڑوں کو گھبرا سکتی ہیں اور غیر متوقع ردعمل کا باعث بن سکتی ہیں۔"
+    }
+  },
+  {
+    "id": "HOAY06",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Overtake closely but at low speed to avoid holding up other traffic",
+        "ur": "قریب سے مگر کم رفتار پر اوورٹیک کریں تاکہ دیگر ٹریفک کو روکنے سے بچا جا سکے۔"
+      },
+      "b": {
+        "en": "Pass quickly to avoid startling the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کو ڈر نہ لگے اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space without sounding your horn",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کی جگہ دیں بغیر ہارن بجائے۔"
+      },
+      "d": {
+        "en": "Wait behind the horse rider and flash your headlights to encourage them to move aside",
+        "ur": "گھڑسوار کے پیچھے انتظار کریں اور انہیں راستہ دینے کی ترغیب دینے کے لیے اپنی ہیڈلائٹس چمکائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly and give at least 2 metres of space without sounding your horn to avoid frightening them.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے اور کم از کم ۲ میٹر کا فاصلہ رکھنا چاہیے، نیز انہیں ڈرانے سے بچنے کے لیے ہارن استعمال نہیں کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "GAGH6F",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Overtake the horse rider on the inside if the road is clear, to avoid oncoming traffic",
+        "ur": "اگر راستہ خالی ہو تو سامنے آنے والی ٹریفک سے بچنے کے لیے گھوڑے سوار کو اندر کی طرف سے اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to minimise the time spent near the horse, but keep a safe distance",
+        "ur": "تیزی سے گزر جائیں تاکہ گھوڑے کے قریب گزارا گیا وقت کم سے کم ہو، لیکن محفوظ فاصلہ برقرار رکھیں۔"
+      },
+      "c": {
+        "en": "Sound your horn gently to alert the horse rider before passing closely",
+        "ur": "گھوڑے سوار کو قریب سے گزرنے سے پہلے ہلکی سی ہارن بجا کر خبردار کریں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر کا فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you must pass slowly with plenty of space (at least 2 metres) and avoid making loud noises like horns or engine revving to keep both rider and horse calm and safe.",
+      "ur": "گھوڑے آسانی سے گھبراتے ہیں، اس لیے آپ کو آہستہ آہستہ کم از کم ۲ میٹر کی مناسب دوری کے ساتھ گزرنا چاہیے اور ہارن بجانے یا انجن کی آواز بلند کرنے جیسے شور سے گریز کرنا چاہیے تاکہ سوار اور گھوڑا دونوں پرسکون اور محفوظ رہیں۔"
+    }
+  },
+  {
+    "id": "RMWKFE",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space, avoiding sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کی جگہ دیں، ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Overtake the horse rider only if they signal you to do so, otherwise wait behind",
+        "ur": "صرف اس صورت میں گھڑ سوار کو اوورٹیک کریں جب وہ آپ کو اشارہ دے، ورنہ پیچھے انتظار کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn gently to alert the horse of your presence before passing closely",
+        "ur": "اپنی موجودگی کا اشارہ دینے کے لیے گھوڑے کے قریب سے گزرنے سے پہلے ہارن ہلکے انداز میں بجائیں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse, but keep a safe distance",
+        "ur": "تیزی سے گذریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو، لیکن محفوظ فاصلہ برقرار رکھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with at least 2 metres of space and avoid using your horn or revving your engine to prevent frightening them.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو کم از کم 2 میٹر کی دوری برقرار رکھتے ہوئے آہستہ گاڑی چلانی چاہیے اور انہیں ڈرانے سے بچنے کے لیے ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "U360ND",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Stop behind the horse rider and wait for them to move off before overtaking closely",
+        "ur": "گھڑ سوار کے پیچھے رکیں اور ان کے روانہ ہونے کا انتظار کریں، پھر قریب سے اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزرے تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "c": {
+        "en": "Maintain your speed but flash your headlights to warn the horse rider of your presence",
+        "ur": "اپنی رفتار برقرار رکھیں لیکن گھڑ سوار کو اپنی موجودگی سے آگاہ کرنے کے لیے ہیڈلائٹس چمکائیں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Passing horses slowly with at least 2 metres of space and avoiding loud noises helps prevent startling the horse, ensuring safety for both the rider and yourself.",
+      "ur": "گھوڑوں کو کم از کم ۲ میٹر کے فاصلے کے ساتھ آہستہ آہستہ پار کرنا اور تیز آوازوں سے گریز کرنا گھوڑے کو ڈرانے سے بچاتا ہے، جس سے سوار اور آپ دونوں کی حفاظت یقینی بنتی ہے۔"
+    }
+  },
+  {
+    "id": "5U2THA",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Pass quickly to avoid startling the horse, but keep at least 1 metre distance",
+        "ur": "تیز رفتاری سے گزر جائیں تاکہ گھوڑے کو ڈر نہ لگے، لیکن کم از کم 1 میٹر کا فاصلہ برقرار رکھیں۔"
+      },
+      "d": {
+        "en": "Wait behind the horse rider until they move onto a wider section of road, then pass at normal speed",
+        "ur": "گھڑ سوار کے پیچھے انتظار کریں جب تک کہ وہ سڑک کے چوڑے حصے پر نہ پہنچ جائیں، پھر معمول کی رفتار سے اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر کا فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn gently to alert the rider before passing closely",
+        "ur": "اپنے ہارن کو نرم آواز میں بجائیں تاکہ قریب سے گزرنے سے پہلے سوار کو خبردار کیا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with at least 2 metres of space and avoid using your horn or revving the engine to prevent frightening the horse.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو کم از کم ۲ میٹر کی دوری رکھتے ہوئے آہستہ آہستہ گزرنا چاہیے اور گھوڑے کو ڈرانے سے بچنے کے لیے ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "X2S94J",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر کا فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Overtake only when the horse rider signals you to do so, even if it means waiting for a long time",
+        "ur": "صرف اسی وقت اوورٹیک کریں جب گھڑ سوار آپ کو اشارہ دے، چاہے اس کا مطلب طویل انتظار ہی کیوں نہ ہو۔"
+      },
+      "d": {
+        "en": "Pass as close as possible to the horse to avoid oncoming traffic on the narrow road",
+        "ur": "تنگ سڑک پر آنے والی ٹریفک سے بچنے کے لیے گھوڑے کے جتنا قریب ممکن ہو گزرے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you must pass slowly with at least 2 metres of space and avoid loud noises like horns or engine revving to prevent frightening the horse.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو کم از کم ۲ میٹر کی دوری رکھتے ہوئے آہستہ آہستہ گزرنا چاہیے اور گھوڑے کو ڈرانے سے بچنے کے لیے ہارن یا انجن کی آوازیں بلند کرنے سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "T2KDLR",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گذریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "d": {
+        "en": "Pass as close as possible to the horse to avoid oncoming traffic and flash your headlights to warn the rider",
+        "ur": "گھوڑے کے قریب سے جتنا ممکن ہو گزریں تاکہ آنے والی ٹریفک سے بچا جا سکے اور سوار کو خبردار کرنے کے لیے اپنی ہیڈلائٹس فلیش کریں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid using your horn or revving the engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر کا فاصلہ رکھیں، اور ہارن بجانے یا انجن کی رفتار بڑھانے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Overtake only when the horse rider signals you to do so, but you may rev the engine to warn the horse",
+        "ur": "صرف اسی وقت اوورٹیک کریں جب گھڑ سوار آپ کو اشارہ دے، لیکن آپ گھوڑے کو خبردار کرنے کے لیے انجن کی آواز بڑھا سکتے ہیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always pass horses slowly and widely (at least 2 metres), avoiding loud noises like horns or engine revving, as horses are easily startled and may react unpredictably.",
+      "ur": "آپ کو ہمیشہ گھوڑوں کو آہستہ اور وسیع جگہ سے (کم از کم 2 میٹر دوری پر) گزرنا چاہیے، تیز آوازوں جیسے ہارن یا انجن کی آواز سے گریز کریں، کیونکہ گھوڑے آسانی سے گھبرا جاتے ہیں اور غیر متوقع ردعمل دے سکتے ہیں۔"
+    }
+  },
+  {
+    "id": "MU95VA",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Maintain your speed but move slightly closer to the horse to encourage it to move off the road",
+        "ur": "اپنی رفتار برقرار رکھیں لیکن گھوڑے کے قریب تھوڑا سا آئیں تاکہ اسے سڑک چھوڑ کر ہٹنے کی ترغیب ملے۔"
+      },
+      "d": {
+        "en": "Stop and wait until the horse rider signals you to proceed, then pass as close as possible",
+        "ur": "رکیں اور انتظار کریں جب تک کہ گھڑ سوار آپ کو آگے بڑھنے کا اشارہ نہ دے، پھر جتنا ممکن ہو قریب سے گزر جائیں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گذریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر کی جگہ دیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Passing horses slowly with at least 2 metres of space and avoiding loud noises helps prevent startling the horse, ensuring safety for both the rider and yourself.",
+      "ur": "گھوڑوں کو کم از کم 2 میٹر کے فاصلے سے آہستہ آہستہ پار کرنا اور تیز آوازوں سے گریز کرنا گھوڑے کو ڈرانے سے بچاتا ہے، جس سے سوار اور آپ دونوں کی حفاظت یقینی بنتی ہے۔"
+    }
+  },
+  {
+    "id": "ZWF786",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space without sounding your horn",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کا فاصلہ رکھیں، ہارن نہ بجائیں۔"
+      },
+      "c": {
+        "en": "Overtake closely but at low speed to minimize time beside the horse",
+        "ur": "گھوڑے کے قریب کم رفتار سے قریبی اوورٹیک کریں تاکہ گھوڑے کے ساتھ وقت کم سے کم ہو۔"
+      },
+      "d": {
+        "en": "Wait behind the horse until it moves onto a wider section of road before overtaking",
+        "ur": "گھوڑے کے پیچھے انتظار کریں جب تک کہ وہ سڑک کے وسیع حصے پر نہ پہنچ جائے، اس کے بعد ہی اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to avoid startling the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کو ڈر نہ لگے اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should pass horses slowly and give at least 2 metres of space without sounding your horn, as horses are easily startled and sudden noises or close passing can cause unpredictable reactions.",
+      "ur": "آپ کو گھوڑوں کو آہستہ آہستہ پاس کرنا چاہیے اور کم از کم 2 میٹر کا فاصلہ دینا چاہیے بغیر ہارن بجائے، کیونکہ گھوڑے آسانی سے گھبرا جاتے ہیں اور اچانک آوازیں یا قریب سے گزرنا غیر متوقع ردعمل کا باعث بن سکتا ہے۔"
+    }
+  },
+  {
+    "id": "YBW1U6",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Stop behind the horse rider and wait for them to move off before overtaking at normal speed",
+        "ur": "گھڑ سوار کے پیچھے رکیں اور ان کے روانہ ہونے کا انتظار کریں، پھر معمول کی رفتار سے اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Maintain your speed but flash your headlights to warn the horse rider of your presence",
+        "ur": "اپنی رفتار برقرار رکھیں لیکن گھڑ سوار کو اپنی موجودگی سے آگاہ کرنے کے لیے ہیڈلائٹس چمکائیں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گاڑی چلائیں تاکہ گھوڑے کے قریب گزارا گیا وقت کم سے کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with plenty of space (at least 2 metres) and avoid loud noises like horns or engine revving to prevent frightening the horse.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے اور گھوڑے سے کم از کم ۲ میٹر کا فاصلہ رکھنا چاہیے۔ ہارن بجانے یا انجن کی آواز بلند کرنے جیسے شور سے گریز کریں تاکہ گھوڑے کو ڈرنے سے بچایا جا سکے۔"
+    }
+  },
+  {
+    "id": "O84QA7",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space, avoiding sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کا فاصلہ رکھیں، ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Overtake only if the horse rider signals you to do so, otherwise wait behind",
+        "ur": "صرف اس صورت میں اوورٹیک کریں جب گھڑ سوار آپ کو اشارہ دے، ورنہ پیچھے انتظار کریں۔"
+      },
+      "d": {
+        "en": "Pass as close as possible to the horse to avoid oncoming traffic hazards",
+        "ur": "گھوڑے کے قریب سے جتنا ممکن ہو گزریں تاکہ سامنے آنے والے ٹریفک کے خطرات سے بچا جا سکے۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم سے کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly and give at least 2 metres of space without sounding your horn or revving your engine to avoid frightening them.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے اور کم از کم 2 میٹر کا فاصلہ رکھنا چاہیے، بغیر ہارن بجائے یا انجن کی آواز بڑھائے تاکہ انہیں ڈرانے سے بچایا جا سکے۔"
+    }
+  },
+  {
+    "id": "FT6DE0",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب دیہی تنگ سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "d": {
+        "en": "Wait behind the horse rider and flash your headlights to signal them to move aside",
+        "ur": "گھڑ سوار کے پیچھے رکیں اور انہیں راستہ دینے کے لیے اپنی ہیڈلائٹس چمکائیں۔"
+      },
+      "c": {
+        "en": "Overtake closely but at a steady speed to avoid startling the horse with sudden movements",
+        "ur": "قریب سے اوورٹیک کریں لیکن رفتار کو مستحکم رکھیں تاکہ اچانک حرکتوں سے گھوڑے کو خوفزدہ نہ کریں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی گزاریں، کم از کم 2 میٹر جگہ دیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with plenty of space (at least 2 metres) and avoid loud noises like horns or engine revving to keep both the rider and horse calm and safe.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے اور گھوڑے اور سوار کے درمیان کم از کم 2 میٹر کا فاصلہ رکھنا چاہیے۔ ہارن بجانے یا انجن کی آواز بلند کرنے جیسے شور سے گریز کریں تاکہ دونوں، سوار اور گھوڑا، پرسکون اور محفوظ رہیں۔"
+    }
+  },
+  {
+    "id": "JZ30H6",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر کا فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Overtake only if the horse rider signals you to do so, otherwise wait behind",
+        "ur": "صرف اس صورت میں اوورٹیک کریں جب گھڑ سوار آپ کو اشارہ دے، ورنہ پیچھے انتظار کریں۔"
+      },
+      "d": {
+        "en": "Pass as close as possible to the horse to avoid oncoming traffic hazards",
+        "ur": "گھوڑے کے قریب سے جتنا ممکن ہو گزریں تاکہ سامنے آنے والے ٹریفک کے خطرات سے بچا جا سکے۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گذریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم سے کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should pass horses slowly and widely (at least 2 metres) without sounding your horn or revving your engine, as horses are easily startled and unpredictable.",
+      "ur": "آپ کو گھوڑوں کو آہستہ اور وسیع فاصلے سے (کم از کم 2 میٹر) پار کرنا چاہیے، بغیر ہارن بجائے یا انجن کی رفتار بڑھائے، کیونکہ گھوڑے آسانی سے گھبرا جاتے ہیں اور غیر متوقع ہوتے ہیں۔"
+    }
+  },
+  {
+    "id": "2DS5J5",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Overtake closely but at low speed to avoid startling the horse",
+        "ur": "قریب سے مگر کم رفتار پر اوورٹیک کریں تاکہ گھوڑے کو ڈرانے سے بچا جا سکے۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space without sounding your horn",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کی جگہ دیں بغیر ہارن بجائے۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse",
+        "ur": "تیزی سے گذریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو جائے۔"
+      },
+      "c": {
+        "en": "Sound your horn gently to alert the horse rider before passing",
+        "ur": "گزرنے سے پہلے گھوڑے سوار کو خبردار کرنے کے لیے ہارن ہلکے سے بجائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly, give at least 2 metres of space, and avoid using your horn to prevent frightening the horse.",
+      "ur": "گھوڑے آسانی سے گھبراتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے، کم از کم ۲ میٹر کا فاصلہ رکھنا چاہیے، اور گھوڑے کو ڈرانے سے بچنے کے لیے ہارن استعمال کرنے سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "YO6U5D",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Pass quickly to avoid startling the horse and sound your horn to warn the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کو ڈر نہ لگے اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "d": {
+        "en": "Pass as close as possible to the horse to avoid oncoming traffic",
+        "ur": "گھوڑے کے قریب سے جتنا ممکن ہو گزریں تاکہ سامنے آنے والی ٹریفک سے بچا جا سکے۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space without sounding your horn",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر فاصلہ رکھیں، ہارن نہ بجائیں۔"
+      },
+      "c": {
+        "en": "Wait behind the horse until the road ahead is clear, then overtake at normal speed",
+        "ur": "گھوڑے کے پیچھے رُکیں جب تک کہ آگے کا راستہ صاف نہ ہو جائے، پھر معمول کی رفتار سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly, give plenty of space (at least 2 metres), and avoid sounding your horn to keep the horse calm and ensure safety.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے، کافی جگہ دینی چاہیے (کم از کم 2 میٹر)، اور گھوڑے کو پرسکون رکھنے اور حفاظت کو یقینی بنانے کے لیے ہارن بجانے سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "KEFI8C",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم سے کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "d": {
+        "en": "Pass as close as possible to the horse to avoid oncoming traffic on the narrow road",
+        "ur": "تنگ سڑک پر آنے والی ٹریفک سے بچنے کے لیے گھوڑے کے جتنا قریب ممکن ہو گزریں۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space, avoiding sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کا فاصلہ رکھیں، ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Overtake only when the horse rider signals you to do so, even if it means waiting for a long time",
+        "ur": "صرف اسی صورت میں اوورٹیک کریں جب گھڑ سوار آپ کو اشارہ دے، چاہے اس کا مطلب طویل انتظار ہی کیوں نہ ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you must pass slowly and give at least 2 metres of space without using your horn or revving the engine to avoid frightening them.",
+      "ur": "گھوڑے آسانی سے گھبراتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے اور کم از کم 2 میٹر کا فاصلہ رکھنا چاہیے، بغیر ہارن بجائے یا انجن کی آواز بڑھائے تاکہ انہیں ڈرایا نہ جائے۔"
+    }
+  },
+  {
+    "id": "Y25WRH",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn gently to alert the horse rider of your presence before overtaking",
+        "ur": "اپنی موجودگی سے گھوڑے سوار کو آگاہ کرنے کے لیے آہستہ سے ہارن بجائیں قبل اس کے کہ آپ اسے اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space, avoiding sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کا فاصلہ رکھیں، ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse, but keep a safe distance",
+        "ur": "تیزی سے گزر جائیں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو، لیکن محفوظ فاصلہ برقرار رکھیں۔"
+      },
+      "d": {
+        "en": "Overtake only if the horse rider signals you to do so, otherwise wait behind",
+        "ur": "صرف اس صورت میں اوورٹیک کریں جب گھڑ سوار آپ کو اشارہ دے، ورنہ پیچھے انتظار کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you must pass slowly and give at least 2 metres of space without using your horn or revving your engine to avoid frightening them.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے اور کم از کم ۲ میٹر کا فاصلہ رکھنا چاہیے، نیز انہیں ڈرانے سے بچنے کے لیے ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+    }
+  },
+  {
+    "id": "35V13H",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Maintain your speed but flash your headlights to warn the horse rider of your presence",
+        "ur": "اپنی رفتار برقرار رکھیں لیکن گھڑ سوار کو اپنی موجودگی سے آگاہ کرنے کے لیے ہیڈلائٹس چمکائیں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب گزارا جانے والا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "d": {
+        "en": "Stop behind the horse rider and wait for them to move off before overtaking at normal speed",
+        "ur": "گھڑ سوار کے پیچھے رکیں اور ان کے روانہ ہونے کا انتظار کریں، پھر معمول کی رفتار سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with plenty of space (at least 2 metres) and avoid loud noises like horns or engine revving to prevent frightening the horse.",
+      "ur": "گھوڑے آسانی سے گھبراتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے اور گھوڑے سے کم از کم ۲ میٹر کا فاصلہ رکھنا چاہیے۔ ہارن بجانے یا انجن کی آواز بلند کرنے جیسے شور سے گریز کریں تاکہ گھوڑے کو ڈرنے سے بچایا جا سکے۔"
+    }
+  },
+  {
+    "id": "EK6NXO",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب آپ ایک تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچ رہے ہوں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Wait behind the horse rider until they move onto a wider section of the road, then overtake at normal speed",
+        "ur": "گھڑ سوار کے پیچھے انتظار کریں جب تک کہ وہ سڑک کے چوڑے حصے پر نہ پہنچ جائیں، پھر معمول کی رفتار سے اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn gently to alert the horse of your presence before passing closely",
+        "ur": "اپنی موجودگی سے گھوڑے کو آگاہ کرنے کے لیے قریب سے گزرنے سے پہلے ہارن ہلکے انداز میں بجائیں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse, but keep at least 1 metre distance",
+        "ur": "تیز رفتاری سے گزر جائیں تاکہ گھوڑے کے قریب گزارا گیا وقت کم سے کم ہو، لیکن کم از کم 1 میٹر فاصلہ برقرار رکھیں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with at least 2 metres of space and avoid loud noises like horns or engine revving to prevent frightening them.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو کم از کم 2 میٹر کی دوری رکھتے ہوئے آہستہ گاڑی چلانی چاہیے اور انہیں ڈرانے سے بچنے کے لیے ہارن یا انجن کی آوازیں بلند کرنے سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "08EATO",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn gently to alert the horse rider before overtaking at normal speed",
+        "ur": "آہستہ رفتار سے اوورٹیک کرتے ہوئے گھڑ سوار کو خبردار کرنے کے لیے ہارن ہلکی آواز میں بجائیں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse, but keep at least 1 metre distance",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم سے کم ہو، لیکن کم از کم 1 میٹر کا فاصلہ برقرار رکھیں۔"
+      },
+      "d": {
+        "en": "Pass as close as possible to the horse to avoid oncoming traffic on the narrow road",
+        "ur": "تنگ سڑک پر آنے والی ٹریفک سے بچنے کے لیے گھوڑے کے جتنا قریب ممکن ہو گزریں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with at least 2 metres of space and avoid using your horn or revving the engine to prevent frightening the horse.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو کم از کم 2 میٹر کی دوری رکھتے ہوئے آہستہ آہستہ گزرنا چاہیے اور گھوڑے کو ڈرانے سے بچنے کے لیے ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "5YJ651",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space, avoiding sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کا فاصلہ رکھیں، ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "c": {
+        "en": "Overtake closely but at a steady speed to avoid startling the horse with sudden movements",
+        "ur": "قریب سے اوورٹیک کریں لیکن رفتار کو مستحکم رکھیں تاکہ اچانک حرکتوں سے گھوڑے کو خوفزدہ نہ کریں۔"
+      },
+      "d": {
+        "en": "Wait behind the horse rider until you reach a wider section of road, then accelerate past carefully",
+        "ur": "گھڑ سوار کے پیچھے انتظار کریں جب تک کہ آپ سڑک کے چوڑے حصے تک نہ پہنچ جائیں، پھر احتیاط سے رفتار بڑھاتے ہوئے اسے عبور کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you must pass slowly and give at least 2 metres of space without using your horn or revving your engine to avoid frightening them.",
+      "ur": "گھوڑے آسانی سے گھبراتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے اور کم از کم ۲ میٹر کا فاصلہ رکھنا چاہیے، بغیر ہارن بجائے یا انجن کی آواز بڑھائے تاکہ انہیں ڈرانے سے بچایا جا سکے۔"
+    }
+  },
+  {
+    "id": "TDK0VU",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Pass quickly to avoid startling the horse, using your horn to warn the rider",
+        "ur": "تیز رفتاری سے گزر جائیں تاکہ گھوڑے کو ڈرانے سے بچا جا سکے، اور سوار کو خبردار کرنے کے لیے ہارن استعمال کریں۔"
+      },
+      "d": {
+        "en": "Wait behind the horse until the rider signals you to pass, then accelerate past carefully",
+        "ur": "گھوڑے کے پیچھے انتظار کریں جب تک کہ سوار آپ کو گزرنے کا اشارہ نہ دے، پھر احتیاط سے رفتار بڑھا کر گزر جائیں۔"
+      },
+      "c": {
+        "en": "Overtake closely but at low speed to minimize the time beside the horse",
+        "ur": "قریب سے مگر کم رفتار پر اوورٹیک کریں تاکہ گھوڑے کے ساتھ وقت کم سے کم ہو۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر کا فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You must pass horses slowly and widely (at least 2 metres) and avoid using your horn or revving your engine, as horses are easily startled and unpredictable.",
+      "ur": "آپ کو گھوڑوں کو آہستہ اور وسیع جگہ (کم از کم 2 میٹر) سے گزرنا چاہیے اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کرنا چاہیے، کیونکہ گھوڑے آسانی سے گھبرا جاتے ہیں اور غیر متوقع ردعمل دے سکتے ہیں۔"
+    }
+  },
+  {
+    "id": "XTE0JQ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Overtake quickly to minimise the time spent near the horse",
+        "ur": "گھوڑے کے قریب وقت کم سے کم کرنے کے لیے جلدی اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn gently to alert the horse rider of your presence before passing",
+        "ur": "اپنی موجودگی سے گھڑ سوار کو آگاہ کرنے کے لیے ہارن کو نرم آواز میں بجائیں قبل اس کے کہ آپ اسے پاس کریں۔"
+      },
+      "d": {
+        "en": "Pass as close as possible to the horse to avoid oncoming traffic",
+        "ur": "گھوڑے کے جتنا قریب ممکن ہو گزریں تاکہ آنے والی ٹریفک سے بچا جا سکے۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space, avoiding sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کا فاصلہ رکھیں، ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with at least 2 metres of space and avoid loud noises like horns or engine revving to keep both the rider and horse calm and safe.",
+      "ur": "گھوڑے آسانی سے گھبراتے ہیں، اس لیے آپ کو کم از کم ۲ میٹر کی دوری برقرار رکھتے ہوئے آہستہ گاڑی چلانی چاہیے اور ہارن یا انجن کی آواز جیسی بلند آوازوں سے گریز کرنا چاہیے تاکہ سوار اور گھوڑا دونوں پرسکون اور محفوظ رہیں۔"
+    }
+  },
+  {
+    "id": "4R428E",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space, avoiding sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کا فاصلہ رکھیں، ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Stop and wait for the horse rider to move off the road before proceeding",
+        "ur": "رکیں اور گھڑ سوار کے سڑک سے ہٹنے کا انتظار کریں، پھر آگے بڑھیں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیزی سے گزر جائیں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "c": {
+        "en": "Maintain your speed but flash your headlights to warn the horse rider of your presence",
+        "ur": "اپنی رفتار برقرار رکھیں لیکن گھڑ سوار کو اپنی موجودگی سے آگاہ کرنے کے لیے ہیڈلائٹس چمکائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly and give at least 2 metres of space without using your horn or revving your engine to avoid frightening them.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے اور کم از کم ۲ میٹر کا فاصلہ رکھنا چاہیے، نیز انہیں ڈرانے سے بچنے کے لیے ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "IT9DJF",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Overtake closely but maintain your speed to prevent the horse from moving unpredictably",
+        "ur": "قریب سے اوورٹیک کریں لیکن اپنی رفتار برقرار رکھیں تاکہ گھوڑا غیر متوقع حرکت نہ کرے۔"
+      },
+      "b": {
+        "en": "Pass quickly to avoid startling the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کو خوفزدہ نہ کریں اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "d": {
+        "en": "Stop behind the horse and wait for the rider to signal when it is safe to pass",
+        "ur": "گھوڑے کے پیچھے رکیں اور سوار کے اشارہ کرنے کا انتظار کریں کہ گزرنا محفوظ ہے۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space without sounding your horn",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کی جگہ دیں بغیر ہارن بجائے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Passing slowly with at least 2 metres of space and without sounding your horn helps avoid startling the horse, which can be unpredictable and easily frightened.",
+      "ur": "آہستہ رفتار سے کم از کم 2 میٹر فاصلہ رکھتے ہوئے اور ہارن بجائے بغیر گاڑی کو عبور کرنا گھوڑے کو ڈرانے سے بچاتا ہے، کیونکہ گھوڑا غیر متوقع ہو سکتا ہے اور آسانی سے خوفزدہ ہو جاتا ہے۔"
+    }
+  },
+  {
+    "id": "E54VL7",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب دیہی تنگ سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Overtake quickly to reduce the time spent near the horse",
+        "ur": "گھوڑے کے قریب وقت کم کرنے کے لیے جلدی اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn gently to alert the horse rider before passing",
+        "ur": "گزرنے سے پہلے گھوڑے سوار کو خبردار کرنے کے لیے ہارن ہلکے سے بجائیں۔"
+      },
+      "d": {
+        "en": "Pass closely but at a steady speed to avoid startling the horse",
+        "ur": "قریب سے گزریں لیکن رفتار کو مستحکم رکھیں تاکہ گھوڑے کو ڈر نہ لگے۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space without sounding your horn",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر فاصلہ رکھیں، ہارن نہ بجائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly, give at least 2 metres of space, and avoid using your horn to keep the horse calm and safe.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے، کم از کم ۲ میٹر کا فاصلہ رکھنا چاہیے، اور گھوڑے کو پرسکون اور محفوظ رکھنے کے لیے ہارن استعمال کرنے سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "069V4W",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Pass quickly to minimise the time spent near the horse, but keep a safe distance",
+        "ur": "تیز رفتاری سے گزر جائیں تاکہ گھوڑے کے قریب گزارا گیا وقت کم سے کم ہو، لیکن محفوظ فاصلہ برقرار رکھیں۔"
+      },
+      "d": {
+        "en": "Overtake closely but at low speed to avoid startling the horse",
+        "ur": "گھوڑے کو خوفزدہ کرنے سے بچنے کے لیے قریبی لیکن کم رفتار پر اوورٹیک کریں۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space, avoiding sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کی جگہ دیں، ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn gently to alert the horse rider before overtaking",
+        "ur": "اوورٹیک کرنے سے پہلے گھڑ سوار کو خبردار کرنے کے لیے ہارن ہلکے سے بجائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly and give at least 2 metres of space without using your horn or revving your engine to avoid frightening them.",
+      "ur": "گھوڑے آسانی سے گھبراتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے اور کم از کم ۲ میٹر کا فاصلہ رکھنا چاہیے، بغیر ہارن بجائے یا انجن کی آواز بڑھائے تاکہ انہیں ڈرانے سے بچایا جا سکے۔"
+    }
+  },
+  {
+    "id": "BAZ4YB",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزرے تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "c": {
+        "en": "Overtake closely but at normal speed to avoid holding up traffic behind you",
+        "ur": "قریب سے اوورٹیک کریں لیکن معمول کی رفتار پر تاکہ آپ کے پیچھے ٹریفک رکے نہ۔"
+      },
+      "d": {
+        "en": "Wait until the horse rider moves onto the pavement before passing at normal speed",
+        "ur": "انتظار کریں جب تک گھڑ سوار فٹ پاتھ پر نہ چلا جائے، پھر معمول کی رفتار سے گزریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with plenty of space (at least 2 metres) and avoid loud noises like horns or engine revving to prevent frightening them.",
+      "ur": "گھوڑے آسانی سے گھبراتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے اور ان سے کم از کم ۲ میٹر کا فاصلہ رکھنا چاہیے۔ ہارن بجانے یا انجن کی آواز بلند کرنے جیسے شور سے گریز کریں تاکہ انہیں ڈرنے سے بچایا جا سکے۔"
+    }
+  },
+  {
+    "id": "1R4FKC",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب آپ ایک تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچ رہے ہوں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Overtake closely but at normal speed to avoid holding up traffic behind you",
+        "ur": "قریب سے اوورٹیک کریں لیکن معمول کی رفتار پر تاکہ آپ کے پیچھے ٹریفک رکے نہ۔"
+      },
+      "d": {
+        "en": "Stop your vehicle and wait for the horse rider to move onto a wider section of road before passing",
+        "ur": "اپنی گاڑی روکیں اور گھڑ سوار کے وسیع سڑک کے حصے پر پہنچنے کا انتظار کریں، پھر ہی اسے اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزرے تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Passing horses slowly with at least 2 metres of space and avoiding loud noises helps prevent startling the horse, ensuring safety for both the rider and yourself.",
+      "ur": "گھوڑوں کو کم از کم 2 میٹر کے فاصلے سے آہستہ آہستہ پار کرنا اور تیز آوازوں سے گریز کرنا گھوڑے کو ڈرانے سے بچاتا ہے، جس سے سوار اور آپ دونوں کی حفاظت یقینی بنتی ہے۔"
+    }
+  },
+  {
+    "id": "AVGYZ4",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر کا فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Wait until the horse rider moves onto the pavement before passing at normal speed",
+        "ur": "انتظار کریں جب تک گھڑ سوار فٹ پاتھ پر نہ چلا جائے، پھر معمول کی رفتار سے گزریں۔"
+      },
+      "c": {
+        "en": "Overtake closely but at normal speed to avoid holding up traffic behind you",
+        "ur": "قریب سے اوورٹیک کریں لیکن معمول کی رفتار پر تاکہ آپ کے پیچھے ٹریفک رکے نہ۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with at least 2 metres of space and avoid loud noises like horns or engine revving to keep both rider and horse calm and safe.",
+      "ur": "گھوڑے آسانی سے گھبراتے ہیں، اس لیے آپ کو کم از کم ۲ میٹر کی دوری رکھتے ہوئے آہستہ گزرنا چاہیے اور سوار اور گھوڑے دونوں کو پرسکون اور محفوظ رکھنے کے لیے ہارن یا انجن کی آواز جیسی بلند آوازوں سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "73THQR",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space without sounding your horn",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کی جگہ دیں بغیر ہارن بجائے۔"
+      },
+      "d": {
+        "en": "Overtake only when the horse rider signals you to do so, regardless of road width",
+        "ur": "صرف اس وقت اوورٹیک کریں جب گھڑ سوار آپ کو اشارہ دے، چاہے سڑک کی چوڑائی کچھ بھی ہو۔"
+      },
+      "b": {
+        "en": "Pass quickly to avoid startling the horse and keep your engine revving",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کو گھبراہٹ نہ ہو اور اپنی انجن کی رفتار برقرار رکھیں۔"
+      },
+      "c": {
+        "en": "Sound your horn once to alert the rider before overtaking closely",
+        "ur": "اوورٹیک کرنے سے پہلے قریب سے گزرنے کے لیے ایک بار ہارن بجائیں تاکہ سوار کو خبردار کیا جا سکے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always pass horses slowly and give at least 2 metres of space without sounding your horn, as horses are easily startled and sudden noises or close passes can cause dangerous reactions.",
+      "ur": "آپ کو ہمیشہ گھوڑوں کو آہستہ آہستہ پاس کرنا چاہیے اور کم از کم 2 میٹر کا فاصلہ دینا چاہیے بغیر ہارن بجائے، کیونکہ گھوڑے آسانی سے گھبراتے ہیں اور اچانک آوازیں یا قریب سے گزرنا خطرناک ردعمل کا باعث بن سکتا ہے۔"
+    }
+  },
+  {
+    "id": "CL196Q",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Overtake closely but at low speed to prevent the horse from moving into the road",
+        "ur": "قریب سے مگر کم رفتار پر اوورٹیک کریں تاکہ گھوڑا سڑک پر آنے سے روکا جا سکے۔"
+      },
+      "c": {
+        "en": "Sound your horn gently to alert the horse rider of your presence before overtaking",
+        "ur": "اپنی موجودگی سے گھڑ سوار کو خبردار کرنے کے لیے ہارن ہلکے سے بجائیں قبل اس کے کہ آپ اسے اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and avoid startling it",
+        "ur": "تیزی سے گزر جائیں تاکہ گھوڑے کے قریب رہنے کا وقت کم ہو اور اسے ڈرانے سے بچا جا سکے۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space, avoiding sudden noises like horn or engine revving",
+        "ur": "آہستہ گاڑی گزاریں اور کم از کم 2 میٹر کی جگہ دیں، اچانک شور جیسے ہارن بجانا یا انجن کی آواز بڑھانا سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly and give at least 2 metres of space without making sudden noises to keep both the rider and horse safe.",
+      "ur": "گھوڑے آسانی سے گھبراتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے اور کم از کم 2 میٹر کا فاصلہ رکھنا چاہیے، ساتھ ہی اچانک آوازیں نہ کریں تاکہ سوار اور گھوڑے دونوں محفوظ رہیں۔"
+    }
+  },
+  {
+    "id": "D3UJ9J",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب آپ ایک تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچ رہے ہوں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Overtake closely but at low speed to avoid frightening the horse with engine noise",
+        "ur": "قریب سے مگر کم رفتار پر اوورٹیک کریں تاکہ گھوڑے کو انجن کی آواز سے ڈر نہ لگے۔"
+      },
+      "d": {
+        "en": "Wait behind the horse rider until they move onto a wider section of road, then overtake at normal speed",
+        "ur": "گھڑ سوار کے پیچھے انتظار کریں جب تک کہ وہ سڑک کے چوڑے حصے پر نہ پہنچ جائیں، پھر معمول کی رفتار سے اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space, avoiding sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کی جگہ دیں، ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with at least 2 metres of space and avoid using your horn or revving your engine to prevent frightening the horse.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو کم از کم 2 میٹر کی دوری برقرار رکھتے ہوئے آہستہ گاڑی چلانی چاہیے اور گھوڑے کو ڈرانے سے بچنے کے لیے ہارن بجانے یا انجن کی رفتار بڑھانے سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "GAAS6N",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر کا فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Pass as close as possible to the horse to prevent it from moving unpredictably",
+        "ur": "گھوڑے کے قریب سے جتنا ممکن ہو گزریں تاکہ وہ غیر متوقع حرکت نہ کرے۔"
+      },
+      "d": {
+        "en": "Wait behind the horse until it moves onto a wider section of road before overtaking at normal speed",
+        "ur": "گھوڑے کے پیچھے انتظار کریں جب تک کہ وہ سڑک کے وسیع حصے پر نہ پہنچ جائے، پھر معمول کی رفتار سے اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to minimise the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزرے تاکہ گھوڑے کے قریب گزارا گیا وقت کم سے کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with plenty of space (at least 2 metres) and avoid loud noises like horns or engine revving to prevent frightening the horse.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو آہستہ آہستہ کم از کم ۲ میٹر کی دوری برقرار رکھتے ہوئے گزرنا چاہیے اور گھوڑے کو ڈرانے سے بچنے کے لیے ہارن یا انجن کی آوازیں بلند کرنے سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "6ZPQ4K",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn gently to alert the rider before overtaking closely",
+        "ur": "اپنی ہارن ہلکے انداز میں بجائیں تاکہ قریب سے اوورٹیک کرنے سے پہلے سوار کو خبردار کیا جا سکے۔"
+      },
+      "b": {
+        "en": "Pass quickly to avoid startling the horse and keep the traffic flowing",
+        "ur": "تیز رفتاری سے گاڑی گزاریں تاکہ گھوڑے کو ڈرانے سے بچایا جا سکے اور ٹریفک روانی میں رہے۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Overtake only when the horse rider signals you to do so, regardless of road width",
+        "ur": "صرف اس وقت اوورٹیک کریں جب گھڑ سوار آپ کو اشارہ دے، چاہے سڑک کی چوڑائی کچھ بھی ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Passing horses slowly with at least 2 metres of space and avoiding loud noises helps prevent startling the horse, ensuring safety for both the rider and yourself.",
+      "ur": "گھوڑوں کو کم از کم 2 میٹر کے فاصلے کے ساتھ آہستہ آہستہ پار کرنا اور تیز آوازوں سے گریز کرنا گھوڑے کو ڈرنے سے بچاتا ہے، جس سے سوار اور آپ دونوں کی حفاظت یقینی بنتی ہے۔"
+    }
+  },
+  {
+    "id": "NURSXV",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب رہنے کا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "d": {
+        "en": "Wait behind the horse rider until they move onto a wider section of road before overtaking closely",
+        "ur": "گھڑ سوار کے پیچھے انتظار کریں جب تک کہ وہ سڑک کے چوڑے حصے پر نہ پہنچ جائیں، پھر قریب سے اوورٹیک کریں۔"
+      },
+      "c": {
+        "en": "Maintain your speed but flash your headlights to warn the horse rider of your presence",
+        "ur": "اپنی رفتار برقرار رکھیں لیکن گھڑ سوار کو اپنی موجودگی سے آگاہ کرنے کے لیے ہیڈلائٹس چمکائیں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with at least 2 metres of space and avoid loud noises like horns or engine revving to prevent frightening the horse.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو کم از کم ۲ میٹر کی دوری برقرار رکھتے ہوئے آہستہ گاڑی چلانی چاہیے اور گھوڑے کو ڈرانے سے بچنے کے لیے ہارن یا انجن کی آوازیں بلند کرنے سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "NRLQME",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Wait behind the horse until the rider signals you to overtake, then pass at normal speed",
+        "ur": "گھوڑے کے پیچھے انتظار کریں جب تک کہ سوار آپ کو اوورٹیک کرنے کا اشارہ نہ دے، پھر معمول کی رفتار سے آگے بڑھیں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Overtake closely but at low speed to avoid startling the horse with engine noise",
+        "ur": "قریب سے مگر کم رفتار پر اوورٹیک کریں تاکہ گھوڑے کو انجن کی آواز سے ڈر نہ لگے۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you must pass slowly with plenty of space (at least 2 metres) and avoid loud noises like horns or engine revving to keep both rider and horse safe.",
+      "ur": "گھوڑے آسانی سے گھبراتے ہیں، اس لیے آپ کو آہستہ آہستہ، کم از کم 2 میٹر کی دوری برقرار رکھتے ہوئے گزرنا چاہیے اور سوار اور گھوڑے دونوں کی حفاظت کے لیے ہارن یا انجن کی آواز جیسی بلند آوازوں سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "AH0O3N",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Pass closely but at a steady speed to avoid holding up traffic",
+        "ur": "قریب سے گزریں لیکن رفتار کو مستحکم رکھیں تاکہ ٹریفک میں رکاوٹ نہ ہو۔"
+      },
+      "b": {
+        "en": "Pass quickly to avoid startling the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کو ڈر نہ لگے اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "c": {
+        "en": "Overtake only if the horse rider signals you to do so, otherwise wait behind",
+        "ur": "صرف اس صورت میں اوورٹیک کریں جب گھڑ سوار آپ کو اشارہ دے، ورنہ پیچھے انتظار کریں۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space without sounding your horn",
+        "ur": "آہستہ گاڑی چلائیں اور ہارن بجائے کم از کم 2 میٹر کا فاصلہ رکھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always pass horses slowly and give at least 2 metres of space without sounding your horn, as horses are easily startled and sudden noises or close passing can cause them to react unpredictably.",
+      "ur": "آپ کو ہمیشہ گھوڑوں کو آہستہ آہستہ پاس کرنا چاہیے اور کم از کم 2 میٹر کا فاصلہ دینا چاہیے بغیر ہارن بجائے، کیونکہ گھوڑے آسانی سے گھبرا جاتے ہیں اور اچانک آوازیں یا قریب سے گزرنا ان کے غیر متوقع ردعمل کا باعث بن سکتا ہے۔"
+    }
+  },
+  {
+    "id": "T2FUBF",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Overtake quickly to reduce the time spent near the horse",
+        "ur": "گھوڑے کے قریب وقت کم کرنے کے لیے تیزی سے اوورٹیک کریں۔"
+      },
+      "d": {
+        "en": "Pass closely but at a steady speed to avoid startling the horse",
+        "ur": "قریب سے گزریں لیکن رفتار کو مستحکم رکھیں تاکہ گھوڑے کو ڈر نہ لگے۔"
+      },
+      "c": {
+        "en": "Sound your horn gently to alert the horse rider before passing",
+        "ur": "گزرنے سے پہلے گھوڑے سوار کو خبردار کرنے کے لیے ہارن ہلکے سے بجائیں۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space without sounding your horn",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کی جگہ دیں بغیر ہارن بجائے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly, give at least 2 metres of space, and avoid sounding your horn to keep the horse calm and safe.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے، کم از کم ۲ میٹر کا فاصلہ رکھنا چاہیے، اور گھوڑے کو پرسکون اور محفوظ رکھنے کے لیے ہارن بجانے سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "MXWFO8",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "d": {
+        "en": "Stop behind the horse and wait for the rider to signal you to pass before overtaking",
+        "ur": "گھوڑے کے پیچھے رکیں اور اوورٹیک کرنے سے پہلے سوار کے سگنل کا انتظار کریں۔"
+      },
+      "c": {
+        "en": "Pass as close as possible to the horse to avoid oncoming traffic and flash your headlights",
+        "ur": "گھوڑے کے قریب سے جتنا ممکن ہو گزریں تاکہ سامنے آنے والی ٹریفک سے بچا جا سکے اور اپنی ہیڈلائٹس فلیش کریں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر کا فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always pass horses slowly and widely (at least 2 metres) without using your horn or revving the engine, as horses are easily startled and unpredictable.",
+      "ur": "آپ کو ہمیشہ گھوڑوں کو آہستہ اور وسیع جگہ سے (کم از کم 2 میٹر دوری پر) گزرنا چاہیے، بغیر ہارن بجائے یا انجن کی رفتار بڑھائے، کیونکہ گھوڑے آسانی سے گھبراتے ہیں اور غیر متوقع ہوتے ہیں۔"
+    }
+  },
+  {
+    "id": "ET84AI",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب دیہی تنگ سڑک پر گھڑ سوار کے قریب پہنچیں تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Stop and wait for the horse rider to move off the road before passing",
+        "ur": "رکیں اور گھڑ سوار کے سڑک سے ہٹنے کا انتظار کریں پھر آگے بڑھیں۔"
+      },
+      "b": {
+        "en": "Pass quickly to avoid startling the horse and sound your horn to warn the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کو خوفزدہ نہ کریں اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "c": {
+        "en": "Overtake closely but at low speed to minimise time beside the horse",
+        "ur": "گھوڑے کے قریب کم رفتار پر قریبی اوورٹیک کریں تاکہ گھوڑے کے ساتھ گزارا گیا وقت کم سے کم ہو۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space without sounding your horn",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر فاصلہ رکھیں، ہارن نہ بجائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should pass horses slowly and give at least 2 metres of space without sounding your horn, as horses are easily startled and sudden noises or close passing can cause unpredictable reactions.",
+      "ur": "آپ کو گھوڑوں کو آہستہ آہستہ پاس کرنا چاہیے اور کم از کم ۲ میٹر کا فاصلہ دینا چاہیے بغیر ہارن بجائے، کیونکہ گھوڑے آسانی سے گھبراتے ہیں اور اچانک آوازیں یا قریب سے گزرنا غیر متوقع ردعمل کا باعث بن سکتا ہے۔"
+    }
+  },
+  {
+    "id": "87WQCM",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی گزاریں، کم از کم 2 میٹر فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn gently to alert the horse rider before passing closely",
+        "ur": "گھوڑے سوار کو قریب سے گزرنے سے پہلے ہلکی سی ہارن بجا کر خبردار کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse, but keep at least 1 metre distance",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم سے کم ہو، لیکن کم از کم 1 میٹر فاصلہ برقرار رکھیں۔"
+      },
+      "d": {
+        "en": "Overtake the horse rider on the inside if the road is clear, to avoid oncoming traffic",
+        "ur": "اگر راستہ خالی ہو تو سامنے آنے والی ٹریفک سے بچنے کے لیے گھڑ سوار کو اندر کی جانب سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you must pass slowly with at least 2 metres of space and avoid loud noises like horns or engine revving to prevent frightening the horse.",
+      "ur": "گھوڑے آسانی سے گھبراتے ہیں، اس لیے آپ کو کم از کم ۲ میٹر کی دوری رکھتے ہوئے آہستہ آہستہ گزرنا چاہیے اور گھوڑے کو ڈرانے سے بچنے کے لیے ہارن بجانے یا انجن کی آواز بلند کرنے جیسے شور سے پرہیز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "YTA72Z",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Pass quickly to avoid startling the horse and keep as close as possible",
+        "ur": "جلدی سے گزر جائیں تاکہ گھوڑے کو ڈر نہ لگے اور جتنا ممکن ہو قریب سے گزریں۔"
+      },
+      "c": {
+        "en": "Sound your horn twice to alert the rider before passing closely",
+        "ur": "قریبی طور پر گزرنے سے پہلے سوار کو خبردار کرنے کے لیے اپنی ہارن دو بار بجائیں۔"
+      },
+      "d": {
+        "en": "Overtake only if the horse rider signals you to do so, otherwise wait behind",
+        "ur": "صرف اس صورت میں اوورٹیک کریں جب گھڑ سوار آپ کو اشارہ دے، ورنہ پیچھے انتظار کریں۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space without sounding your horn",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کی جگہ دیں، ہارن نہ بجائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always pass horses slowly and give at least 2 metres of space without sounding your horn, as horses are easily startled and sudden noises or close passing can cause them to react unpredictably.",
+      "ur": "آپ کو ہمیشہ گھوڑوں کو آہستہ آہستہ پاس کرنا چاہیے اور کم از کم 2 میٹر کی جگہ دینی چاہیے بغیر ہارن بجائے، کیونکہ گھوڑے آسانی سے گھبراتے ہیں اور اچانک آوازیں یا قریب سے گزرنا ان کے غیر متوقع ردعمل کا باعث بن سکتا ہے۔"
+    }
+  },
+  {
+    "id": "N7F3NZ",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space, avoiding sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کی جگہ دیں، ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Wait behind the horse until it moves onto a wider section of road, then accelerate past carefully",
+        "ur": "گھوڑے کے پیچھے انتظار کریں جب تک کہ وہ سڑک کے وسیع حصے پر نہ پہنچ جائے، پھر احتیاط سے رفتار بڑھاتے ہوئے اسے عبور کریں۔"
+      },
+      "c": {
+        "en": "Overtake as close as possible to the horse to prevent it from moving unpredictably",
+        "ur": "گھوڑے کے قریب سے ممکن حد تک اوورٹیک کریں تاکہ وہ غیر متوقع حرکت نہ کرے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Passing horses slowly with at least 2 metres of space and avoiding loud noises helps prevent startling the horse, ensuring safety for both the rider and yourself.",
+      "ur": "گھوڑوں کو کم از کم ۲ میٹر کی دوری رکھتے ہوئے آہستہ آہستہ پار کرنا اور تیز آوازوں سے گریز کرنا گھوڑے کو خوفزدہ ہونے سے بچاتا ہے، جس سے سوار اور آپ دونوں کی حفاظت یقینی بنتی ہے۔"
+    }
+  },
+  {
+    "id": "TZM9UW",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Overtake only when the horse rider signals you to do so, regardless of road width",
+        "ur": "صرف اس وقت اوورٹیک کریں جب گھڑ سوار آپ کو اشارہ دے، چاہے سڑک کی چوڑائی کچھ بھی ہو۔"
+      },
+      "c": {
+        "en": "Sound your horn gently to alert the rider before overtaking closely",
+        "ur": "اپنے ہارن کو نرم آواز میں بجائیں تاکہ قریب سے اوورٹیک کرنے سے پہلے سوار کو خبردار کیا جا سکے۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space, avoiding sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کی جگہ دیں، ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to avoid startling the horse and keep the traffic flowing",
+        "ur": "تیزی سے گزر جائیں تاکہ گھوڑے کو ڈر نہ لگے اور ٹریفک روانہ رہے۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly and give at least 2 metres of space without using your horn or revving your engine to avoid frightening them.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے اور کم از کم ۲ میٹر کا فاصلہ رکھنا چاہیے، نیز انہیں ڈرانے سے بچنے کے لیے ہارن استعمال نہ کریں اور انجن کی آواز بھی زیادہ نہ بڑھائیں۔"
+    }
+  },
+  {
+    "id": "2Y8YHE",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Overtake only when the horse rider signals you to do so, regardless of road width",
+        "ur": "صرف اس وقت اوورٹیک کریں جب گھڑ سوار آپ کو اشارہ دے، چاہے سڑک کی چوڑائی کچھ بھی ہو۔"
+      },
+      "b": {
+        "en": "Pass quickly to avoid startling the horse and keep the traffic flowing",
+        "ur": "تیزی سے گزر جائیں تاکہ گھوڑے کو ڈر نہ لگے اور ٹریفک روانہ رہے۔"
+      },
+      "c": {
+        "en": "Sound your horn gently to alert the rider before overtaking closely",
+        "ur": "اپنے ہارن کو نرم آواز میں بجائیں تاکہ قریب سے اوورٹیک کرنے سے پہلے سوار کو خبردار کیا جا سکے۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space, avoiding sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کا فاصلہ رکھیں، ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly and give at least 2 metres of space without using your horn or revving the engine to avoid frightening them.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے اور کم از کم ۲ میٹر کا فاصلہ رکھنا چاہیے، بغیر ہارن بجائے یا انجن کی آواز بڑھائے تاکہ انہیں ڈرانے سے بچایا جا سکے۔"
+    }
+  },
+  {
+    "id": "7H8N6R",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب رہنے کا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "c": {
+        "en": "Pass as close as possible to the horse to prevent it from moving unpredictably",
+        "ur": "گھوڑے کے قریب سے جتنا ممکن ہو گزریں تاکہ وہ غیر متوقع حرکت نہ کرے۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر کا فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Stop and wait behind the horse rider until they move onto a wider section of road",
+        "ur": "رکیں اور گھڑ سوار کے پیچھے انتظار کریں جب تک کہ وہ سڑک کے چوڑے حصے پر نہ پہنچ جائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Passing slowly with at least 2 metres of space and avoiding loud noises prevents startling the horse, reducing the risk of unpredictable behaviour and ensuring safety for all road users.",
+      "ur": "آہستہ رفتار سے کم از کم 2 میٹر فاصلہ رکھتے ہوئے گاڑی چلانا اور تیز آوازوں سے گریز کرنا گھوڑے کو ڈرانے سے بچاتا ہے، غیر متوقع رویے کے خطرے کو کم کرتا ہے اور تمام سڑک استعمال کرنے والوں کی حفاظت کو یقینی بناتا ہے۔"
+    }
+  },
+  {
+    "id": "TZE23E",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Pass quickly to avoid startling the horse and sound your horn to warn the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کو ڈر نہ لگے اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "c": {
+        "en": "Wait behind the horse until there is a wide section of road, then overtake at normal speed",
+        "ur": "گھوڑے کے پیچھے انتظار کریں جب تک کہ سڑک کا چوڑا حصہ نہ آ جائے، پھر معمول کی رفتار سے اوورٹیک کریں۔"
+      },
+      "d": {
+        "en": "Overtake closely but reduce speed and flash your headlights to alert the rider",
+        "ur": "قریب سے اوورٹیک کریں لیکن رفتار کم کریں اور سوار کو خبردار کرنے کے لیے ہیڈلائٹس فلیش کریں۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space without sounding your horn",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کا فاصلہ رکھیں، ہارن نہ بجائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always pass horses slowly and give at least 2 metres of space without sounding your horn, as horses are easily startled and sudden noises or close passing can cause them to react unpredictably.",
+      "ur": "آپ کو ہمیشہ گھوڑوں کو آہستہ آہستہ پاس کرنا چاہیے اور کم از کم 2 میٹر کا فاصلہ دینا چاہیے بغیر ہارن بجائے، کیونکہ گھوڑے آسانی سے گھبرا جاتے ہیں اور اچانک آوازیں یا قریب سے گزرنا ان کے غیر متوقع ردعمل کا باعث بن سکتا ہے۔"
+    }
+  },
+  {
+    "id": "EBF1R5",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse, but keep a safe distance",
+        "ur": "تیزی سے گذریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو، لیکن محفوظ فاصلہ برقرار رکھیں۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space, avoiding sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کی جگہ دیں، ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn gently to alert the horse rider before passing closely",
+        "ur": "گھوڑے سوار کو قریب سے گزرنے سے پہلے ہلکی سی ہارن بجا کر خبردار کریں۔"
+      },
+      "d": {
+        "en": "Overtake the horse rider on the inside if the road is clear to avoid oncoming traffic",
+        "ur": "اگر راستہ خالی ہو تو سامنے آنے والی ٹریفک سے بچنے کے لیے گھڑ سوار کو اندر کی طرف سے اوورٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly and give at least 2 metres of space without using your horn or revving your engine to avoid frightening them.",
+      "ur": "گھوڑے آسانی سے گھبراتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے اور کم از کم ۲ میٹر کا فاصلہ رکھنا چاہیے، نیز انہیں ڈرانے سے بچنے کے لیے ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "EFYXW9",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب آپ ایک تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچ رہے ہوں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Wait behind the horse rider until you reach a wider section of road, then accelerate past carefully",
+        "ur": "گھڑ سوار کے پیچھے انتظار کریں جب تک کہ آپ سڑک کے چوڑے حصے تک نہ پہنچ جائیں، پھر احتیاط سے رفتار بڑھاتے ہوئے اسے عبور کریں۔"
+      },
+      "c": {
+        "en": "Overtake closely but at a steady speed to avoid startling the horse",
+        "ur": "قریب سے اوورٹیک کریں لیکن رفتار کو مستحکم رکھیں تاکہ گھوڑے کو خوفزدہ نہ کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیزی سے گذریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space, avoiding the use of your horn or engine revs",
+        "ur": "آہستہ گذریں اور کم از کم 2 میٹر فاصلہ رکھیں، ہارن یا انجن کی آواز استعمال کرنے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with at least 2 metres of space and avoid using your horn or revving your engine to keep the horse calm and safe.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو کم از کم ۲ میٹر کی دوری رکھتے ہوئے آہستہ گاڑی چلانی چاہیے اور گھوڑے کو پرسکون اور محفوظ رکھنے کے لیے ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "DGMG6X",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Stop behind the horse rider and wait until they move onto the pavement before overtaking",
+        "ur": "گھڑ سوار کے پیچھے رکیں اور اس وقت تک انتظار کریں جب تک وہ فٹ پاتھ پر نہ چلے جائیں، اس کے بعد ہی اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب گزارا جانے والا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر کا فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Maintain your speed but flash your headlights to warn the horse rider of your presence",
+        "ur": "اپنی رفتار برقرار رکھیں لیکن گھڑ سوار کو اپنی موجودگی سے آگاہ کرنے کے لیے ہیڈلائٹس چمکائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with plenty of space (at least 2 metres) and avoid loud noises like horns or engine revving to prevent frightening them.",
+      "ur": "گھوڑے آسانی سے گھبراتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے اور ان سے کم از کم ۲ میٹر کا فاصلہ رکھنا چاہیے۔ ہارن بجانے یا انجن کی آواز بلند کرنے جیسے شور سے گریز کریں تاکہ انہیں ڈرنے سے بچایا جا سکے۔"
+    }
+  },
+  {
+    "id": "D48WFA",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Overtake closely but at normal speed to avoid holding up traffic behind you",
+        "ur": "قریب سے اوورٹیک کریں لیکن معمول کی رفتار پر تاکہ آپ کے پیچھے ٹریفک رک نہ جائے۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space, avoiding sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کا فاصلہ رکھیں، ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Wait until the horse rider moves onto the pavement before passing",
+        "ur": "انتظار کریں جب تک گھڑ سوار فٹ پاتھ پر نہ چلا جائے، پھر ہی اوور ٹیک کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly and give at least 2 metres of space without using your horn or revving your engine to avoid frightening them.",
+      "ur": "گھوڑے آسانی سے گھبراتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے اور کم از کم ۲ میٹر کا فاصلہ رکھنا چاہیے، بغیر ہارن بجائے یا انجن کی آواز بڑھائے تاکہ انہیں ڈرانے سے بچایا جا سکے۔"
+    }
+  },
+  {
+    "id": "I31F94",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Overtake closely but at normal speed to avoid holding up traffic behind you",
+        "ur": "قریب سے اوورٹیک کریں لیکن معمول کی رفتار پر تاکہ آپ کے پیچھے ٹریفک رکاوٹ کا شکار نہ ہو۔"
+      },
+      "d": {
+        "en": "Stop your vehicle and wait for the horse rider to move off the road before proceeding",
+        "ur": "اپنی گاڑی روکیں اور گھڑ سوار کے سڑک سے ہٹنے کا انتظار کریں، پھر آگے بڑھیں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب وقت کم سے کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی گزاریں، کم از کم 2 میٹر کی جگہ دیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with plenty of space (at least 2 metres) and avoid loud noises like horns or engine revving to prevent frightening the horse.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے اور گھوڑے سے کم از کم ۲ میٹر کا فاصلہ رکھنا چاہیے۔ ہارن بجانے یا انجن کی آواز بلند کرنے جیسے شور سے گریز کریں تاکہ گھوڑے کو خوفزدہ نہ کیا جائے۔"
+    }
+  },
+  {
+    "id": "IFGDSD",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Stop behind the horse rider and wait for them to move onto a wider section of the road before overtaking",
+        "ur": "گھڑ سوار کے پیچھے رکیں اور اس وقت تک انتظار کریں جب تک وہ سڑک کے چوڑے حصے پر نہ پہنچ جائے، پھر اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب وقت کم سے کم ہو اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "c": {
+        "en": "Maintain your speed but flash your headlights to warn the horse rider of your presence",
+        "ur": "اپنی رفتار برقرار رکھیں لیکن گھڑ سوار کو اپنی موجودگی سے آگاہ کرنے کے لیے ہیڈلائٹس فلیش کریں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Passing horses slowly with at least 2 metres of space and avoiding loud noises helps prevent startling the horse, ensuring safety for both the rider and yourself.",
+      "ur": "گھوڑوں کو کم از کم ۲ میٹر کے فاصلے کے ساتھ آہستہ آہستہ پار کرنا اور بلند آوازوں سے گریز کرنا گھوڑے کو ڈرنے سے بچاتا ہے، جس سے سوار اور آپ دونوں کی حفاظت یقینی بنتی ہے۔"
+    }
+  },
+  {
+    "id": "TDRAF5",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر کا فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Stop and wait for the horse rider to move onto a footpath before proceeding",
+        "ur": "رکیں اور گھڑ سوار کے پیدل راستے پر جانے کا انتظار کریں، پھر آگے بڑھیں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب وقت کم سے کم گزارا جائے اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "c": {
+        "en": "Pass as close as possible to the horse to avoid oncoming traffic and flash your headlights",
+        "ur": "گھوڑے کے قریب سے جتنا ممکن ہو گزریں تاکہ مخالف سمت کی ٹریفک سے بچا جا سکے اور اپنی ہیڈلائٹس چمکائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you must pass slowly with plenty of space (at least 2 metres) and avoid loud noises like horns or engine revving to prevent frightening the horse.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو آہستہ گاڑی چلانی چاہیے اور گھوڑے سے کم از کم ۲ میٹر کا فاصلہ رکھنا چاہیے۔ ہارن بجانے یا انجن کی آواز بلند کرنے جیسے شور سے گریز کریں تاکہ گھوڑے کو ڈرنے سے بچایا جا سکے۔"
+    }
+  },
+  {
+    "id": "PAYG2V",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space, avoiding sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کا فاصلہ رکھیں، ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "d": {
+        "en": "Wait behind the horse until you reach a wider section of road, then overtake at normal speed",
+        "ur": "گھوڑے کے پیچھے انتظار کریں جب تک کہ آپ سڑک کے وسیع حصے تک نہ پہنچ جائیں، پھر معمول کی رفتار سے اوورٹیک کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to reduce the time spent near the horse, but keep at least 1 metre distance",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم سے کم ہو، لیکن کم از کم 1 میٹر کا فاصلہ برقرار رکھیں۔"
+      },
+      "c": {
+        "en": "Sound your horn gently to alert the horse of your presence before passing closely",
+        "ur": "اپنی موجودگی سے گھوڑے کو آگاہ کرنے کے لیے قریب سے گزرنے سے پہلے ہارن ہلکے سے بجائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with at least 2 metres of space and avoid loud noises like horns or engine revving to prevent frightening them.",
+      "ur": "گھوڑے آسانی سے گھبراتے ہیں، اس لیے آپ کو کم از کم ۲ میٹر کی دوری برقرار رکھتے ہوئے آہستہ گاڑی چلانی چاہیے اور ہارن بجانے یا انجن کی آواز بلند کرنے جیسے شور سے گریز کرنا چاہیے تاکہ انہیں ڈرانے سے بچایا جا سکے۔"
+    }
+  },
+  {
+    "id": "I01RYN",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "b": {
+        "en": "Pass quickly to avoid startling the horse and keep traffic flowing",
+        "ur": "تیزی سے گزر جائیں تاکہ گھوڑے کو ڈرانے سے بچایا جا سکے اور ٹریفک روانی میں رہے۔"
+      },
+      "c": {
+        "en": "Sound your horn gently to alert the rider before overtaking closely",
+        "ur": "اپنے ہارن کو نرم آواز میں بجائیں تاکہ قریب سے اوورٹیک کرنے سے پہلے سوار کو خبردار کیا جا سکے۔"
+      },
+      "d": {
+        "en": "Overtake only when the horse rider signals you to do so, regardless of road width",
+        "ur": "صرف اس وقت اوورٹیک کریں جب گھڑ سوار آپ کو اشارہ دے، چاہے سڑک کی چوڑائی کچھ بھی ہو۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly and widely (at least 2 metres) without using your horn or revving the engine to avoid frightening them.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو آہستہ اور وسیع فاصلے سے (کم از کم ۲ میٹر) گزرنا چاہیے، بغیر ہارن بجائے یا انجن کی آواز بڑھائے تاکہ انہیں ڈرایا نہ جائے۔"
+    }
+  },
+  {
+    "id": "C7D7FE",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Sound your horn gently to alert the horse rider before overtaking at normal speed",
+        "ur": "آہستہ رفتار سے اوورٹیک کرتے ہوئے گھڑ سوار کو خبردار کرنے کے لیے ہارن ہلکی آواز میں بجائیں۔"
+      },
+      "d": {
+        "en": "Stop behind the horse and wait until the rider signals you to pass",
+        "ur": "گھوڑے کے پیچھے رکیں اور انتظار کریں جب تک کہ سوار آپ کو گزرنے کا اشارہ نہ دے۔"
+      },
+      "b": {
+        "en": "Pass quickly to minimise the time spent near the horse, but keep at least 1 metre distance",
+        "ur": "تیزی سے گزر جائیں تاکہ گھوڑے کے قریب گزارا گیا وقت کم سے کم ہو، لیکن کم از کم 1 میٹر کا فاصلہ برقرار رکھیں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with at least 2 metres of space and avoid loud noises like horns or engine revving to prevent frightening the horse.",
+      "ur": "گھوڑے آسانی سے گھبراتے ہیں، اس لیے آپ کو کم از کم ۲ میٹر کی دوری رکھتے ہوئے آہستہ گاڑی چلانی چاہیے اور گھوڑے کو ڈرانے سے بچنے کے لیے ہارن یا انجن کی آوازیں بلند کرنے سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "VEKKE0",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "b": {
+        "en": "Pass quickly to avoid startling the horse and keep your distance minimal",
+        "ur": "تیزی سے گزر جائیں تاکہ گھوڑے کو ڈر نہ لگے اور اپنی دوری کم سے کم رکھیں۔"
+      },
+      "d": {
+        "en": "Overtake on the left side as horses are used to traffic on the right",
+        "ur": "بائیں طرف سے اوورٹیک کریں کیونکہ گھوڑے دائیں طرف ٹریفک کے عادی ہوتے ہیں۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر کا فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn gently to alert the rider before passing closely",
+        "ur": "قریبی طور پر گزرنے سے پہلے سوار کو خبردار کرنے کے لیے ہارن ہلکی آواز میں بجائیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with at least 2 metres of space and avoid using your horn or revving your engine to keep the horse calm and safe.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو کم از کم 2 میٹر کی دوری رکھتے ہوئے آہستہ گاڑی چلانی چاہیے اور گھوڑے کو پرسکون اور محفوظ رکھنے کے لیے ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کرنا چاہیے۔"
+    }
+  },
+  {
+    "id": "XA31OI",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب کسی تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچیں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "c": {
+        "en": "Wait behind the horse rider until you can overtake at normal speed without giving extra space",
+        "ur": "گھڑ سوار کے پیچھے انتظار کریں جب تک کہ آپ معمول کی رفتار سے بغیر اضافی جگہ دیے اوورٹیک نہ کر سکیں۔"
+      },
+      "b": {
+        "en": "Pass quickly to avoid startling the horse and sound your horn to alert the rider",
+        "ur": "تیز رفتاری سے گزریں تاکہ گھوڑے کو خوفزدہ نہ کریں اور سوار کو خبردار کرنے کے لیے ہارن بجائیں۔"
+      },
+      "a": {
+        "en": "Pass slowly and give at least 2 metres of space without sounding your horn",
+        "ur": "آہستہ گاڑی چلائیں اور کم از کم 2 میٹر کی جگہ دیں، ہارن نہ بجائیں۔"
+      },
+      "d": {
+        "en": "Pass closely but at low speed, using your horn gently to warn the horse",
+        "ur": "قریب سے گزریں لیکن کم رفتار سے، اور گھوڑے کو خبردار کرنے کے لیے ہارن ہلکے انداز میں استعمال کریں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "You should always pass horses slowly and widely (at least 2 metres) without sounding your horn, as horses are easily startled and sudden noises can cause unpredictable behaviour.",
+      "ur": "آپ کو ہمیشہ گھوڑوں کو آہستہ اور وسیع جگہ سے (کم از کم 2 میٹر) پار کرنا چاہیے بغیر ہارن بجائے، کیونکہ گھوڑے آسانی سے گھبرا جاتے ہیں اور اچانک آوازیں غیر متوقع رویہ پیدا کر سکتی ہیں۔"
+    }
+  },
+  {
+    "id": "48CYR6",
+    "file_id": "null",
+    "video": "null",
+    "topic": "Vulnerable road users",
+    "question": {
+      "en": "When approaching a horse rider on a narrow country road, what is the best way to pass safely?",
+      "ur": "جب آپ ایک تنگ دیہی سڑک پر گھڑ سوار کے قریب پہنچ رہے ہوں، تو محفوظ طریقے سے گزرنے کا بہترین طریقہ کیا ہے؟"
+    },
+    "options": {
+      "d": {
+        "en": "Wait behind the horse rider and overtake only when the road ahead is completely clear, even if it means revving your engine to signal impatience",
+        "ur": "گھڑ سوار کے پیچھے انتظار کریں اور صرف اس وقت اوورٹیک کریں جب آگے کا راستہ مکمل طور پر خالی ہو، چاہے اس کے لیے آپ کو اپنی گاڑی کا انجن زور سے چلانا پڑے تاکہ بے صبری کا اشارہ دیا جا سکے۔"
+      },
+      "a": {
+        "en": "Pass slowly, giving at least 2 metres of space, and avoid sounding your horn or revving your engine",
+        "ur": "آہستہ گاڑی چلائیں، کم از کم 2 میٹر کا فاصلہ رکھیں، اور ہارن بجانے یا انجن کی آواز بڑھانے سے گریز کریں۔"
+      },
+      "c": {
+        "en": "Sound your horn gently to alert the horse rider of your presence before overtaking closely",
+        "ur": "اپنی موجودگی سے گھوڑے سوار کو آگاہ کرنے کے لیے قریب سے اوورٹیک کرنے سے پہلے ہارن ہلکے انداز میں بجائیں۔"
+      },
+      "b": {
+        "en": "Pass quickly to minimise the time spent near the horse, but keep a close distance to avoid oncoming traffic",
+        "ur": "تیزی سے گزریں تاکہ گھوڑے کے قریب گزارا گیا وقت کم سے کم ہو، لیکن سامنے آنے والی ٹریفک سے بچنے کے لیے مناسب فاصلے کو برقرار رکھیں۔"
+      }
+    },
+    "correct_answer": "a",
+    "explanation": {
+      "en": "Horses are easily startled, so you should pass slowly with at least 2 metres of space and avoid loud noises like horns or engine revving to prevent frightening the horse.",
+      "ur": "گھوڑے آسانی سے گھبرا جاتے ہیں، اس لیے آپ کو کم از کم ۲ میٹر کی دوری رکھتے ہوئے آہستہ آہستہ گزرنا چاہیے اور گھوڑے کو ڈرانے سے بچنے کے لیے ہارن بجانے یا انجن کی آواز بلند کرنے جیسے شور سے پرہیز کرنا چاہیے۔"
+    }
+  }
+]
